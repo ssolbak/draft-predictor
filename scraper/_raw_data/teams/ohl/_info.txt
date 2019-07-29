@@ -1,0 +1,1485 @@
+ <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Ontario Hockey League history and statistics at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="History and season records of the Ontario Hockey League" />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
+
+<script src="/js/all.js"></script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
+</script>
+
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>window.googletag = window.googletag || {cmd: []};</script>
+<script async='async' src='https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js'></script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [[728, 90], [320, 50]], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .setTargeting('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_160x600_1', [160, 600], 'right_skyscraper')
+     .addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+   <script type='text/javascript'> 
+   <!--
+      function tableToggle (tabID)
+      {
+        var tbl = document.getElementById(tabID);
+        var but = document.getElementById('thebutton');
+        var ad = document.getElementById('ad');
+
+        for (var j = 0; j < tbl.rows.length; j++) {
+          var rowA = tbl.rows[j];
+          if (rowA.className.match(/vanish/)) {
+            if (rowA.style.display == 'none') {
+               but.value = 'hide details';
+               ad.style.display = 'none';
+               rowA.style.display = '';}
+            else {
+               rowA.style.display = 'none';
+               but.value = 'show details';
+               ad.style.display = '';
+            }
+          }    
+        }
+      }
+    -->
+   </script>
+
+   <script type='text/javascript'> 
+   <!--
+      function moreToggle (spanid)
+      {
+         var morespan = document.getElementById(spanid);
+         var expand = document.getElementById('expand');
+
+        if (morespan.style.display == 'none') {
+           expand.outerHTML = '';
+           morespan.style.display = '';}
+        else {
+           morespan.style.display = 'none';
+        }
+      }
+    -->
+   </script>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+<div class="tablebgl" style="width:720px;">
+<h1 class="title">Ontario Hockey League history and statistics</h1>
+<div class="breadcrumb"><a href="http://www.hockeydb.com/ihdb/stats/leagues.html">Leagues</a> -> OHL [1892-2019]</div>
+<div id="league_history" class="tablebg1" style="margin-bottom:10px;"><div style="width:100%" class="team_section">
+<h2 class="team_header">OHL History</h2>
+<img style="float:right; border-style:thin; border-color:black; margin:10px; " src="/ihdb/logos/ll/tn_ontario_hockey_league_2010-11.gif" alt="2010-2011 OHL logo" />
+<img style="float:right; border-style:thin; border-color:black; margin:10px; " src="/ihdb/logos/ll/tn_ontario_hockey_league_1980-81.gif" alt="1980-1981 OHL logo" />
+<div style="padding:10px;">The Ontario Hockey League is a Major Junior hockey league that has operated from 1892 to 2019.</div>
+</div></div>
+<div style="width:100%; margin-top:10px;" class="team_section">
+<h2 class="team_header">OHL Seasons</h2>
+<input style="margin-bottom:7px;" id="thebutton" type="button" value="show details" onclick=" tableToggle('thisone');" /><table style="width:100%" id="thisone"><tbody><tr>
+<td style="font-weight:bold" class="norow" colspan="5">Ontario Hockey Association</td>
+</tr>
+<tr class="c_sec_head">
+<td class="cn">Year</td>
+<td class="cn">Teams</td>
+<td class="cn">Champion</td>
+<td class="cn">Runner-Up</td>
+<td class="cn">Result</td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/kitchener-twin-city-6417.html">Kitchener Twin City</a><br />
+In: <a target="_blank" href="/stte/oshawa-%3f%3f%3f-7301.html">Oshawa ???</a><br />
+In: <a target="_blank" href="/stte/toronto-lions-8489.html">Toronto Lions</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551933.html">1932-33</a></td>
+<td>3 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/kitchener-twin-city-6417.html">Kitchener Twin City</a><br />
+Out: <a target="_blank" href="/stte/oshawa-%3f%3f%3f-7301.html">Oshawa ???</a><br />
+Out: <a target="_blank" href="/stte/toronto-lions-8489.html">Toronto Lions</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/galt-pups-10931.html">Galt Pups</a><br />
+In: <a target="_blank" href="/stte/guelph-maple-leafs-10928.html">Guelph Maple Leafs</a><br />
+In: <a target="_blank" href="/stte/kitchener-waterloo-greenshirts-10934.html">Kitchener-Waterloo Greenshirts</a><br />
+In: <a target="_blank" href="/stte/port-colborne-tars-10933.html">Port Colborne Tars</a><br />
+In: <a target="_blank" href="/stte/stratford-midgets-10929.html">Stratford Midgets</a><br />
+In: <a target="_blank" href="/stte/stratford-mites-10932.html">Stratford Mites</a><br />
+In: <a target="_blank" href="/stte/toronto-st.-michael%27s-10930.html">Toronto St. Michael's</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551937.html">1936-37</a></td>
+<td>7 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/galt-pups-10931.html">Galt Pups</a><br />
+Out: <a target="_blank" href="/stte/guelph-maple-leafs-10928.html">Guelph Maple Leafs</a><br />
+Out: <a target="_blank" href="/stte/kitchener-waterloo-greenshirts-10934.html">Kitchener-Waterloo Greenshirts</a><br />
+Out: <a target="_blank" href="/stte/port-colborne-tars-10933.html">Port Colborne Tars</a><br />
+Out: <a target="_blank" href="/stte/stratford-midgets-10929.html">Stratford Midgets</a><br />
+Out: <a target="_blank" href="/stte/stratford-mites-10932.html">Stratford Mites</a><br />
+Out: <a target="_blank" href="/stte/toronto-st.-michael%27s-10930.html">Toronto St. Michael's</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/toronto-marlboros-8495.html">Toronto Marlboros</a><br />
+In: <a target="_blank" href="/stte/oshawa-generals-10935.html">Oshawa Generals</a><br />
+In: <a target="_blank" href="/stte/stratford-kroehlers-12184.html">Stratford Kroehlers</a><br />
+In: <a target="_blank" href="/stte/brantford-lions-12183.html">Brantford Lions</a><br />
+In: <a target="_blank" href="/stte/hamilton-whizzers-12181.html">Hamilton Whizzers</a><br />
+In: <a target="_blank" href="/stte/toronto-st.-michael%27s-8507.html">Toronto St. Michael's</a><br />
+In: <a target="_blank" href="/stte/toronto-young-rangers-8517.html">Toronto Young Rangers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551943.html">1942-43</a></td>
+<td>7 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/st.-catharines-falcons-8140.html">St. Catharines Falcons</a><br />
+In: <a target="_blank" href="/stte/galt-red-wings-5846.html">Galt Red Wings</a><br />
+In: <a target="_blank" href="/stte/port-colborne-%3f%3f%3f-12180.html">Port Colborne ???</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551944.html">1943-44</a></td>
+<td>10 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/stratford-kroehlers-12184.html">Stratford Kroehlers</a><br />
+Out: <a target="_blank" href="/stte/brantford-lions-12183.html">Brantford Lions</a><br />
+Out: <a target="_blank" href="/stte/hamilton-whizzers-12181.html">Hamilton Whizzers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/hamilton-barons-12182.html">Hamilton Barons</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551945.html">1944-45</a></td>
+<td>8 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/hamilton-barons-12182.html">Hamilton Barons</a><br />
+Out: <a target="_blank" href="/stte/port-colborne-%3f%3f%3f-12180.html">Port Colborne ???</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/barrie-flyers-4780.html">Barrie Flyers</a><br />
+In: <a target="_blank" href="/stte/hamilton-lloyds-12177.html">Hamilton Lloyds</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551946.html">1945-46</a></td>
+<td>8 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/hamilton-lloyds-12177.html">Hamilton Lloyds</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/windsor-spitfires-9006.html">Windsor Spitfires</a><br />
+In: <a target="_blank" href="/stte/stratford-kroehlers-8276.html">Stratford Kroehlers</a><br />
+In: <a target="_blank" href="/stte/hamilton-szabos-6011.html">Hamilton Szabos</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551947.html">1946-47</a></td>
+<td>10 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/st.-catharines-falcons-8140.html">St. Catharines Falcons</a><br />
+Out: <a target="_blank" href="/stte/galt-red-wings-5846.html">Galt Red Wings</a><br />
+Out: <a target="_blank" href="/stte/hamilton-szabos-6011.html">Hamilton Szabos</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/st.-catharines-teepees-8146.html">St. Catharines Teepees</a><br />
+In: <a target="_blank" href="/stte/guelph-biltmores-5943.html">Guelph Biltmores</a><br />
+In: <a target="_blank" href="/stte/galt-rockets-5847.html">Galt Rockets</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551948.html">1947-48</a></td>
+<td>10 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/galt-rockets-5847.html">Galt Rockets</a><br />
+Out: <a target="_blank" href="/stte/toronto-young-rangers-8517.html">Toronto Young Rangers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/galt-black-hawks-5844.html">Galt Black Hawks</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551949.html">1948-49</a></td>
+<td>9 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551950.html">1949-50</a></td>
+<td>9 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/waterloo-hurricanes-8881.html">Waterloo Hurricanes</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551951.html">1950-51</a></td>
+<td>10 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/stratford-kroehlers-8276.html">Stratford Kroehlers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/kitchener-waterloo-greenshirts-6421.html">Kitchener-Waterloo Greenshirts</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551952.html">1951-52</a></td>
+<td>10 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/waterloo-hurricanes-8881.html">Waterloo Hurricanes</a><br />
+</td>
+<td>
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551953.html">1952-53</a></td>
+<td>9 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/windsor-spitfires-9006.html">Windsor Spitfires</a><br />
+Out: <a target="_blank" href="/stte/oshawa-generals-10935.html">Oshawa Generals</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/hamilton-tiger-cubs-6012.html">Hamilton Tiger Cubs</a><br />
+In: <a target="_blank" href="/stte/quebec-citadelles-7577.html">Quebec Citadelles</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551954.html">1953-54</a></td>
+<td>9 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/kitchener-waterloo-greenshirts-6421.html">Kitchener-Waterloo Greenshirts</a><br />
+Out: <a target="_blank" href="/stte/quebec-citadelles-7577.html">Quebec Citadelles</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/kitchener-canucks-6410.html">Kitchener Canucks</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551955.html">1954-55</a></td>
+<td>8 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/galt-black-hawks-5844.html">Galt Black Hawks</a><br />
+</td>
+<td>
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551956.html">1955-56</a></td>
+<td>7 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/kitchener-canucks-6410.html">Kitchener Canucks</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/peterborough-petes-7414.html">Peterborough T.P.T Petes</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551957.html">1956-57</a></td>
+<td>7 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551958.html">1957-58</a></td>
+<td>7 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551959.html">1958-59</a></td>
+<td>7 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551960.html">1959-60</a></td>
+<td>7 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/hamilton-tiger-cubs-6012.html">Hamilton Tiger Cubs</a><br />
+Out: <a target="_blank" href="/stte/guelph-biltmores-5943.html">Guelph Biltmores</a><br />
+Out: <a target="_blank" href="/stte/barrie-flyers-4780.html">Barrie Flyers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/hamilton-red-wings-6008.html">Hamilton Red Wings</a><br />
+In: <a target="_blank" href="/stte/guelph-royals-5952.html">Guelph Royals</a><br />
+In: <a target="_blank" href="/stte/niagara-falls-flyers-9404.html">Niagara Falls Flyers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551961.html">1960-61</a></td>
+<td>7 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/peterborough-petes-7414.html">Peterborough T.P.T Petes</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/whitby-mohawks-8958.html">Whitby Mohawks</a><br />
+In: <a target="_blank" href="/stte/peterborough-petes-7414.html">Peterborough Petes</a><br />
+In: <a target="_blank" href="/stte/unionville-seaforths-8709.html">Unionville Seaforths</a><br />
+In: <a target="_blank" href="/stte/brampton-seven-ups-4957.html">Brampton Seven-Ups</a><br />
+In: <a target="_blank" href="/stte/montreal-junior-canadiens-6932.html">Montreal Junior Canadiens</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551962.html">1961-62</a></td>
+<td>11 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/st.-catharines-teepees-8146.html">St. Catharines Teepees</a><br />
+Out: <a target="_blank" href="/stte/whitby-mohawks-8958.html">Whitby Mohawks</a><br />
+Out: <a target="_blank" href="/stte/unionville-seaforths-8709.html">Unionville Seaforths</a><br />
+Out: <a target="_blank" href="/stte/toronto-st.-michael%27s-8507.html">Toronto St. Michael's</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/st.-catharines-black-hawks-8139.html">St. Catharines Black Hawks</a><br />
+In: <a target="_blank" href="/stte/whitby-dunlops-8953.html">Whitby Dunlops</a><br />
+In: <a target="_blank" href="/stte/oshawa-generals-7303.html">Oshawa Generals</a><br />
+In: <a target="_blank" href="/stte/toronto-knob-hill-farms-8488.html">Toronto Knob Hill Farms</a><br />
+In: <a target="_blank" href="/stte/toronto-neil-mcneil-maroons-8502.html">Toronto Neil McNeil Maroons</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551963.html">1962-63</a></td>
+<td>12 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/whitby-dunlops-8953.html">Whitby Dunlops</a><br />
+Out: <a target="_blank" href="/stte/guelph-royals-5952.html">Guelph Royals</a><br />
+Out: <a target="_blank" href="/stte/brampton-seven-ups-4957.html">Brampton Seven-Ups</a><br />
+Out: <a target="_blank" href="/stte/toronto-knob-hill-farms-8488.html">Toronto Knob Hill Farms</a><br />
+Out: <a target="_blank" href="/stte/toronto-neil-mcneil-maroons-8502.html">Toronto Neil McNeil Maroons</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/kitchener-rangers-6416.html">Kitchener Rangers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551964.html">1963-64</a></td>
+<td>8 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551965.html">1964-65</a></td>
+<td>8 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/london-nationals-6624.html">London Nationals</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551966.html">1965-66</a></td>
+<td>9 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551967.html">1966-67</a></td>
+<td>9 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/ottawa-67%27s-7314.html">Ottawa 67's</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551968.html">1967-68</a></td>
+<td>10 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/london-nationals-6624.html">London Nationals</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/london-knights-6618.html">London Knights</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551969.html">1968-69</a></td>
+<td>10 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551970.html">1969-70</a></td>
+<td>10 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551971.html">1970-71</a></td>
+<td>10 Teams</td>
+<td>St. Catharines Black Hawks</td>
+<td>Toronto Marlboros</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551972.html">1971-72</a></td>
+<td>10 Teams</td>
+<td>Peterborough Petes</td>
+<td>Ottawa 67's</td>
+<td>(3-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/niagara-falls-flyers-9404.html">Niagara Falls Flyers</a><br />
+Out: <a target="_blank" href="/stte/montreal-junior-canadiens-6932.html">Montreal Junior Canadiens</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/sudbury-wolves-8313.html">Sudbury Wolves</a><br />
+In: <a target="_blank" href="/stte/soo-greyhounds-7929.html">Soo Greyhounds</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551973.html">1972-73</a></td>
+<td>10 Teams</td>
+<td>Toronto Marlboros</td>
+<td>Peterborough Petes</td>
+<td>(3-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/kingston-canadians-6392.html">Kingston Canadians</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551974.html">1973-74</a></td>
+<td>11 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/hamilton-red-wings-6008.html">Hamilton Red Wings</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/hamilton-fincups-6003.html">Hamilton Fincups</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551975.html">1974-75</a></td>
+<td>11 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/windsor-spitfires-9009.html">Windsor Spitfires</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551976.html">1975-76</a></td>
+<td>12 Teams</td>
+<td>Hamilton Fincups</td>
+<td>Sudbury Wolves</td>
+<td>(4-1) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/hamilton-fincups-6003.html">Hamilton Fincups</a><br />
+Out: <a target="_blank" href="/stte/st.-catharines-black-hawks-8139.html">St. Catharines Black Hawks</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/st.-catharines-fincups-8142.html">St. Catharines Fincups</a><br />
+In: <a target="_blank" href="/stte/niagara-falls-flyers-7117.html">Niagara Falls Flyers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551977.html">1976-77</a></td>
+<td>12 Teams</td>
+<td>Ottawa 67's</td>
+<td>London Knights</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/st.-catharines-fincups-8142.html">St. Catharines Fincups</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/hamilton-fincups-10611.html">Hamilton Fincups</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551978.html">1977-78</a></td>
+<td>12 Teams</td>
+<td>Peterborough Petes</td>
+<td>Hamilton Fincups</td>
+<td>(3-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/hamilton-fincups-10611.html">Hamilton Fincups</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/brantford-alexanders-4973.html">Brantford Alexanders</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551979.html">1978-79</a></td>
+<td>12 Teams</td>
+<td>Peterborough Petes</td>
+<td>Niagara Falls Flyers</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/oha19551980.html">1979-80</a></td>
+<td>12 Teams</td>
+<td>Peterborough Petes</td>
+<td>Windsor Spitfires</td>
+<td>(4-0) </td>
+</tr>
+<tr>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-weight:bold" class="norow" colspan="5">Ontario Hockey League</td>
+</tr>
+<tr class="c_sec_head">
+<td class="cn">Year</td>
+<td class="cn">Teams</td>
+<td class="cn">Champion</td>
+<td class="cn">Runner-Up</td>
+<td class="cn">Result</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891981.html">1980-81</a></td>
+<td>12 Teams</td>
+<td>Kitchener Rangers</td>
+<td>Soo Greyhounds</td>
+<td>(3-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/cornwall-royals-5357.html">Cornwall Royals</a><br />
+In: <a target="_blank" href="/stte/belleville-bulls-4817.html">Belleville Bulls</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891982.html">1981-82</a></td>
+<td>14 Teams</td>
+<td>Kitchener Rangers</td>
+<td>Ottawa 67's</td>
+<td>(4-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/niagara-falls-flyers-7117.html">Niagara Falls Flyers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/guelph-platers-5949.html">Guelph Platers</a><br />
+In: <a target="_blank" href="/stte/north-bay-centennials-7153.html">North Bay Centennials</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891983.html">1982-83</a></td>
+<td>15 Teams</td>
+<td>Oshawa Generals</td>
+<td>Soo Greyhounds</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891984.html">1983-84</a></td>
+<td>15 Teams</td>
+<td>Ottawa 67's</td>
+<td>Kitchener Rangers</td>
+<td>(3-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/brantford-alexanders-4973.html">Brantford Alexanders</a><br />
+Out: <a target="_blank" href="/stte/windsor-spitfires-9009.html">Windsor Spitfires</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/hamilton-steelhawks-6010.html">Hamilton Steelhawks</a><br />
+In: <a target="_blank" href="/stte/windsor-compuware-spitfires-8991.html">Windsor Compuware Spitfires</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891985.html">1984-85</a></td>
+<td>15 Teams</td>
+<td>Soo Greyhounds</td>
+<td>Peterborough Petes</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891986.html">1985-86</a></td>
+<td>15 Teams</td>
+<td>Guelph Platers</td>
+<td>Belleville Bulls</td>
+<td>(3-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891987.html">1986-87</a></td>
+<td>15 Teams</td>
+<td>Oshawa Generals</td>
+<td>North Bay Centennials</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891988.html">1987-88</a></td>
+<td>15 Teams</td>
+<td>Windsor Compuware Spitfires</td>
+<td>Peterborough Petes</td>
+<td>(4-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/hamilton-steelhawks-6010.html">Hamilton Steelhawks</a><br />
+Out: <a target="_blank" href="/stte/kingston-canadians-6392.html">Kingston Canadians</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/niagara-falls-thunder-7118.html">Niagara Falls Thunder</a><br />
+In: <a target="_blank" href="/stte/kingston-raiders-6399.html">Kingston Raiders</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891989.html">1988-89</a></td>
+<td>15 Teams</td>
+<td>Peterborough Petes</td>
+<td>Niagara Falls Thunder</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/toronto-marlboros-8495.html">Toronto Marlboros</a><br />
+Out: <a target="_blank" href="/stte/kingston-raiders-6399.html">Kingston Raiders</a><br />
+Out: <a target="_blank" href="/stte/guelph-platers-5949.html">Guelph Platers</a><br />
+Out: <a target="_blank" href="/stte/windsor-compuware-spitfires-8991.html">Windsor Compuware Spitfires</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/hamilton-dukes-6002.html">Hamilton Dukes</a><br />
+In: <a target="_blank" href="/stte/kingston-frontenacs-6396.html">Kingston Frontenacs</a><br />
+In: <a target="_blank" href="/stte/owen-sound-platers-7344.html">Owen Sound Platers</a><br />
+In: <a target="_blank" href="/stte/windsor-spitfires-10926.html">Windsor Spitfires</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891990.html">1989-90</a></td>
+<td>15 Teams</td>
+<td>Oshawa Generals</td>
+<td>Kitchener Rangers</td>
+<td>(4-3) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/detroit-compuware-ambassadors-5473.html">Detroit Compuware Ambassadors</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891991.html">1990-91</a></td>
+<td>16 Teams</td>
+<td>Soo Greyhounds</td>
+<td>Oshawa Generals</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/hamilton-dukes-6002.html">Hamilton Dukes</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/guelph-storm-5953.html">Guelph Storm</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891992.html">1991-92</a></td>
+<td>16 Teams</td>
+<td>Soo Greyhounds</td>
+<td>North Bay Centennials</td>
+<td>(4-3) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/cornwall-royals-5357.html">Cornwall Royals</a><br />
+Out: <a target="_blank" href="/stte/detroit-compuware-ambassadors-5473.html">Detroit Compuware Ambassadors</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/newmarket-royals-7108.html">Newmarket Royals</a><br />
+In: <a target="_blank" href="/stte/detroit-junior-red-wings-5483.html">Detroit Junior Red Wings</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891993.html">1992-93</a></td>
+<td>16 Teams</td>
+<td>Peterborough Petes</td>
+<td>Soo Greyhounds</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891994.html">1993-94</a></td>
+<td>16 Teams</td>
+<td>North Bay Centennials</td>
+<td>Detroit Junior Red Wings</td>
+<td>(4-3) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/newmarket-royals-7108.html">Newmarket Royals</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/sarnia-sting-7891.html">Sarnia Sting</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891995.html">1994-95</a></td>
+<td>16 Teams</td>
+<td>Detroit Junior Red Wings</td>
+<td>Guelph Storm</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/detroit-junior-red-wings-5483.html">Detroit Junior Red Wings</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/detroit-whalers-5495.html">Detroit Whalers</a><br />
+In: <a target="_blank" href="/stte/barrie-colts-4779.html">Barrie Colts</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891996.html">1995-96</a></td>
+<td>17 Teams</td>
+<td>Peterborough Petes</td>
+<td>Guelph Storm</td>
+<td>(4-3) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/niagara-falls-thunder-7118.html">Niagara Falls Thunder</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/erie-otters-5677.html">Erie Otters</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891997.html">1996-97</a></td>
+<td>17 Teams</td>
+<td>Oshawa Generals</td>
+<td>Ottawa 67's</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/detroit-whalers-5495.html">Detroit Whalers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/toronto-st.-michael%27s-majors-8509.html">Toronto St. Michael's Majors</a><br />
+In: <a target="_blank" href="/stte/plymouth-whalers-7484.html">Plymouth Whalers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891998.html">1997-98</a></td>
+<td>18 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/mississauga-icedogs-6895.html">Mississauga IceDogs</a><br />
+In: <a target="_blank" href="/stte/brampton-battalion-4953.html">Brampton Battalion</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19891999.html">1998-99</a></td>
+<td>20 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892000.html">1999-00</a></td>
+<td>20 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/owen-sound-platers-7344.html">Owen Sound Platers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/owen-sound-attack-7333.html">Owen Sound Attack</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892001.html">2000-01</a></td>
+<td>20 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892002.html">2001-02</a></td>
+<td>20 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/north-bay-centennials-7153.html">North Bay Centennials</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/saginaw-spirit-7811.html">Saginaw Spirit</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892003.html">2002-03</a></td>
+<td>20 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892004.html">2003-04</a></td>
+<td>20 Teams</td>
+<td>Guelph Storm</td>
+<td>Mississauga IceDogs</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892005.html">2004-05</a></td>
+<td>20 Teams</td>
+<td>London Knights</td>
+<td>Ottawa 67's</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892006.html">2005-06</a></td>
+<td>20 Teams</td>
+<td>Peterborough Petes</td>
+<td>London Knights</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892007.html">2006-07</a></td>
+<td>20 Teams</td>
+<td>Plymouth Whalers</td>
+<td>Sudbury Wolves</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/toronto-st.-michael%27s-majors-8509.html">Toronto St. Michael's Majors</a><br />
+Out: <a target="_blank" href="/stte/mississauga-icedogs-6895.html">Mississauga IceDogs</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/mississauga-st.-michael%27s-majors-6897.html">Mississauga St. Michael's Majors</a><br />
+In: <a target="_blank" href="/stte/niagara-icedogs-7121.html">Niagara IceDogs</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892008.html">2007-08</a></td>
+<td>20 Teams</td>
+<td>Kitchener Rangers</td>
+<td>Belleville Bulls</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892009.html">2008-09</a></td>
+<td>20 Teams</td>
+<td>Windsor Spitfires</td>
+<td>Brampton Battalion</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892010.html">2009-10</a></td>
+<td>20 Teams</td>
+<td>Windsor Spitfires</td>
+<td>Barrie Colts</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892011.html">2010-11</a></td>
+<td>20 Teams</td>
+<td>Owen Sound Attack</td>
+<td>Mississauga St. Michael's Majors</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892012.html">2011-12</a></td>
+<td>20 Teams</td>
+<td>London Knights</td>
+<td>Niagara IceDogs</td>
+<td>(4-1) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/mississauga-st.-michael%27s-majors-6897.html">Mississauga St. Michael's Majors</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/mississauga-steelheads-11038.html">Mississauga Steelheads</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892013.html">2012-13</a></td>
+<td>20 Teams</td>
+<td>London Knights</td>
+<td>Barrie Colts</td>
+<td>(4-3) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/brampton-battalion-4953.html">Brampton Battalion</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/north-bay-battalion-11344.html">North Bay Battalion</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892014.html">2013-14</a></td>
+<td>20 Teams</td>
+<td>Guelph Storm</td>
+<td>North Bay Battalion</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892015.html">2014-15</a></td>
+<td>20 Teams</td>
+<td>Oshawa Generals</td>
+<td>Erie Otters</td>
+<td>(4-1) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/plymouth-whalers-7484.html">Plymouth Whalers</a><br />
+Out: <a target="_blank" href="/stte/belleville-bulls-4817.html">Belleville Bulls</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/flint-firebirds-11661.html">Flint Firebirds</a><br />
+In: <a target="_blank" href="/stte/hamilton-bulldogs-11660.html">Hamilton Bulldogs</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892016.html">2015-16</a></td>
+<td>20 Teams</td>
+<td>London Knights</td>
+<td>Niagara IceDogs</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892017.html">2016-17</a></td>
+<td>20 Teams</td>
+<td>Erie Otters</td>
+<td>Mississauga Steelheads</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/ohl19892018.html">2017-18</a></td>
+<td>20 Teams</td>
+<td>Hamilton Bulldogs</td>
+<td>Soo Greyhounds</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4"><td><a href="/ihdb/stats/leagues/seasons/ohl19892019.html">2018-19</a></td><td>20 Teams</td><td>Guelph Storm</td>
+<td>Ottawa 67's</td>
+<td>(4-2)</td>
+</tr></tbody></table></div>
+<div style="width:100%; margin-top:10px;" class="team_section">
+<h2 class="team_header">Cities in OHL</h2>
+<div style="padding:5px">
+<div style="float:left; padding:0px 8px 8px 3px; margin:0px 10px 5px 3px; width:47%">
+<div>Barrie, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/barrie-flyers-4780.html">Flyers</a> [1945-1960]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/barrie-colts-4779.html">Colts</a> [1995-2019]</div>
+<div>Belleville, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/belleville-bulls-4817.html">Bulls</a> [1981-2015]</div>
+<div>Brampton, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/brampton-seven-ups-4957.html">Seven-Ups</a> [1961-1963]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/brampton-battalion-4953.html">Battalion</a> [1998-2013]</div>
+<div>Brantford, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/brantford-lions-12183.html">Lions</a> [1942-1944]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/brantford-alexanders-4973.html">Alexanders</a> [1978-1984]</div>
+<div>Cornwall, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/cornwall-royals-5357.html">Royals</a> [1981-1992]</div>
+<div>Detroit, MI</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/detroit-compuware-ambassadors-5473.html">Compuware Ambassadors</a> [1990-1992]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/detroit-junior-red-wings-5483.html">Junior Red Wings</a> [1992-1995]</div>
+<div>Erie, PA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/erie-otters-5677.html">Otters</a> [1996-2019]</div>
+<div>Flint, MI</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/flint-firebirds-11661.html">Firebirds</a> [2015-2019]</div>
+<div>Galt, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/galt-pups-10931.html">Pups</a> [1936-1937]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/galt-red-wings-5846.html">Red Wings</a> [1943-1947]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/galt-rockets-5847.html">Rockets</a> [1947-1948]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/galt-black-hawks-5844.html">Black Hawks</a> [1949-1955]</div>
+<div>Guelph, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/guelph-maple-leafs-10928.html">Maple Leafs</a> [1936-1937]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/guelph-biltmores-5943.html">Biltmores</a> [1946-1960]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/guelph-royals-5952.html">Royals</a> [1960-1963]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/guelph-platers-5949.html">Platers</a> [1982-1989]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/guelph-storm-5953.html">Storm</a> [1991-2019]</div>
+<div>Hamilton, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/hamilton-whizzers-12181.html">Whizzers</a> [1942-1944]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/hamilton-barons-12182.html">Barons</a> [1944-1945]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/hamilton-lloyds-12177.html">Lloyds</a> [1945-1946]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/hamilton-szabos-6011.html">Szabos</a> [1946-1947]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/hamilton-tiger-cubs-6012.html">Tiger Cubs</a> [1953-1960]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/hamilton-red-wings-6008.html">Red Wings</a> [1960-1974]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/hamilton-fincups-6003.html">Fincups</a> [1974-1976]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/hamilton-fincups-10611.html">Fincups</a> [1977-1978]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/hamilton-steelhawks-6010.html">Steelhawks</a> [1984-1988]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/hamilton-dukes-6002.html">Dukes</a> [1989-1991]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/hamilton-bulldogs-11660.html">Bulldogs</a> [2015-2019]</div>
+<div>Kingston, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kingston-canadians-6392.html">Canadians</a> [1973-1988]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kingston-raiders-6399.html">Raiders</a> [1988-1989]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kingston-frontenacs-6396.html">Frontenacs</a> [1989-2019]</div>
+<div>Kitchener, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kitchener-twin-city-6417.html">Twin City</a> [1932-1933]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kitchener-waterloo-greenshirts-10934.html">Kitchener-Waterloo Greenshirts</a> [1936-1937]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kitchener-waterloo-greenshirts-6421.html">Kitchener-Waterloo Greenshirts</a> [1951-1954]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kitchener-canucks-6410.html">Canucks</a> [1954-1956]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kitchener-rangers-6416.html">Rangers</a> [1963-2019]</div>
+<div>London, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/london-nationals-6624.html">Nationals</a> [1965-1968]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/london-knights-6618.html">Knights</a> [1968-2019]</div>
+<div>Mississauga, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/mississauga-icedogs-6895.html">IceDogs</a> [1998-2007]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/mississauga-st.-michael%27s-majors-6897.html">St. Michael's Majors</a> [2007-2012]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/mississauga-steelheads-11038.html">Steelheads</a> [2012-2019]</div>
+<div>Montreal, PQ</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/montreal-junior-canadiens-6932.html">Junior Canadiens</a> [1961-1972]</div>
+<div>Newmarket, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/newmarket-royals-7108.html">Royals</a> [1992-1994]</div>
+<div>Niagara Falls, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/niagara-falls-flyers-9404.html">Flyers</a> [1960-1972]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/niagara-falls-flyers-7117.html">Flyers</a> [1976-1982]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/niagara-falls-thunder-7118.html">Thunder</a> [1988-1996]</div>
+</div><div style="float:left; padding:0px 8px 8px 3px; margin:0px 10px 5px 3px; width:45%">
+<div>North Bay, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/north-bay-centennials-7153.html">Centennials</a> [1982-2002]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/north-bay-battalion-11344.html">Battalion</a> [2013-2019]</div>
+<div>Oshawa, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/oshawa-%3f%3f%3f-7301.html">???</a> [1932-1933]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/oshawa-generals-10935.html">Generals</a> [1942-1953]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/oshawa-generals-7303.html">Generals</a> [1962-2019]</div>
+<div>Ottawa, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/ottawa-67%27s-7314.html">67's</a> [1967-2019]</div>
+<div>Owen Sound, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/owen-sound-platers-7344.html">Platers</a> [1989-2000]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/owen-sound-attack-7333.html">Attack</a> [2000-2019]</div>
+<div>Peterborough, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/peterborough-petes-7414.html">T.P.T Petes</a> [1956-2019]</div>
+<div>Plymouth, MI</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/detroit-whalers-5495.html">Detroit Whalers</a> [1995-1997]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/plymouth-whalers-7484.html">Whalers</a> [1997-2015]</div>
+<div>Port Colborne, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/port-colborne-tars-10933.html">Tars</a> [1936-1937]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/port-colborne-%3f%3f%3f-12180.html">???</a> [1943-1945]</div>
+<div>Quebec City, PQ</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/quebec-citadelles-7577.html">Quebec Citadelles</a> [1953-1954]</div>
+<div>Saginaw, MI</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/saginaw-spirit-7811.html">Spirit</a> [2002-2019]</div>
+<div>Sarnia, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/sarnia-sting-7891.html">Sting</a> [1994-2019]</div>
+<div>Sault Ste. Marie, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/soo-greyhounds-7929.html">Soo Greyhounds</a> [1972-2019]</div>
+<div>St. Catharines, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/st.-catharines-falcons-8140.html">Falcons</a> [1943-1947]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/st.-catharines-teepees-8146.html">Teepees</a> [1947-1962]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/st.-catharines-black-hawks-8139.html">Black Hawks</a> [1962-1976]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/st.-catharines-fincups-8142.html">Fincups</a> [1976-1977]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/niagara-icedogs-7121.html">Niagara IceDogs</a> [2007-2019]</div>
+<div>Stratford, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/stratford-mites-10932.html">Mites</a> [1936-1937]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/stratford-midgets-10929.html">Midgets</a> [1936-1937]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/stratford-kroehlers-12184.html">Kroehlers</a> [1942-1944]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/stratford-kroehlers-8276.html">Kroehlers</a> [1946-1951]</div>
+<div>Sudbury, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/sudbury-wolves-8313.html">Wolves</a> [1972-2019]</div>
+<div>Toronto, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/toronto-lions-8489.html">Lions</a> [1932-1933]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/toronto-st.-michael%27s-10930.html">St. Michael's</a> [1936-1937]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/toronto-marlboros-8495.html">Marlboros</a> [1942-1989]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/toronto-st.-michael%27s-8507.html">St. Michael's</a> [1942-1962]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/toronto-marlboros-8495.html">Marlboros</a> [1942-1989]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/toronto-young-rangers-8517.html">Young Rangers</a> [1942-1948]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/toronto-knob-hill-farms-8488.html">Knob Hill Farms</a> [1962-1963]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/toronto-neil-mcneil-maroons-8502.html">Neil McNeil Maroons</a> [1962-1963]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/toronto-st.-michael%27s-majors-8509.html">St. Michael's Majors</a> [1997-2007]</div>
+<div>Unionville, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/unionville-seaforths-8709.html">Seaforths</a> [1961-1962]</div>
+<div>Waterloo, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/waterloo-hurricanes-8881.html">Hurricanes</a> [1950-1952]</div>
+<div>Whitby, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/whitby-mohawks-8958.html">Mohawks</a> [1961-1962]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/whitby-dunlops-8953.html">Dunlops</a> [1962-1963]</div>
+<div>Windsor, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/windsor-spitfires-9006.html">Spitfires</a> [1946-1953]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/windsor-spitfires-9009.html">Spitfires</a> [1975-1984]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/windsor-compuware-spitfires-8991.html">Compuware Spitfires</a> [1984-1989]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/windsor-spitfires-10926.html">Spitfires</a> [1989-2019]</div>
+</div></div></div>
+<div style="width:50%; margin-top:10px;" class="team_section">
+<h2 class="team_header">OHL Yearly Team Attendance</h2>
+<div style="padding:5px">
+<div style="clear:both"></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2019">2018-19</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2014">2013-14</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2009">2008-09</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2004">2003-04</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=1999">1998-99</a></div>
+<div style="clear:both"></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2018">2017-18</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2013">2012-13</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2008">2007-08</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2003">2002-03</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=1998">1997-98</a></div>
+<div style="clear:both"></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2017">2016-17</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2012">2011-12</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2007">2006-07</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2002">2001-02</a></div>
+<div style="clear:both"></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2016">2015-16</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2011">2010-11</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2006">2005-06</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2001">2000-01</a></div>
+<div style="clear:both"></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2015">2014-15</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2010">2009-10</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2005">2004-05</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=OHL1989&amp;sid=2000">1999-00</a></div>
+</div>
+</div>
+</div>
+<div id="ad" class="sponsor">
+<div id='right_skyscraper'>
+<script type="text/javascript" src="/proxy/ad_proxy_160.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('right_skyscraper'); });
+</script>
+</div>
+</div>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2011 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='//storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>
+

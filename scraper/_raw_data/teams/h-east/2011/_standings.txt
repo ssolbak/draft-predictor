@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>2011-12 NCAA - Hockey East - Div. 1 [H-East] standings at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="The standings of the teams in the NCAA - Hockey East - Div. 1 for the 2011-12 season" />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
+
+<script src="/js/all.js"></script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
+</script>
+
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function(){ 
+    var gads = document.createElement('script'); gads.async = true;
+    gads.type = 'text/javascript'; 
+    var useSSL = 'https:' == document.location.protocol; gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0]; 
+    node.parentNode.insertBefore(gads, node); 
+  })();
+</script>
+
+<script src="https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js"></script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    var map300t = googletag.sizeMapping()
+      .addSize([1180, 0], [300, 600])
+      .addSize([760, 0], [160, 600])
+      .addSize([300, 0], [300, 250])
+      .addSize([0, 0], [])
+        .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [320, 50], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .set('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_300x600_1', [[300, 600], [160, 600], [300, 250]], 'tall_rectangle')
+    	.defineSizeMapping(map300t)
+    	.set('sizeMap', map300t)
+    	.addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+<div class="multitable1" style="clear:both; min-width:800px; float:left">
+<div class="tablebg" style="width:96%">
+<h1 class="title">2011-12 NCAA - Hockey East - Div. 1 Standings</h1>
+<div class="breadcrumb"><a href="http://www.hockeydb.com/ihdb/stats/leagues.html">Leagues</a> -> <a href="http://www.hockeydb.com/ihdb/stats/leagues/328.html">H-East</a> -> 2011-12 -> standings</div>
+<div class="ti in1">
+Jump:
+<a href="he19852011.html">2010-11</a>,<a href="he19852013.html">2012-13</a></div>
+<table class="sortable autostripe">
+<thead>
+<tr>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th><th class="norow"></th><th class="hilite c ol">
+<a href="/ihdb/stats/top_league.php?lid=he1985&amp;sid=2012&amp;leaguenm=H-East">League Leaders
+</a>
+</th>
+</tr>
+<tr class="hideme">
+<td style="text-align:left" class="c_sec_head"></td>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+</tr>
+<tr>
+<th class="l c_sort_head">Team</th>
+<th class="c_sort_head">GP</th>
+<th class="c_sort_head">W</th>
+<th class="c_sort_head">L</th>
+<th class="c_sort_head">T</th>
+<th class="c_sort_head">Pts</th>
+<th class="c_sort_head">GF</th>
+<th class="c_sort_head">GA</th>
+<th class="c_sort_head">PIM</th>
+<th class="c_sort_head">Att.</th>
+<th class="l c_sort_head">Coach</th>
+<th class="l c_sort_head">Playoff Results</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="teams/0005612012.html">U. of Maine</a></td>
+<td>40</td>
+<td>23</td>
+<td>14</td>
+<td>3</td>
+<td>0</td>
+<td>133</td>
+<td>114</td>
+<td>0</td>
+<td>4,437</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=61798">Tim Whitehead</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0005602012.html">Boston College</a></td>
+<td>44</td>
+<td>33</td>
+<td>10</td>
+<td>1</td>
+<td>0</td>
+<td>157</td>
+<td>89</td>
+<td>0</td>
+<td>6,171</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=18446">Jerry York</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0005712012.html">U. of Vermont</a></td>
+<td>34</td>
+<td>6</td>
+<td>27</td>
+<td>1</td>
+<td>0</td>
+<td>73</td>
+<td>140</td>
+<td>0</td>
+<td>3,573</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=17253">Kevin Sneddon</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0029672012.html">UMass-Lowell</a></td>
+<td>38</td>
+<td>24</td>
+<td>13</td>
+<td>1</td>
+<td>0</td>
+<td>126</td>
+<td>94</td>
+<td>0</td>
+<td>4,904</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=12806">Norm Bazin</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0005732012.html">Northeastern University</a></td>
+<td>34</td>
+<td>13</td>
+<td>16</td>
+<td>5</td>
+<td>0</td>
+<td>97</td>
+<td>101</td>
+<td>0</td>
+<td>3,438</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=19820">Jim Madigan</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0007352012.html">UMass-Amherst</a></td>
+<td>36</td>
+<td>13</td>
+<td>18</td>
+<td>5</td>
+<td>0</td>
+<td>114</td>
+<td>118</td>
+<td>0</td>
+<td>4,612</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=11722">Don "Toot" Cahoon</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0004492012.html">Boston University</a></td>
+<td>39</td>
+<td>23</td>
+<td>15</td>
+<td>1</td>
+<td>0</td>
+<td>139</td>
+<td>112</td>
+<td>0</td>
+<td>4,963</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=18464">Jack Parker</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0005622012.html">Merrimack College</a></td>
+<td>37</td>
+<td>18</td>
+<td>12</td>
+<td>7</td>
+<td>0</td>
+<td>102</td>
+<td>83</td>
+<td>0</td>
+<td>2,460</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=17359">Mark Dennehy</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0004962012.html">U. of New Hampshire</a></td>
+<td>37</td>
+<td>15</td>
+<td>19</td>
+<td>3</td>
+<td>0</td>
+<td>108</td>
+<td>110</td>
+<td>0</td>
+<td>5,297</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=52757">Dick Umile</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0005762012.html">Providence College</a></td>
+<td>38</td>
+<td>14</td>
+<td>20</td>
+<td>4</td>
+<td>0</td>
+<td>94</td>
+<td>122</td>
+<td>0</td>
+<td>1,875</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=56437">Nathan Leaman</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+</tbody>
+</table>
+</div>
+</div>
+<div class="sponsor" style="margin-left:10px">
+<div id='tall_rectangle'>
+<script type="text/javascript" src="/proxy/ad_proxy_300t_160_300.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('tall_rectangle'); });
+</script>
+</div>
+</div>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2011 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='//storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "name": "draft-predictor-scraper",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "2.6.0",
+    "lodash": "4.17.11",
+    "csv-parse": "2.0.2",
+    "csv-stringify": "2.0.2"
+  },
+  "devDependencies": {
+    "mocha": "6.1.4",
+    "should": "11.1.2"
+  },
+  "description": "some test code"
+}
