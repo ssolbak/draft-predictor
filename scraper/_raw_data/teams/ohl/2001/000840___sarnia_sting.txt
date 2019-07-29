@@ -1,76 +1,1089 @@
-<?
-$title = "Please complete this test to move on";
-?>
-
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<meta charset="UTF-8" /><meta name="description" content="" />
-<meta name="format-detection" content="telephone=no" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Sarnia Sting 2001-02 roster and scoring statistics at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="The roster, scoring and goaltender statistics for the 2001-02 Sarnia Sting playing in the OHL." />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
 
+<script src="/js/all.js"></script>
 
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
 <script>
-//<![CDATA[
-function addEvent(e,t,n){n.$$guid||(n.$$guid=addEvent.guid++),e.events||(e.events={});var r=e.events[t];r||(r=e.events[t]={},e["on"+t]&&(r[0]=e["on"+t])),r[n.$$guid]=n,e["on"+t]=handleEvent}function removeEvent(e,t,n){e.events&&e.events[t]&&delete e.events[t][n.$$guid]}function fixEvent(e){return e.preventDefault=fixEvent.preventDefault,e.stopPropagation=fixEvent.stopPropagation,e}function handleEvent(e){var t=!0;e=e||fixEvent(window.event);var n=this.events[e.type];for(var r in n)this.$$handleEvent=n[r],this.$$handleEvent(e)===!1&&(t=!1);return t}function createElement(e){return"undefined"!=typeof document.createElementNS?document.createElementNS("http://www.w3.org/1999/xhtml",e):"undefined"!=typeof document.createElement?document.createElement(e):!1}function getEventTarget(e){var t;return e||(e=window.event),e.target?t=e.target:e.srcElement&&(t=e.srcElement),3==t.nodeType&&(t=t.parentNode),t}function standardistaTableSortingInit(){standardistaTableSorting.init()}addEvent.guid=1,fixEvent.preventDefault=function(){this.returnValue=!1},fixEvent.stopPropagation=function(){this.cancelBubble=!0};var css={getElementsByClass:function(e,t,n){for(var r=new Array,s=e.getElementsByTagName(n),a=s.length,o=(new RegExp("(^|\\s)"+t+"(\\s|$)"),0),d=0;a>o;o++)this.elementHasClass(s[o],t)&&(r[d]=s[o],d++);return r},privateGetClassArray:function(e){return e.className.split(" ")},privateCreateClassString:function(e){return e.join(" ")},elementHasClass:function(e,t){if(!e)return!1;var n=new RegExp("\\b"+t+"\\b");return!!e.className.match(n)},addClassToId:function(e,t){this.addClassToElement(document.getElementById(e),t)},addClassToElement:function(e,t){var n=this.privateGetClassArray(e);this.elementHasClass(e,t)||(n.push(t),e.className=this.privateCreateClassString(n))},removeClassFromId:function(e,t){this.removeClassFromElement(document.getElementById(e),t)},removeClassFromElement:function(e,t){var n=this.privateGetClassArray(e);for(x in n)if(t==n[x]){n[x]="";break}e.className=this.privateCreateClassString(n)}},standardistaTableSorting={that:!1,isOdd:!1,sortColumnIndex:-1,lastAssignedId:0,newRows:-1,lastSortedTable:-1,init:function(){document.getElementsByTagName&&(this.that=this,this.run())},run:function(){for(var e=document.getElementsByTagName("table"),t=0;t<e.length;t++){var n=e[t];css.elementHasClass(n,"sortable")&&this.makeSortable(n)}},makeSortable:function(e){if(e.id||(e.id="sortableTable"+this.lastAssignedId++),e.tHead&&e.tHead.rows&&0!==e.tHead.rows.length){for(var t=e.tHead.rows[e.tHead.rows.length-1],n=0;n<t.cells.length;n++){var r=createElement("a");r.href="##",r.onclick=this.headingClicked,r.setAttribute("columnId",n),r.setAttribute("class","revlink"),r.title="Click to sort";for(var s=t.cells[n].childNodes,a=0;a<s.length;a++)r.appendChild(s[a]);t.cells[n].appendChild(r);var o=createElement("span");o.className="tableSortArrow",o.appendChild(document.createTextNode("")),t.cells[n].appendChild(o)}if(css.elementHasClass(e,"autostripe")){this.isOdd=!1;for(var d=e.tBodies[0].rows,i=0;i<d.length;i++)this.doStripe(d[i])}}},headingClicked:function(e){var t=standardistaTableSorting.that,n=getEventTarget(e),r=n.parentNode,s=r.parentNode,a=s.parentNode,o=a.parentNode;if(!o.tBodies||o.tBodies[0].rows.length<=1)return!1;var d=n.getAttribute("columnId")||r.cellIndex,i=css.getElementsByClass(r,"tableSortArrow","span"),l="";i.length>0&&(l=i[0].getAttribute("sortOrder"));for(var u="",c=0;""==u&&c<o.tBodies[0].rows.length;)u=t.getInnerText(o.tBodies[0].rows[c].cells[d]),c++;var m=t.determineSortFunction(u);if(o.id==t.lastSortedTable&&d==t.sortColumnIndex)h=t.newRows,h.reverse();else{t.sortColumnIndex=d;for(var h=new Array,v=0;v<o.tBodies[0].rows.length;v++){var g=o.tBodies[0].rows[v];g.className.match(/hideme/)&&(g.style.display="none"),h[v]=g}h.sort(m),h.reverse()}t.moveRows(o,h),t.newRows=h,t.lastSortedTable=o.id;for(var i=css.getElementsByClass(s,"tableSortArrow","span"),v=0;v<i.length;v++){var f=i[v].parentNode;f.removeChild(i[v]),f!=r&&(p=createElement("span"),p.className="tableSortArrow",p.appendChild(document.createTextNode("")),f.appendChild(p))}var p=createElement("span");return p.className="tableSortArrow",null==l||""==l||"DESC"==l?(p.appendChild(document.createTextNode("")),p.setAttribute("sortOrder","ASC")):(p.appendChild(document.createTextNode("")),p.setAttribute("sortOrder","DESC")),r.appendChild(p),!1},getInnerText:function(e){if("string"==typeof e||"undefined"==typeof e)return e;if(e.innerText)return e.innerText;var t=e.getAttribute("standardistaTableSortingInnerText");if(null!=t&&""!=t)return t;t="";for(var n=e.childNodes,r=n.length,s=0;r>s;s++){if(1==n[s].nodeType){t+=this.getInnerText(n[s]);break}if(3==n[s].nodeType){t+=n[s].nodeValue;break}}return e.setAttribute("standardistaTableSortingInnerText",t),t},determineSortFunction:function(e){var t=this.sortCaseInsensitive;return e.match(/^\d\d[\/-]\d\d[\/-]\d\d\d\d$/)&&(t=this.sortDate),e.match(/^\d\d[\/-]\d\d[\/-]\d\d$/)&&(t=this.sortDate),e.match(/^\d+\:\d+$/)&&(t=this.sortrevCaseInsensitive),e.match(/^[�$]/)&&(t=this.sortCurrency),e.match(/^\d?\.?\d+$/)&&(t=this.sortNumeric),e.match(/^[+-]?\d*\.?\d+([eE]-?\d+)?$/)&&(t=this.sortNumeric),e.match(/^([01]?\d\d?|2[0-4]\d|25[0-5])\.([01]?\d\d?|2[0-4]\d|25[0-5])\.([01]?\d\d?|2[0-4]\d|25[0-5])\.([01]?\d\d?|2[0-4]\d|25[0-5])$/)&&(t=this.sortIP),t},sortCaseInsensitive:function(e,t){var n=standardistaTableSorting.that,r=n.getInnerText(e.cells[n.sortColumnIndex]).toLowerCase(),s=n.getInnerText(t.cells[n.sortColumnIndex]).toLowerCase();return r==s?0:r>s?-1:1},sortrevCaseInsensitive:function(e,t){var n=standardistaTableSorting.that,r=n.getInnerText(e.cells[n.sortColumnIndex]).toLowerCase(),s=n.getInnerText(t.cells[n.sortColumnIndex]).toLowerCase();return r==s?0:s>r?-1:1},sortDate:function(e,t){var n,r,s=standardistaTableSorting.that,a=s.getInnerText(e.cells[s.sortColumnIndex]),o=s.getInnerText(t.cells[s.sortColumnIndex]),d=-1;return 10==a.length?n=a.substr(6,4)+a.substr(0,2)+a.substr(3,2):(d=a.substr(6,2),d=parseInt(d)<50?"20"+d:"19"+d,n=d+a.substr(0,2)+a.substr(3,2)),10==o.length?r=o.substr(6,4)+o.substr(0,2)+o.substr(3,2):(d=o.substr(6,2),d=parseInt(d)<50?"20"+d:"19"+d,r=d+o.substr(0,2)+o.substr(3,2)),n==r?0:r>n?-1:1},sortCurrency:function(e,t){var n=standardistaTableSorting.that,r=n.getInnerText(e.cells[n.sortColumnIndex]).replace(/[^0-9.]/g,""),s=n.getInnerText(t.cells[n.sortColumnIndex]).replace(/[^0-9.]/g,"");return parseFloat(r)-parseFloat(s)},sortNumeric:function(e,t){var n=standardistaTableSorting.that,r=parseFloat(n.getInnerText(e.cells[n.sortColumnIndex]));isNaN(r)&&(r=0);var s=parseFloat(n.getInnerText(t.cells[n.sortColumnIndex]));return isNaN(s)&&(s=0),r-s},makeStandardIPAddress:function(e){var t=e.split(".");for(x in t){for(e=t[x];3>e.length;)e="0"+e;t[x]=e}return e=t.join(".")},sortIP:function(e,t){var n=standardistaTableSorting.that,r=n.makeStandardIPAddress(n.getInnerText(e.cells[n.sortColumnIndex]).toLowerCase()),s=n.makeStandardIPAddress(n.getInnerText(t.cells[n.sortColumnIndex]).toLowerCase());return r==s?0:s>r?-1:1},moveRows:function(e,t){this.isOdd=!1;for(var n=0;n<t.length;n++){var r=t[n];this.doStripe(r),e.tBodies[0].appendChild(r)}},doStripe:function(e){this.isOdd?css.addClassToElement(e,"odd"):css.removeClassFromElement(e,"odd"),this.isOdd=!this.isOdd}};addEvent(window,"load",standardistaTableSortingInit);
-//]]>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
 </script>
 
 <script>
-//<![CDATA[
-!function(e,t,r){var n,i=e.getElementsByTagName(t)[0];e.getElementById(r)||(n=e.createElement(t),n.id=r,n.src="//platform.twitter.com/widgets.js",i.parentNode.insertBefore(n,i))}(document,"script","twitter-wjs");
-//]]>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function(){ 
+    var gads = document.createElement('script'); gads.async = true;
+    gads.type = 'text/javascript'; 
+    var useSSL = 'https:' == document.location.protocol; gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0]; 
+    node.parentNode.insertBefore(gads, node); 
+  })();
 </script>
 
+<script src="https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js"></script>
 <script>
-//<![CDATA[
-var googletag=googletag||{};googletag.cmd=googletag.cmd||[],function(){var t=document.createElement("script");t.async=!0,t.type="text/javascript";var e="https:"==document.location.protocol;t.src=(e?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(t,o)}();
-//]]>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    var mapping1 = googletag.sizeMapping()
+      .addSize([1080, 0], [300, 250])
+      .addSize([760, 0], [160, 600])
+      .addSize([300, 0], [300, 250])
+      .addSize([0, 0], [])
+        .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [320, 50], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .set('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_300x250_1', [[300, 250], [160, 600], [300, 250]], 'right_rectangle')
+   	.defineSizeMapping(mapping1)
+   	.set('sizeMap', mapping1)
+    .addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
 </script>
-<script>
-//<![CDATA[
-googletag.cmd.push(function(){var e=googletag.sizeMapping().addSize([761,0],[728,90]).addSize([320,0],[320,50]).addSize([0,0],[]).build();googletag.defineSlot("/170737076/hdb_728x90_1",[[728,90],[320,50]],"top_leaderboard").defineSizeMapping(e).addService(googletag.pubads()),googletag.pubads().enableSingleRequest(),googletag.pubads().collapseEmptyDivs(),googletag.enableServices()});
-//]]>
-</script>
+<link rel="canonical" href="http://www.hockeydb.com/ihdb/stats/leagues/seasons/teams/0008402002.html" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script src="/js/jquery.mobile.custom.min.js"></script>
+<script src="/js/jquery.sticky-kit.js"></script>
 
-   <style type="text/css" >td{white-space:normal!important}BODY{background-color:#057;font-family:Verdana,Tahoma,Arial,Helvetica,sans-serif;font-size:13px;margin:0;background-image:url(data:image/gif;charset=binary;base64,R0lGODlhAQBHAuYAAABJYgBCVABGXABRcQBAUgBQbQBMZgBNaQBEWQBLZQBHXwBHXgBIXwBFWwBMZwBPbQBKYwA/UABEVwBOaQBPbABOagBFXABIYABLZgBQbwBKYgBRbwBUdQBTdQBNaABCUwA4RwBCVgAzQAA7SgAlLgAwPAAyPwBJYAAvOgA9TABDVwBBUgA5SAA8SwAsNwA9TQApMgA3RgBGXQAkLAA+TgArNgA2RQAiKgA0QQAhKQAmLwAnMAAqNAA6SQA1QwAfJgAoMQAtOABPawAuOQA2QwAeJQAxPgAfJwA+TQApMwAgKAAyPgAoMgA+TwA8TAArNQAuOgAgJwAxPQA1QgAjKwAiKwAhKAA2RAA3RQA0QgA5SQAkLQAjLAAsNgBTcgA/TwAqMwBMaABTcwBJYQBHXQBAUQBRcgBOawBDVgBLZABPbgBEWABBUwBQcABCVQBSdABFWgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAABAEcCAAf/gEU/P0dRSlY5OTc3VVRcMzNbJJM6Ojs7QEBMMDBJYDw8TzU1XS4uQUFDQ1AorSWvUkZLJrQitjg4WVM+PkRXNjZYMTEgxSzHWj09I8wtzk4p0S8vSDQ0TV8R2ttl3d7f3wTi4+MrK2znbOrr7O0f7x8B8vP0bgFu+Pn6+/gh/mgAAwocqKKghIMI1yhcyLChQgQQIyKAMxGOxYsYM8JpwLFjAwsgQQoYSbKkDBlkUqpcuXKBy5cuFcicKZOBzZs2L+jUeaLnmJ9AgwYFQLSoUaIakmqAwLQphDRQo0qdmiaB1atWMWjVaqCrV68Owop1EKas2bNlPaj1cKCtW7cTUuLKrUC37pm7ePPqFSKEgt+/DwILflCgsGHDahIrXsxYTYbHGTZI3tCmsuXLmCsP2MyZs5kBZkKLHj3ai5jTqFOffsO6tevXrDu86UCbg20OgQAAOw==);background-repeat:repeat-x}.tablebgl{background-color:#FFF;padding:8px;float:left;border:1px solid #000;margin:8px 0 8px 8px;-moz-border-radius:10px;-webkit-border-radius:10px;border-radius:10px}.title{font-size:large;font-weight:700;padding:3px;margin:0}</style>
+<style>
+.sponsor {
+   margin-top:24px !important;
+}
+
+#mt {
+   width:inherit !important;
+}
+
+.tablebg td {
+    border-color: rgb(203, 192, 192);
+}
 
 
+.tablebg table td A:link {
+    font-weight: initial;
+    color: black;
+}
 
+#tooltip
+{
+    text-align: center;
+    color: #fff;
+    background: #111;
+    position: absolute;
+    z-index: 100;
+    padding: 15px;
+}
+ 
+    #tooltip:after /* triangle decoration */
+    {
+        width: 0;
+        height: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px solid #111;
+        content: '';
+        position: absolute;
+        left: 50%;
+        bottom: -10px;
+        margin-left: -10px;
+    }
+ 
+        #tooltip.top:after
+        {
+            border-top-color: transparent;
+            border-bottom: 10px solid #111;
+            top: -20px;
+            bottom: auto;
+        }
+ 
+        #tooltip.left:after
+        {
+            left: 10px;
+            margin: 0;
+        }
+ 
+        #tooltip.right:after
+        {
+            right: 10px;
+            left: auto;
+            margin: 0;
+        }
+</style>
+</head>
 
-<div class="tablebgl" style="width:700px; margin-left:10px;">
+<body itemscope itemtype="http://schema.org/WebPage">
 
-   <div class="title">Please complete this challenge</div>
-
-   <img style="width:50px; height:50px;" src="data:image/gif;charset=binary;base64,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">
-
-   <p>Thank you for visiting Hockeydb.com. We are unsure if you are an actual human visitor, or if you are a web robot, so we need you to complete this test before proceeding.</p>
-
-   <p>Please note that using an ad blocker on this site can cause this message, and can lead to our filters blocking your IP as a bot. Hockeydb.com depends on 
-advertising, and we do not run intrusive ads, so please be considerate and turn off your ad blocker if you're a frequent user of our site.</p>
-
-<p>Happy hockey!</p>
-
-   <p>
-   <form class="challenge-form" id="challenge-form" action="/cdn-cgi/l/chk_captcha" method="get">
-  <input type="hidden" name="s" value="f8d3a586a6f938918e6c64ac2abda2362ea6e215-1564420014-1800-AVCiY1WB5Aiv7+fOWmXCYfzLQPJ3aS6RwS1zqU9/yc1CXHtjV9Cf/fKzeBkE12607+uupFPoYAxCYG8gay8WRulZSicrTLJCDhgcFQdb9pKKdWTY8dC7hOEsOEQbhGKbQ6sAAs616eqcO3+iEqHgTte7xIMOtyZoWlqhlmNE1blt596LfvddvBDe8I/qDWo06A=="></input>
-  <script type="text/javascript" src="/cdn-cgi/scripts/cf.challenge.js" data-type="normal"  data-ray="4fe0afa3bd34b25f" async data-sitekey="6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0"></script>
-  <div class="g-recaptcha"></div>
-  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
-    <div><div style="width: 302px">
-      <div>
-        <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0" frameborder="0" scrolling="no" style="width: 302px; height:422px; border-style: none;"></iframe>
-      </div>
-      <div style="width: 300px; border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
-        <textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;"></textarea>
-        <input type="submit" value="Submit"></input>
-      </div>
-    </div></div>
-  </noscript>
-</form>
-
-   </p>
-
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
 </div>
-</head></html>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+<script>
+$( function()
+{
+    var targets = $( '[rel~=tooltip]' ),
+        target  = false,
+        tooltip = false,
+        title   = false;
+ 
+    targets.bind( 'mouseenter', function()
+    {
+        target  = $( this );
+        tip     = target.attr( 'title' );
+        tooltip = $( '<div id="tooltip"></div>' );
+ 
+        if( !tip || tip == '' )
+            return false;
+ 
+        target.removeAttr( 'title' );
+        tooltip.css( 'opacity', 0 )
+               .html( tip )
+               .appendTo( 'body' );
+ 
+        var init_tooltip = function()
+        {
+            tooltip.css( 'max-width', 340);
+ 
+            var pos_left = target.offset().left + ( target.outerWidth() / 2 ) - ( tooltip.outerWidth() / 2 ),
+                pos_top  = target.offset().top - tooltip.outerHeight() - 20;
+ 
+            if( pos_left < 0 )
+            {
+                pos_left = target.offset().left + target.outerWidth() / 2 - 20;
+                tooltip.addClass( 'left' );
+            }
+            else
+                tooltip.removeClass( 'left' );
+ 
+            if( pos_left + tooltip.outerWidth() > $( window ).width() )
+            {
+                pos_left = target.offset().left - tooltip.outerWidth() + target.outerWidth() / 2 + 20;
+                tooltip.addClass( 'right' );
+            }
+            else
+                tooltip.removeClass( 'right' );
+ 
+            if( pos_top < 0 )
+            {
+                var pos_top  = target.offset().top + target.outerHeight();
+                tooltip.addClass( 'top' );
+            }
+            else
+                tooltip.removeClass( 'top' );
+ 
+            tooltip.css( { left: pos_left, top: pos_top } )
+                   .animate( { top: '+=10', opacity: 1 }, 50 );
+        };
+ 
+        init_tooltip();
+        $( window ).resize( init_tooltip );
+ 
+        var remove_tooltip = function()
+        {
+            tooltip.animate( { top: '-=10', opacity: 0 }, 50, function()
+            {
+                $( this ).remove();
+            });
+ 
+            target.attr( 'title', tip );
+        };
+ 
+        target.bind( 'mouseleave', remove_tooltip );
+        tooltip.bind( 'click', remove_tooltip );
+    });
+});
+</script><div id="mt" class="multitable">
+<br /><div class="tablebg" style="-width:742px;">
+<div id="ribbon">
+<div style="float:left">
+   <h1 class="title">2001-02 Sarnia Sting roster and statistics</h1>   <div class="breadcrumb"><a href="/ihdb/stats/leagues.html">League Search Page</a> -> <a href="http://www.hockeydb.com/ihdb/stats/leagues/167.html">OHL</a> -> <a href="/ihdb/stats/leagues/seasons/ohl19892002.html">2001-02</a> -> <a href="/stte/sarnia-sting-7891.html">Sarnia Sting</a> -> Roster & Statistics</div>
+   <div style="margin: 5px 5px 10px;"><a target="_blank" href="/ihdb/stats/player_register.php?tid=840&sid=2002">Click to view Player Register</a></div>
+</div>
+<div style="padding:4px; border-width:1px; border-style:solid; border-color:black; background-color:white;float: right; margin-bottom: 10px;">   <a href="/ihdb/stats/team_results.php?tid=840&amp;sid=2002"><span class="c">Game-by-game results</span></a> <br /><img style="border:0;" alt="game results graph" src="/common/team_result_graph.php?tid=840&amp;sid=2002&amp;size=small" />
+</div>
+<br style="clear:left" />
+<div style="float:left; margin-left:10px; margin-top:5px; padding:4px; border-width:1px; border-style:solid; border-color:black; background-color:white;">
+Head Coach: <a href="/ihdb/stats/pdisplay.php?pid=4254">Jeff Perry</a> (27-29-5-7) <br /></div>
+<br style="clear:left" />
+<div style="float:left; margin-left:10px; margin-top:10px;">
+<a href="/ihdb/stats/roster_gallery.php?tid=840&amp;sid=2002">View photo gallery</a> [5 photos of 36 players]
+</div>
+<div style="clear:both"></div>
+</div>
+<br />
+<table class="sortable autostripe">
+<thead>
+<tr>
+<th class="norow" colspan="3"></th>
+<th class="c_sec_head" colspan="6" style="text-align:center;">Regular Season</th>
+<th class="c_sec_head" colspan="5" style="text-align:center;">Playoffs</th>
+<th class="c_sec_head" colspan="2" style="text-align:center;">Vitals</th>
+</tr>
+<tr class="c_sort_head">
+<th>#</th>
+<th class="l">Player Name</th>
+<th>Pos.</th>
+<th>GP</th>
+<th>G</th>
+<th>A</th>
+<th>Pts</th>
+<th>PIM</th>
+<th class="htext">+/-</th>
+<th>GP</th>
+<th>G</th>
+<th>A</th>
+<th>Pts</th>
+<th>PIM</th>
+<th>Birthplace</th>
+<th>Age</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>17</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=42303">Kris Newbury</a></td>
+<td class="l">C</td>
+<td class="stat">66</td>
+<td class="stat">42</td>
+<td class="stat">62</td>
+<td class="stat">104</td>
+<td class="stat">141</td>
+<td>5</td>
+<td class="stat">5</td>
+<td class="stat">1</td>
+<td class="stat">3</td>
+<td class="stat">4</td>
+<td class="stat">15</td>
+<td class="l">ONT: Brampton</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td>44</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=31752">Dusty Jamieson</a></td>
+<td class="l">L</td>
+<td class="stat">68</td>
+<td class="stat">44</td>
+<td class="stat">53</td>
+<td class="stat">97</td>
+<td class="stat">33</td>
+<td>6</td>
+<td class="stat">5</td>
+<td class="stat">5</td>
+<td class="stat">1</td>
+<td class="stat">6</td>
+<td class="stat">4</td>
+<td class="l">ONT: Forest</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>19</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=50240">Eric Himelfarb</a></td>
+<td class="l">C</td>
+<td class="stat">67</td>
+<td class="stat">35</td>
+<td class="stat">48</td>
+<td class="stat">83</td>
+<td class="stat">67</td>
+<td>-8</td>
+<td class="stat">5</td>
+<td class="stat">1</td>
+<td class="stat">4</td>
+<td class="stat">5</td>
+<td class="stat">11</td>
+<td class="l">ONT: Thornhill</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=55305">John Hecimovic</a></td>
+<td class="l">R</td>
+<td class="stat">65</td>
+<td class="stat">30</td>
+<td class="stat">19</td>
+<td class="stat">49</td>
+<td class="stat">64</td>
+<td>-4</td>
+<td class="stat">5</td>
+<td class="stat">1</td>
+<td class="stat">3</td>
+<td class="stat">4</td>
+<td class="stat">2</td>
+<td class="l">ONT: Waterloo</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td>27</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=56805">Juris Stals</a></td>
+<td class="l">C</td>
+<td class="stat">60</td>
+<td class="stat">23</td>
+<td class="stat">22</td>
+<td class="stat">45</td>
+<td class="stat">12</td>
+<td>-5</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td class="l">Latvia: Riga</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td>16</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=50266">Matt Bannan</a><sup rel="tooltip" title="From Toronto"> 1 </sup></td>
+<td class="l">R</td>
+<td class="stat">56</td>
+<td class="stat">5</td>
+<td class="stat">28</td>
+<td class="stat">33</td>
+<td class="stat">93</td>
+<td>-3</td>
+<td class="stat">5</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">12</td>
+<td class="l">ONT: Toronto</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=42452">Ryan Hare</a></td>
+<td class="l">C</td>
+<td class="stat">58</td>
+<td class="stat">11</td>
+<td class="stat">17</td>
+<td class="stat">28</td>
+<td class="stat">35</td>
+<td>-2</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">8</td>
+<td class="l">ONT: Sarnia</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=48755">Marc Lefebvre</a></td>
+<td class="l">L</td>
+<td class="stat">67</td>
+<td class="stat">11</td>
+<td class="stat">13</td>
+<td class="stat">24</td>
+<td class="stat">42</td>
+<td>-3</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">ONT: Kanata</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=59664">Dan Fritsche</a></td>
+<td class="l">C</td>
+<td class="stat">17</td>
+<td class="stat">5</td>
+<td class="stat">13</td>
+<td class="stat">18</td>
+<td class="stat">20</td>
+<td>1</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">OH: Parma</td>
+<td>16</td>
+</tr>
+
+<tr>
+<td>20</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=55308">Mike Craigen</a></td>
+<td class="l">R</td>
+<td class="stat">50</td>
+<td class="stat">3</td>
+<td class="stat">15</td>
+<td class="stat">18</td>
+<td class="stat">107</td>
+<td>-2</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">12</td>
+<td class="l">ONT: Buckhorn</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td>23</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=71848">Ryan Del Monte</a></td>
+<td class="l">R</td>
+<td class="stat">67</td>
+<td class="stat">6</td>
+<td class="stat">11</td>
+<td class="stat">17</td>
+<td class="stat">62</td>
+<td>-17</td>
+<td class="stat">5</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td class="l">ONT: Mississauga</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=55307">Jeff Luckovitch</a></td>
+<td class="l">D</td>
+<td class="stat">63</td>
+<td class="stat">2</td>
+<td class="stat">13</td>
+<td class="stat">15</td>
+<td class="stat">110</td>
+<td>3</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">6</td>
+<td class="l">ONT: London</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td>12</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=62205">Anthony Butera</a></td>
+<td class="l">R</td>
+<td class="stat">62</td>
+<td class="stat">0</td>
+<td class="stat">12</td>
+<td class="stat">12</td>
+<td class="stat">56</td>
+<td>4</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">ONT: Woodbridge</td>
+<td>16</td>
+</tr>
+
+<tr>
+<td>13</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=59650">Chanse Fitzpatrick</a></td>
+<td class="l">R</td>
+<td class="stat">44</td>
+<td class="stat">4</td>
+<td class="stat">5</td>
+<td class="stat">9</td>
+<td class="stat">45</td>
+<td>-1</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="l">PEI: Cornwall</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=50174">John Jarram</a><sup rel="tooltip" title="From North Bay"> 2 </sup></td>
+<td class="l">D</td>
+<td class="stat">34</td>
+<td class="stat">2</td>
+<td class="stat">7</td>
+<td class="stat">9</td>
+<td class="stat">23</td>
+<td>-3</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Kitchener</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td>18</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=50123">Riley Moher</a></td>
+<td class="l">D</td>
+<td class="stat">68</td>
+<td class="stat">2</td>
+<td class="stat">7</td>
+<td class="stat">9</td>
+<td class="stat">104</td>
+<td>5</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">14</td>
+<td class="l">ONT: Port Credit</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td>21</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=55306">Reg Thomas</a></td>
+<td class="l">L</td>
+<td class="stat">29</td>
+<td class="stat">5</td>
+<td class="stat">2</td>
+<td class="stat">7</td>
+<td class="stat">58</td>
+<td>2</td>
+<td class="stat">5</td>
+<td class="stat">3</td>
+<td class="stat">0</td>
+<td class="stat">3</td>
+<td class="stat">6</td>
+<td class="l">ONT: London</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=50224">Josh Chambers</a><sup rel="tooltip" title="To Plymouth"> 3 </sup></td>
+<td class="l">D</td>
+<td class="stat">13</td>
+<td class="stat">2</td>
+<td class="stat">4</td>
+<td class="stat">6</td>
+<td class="stat">8</td>
+<td>10</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">MI: Carleton</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=42336">Julius Halfkenny</a></td>
+<td class="l">D</td>
+<td class="stat">8</td>
+<td class="stat">0</td>
+<td class="stat">6</td>
+<td class="stat">6</td>
+<td class="stat">8</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Scarborough</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>22</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=59696">Jeff Whitfield</a></td>
+<td class="l">D</td>
+<td class="stat">30</td>
+<td class="stat">0</td>
+<td class="stat">6</td>
+<td class="stat">6</td>
+<td class="stat">44</td>
+<td>8</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">6</td>
+<td class="l">ONT: Sault Ste. Marie</td>
+<td>16</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=50125">Kenny Jung</a></td>
+<td class="l">D</td>
+<td class="stat">59</td>
+<td class="stat">0</td>
+<td class="stat">6</td>
+<td class="stat">6</td>
+<td class="stat">42</td>
+<td>3</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">6</td>
+<td class="l">MI: Southfield</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td>14</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=55187">Frantisek Bakrlik</a><sup rel="tooltip" title="From Barrie"> 4 </sup></td>
+<td class="l">R</td>
+<td class="stat">25</td>
+<td class="stat">1</td>
+<td class="stat">4</td>
+<td class="stat">5</td>
+<td class="stat">22</td>
+<td>-8</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="stat">2</td>
+<td class="stat">15</td>
+<td class="l">Czech Rep.: Litvinoc</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=42450">Andre Robichaud</a><sup rel="tooltip" title="From Plymouth"> 5 </sup></td>
+<td class="l">D</td>
+<td class="stat">29</td>
+<td class="stat">1</td>
+<td class="stat">4</td>
+<td class="stat">5</td>
+<td class="stat">20</td>
+<td>-19</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="l">ONT: Timmins</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>13</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=42449">James Ramsay</a></td>
+<td class="l">L</td>
+<td class="stat">8</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="stat">38</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Ottawa</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>25</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=59637">Brad Smulders</a></td>
+<td class="l">C</td>
+<td class="stat">17</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="stat">2</td>
+<td class="stat">2</td>
+<td>-5</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Sarnia</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td>14</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=62206">Matt Simmons</a></td>
+<td class="l"></td>
+<td class="stat">17</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="stat">2</td>
+<td class="stat">18</td>
+<td>-2</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l"></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=50244">Jason Penner</a><sup rel="tooltip" title="To Peterborough"> 6 </sup></td>
+<td class="l">C</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td>2</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Leamington</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=62207">David Pszenyczny</a></td>
+<td class="l">D</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">4</td>
+<td>1</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">MI: Sterling Heights</td>
+<td>16</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=55189">Bryan Hayes</a><sup rel="tooltip" title="From Barrie"> 4 </sup></td>
+<td class="l">D</td>
+<td class="stat">8</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">6</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Toronto</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td>31</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=55311">Robert Gherson</a></td>
+<td class="l">G</td>
+<td class="stat">55</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">12</td>
+<td>0</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">ONT: Toronto</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td>25</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=62208">Steve Haddon</a></td>
+<td class="l">F</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Sarnia</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td>1</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=55313">Tom Rogerson</a></td>
+<td class="l">G</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Ottawa</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td>16</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=62209">Josh Warden</a></td>
+<td class="l">L</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>-5</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l"></td>
+<td></td>
+</tr>
+
+<tr>
+<td>25</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=62210">Colin Baker</a></td>
+<td class="l">F</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>-2</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Oshawa</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=42310">Cory Campbell</a><sup rel="tooltip" title="To Windsor"> 7 </sup></td>
+<td class="l">G</td>
+<td class="stat">11</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Stratford</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>1</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=62211">John Barrow</a></td>
+<td class="l">G</td>
+<td class="stat">13</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">ONT: Kitchener</td>
+<td>17</td>
+</tr>
+
+</tbody>
+<tfoot>
+<tr class="c_sec_foot">
+<td style="text-align: left;" colspan="6">Totals</td>
+<td></td>
+<td>236</td>
+<td>385</td>
+<td>621</td>
+<td>1298</td>
+<td></td>
+<td colspan="5"></td>
+</tr>
+</tfoot>
+</table>
+<br />
+<div id="goalie_scoring">
+<table class="sortable autostripe goalietab">
+<thead><tr><th class="c_sec_head l" colspan="12">Goalies</th></tr><tr class="c_sort_head"><th class="l">Player Name</th><th>GP</th><th>Min</th><th class="c_sort_head">GA</th><th>GAA</th><th>W</th><th>L</th><th>T</th><th>Svs</th><th>Pct</th><th>EN</th><th>SO</th></tr></thead>
+<tbody><tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=55311">Robert Gherson</a></td><td>55</td><td>3098</td><td>183</td><td>3.54</td><td>20</td><td>28</td><td>4</td><td>1595</td><td>0.897</td><td>7</td><td>1</td></tr>
+<tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=62211">John Barrow</a></td><td>13</td><td>462</td><td>29</td><td>3.77</td><td>2</td><td>5</td><td>0</td><td>230</td><td>0.888</td><td>1</td><td>0</td></tr>
+<tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=42310">Cory Campbell</a></td><td>11</td><td>507</td><td>32</td><td>3.79</td><td>5</td><td>2</td><td>1</td><td>219</td><td>0.873</td><td>1</td><td>0</td></tr>
+<tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=55313">Tom Rogerson</a></td><td>2</td><td>63</td><td>7</td><td>6.67</td><td>0</td><td>1</td><td>0</td><td>36</td><td>0.837</td><td>0</td><td>0</td></tr>
+</tbody>
+</table>
+</div>
+<br />
+<div id="tradekeycontainer">
+<div id="tradekey">
+Trade Key
+</div>
+<div>1: From Toronto</div>
+<div>2: From North Bay</div>
+<div>3: To Plymouth</div>
+<div>4: From Barrie</div>
+<div>5: From Plymouth</div>
+<div>6: To Peterborough</div>
+<div>7: To Windsor</div>
+</div>
+</div>
+</div>
+<div class="sponsor">
+<div id='right_rectangle'>
+<script type="text/javascript" src="/proxy/ad_proxy_300_160_360.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('right_rectangle'); });
+</script>
+</div>
+</div>
+
+<script>
+$(".sponsor").each(function(){
+      var $this = $(this);
+      $this.data('fixed', $this.offset().left); // Left value for fixed position 
+      $this.data('absolute', $this.position().left); // Left value for absolute (on bottom)
+}); 
+
+$(".sponsor").stick_in_parent({ spacer: false })
+.on("sticky_kit:stick sticky_kit:unbottom", function(e) {
+  var $el = $(e.target);
+  $el.css({ 'left': $el.data('fixed') });
+})
+.on("sticky_kit:bottom", function(e) {
+  var $el = $(e.target);
+  $el.css({ 'left': $el.data('absolute') });
+});
+
+</script>
+
+<script>
+$("#mt").on("swipe",function(){
+  $('.multitable').each(function(i, el) {
+    $(el).css("width","765px");
+  })
+  $('.expand').each(function(i, el) {
+    $(el).css("display","none");
+  })
+  $("#mt").off()
+;})
+</script>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2011 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='//storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>
