@@ -6,8 +6,7 @@ const fs = require("fs");
 const path = require("path");
 const constants = require("./constants");
 const web_util = require("./web_util");
-
-const BASE_FOLDER = "_raw_data";
+const utils = require("./utils");
 
 module.exports = (years, done) => {
 
@@ -27,8 +26,6 @@ module.exports = (years, done) => {
 
 };
 
-
-
 const download_drafts_and_players = (years, done) => {
 
     console.log("downloading drafts");
@@ -36,7 +33,7 @@ const download_drafts_and_players = (years, done) => {
     async.eachSeries(years, (year, cb) => {
 
         let url = `http://www.hockeydb.com/ihdb/draft/nhl${year}e.html`;
-        web_util.downloadFile(url, {folder : `${BASE_FOLDER}/drafts`, name: `${year}.txt`}, (err, download) => {
+        web_util.downloadFile(url, {folder : `${constants.BASE_FOLDER}/drafts`, name: `${year}.txt`}, (err, download) => {
 
             if(err) return cb(err);
 
@@ -74,7 +71,7 @@ const download_drafts_and_players = (years, done) => {
             }
 
             async.eachSeries(players, (player, cb) => {
-                web_util.downloadFile(player.url, {folder : `${BASE_FOLDER}/players`, name: `${player.player_id}___${player.player_key}.txt`}, cb);
+                web_util.downloadFile(player.url, {folder : `${constants.BASE_FOLDER}/players`, name: `${player.player_id}___${player.player_key}.txt`}, cb);
             }, done);
 
         });
@@ -94,7 +91,7 @@ const download_leagues = (years, done) => {
         let league_key = league.toLowerCase();
         console.log("\ndownloading", league);
 
-        let league_folder = `${BASE_FOLDER}/teams/${league_key}`;
+        let league_folder = `${constants.BASE_FOLDER}/teams/${league_key}`;
         if(!fs.existsSync(path.join(__dirname, league_folder))){
             fs.mkdirSync(path.join(__dirname, league_folder));
         }
@@ -112,7 +109,7 @@ const download_leagues = (years, done) => {
 
             async.eachSeries(years, (year, cb) => {
 
-                let league_year_folder = `${BASE_FOLDER}/teams/${league_key}/${year}`;
+                let league_year_folder = `${constants.BASE_FOLDER}/teams/${league_key}/${year}`;
                 if(!fs.existsSync(path.join(__dirname, league_year_folder))) {
                     fs.mkdirSync(path.join(__dirname, league_year_folder));
                 }
@@ -133,10 +130,6 @@ const download_leagues = (years, done) => {
 
 };
 
-const pad = (num, digits) => {
-    return num.toString().padStart(digits, "0");
-};
-
 const get_league_info_from = (league, years, content) => {
 
     let url_map = {};
@@ -145,7 +138,7 @@ const get_league_info_from = (league, years, content) => {
     _.each(years, (year) => {
 
         console.log(`league ${league} year ${year}`);
-        let pattern = `<a href="(\/ihdb\/stats\/leagues\/seasons\/[^.]+.html)">(${year}-${pad(year - 1999, 2)})<\/a>`;
+        let pattern = `<a href="(\/ihdb\/stats\/leagues\/seasons\/[^.]+.html)">(${year}-${utils.pad(year - 1999, 2)})<\/a>`;
         let re = new RegExp(pattern, "g");
 
         let matches = re.exec(content);
@@ -187,12 +180,8 @@ const download_team_info_for = (league_year_folder, year, content, done) => {
         let url = `http://hockeydb.com/ihdb/stats/leagues/seasons/${matches[1]}`;
         let team_id = matches[2];
         let team_name = matches[3];
-        let team_key = team_name.toLowerCase()
-            .replace(/ /g, "_")
-            .replace(/[,.']+/g,"");
 
-
-        teams.push({url, team_id, team_name, team_key});
+        teams.push({url, team_id, team_name, file_name});
     }
 
     console.log(teams.length, "number of teams");
@@ -201,7 +190,8 @@ const download_team_info_for = (league_year_folder, year, content, done) => {
     }
 
     async.eachSeries(teams, (team, cb) => {
-        web_util.downloadFile(team.url, {folder : league_year_folder, name: `${team.team_id}___${team.team_key}.txt`}, cb);
+        let file_name = utils.getTeamFileFor(team.team_id, team.team_name);
+        web_util.downloadFile(team.url, {folder : league_year_folder, name: file_name }, cb);
     }, done);
 
 };
