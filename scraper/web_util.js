@@ -4,6 +4,8 @@ const _ = require("lodash");
 const fs = require("fs");
 const path = require("path");
 const http = require("http");
+const constants = require('./constants');
+const utils = require('./utils');
 
 // const SCRAPE_DELAY_IN_SECONDS = 5;
 // const BOT_DELAY_IN_SECONDS = 10;
@@ -12,27 +14,34 @@ const BOT_DELAY_IN_SECONDS = 120;
 
 let request_count = 1;
 
+exports.getTeamDataForStat = (stat, url, done) => {
+
+    let fileName = utils.getTeamFileFor(stat.team_id, stat.team_name);
+    let filePath = path.join(__dirname, constants.BASE_FOLDER, "teams", stat.team_league.toLowerCase(), stat.year, fileName);
+
+    let options = {
+        folder: `${constants.BASE_FOLDER}/${stat.team_league.toLowerCase()}/${stat.year}`,
+        name: fileName,
+        url: url
+    };
+
+    if (fs.existsSync(filePath)) {
+        return this.readFile(filePath, options, done);
+    } else {
+        this.downloadFile(url, options, done);
+    }
+};
+
 exports.downloadFile = (url, options, done) => {
 
-    let fileName = path.join(__dirname, options.folder, options.name);
+    let filePath = path.join(__dirname, options.folder, options.name);
 
-    if (!options.force && fs.existsSync(fileName)) {
-        console.log("file name", fileName, "exists, loading");
-        fs.readFile(fileName, "utf-8", (err, contents) => {
-            if (err) return cb(err);
-            if (!!~contents.indexOf("404 Not Found")) {
-                console.log("===================404 file found. Re-downloading...");
-                return this.downloadFile(url, _.extend({force: true}, options), done);
-            }
-            if (!!~contents.indexOf("Please complete this test to move on")) {
-                console.log("===================Bot detection. Please wait...");
-                return this.downloadFile(url, _.extend({force: true}, options), done);
-            }
-            return done(err, {file_name: fileName, content: contents});
-        });
+    if (!options.force && fs.existsSync(filePath)) {
+        console.log("file name", filePath, "exists, loading");
+        return this.readFile(filePath, _.extend({url}, options), done);
     } else {
 
-        console.log(request_count++, "downloading", url, "to file", fileName);
+        console.log(request_count++, "downloading", url, "to file", filePath);
         const request_options = {
             host: "www.hockeydb.com",
             port: 80,
@@ -52,7 +61,7 @@ exports.downloadFile = (url, options, done) => {
             res.on("data", (chunk) => content += chunk);
 
             res.on("end", () => {
-                fs.writeFile(fileName, content, (err) => {
+                fs.writeFile(filePath, content, (err) => {
 
                     if (err) return cb(err);
 
@@ -73,7 +82,7 @@ exports.downloadFile = (url, options, done) => {
 
                     //wait a few seconds to reduce chance of being bot detected...
                     setTimeout(() => {
-                        done(err, {file_name: fileName, content: content});
+                        done(err, {file_name: filePath, content: content});
                     }, SCRAPE_DELAY_IN_SECONDS * 1000);
 
                 });
@@ -83,4 +92,19 @@ exports.downloadFile = (url, options, done) => {
         req.end();
     }
 
+};
+
+exports.readFile = (filePath, options, done) => {
+    fs.readFile(filePath, "utf-8", (err, contents) => {
+        if (err) return done(err);
+        if (!!~contents.indexOf("404 Not Found")) {
+            console.log("===================404 file found. Re-downloading...");
+            return this.downloadFile(options.url, _.extend({force: true}, options), done);
+        }
+        if (!!~contents.indexOf("Please complete this test to move on")) {
+            console.log("===================Bot detection. Please wait...");
+            return this.downloadFile(options.url, _.extend({force: true}, options), done);
+        }
+        return done(err, {file_name: filePath, content: contents});
+    });
 };

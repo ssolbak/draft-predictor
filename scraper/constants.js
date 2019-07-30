@@ -1,5 +1,7 @@
 "use strict";
 
+exports.BASE_FOLDER = "_raw_data";
+
 exports.leagues = {
     'OHL': {
         name: 'OHL',
