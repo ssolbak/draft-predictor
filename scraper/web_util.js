@@ -63,7 +63,7 @@ exports.downloadFile = (url, options, done) => {
             res.on("end", () => {
                 fs.writeFile(filePath, content, (err) => {
 
-                    if (err) return cb(err);
+                    if (err) return done(err);
 
                     if (!!~content.indexOf("404 Not Found")) {
                         return done("404 file found at url " + url);
