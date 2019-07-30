@@ -181,7 +181,7 @@ const download_team_info_for = (league_year_folder, year, content, done) => {
         let team_id = matches[2];
         let team_name = matches[3];
 
-        teams.push({url, team_id, team_name, file_name});
+        teams.push({url, team_id, team_name});
     }
 
     console.log(teams.length, "number of teams");
