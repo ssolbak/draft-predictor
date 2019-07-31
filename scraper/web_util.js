@@ -9,7 +9,7 @@ const utils = require('./utils');
 
 // const SCRAPE_DELAY_IN_SECONDS = 5;
 // const BOT_DELAY_IN_SECONDS = 10;
-const SCRAPE_DELAY_IN_SECONDS = 240; // 4 min
+const SCRAPE_DELAY_IN_SECONDS = 600;
 const BOT_DELAY_IN_SECONDS = 600;
 
 let request_count = 1;
@@ -76,15 +76,13 @@ exports.downloadFile = (url, options, done) => {
                         console.log("waiting.....");
                         setTimeout(() => {
                             return this.downloadFile(url, options, done);
-                        }, (BOT_DELAY_IN_SECONDS * Math.pow(2, options.retry_count) * 1000));
-                        return;
+                        }, (BOT_DELAY_IN_SECONDS * 1000));
+                    } else {
+                        //wait a few seconds to reduce chance of being bot detected...
+                        setTimeout(() => {
+                            done(err, {file_name: filePath, content: content});
+                        }, SCRAPE_DELAY_IN_SECONDS * 1000);
                     }
-
-                    //wait a few seconds to reduce chance of being bot detected...
-                    setTimeout(() => {
-                        done(err, {file_name: filePath, content: content});
-                    }, SCRAPE_DELAY_IN_SECONDS * 1000);
-
                 });
             });
         });
