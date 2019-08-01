@@ -9,8 +9,8 @@ const utils = require('./utils');
 
 // const SCRAPE_DELAY_IN_SECONDS = 5;
 // const BOT_DELAY_IN_SECONDS = 10;
-const SCRAPE_DELAY_IN_SECONDS = 600;
-const BOT_DELAY_IN_SECONDS = 600;
+const SCRAPE_DELAY_IN_SECONDS = 3000;
+const BOT_DELAY_IN_SECONDS = 3000;
 
 let request_count = 1;
 
