@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<title>Barrie Colts 2012-13 roster and scoring statistics at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="The roster, scoring and goaltender statistics for the 2012-13 Barrie Colts playing in the OHL." />
+<title>Plymouth Whalers 2012-13 roster and scoring statistics at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="The roster, scoring and goaltender statistics for the 2012-13 Plymouth Whalers playing in the OHL." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -55,7 +55,7 @@
     googletag.enableServices();
   });
 </script>
-<link rel="canonical" href="http://www.hockeydb.com/ihdb/stats/leagues/seasons/teams/0008352013.html" />
+<link rel="canonical" href="http://www.hockeydb.com/ihdb/stats/leagues/seasons/teams/0011452013.html" />
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script src="/js/jquery.mobile.custom.min.js"></script>
 <script src="/js/jquery.sticky-kit.js"></script>
 
@@ -247,17 +247,17 @@ $( function()
 <br /><div class="tablebg" style="-width:742px;">
 <div id="ribbon">
 <div style="float:left">
-   <h1 class="title">2012-13 Barrie Colts roster and statistics</h1>   <div class="breadcrumb"><a href="/ihdb/stats/leagues.html">League Search Page</a> -> <a href="http://www.hockeydb.com/ihdb/stats/leagues/167.html">OHL</a> -> <a href="/ihdb/stats/leagues/seasons/ohl19892013.html">2012-13</a> -> <a href="/stte/barrie-colts-4779.html">Barrie Colts</a> -> Roster & Statistics</div>
-   <div style="margin: 5px 5px 10px;"><a target="_blank" href="/ihdb/stats/player_register.php?tid=835&sid=2013">Click to view Player Register</a></div>
+   <h1 class="title">2012-13 Plymouth Whalers roster and statistics</h1>   <div class="breadcrumb"><a href="/ihdb/stats/leagues.html">League Search Page</a> -> <a href="http://www.hockeydb.com/ihdb/stats/leagues/167.html">OHL</a> -> <a href="/ihdb/stats/leagues/seasons/ohl19892013.html">2012-13</a> -> <a href="/stte/plymouth-whalers-7484.html">Plymouth Whalers</a> -> Roster & Statistics</div>
+   <div style="margin: 5px 5px 10px;"><a target="_blank" href="/ihdb/stats/player_register.php?tid=1145&sid=2013">Click to view Player Register</a></div>
 </div>
-<div style="padding:4px; border-width:1px; border-style:solid; border-color:black; background-color:white;float: right; margin-bottom: 10px;">   <a href="/ihdb/stats/team_results.php?tid=835&amp;sid=2013"><span class="c">Game-by-game results</span></a> <br /><img style="border:0;" alt="game results graph" src="/common/team_result_graph.php?tid=835&amp;sid=2013&amp;size=small" />
+<div style="padding:4px; border-width:1px; border-style:solid; border-color:black; background-color:white;float: right; margin-bottom: 10px;">   <a href="/ihdb/stats/team_results.php?tid=1145&amp;sid=2013"><span class="c">Game-by-game results</span></a> <br /><img style="border:0;" alt="game results graph" src="/common/team_result_graph.php?tid=1145&amp;sid=2013&amp;size=small" />
 </div>
 <br style="clear:left" />
 <div style="float:left; margin-left:10px; margin-top:5px; padding:4px; border-width:1px; border-style:solid; border-color:black; background-color:white;">
-Head Coach: <a href="/ihdb/stats/pdisplay.php?pid=2199">Dale Hawerchuk</a> (44-20-0-4) <br />Assistant Coach: <a href="/ihdb/stats/pdisplay.php?pid=24127">Todd Miller</a> <br />Assistant Coach: <a href="/ihdb/stats/pdisplay.php?pid=5682">Jay Wells</a> <br />Goalie Coach: <a href="/ihdb/stats/pdisplay.php?pid=7306">Mike Rosati</a> <br /></div>
+Head Coach: <a href="/ihdb/stats/pdisplay.php?pid=5560">Mike Vellucci</a> (42-17-0-9) <br />Associate Coach: <a href="/ihdb/stats/pdisplay.php?pid=5164">Joe Stefan</a> <br />Assistant Coach: <a href="/ihdb/stats/pdisplay.php?pid=140123">Don Elland</a> <br />Goalie Coach: <a href="/ihdb/stats/pdisplay.php?pid=14741">Stan Matwijiw</a> <br />Video Coach: <a href="/ihdb/stats/pdisplay.php?pid=162778">Scott MacDonald</a> <br /></div>
 <br style="clear:left" />
 <div style="float:left; margin-left:10px; margin-top:10px;">
-<a href="/ihdb/stats/roster_gallery.php?tid=835&amp;sid=2013">View photo gallery</a> [12 photos of 32 players]
+<a href="/ihdb/stats/roster_gallery.php?tid=1145&amp;sid=2013">View photo gallery</a> [14 photos of 28 players]
 </div>
 <div style="clear:both"></div>
 </div>
@@ -293,610 +293,534 @@ Head Coach: <a href="/ihdb/stats/pdisplay.php?pid=2199">Dale Hawerchuk</a> (44-2
 <tbody>
 <tr>
 <td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=122931">Zach Hall</a></td>
-<td class="l">C</td>
-<td class="stat">63</td>
-<td class="stat">24</td>
-<td class="stat">57</td>
-<td class="stat">81</td>
-<td class="stat">38</td>
-<td>9</td>
-<td class="stat">19</td>
-<td class="stat">7</td>
-<td class="stat">21</td>
-<td class="stat">28</td>
-<td class="stat">20</td>
-<td class="l">ONT: Belleville</td>
-<td>19</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=130548">Mark Scheifele</a></td>
-<td class="l">C</td>
-<td class="stat">45</td>
-<td class="stat">39</td>
-<td class="stat">40</td>
-<td class="stat">79</td>
-<td class="stat">30</td>
-<td>27</td>
-<td class="stat">21</td>
-<td class="stat">15</td>
-<td class="stat">26</td>
-<td class="stat">41</td>
-<td class="stat">14</td>
-<td class="l">ONT: Kitchener</td>
-<td>19</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=121680">Steven Beyers</a></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=122891">Garrett Meurs</a></td>
 <td class="l">R</td>
+<td class="stat">68</td>
+<td class="stat">32</td>
+<td class="stat">33</td>
+<td class="stat">65</td>
 <td class="stat">66</td>
-<td class="stat">16</td>
-<td class="stat">53</td>
-<td class="stat">69</td>
-<td class="stat">22</td>
-<td>21</td>
-<td class="stat">22</td>
-<td class="stat">6</td>
-<td class="stat">15</td>
-<td class="stat">21</td>
-<td class="stat">2</td>
-<td class="l">ONT: Orangeville</td>
-<td>20</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=130614">Andreas Athanasiou</a></td>
-<td class="l">C</td>
-<td class="stat">66</td>
-<td class="stat">29</td>
-<td class="stat">38</td>
-<td class="stat">67</td>
-<td class="stat">30</td>
-<td>13</td>
-<td class="stat">22</td>
-<td class="stat">12</td>
-<td class="stat">13</td>
-<td class="stat">25</td>
-<td class="stat">11</td>
-<td class="l">ONT: Woodbridge</td>
 <td>18</td>
+<td class="stat">15</td>
+<td class="stat">7</td>
+<td class="stat">7</td>
+<td class="stat">14</td>
+<td class="stat">22</td>
+<td class="l">ONT: Ripley</td>
+<td>19</td>
 </tr>
 
 <tr>
 <td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=122851">Anthony Camara</a></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=145073">Matthew Mistele</a></td>
 <td class="l">L</td>
-<td class="stat">50</td>
-<td class="stat">36</td>
-<td class="stat">24</td>
+<td class="stat">68</td>
+<td class="stat">34</td>
+<td class="stat">26</td>
 <td class="stat">60</td>
-<td class="stat">91</td>
-<td>17</td>
-<td class="stat">16</td>
+<td class="stat">69</td>
+<td>32</td>
 <td class="stat">9</td>
-<td class="stat">7</td>
+<td class="stat">3</td>
+<td class="stat">2</td>
+<td class="stat">5</td>
+<td class="stat">8</td>
+<td class="l">ONT: Whitby</td>
+<td>16</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=130904">Ryan Hartman</a></td>
+<td class="l">R</td>
+<td class="stat">56</td>
+<td class="stat">23</td>
+<td class="stat">37</td>
+<td class="stat">60</td>
+<td class="stat">120</td>
+<td>29</td>
+<td class="stat">9</td>
+<td class="stat">4</td>
+<td class="stat">2</td>
+<td class="stat">6</td>
 <td class="stat">16</td>
-<td class="stat">42</td>
+<td class="l">SC: Hilton Head Island</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=122917">Vincent Trocheck</a><sup rel="tooltip" title="From Saginaw"> 1 </sup></td>
+<td class="l">C</td>
+<td class="stat">28</td>
+<td class="stat">26</td>
+<td class="stat">33</td>
+<td class="stat">59</td>
+<td class="stat">24</td>
+<td>31</td>
+<td class="stat">15</td>
+<td class="stat">10</td>
+<td class="stat">14</td>
+<td class="stat">24</td>
+<td class="stat">8</td>
+<td class="l">PA: Pittsburgh</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=130599">Tom Wilson</a></td>
+<td class="l">R</td>
+<td class="stat">48</td>
+<td class="stat">23</td>
+<td class="stat">35</td>
+<td class="stat">58</td>
+<td class="stat">104</td>
+<td>36</td>
+<td class="stat">12</td>
+<td class="stat">9</td>
+<td class="stat">8</td>
+<td class="stat">17</td>
+<td class="stat">41</td>
 <td class="l">ONT: Toronto</td>
 <td>18</td>
 </tr>
 
 <tr>
 <td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=116421">Ryan O'Connor</a></td>
-<td class="l">D</td>
-<td class="stat">64</td>
-<td class="stat">18</td>
-<td class="stat">35</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=122895">Stefan Noesen</a></td>
+<td class="l">R</td>
+<td class="stat">51</td>
+<td class="stat">25</td>
+<td class="stat">28</td>
 <td class="stat">53</td>
-<td class="stat">38</td>
-<td>0</td>
+<td class="stat">43</td>
+<td>7</td>
+<td class="stat">15</td>
+<td class="stat">7</td>
 <td class="stat">12</td>
+<td class="stat">19</td>
+<td class="stat">24</td>
+<td class="l">TX: Plano</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=130588">Gianluca Curcuruto</a></td>
+<td class="l">D</td>
+<td class="stat">67</td>
+<td class="stat">9</td>
+<td class="stat">38</td>
+<td class="stat">47</td>
+<td class="stat">32</td>
+<td>36</td>
+<td class="stat">11</td>
 <td class="stat">2</td>
+<td class="stat">7</td>
+<td class="stat">9</td>
+<td class="stat">7</td>
+<td class="l">ONT: Richmond Hill</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=130577">Cody Payne</a></td>
+<td class="l">C</td>
+<td class="stat">66</td>
+<td class="stat">24</td>
+<td class="stat">21</td>
+<td class="stat">45</td>
+<td class="stat">75</td>
+<td>16</td>
+<td class="stat">15</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td class="stat">15</td>
+<td class="l">FL: Weston</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=130557">Rickard Rakell</a></td>
+<td class="l">L</td>
+<td class="stat">40</td>
+<td class="stat">21</td>
+<td class="stat">23</td>
+<td class="stat">44</td>
+<td class="stat">12</td>
+<td>19</td>
+<td class="stat">15</td>
 <td class="stat">6</td>
+<td class="stat">9</td>
+<td class="stat">15</td>
+<td class="stat">10</td>
+<td class="l">Sweden: Sundbyberg</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=130865">Connor Carrick</a></td>
+<td class="l">D</td>
+<td class="stat">68</td>
+<td class="stat">12</td>
+<td class="stat">32</td>
+<td class="stat">44</td>
+<td class="stat">79</td>
+<td>27</td>
+<td class="stat">15</td>
+<td class="stat">2</td>
+<td class="stat">16</td>
+<td class="stat">18</td>
+<td class="stat">6</td>
+<td class="l">IL: Orland Park</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=122869">Mitchell Heard</a></td>
+<td class="l">C</td>
+<td class="stat">32</td>
+<td class="stat">17</td>
+<td class="stat">19</td>
+<td class="stat">36</td>
+<td class="stat">34</td>
+<td>14</td>
+<td class="stat">14</td>
 <td class="stat">8</td>
+<td class="stat">5</td>
 <td class="stat">13</td>
-<td class="l">ONT: Hamilton</td>
+<td class="stat">37</td>
+<td class="l">ONT: Bowmanville</td>
 <td>20</td>
 </tr>
 
 <tr>
 <td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=145037">Aaron Ekblad</a></td>
-<td class="l">D</td>
-<td class="stat">54</td>
-<td class="stat">7</td>
-<td class="stat">27</td>
-<td class="stat">34</td>
-<td class="stat">64</td>
-<td>29</td>
-<td class="stat">22</td>
-<td class="stat">7</td>
-<td class="stat">10</td>
-<td class="stat">17</td>
-<td class="stat">28</td>
-<td class="l">ONT: Windsor</td>
-<td>16</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=116001">Alex Aleardi</a><sup rel="tooltip" title="To Windsor"> 2 </sup></td>
+<td class="l">R</td>
+<td class="stat">39</td>
+<td class="stat">15</td>
+<td class="stat">14</td>
+<td class="stat">29</td>
+<td class="stat">44</td>
+<td>5</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">IN: Fort Wayne</td>
+<td>20</td>
 </tr>
 
 <tr>
 <td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=127932">Erik Bradford</a></td>
-<td class="l">C</td>
-<td class="stat">68</td>
-<td class="stat">18</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=130492">Sebastian Uvira</a><sup rel="tooltip" title="From Oshawa"> 3 </sup></td>
+<td class="l">R</td>
+<td class="stat">26</td>
+<td class="stat">7</td>
+<td class="stat">14</td>
+<td class="stat">21</td>
+<td class="stat">31</td>
+<td>14</td>
 <td class="stat">15</td>
-<td class="stat">33</td>
-<td class="stat">46</td>
-<td>8</td>
-<td class="stat">22</td>
-<td class="stat">2</td>
+<td class="stat">3</td>
+<td class="stat">5</td>
 <td class="stat">8</td>
+<td class="stat">25</td>
+<td class="l">Germany: Freiburg</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=116051">Austin Levi</a></td>
+<td class="l">D</td>
+<td class="stat">58</td>
+<td class="stat">2</td>
+<td class="stat">15</td>
+<td class="stat">17</td>
+<td class="stat">49</td>
+<td>31</td>
+<td class="stat">15</td>
+<td class="stat">0</td>
+<td class="stat">3</td>
+<td class="stat">3</td>
+<td class="stat">14</td>
+<td class="l">OH: Columbus</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=130542">Zach Lorentz</a><sup rel="tooltip" title="From Windsor"> 4 </sup></td>
+<td class="l">C</td>
+<td class="stat">29</td>
+<td class="stat">6</td>
+<td class="stat">9</td>
+<td class="stat">15</td>
+<td class="stat">4</td>
+<td>9</td>
+<td class="stat">15</td>
+<td class="stat">1</td>
+<td class="stat">4</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="l">ONT: Waterloo</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=145091">Danny Vanderwiel</a></td>
+<td class="l">L</td>
+<td class="stat">57</td>
+<td class="stat">4</td>
 <td class="stat">10</td>
 <td class="stat">14</td>
-<td class="l">ONT: Orangeville</td>
+<td class="stat">41</td>
+<td>-1</td>
+<td class="stat">8</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">5</td>
+<td class="l">IL: Island Lake</td>
 <td>17</td>
 </tr>
 
 <tr>
 <td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=145067">Josh MacDonald</a></td>
-<td class="l">L</td>
-<td class="stat">66</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=160302">Alex Peters</a></td>
+<td class="l">D</td>
+<td class="stat">58</td>
+<td class="stat">0</td>
+<td class="stat">12</td>
+<td class="stat">12</td>
+<td class="stat">31</td>
+<td>9</td>
+<td class="stat">13</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">11</td>
+<td class="l">ONT: Blyth</td>
+<td>16</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=122921">Michael Whaley</a></td>
+<td class="l">C</td>
+<td class="stat">64</td>
+<td class="stat">3</td>
+<td class="stat">8</td>
+<td class="stat">11</td>
+<td class="stat">20</td>
+<td>-3</td>
 <td class="stat">15</td>
-<td class="stat">15</td>
-<td class="stat">30</td>
-<td class="stat">21</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">ONT: London</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=142600">Simon Karlsson</a><sup rel="tooltip" title="To Oshawa"> 5 </sup></td>
+<td class="l">D</td>
+<td class="stat">34</td>
+<td class="stat">2</td>
+<td class="stat">9</td>
+<td class="stat">11</td>
+<td class="stat">10</td>
 <td>1</td>
-<td class="stat">22</td>
-<td class="stat">2</td>
-<td class="stat">2</td>
-<td class="stat">4</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">Sweden: Malmo</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=122884">Colin MacDonald</a></td>
+<td class="l">D</td>
+<td class="stat">52</td>
+<td class="stat">0</td>
+<td class="stat">9</td>
+<td class="stat">9</td>
+<td class="stat">19</td>
+<td>16</td>
+<td class="stat">15</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
 <td class="stat">4</td>
 <td class="l">ONT: London</td>
-<td>18</td>
+<td>20</td>
 </tr>
 
 <tr>
 <td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=127987">Tyson Fawcett</a></td>
-<td class="l">F</td>
-<td class="stat">62</td>
-<td class="stat">9</td>
-<td class="stat">17</td>
-<td class="stat">26</td>
-<td class="stat">31</td>
-<td>9</td>
-<td class="stat">22</td>
-<td class="stat">1</td>
-<td class="stat">5</td>
-<td class="stat">6</td>
-<td class="stat">10</td>
-<td class="l">ONT: Barrie</td>
-<td>19</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=122915">Mitchell Theoret</a><sup rel="tooltip" title="From Niagara"> 1 </sup></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=151612">Zach Bratina</a><sup rel="tooltip" title="To Saginaw"> 6 </sup></td>
 <td class="l">L</td>
-<td class="stat">25</td>
-<td class="stat">7</td>
-<td class="stat">11</td>
-<td class="stat">18</td>
-<td class="stat">14</td>
-<td>11</td>
-<td class="stat">20</td>
-<td class="stat">14</td>
-<td class="stat">7</td>
-<td class="stat">21</td>
-<td class="stat">6</td>
-<td class="l">PQ: Montreal</td>
-<td>19</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=160583">Brendan Lemieux</a></td>
-<td class="l">L</td>
-<td class="stat">42</td>
-<td class="stat">6</td>
-<td class="stat">8</td>
-<td class="stat">14</td>
-<td class="stat">52</td>
-<td>2</td>
-<td class="stat">21</td>
-<td class="stat">2</td>
-<td class="stat">0</td>
-<td class="stat">2</td>
-<td class="stat">36</td>
-<td class="l">CO: Denver</td>
-<td>16</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=130310">Jonathan Laser</a></td>
-<td class="l">D</td>
-<td class="stat">62</td>
-<td class="stat">1</td>
-<td class="stat">11</td>
-<td class="stat">12</td>
-<td class="stat">31</td>
-<td>9</td>
-<td class="stat">22</td>
-<td class="stat">1</td>
-<td class="stat">7</td>
+<td class="stat">37</td>
+<td class="stat">4</td>
+<td class="stat">4</td>
 <td class="stat">8</td>
 <td class="stat">16</td>
-<td class="l">ONT: Mississauga</td>
-<td>18</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=160321">Michael Webster</a></td>
-<td class="l">D</td>
-<td class="stat">63</td>
-<td class="stat">0</td>
-<td class="stat">11</td>
-<td class="stat">11</td>
-<td class="stat">49</td>
-<td>14</td>
-<td class="stat">20</td>
-<td class="stat">0</td>
-<td class="stat">4</td>
-<td class="stat">4</td>
-<td class="stat">18</td>
-<td class="l">ONT: Toronto</td>
-<td>17</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=136653">Brendan Bell</a><sup rel="tooltip" title="To Ottawa"> 2 </sup></td>
-<td class="l">L</td>
-<td class="stat">26</td>
-<td class="stat">4</td>
-<td class="stat">5</td>
-<td class="stat">9</td>
-<td class="stat">23</td>
-<td>2</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="l">ONT: Uxbridge</td>
-<td>18</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=144504">Justin Scott</a></td>
-<td class="l">C</td>
-<td class="stat">55</td>
-<td class="stat">4</td>
-<td class="stat">5</td>
-<td class="stat">9</td>
-<td class="stat">24</td>
-<td>-1</td>
-<td class="stat">7</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="l">ONT: Burlington</td>
-<td>17</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=130590">Dylan Corson</a></td>
-<td class="l">L</td>
-<td class="stat">66</td>
-<td class="stat">2</td>
-<td class="stat">7</td>
-<td class="stat">9</td>
-<td class="stat">59</td>
-<td>-5</td>
-<td class="stat">21</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">7</td>
-<td class="l">ONT: Toronto</td>
-<td>18</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=122883">Alex Lepkowski</a></td>
-<td class="l">D</td>
-<td class="stat">60</td>
-<td class="stat">0</td>
-<td class="stat">9</td>
-<td class="stat">9</td>
-<td class="stat">78</td>
-<td>10</td>
-<td class="stat">22</td>
-<td class="stat">2</td>
-<td class="stat">2</td>
-<td class="stat">4</td>
-<td class="stat">28</td>
-<td class="l">NY: Buffalo</td>
-<td>19</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=145036">Jake Dotchin</a><sup rel="tooltip" title="From Owen Sound"> 3 </sup></td>
-<td class="l">D</td>
-<td class="stat">28</td>
-<td class="stat">2</td>
-<td class="stat">6</td>
-<td class="stat">8</td>
-<td class="stat">42</td>
-<td>-1</td>
-<td class="stat">17</td>
-<td class="stat">1</td>
-<td class="stat">4</td>
-<td class="stat">5</td>
-<td class="stat">25</td>
-<td class="l">ONT: Cambridge</td>
-<td>18</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=145098">Alex Yuill</a></td>
-<td class="l">D</td>
-<td class="stat">49</td>
-<td class="stat">0</td>
-<td class="stat">6</td>
-<td class="stat">6</td>
-<td class="stat">8</td>
-<td>10</td>
-<td class="stat">18</td>
-<td class="stat">1</td>
-<td class="stat">2</td>
-<td class="stat">3</td>
-<td class="stat">7</td>
-<td class="l">ONT: Wellington</td>
-<td>17</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=149627">Cody Brown</a></td>
-<td class="l">C</td>
-<td class="stat">35</td>
-<td class="stat">0</td>
-<td class="stat">4</td>
-<td class="stat">4</td>
-<td class="stat">4</td>
-<td>-4</td>
-<td class="stat">19</td>
-<td class="stat">1</td>
-<td class="stat">2</td>
-<td class="stat">3</td>
-<td class="stat">6</td>
-<td class="l">ONT: Wasaga Beach</td>
-<td>19</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=161291">Brendan Perlini</a><sup rel="tooltip" title="To Niagara"> 4 </sup></td>
-<td class="l">L</td>
-<td class="stat">32</td>
-<td class="stat">1</td>
-<td class="stat">1</td>
-<td class="stat">2</td>
-<td class="stat">4</td>
-<td>-6</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="l">England: Guildford</td>
-<td>16</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=145064">Liam Maaskant</a></td>
-<td class="l">D</td>
-<td class="stat">12</td>
-<td class="stat">0</td>
-<td class="stat">2</td>
-<td class="stat">2</td>
-<td class="stat">18</td>
 <td>1</td>
 <td class="stat">--</td>
 <td class="stat">--</td>
 <td class="stat">--</td>
 <td class="stat">--</td>
 <td class="stat">--</td>
-<td class="l">ONT: Clinton</td>
-<td>18</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=122574">Mathias Niederberger</a></td>
-<td class="l">G</td>
-<td class="stat">56</td>
-<td class="stat">0</td>
-<td class="stat">2</td>
-<td class="stat">2</td>
-<td class="stat">2</td>
-<td>0</td>
-<td class="stat">22</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">2</td>
-<td class="l">Germany: Duesseldorf</td>
-<td>19</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=145085">Devon Rymarchuk</a><sup rel="tooltip" title="From Owen Sound"> 3 </sup></td>
-<td class="l">L</td>
-<td class="stat">9</td>
-<td class="stat">1</td>
-<td class="stat">0</td>
-<td class="stat">1</td>
-<td class="stat">31</td>
-<td>-2</td>
-<td class="stat">8</td>
-<td class="stat">1</td>
-<td class="stat">0</td>
-<td class="stat">1</td>
-<td class="stat">0</td>
-<td class="l">ONT: Niagara Falls</td>
-<td>18</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=160291">Samu Markkula</a></td>
-<td class="l">L</td>
-<td class="stat">5</td>
-<td class="stat">0</td>
-<td class="stat">1</td>
-<td class="stat">1</td>
-<td class="stat">4</td>
-<td>-1</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="l">Finland: Jyvaskyla</td>
-<td>18</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=145042">Alex Fotinos</a></td>
-<td class="l">G</td>
-<td class="stat">19</td>
-<td class="stat">0</td>
-<td class="stat">1</td>
-<td class="stat">1</td>
-<td class="stat">0</td>
-<td>0</td>
-<td class="stat">2</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="l">ONT: Toronto</td>
-<td>17</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=160272">C.J. Garcia</a></td>
-<td class="l">D</td>
-<td class="stat">29</td>
-<td class="stat">0</td>
-<td class="stat">1</td>
-<td class="stat">1</td>
-<td class="stat">22</td>
-<td>2</td>
-<td class="stat">1</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="l">ONT: Pickering</td>
+<td class="l">ONT: Lindsay</td>
 <td>16</td>
 </tr>
 
 <tr>
 <td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=162561">Curtis Warren</a></td>
-<td class="l">C</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=122887">Nick Malysa</a></td>
+<td class="l">D</td>
+<td class="stat">59</td>
+<td class="stat">1</td>
 <td class="stat">4</td>
+<td class="stat">5</td>
+<td class="stat">33</td>
+<td>18</td>
+<td class="stat">15</td>
 <td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td>-1</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="l">ONT: Barrie</td>
+<td class="stat">5</td>
+<td class="stat">5</td>
+<td class="stat">12</td>
+<td class="l">NJ: Morristown</td>
 <td>19</td>
 </tr>
 
 <tr>
 <td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=149188">Mitchell Klie</a></td>
-<td class="l">C</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=146143">Mitch Jones</a></td>
+<td class="l">D</td>
+<td class="stat">35</td>
+<td class="stat">0</td>
+<td class="stat">5</td>
+<td class="stat">5</td>
+<td class="stat">57</td>
+<td>11</td>
+<td class="stat"></td>
+<td class="stat"></td>
+<td class="stat"></td>
+<td class="stat"></td>
+<td class="stat"></td>
+<td class="l">MI: Rochester</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=122854">Curtis Crombeen</a></td>
+<td class="l">D</td>
+<td class="stat">14</td>
+<td class="stat">0</td>
+<td class="stat">4</td>
+<td class="stat">4</td>
+<td class="stat">4</td>
+<td>3</td>
+<td class="stat">9</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">4</td>
+<td class="l">ONT: Sarnia</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=150960">Connor Sills</a></td>
+<td class="l">R</td>
+<td class="stat">42</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td class="stat">3</td>
+<td class="stat">46</td>
+<td>-1</td>
 <td class="stat">5</td>
 <td class="stat">0</td>
 <td class="stat">0</td>
 <td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">ONT: Thunder Bay</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=160299">Alex Nedeljkovic</a></td>
+<td class="l">G</td>
+<td class="stat">26</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
 <td class="stat">2</td>
+<td>0</td>
+<td class="stat">15</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="l">OH: Parma</td>
+<td>16</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=123354">Matt Mahalak</a></td>
+<td class="l">G</td>
+<td class="stat">46</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">MI: Monroe</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=160259">Riley Corbin</a></td>
+<td class="l">G</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
 <td>0</td>
 <td class="stat">--</td>
 <td class="stat">--</td>
 <td class="stat">--</td>
 <td class="stat">--</td>
 <td class="stat">--</td>
-<td class="l">ONT: Cambridge</td>
+<td class="l">ONT: Thunder Bay</td>
 <td>17</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=162744">Fabrizio Ricci</a></td>
-<td class="l">L</td>
-<td class="stat">5</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td>-1</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="l">ONT: Toronto</td>
-<td>17</td>
-</tr>
-
-<tr>
-<td></td>
-<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=144334">Matt Bragagnolo</a></td>
-<td class="l">R</td>
-<td class="stat">5</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td class="stat">0</td>
-<td>-1</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="stat">--</td>
-<td class="l">ONT: Toronto</td>
-<td>18</td>
 </tr>
 
 <tr>
@@ -907,7 +831,7 @@ Head Coach: <a href="/ihdb/stats/pdisplay.php?pid=2199">Dale Hawerchuk</a> (44-2
 <td class="stat">0</td>
 <td class="stat">0</td>
 <td class="stat">0</td>
-<td class="stat">14</td>
+<td class="stat">16</td>
 <td>0</td>
 <td class="stat">--</td>
 <td class="stat">--</td>
@@ -923,10 +847,10 @@ Head Coach: <a href="/ihdb/stats/pdisplay.php?pid=2199">Dale Hawerchuk</a> (44-2
 <tr class="c_sec_foot">
 <td style="text-align: left;" colspan="6">Totals</td>
 <td></td>
-<td>239</td>
-<td>412</td>
-<td>651</td>
-<td>892</td>
+<td>291</td>
+<td>446</td>
+<td>737</td>
+<td>1081</td>
 <td></td>
 <td colspan="5"></td>
 </tr>
@@ -936,8 +860,9 @@ Head Coach: <a href="/ihdb/stats/pdisplay.php?pid=2199">Dale Hawerchuk</a> (44-2
 <div id="goalie_scoring">
 <table class="sortable autostripe goalietab">
 <thead><tr><th class="c_sec_head l" colspan="12">Goalies</th></tr><tr class="c_sort_head"><th class="l">Player Name</th><th>GP</th><th>Min</th><th class="c_sort_head">GA</th><th>GAA</th><th>W</th><th>L</th><th>T</th><th>Svs</th><th>Pct</th><th>EN</th><th>SO</th></tr></thead>
-<tbody><tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=122574">Mathias Niederberger</a></td><td>56</td><td>3128</td><td>122</td><td>2.34</td><td>35</td><td>12</td><td>3</td><td>1692</td><td>0.933</td><td>6</td><td>4</td></tr>
-<tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=145042">Alex Fotinos</a></td><td>19</td><td>993</td><td>54</td><td>3.26</td><td>9</td><td>8</td><td>1</td><td>469</td><td>0.897</td><td>1</td><td>0</td></tr>
+<tbody><tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=160299">Alex Nedeljkovic</a></td><td>26</td><td>1371</td><td>52</td><td>2.28</td><td>19</td><td>2</td><td>2</td><td>621</td><td>0.923</td><td>1</td><td>2</td></tr>
+<tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=123354">Matt Mahalak</a></td><td>46</td><td>2519</td><td>120</td><td>2.86</td><td>22</td><td>11</td><td>7</td><td>1159</td><td>0.906</td><td>4</td><td>3</td></tr>
+<tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=160259">Riley Corbin</a></td><td>5</td><td>223</td><td>21</td><td>5.66</td><td>1</td><td>4</td><td>0</td><td>94</td><td>0.817</td><td>0</td><td>0</td></tr>
 </tbody>
 </table>
 </div>
@@ -946,10 +871,12 @@ Head Coach: <a href="/ihdb/stats/pdisplay.php?pid=2199">Dale Hawerchuk</a> (44-2
 <div id="tradekey">
 Trade Key
 </div>
-<div>1: From Niagara</div>
-<div>2: To Ottawa</div>
-<div>3: From Owen Sound</div>
-<div>4: To Niagara</div>
+<div>1: From Saginaw</div>
+<div>2: To Windsor</div>
+<div>3: From Oshawa</div>
+<div>4: From Windsor</div>
+<div>5: To Oshawa</div>
+<div>6: To Saginaw</div>
 </div>
 </div>
 </div>
