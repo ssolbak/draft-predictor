@@ -11,7 +11,6 @@ const utils = require("./utils");
 module.exports = (years, done) => {
 
     async.series([
-        (cb) => download_drafts_and_players(years, cb),
         (cb) => {
 
             let start = years[0];
@@ -21,7 +20,8 @@ module.exports = (years, done) => {
             years.unshift(start-4);
 
             download_leagues(years, cb)
-        }
+        },
+        (cb) => download_drafts_and_players(years, cb)
     ], done);
 
 };
