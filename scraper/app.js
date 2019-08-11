@@ -16,6 +16,7 @@ const argv = require('yargs')
 /*
 
 sudo yum install git -y
+git config --global core.editor "nano"
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 . ~/.nvm/nvm.sh
 nvm install 10.15.3
