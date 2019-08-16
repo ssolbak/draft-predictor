@@ -8,10 +8,17 @@ const constants = require("./constants");
 const web_util = require("./web_util");
 const utils = require("./utils");
 
-module.exports = (years, done) => {
+module.exports = (years, options, done) => {
+
+    if(typeof options === 'function') {
+        done = options;
+        options = {};
+    }
 
     async.series([
         (cb) => {
+
+            if(options.all) return cb();
 
             let start = years[0];
             years.unshift(start-1);
