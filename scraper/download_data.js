@@ -79,7 +79,7 @@ const download_drafts_and_players = (years, done) => {
 
             async.eachSeries(players, (player, cb) => {
                 web_util.downloadFile(player.url, {folder : `${constants.BASE_FOLDER}/players`, name: `${player.player_id}___${player.player_key}.txt`}, cb);
-            }, done);
+            }, cb);
 
         });
 
