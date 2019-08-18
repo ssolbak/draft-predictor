@@ -1,0 +1,1183 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Drummondville Voltigeurs 2015-16 roster and scoring statistics at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="The roster, scoring and goaltender statistics for the 2015-16 Drummondville Voltigeurs playing in the QMJHL." />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
+
+<script src="/js/all.js"></script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
+</script>
+
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function(){ 
+    var gads = document.createElement('script'); gads.async = true;
+    gads.type = 'text/javascript'; 
+    var useSSL = 'https:' == document.location.protocol; gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0]; 
+    node.parentNode.insertBefore(gads, node); 
+  })();
+</script>
+
+<script src="https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js"></script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    var mapping1 = googletag.sizeMapping()
+      .addSize([1080, 0], [300, 250])
+      .addSize([760, 0], [160, 600])
+      .addSize([300, 0], [300, 250])
+      .addSize([0, 0], [])
+        .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [320, 50], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .set('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_300x250_1', [[300, 250], [160, 600], [300, 250]], 'right_rectangle')
+   	.defineSizeMapping(mapping1)
+   	.set('sizeMap', mapping1)
+    .addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<link rel="canonical" href="http://www.hockeydb.com/ihdb/stats/leagues/seasons/teams/0010222016.html" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script src="/js/jquery.mobile.custom.min.js"></script>
+<script src="/js/jquery.sticky-kit.js"></script>
+
+<style>
+.sponsor {
+   margin-top:24px !important;
+}
+
+#mt {
+   width:inherit !important;
+}
+
+.tablebg td {
+    border-color: rgb(203, 192, 192);
+}
+
+
+.tablebg table td A:link {
+    font-weight: initial;
+    color: black;
+}
+
+#tooltip
+{
+    text-align: center;
+    color: #fff;
+    background: #111;
+    position: absolute;
+    z-index: 100;
+    padding: 15px;
+}
+ 
+    #tooltip:after /* triangle decoration */
+    {
+        width: 0;
+        height: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px solid #111;
+        content: '';
+        position: absolute;
+        left: 50%;
+        bottom: -10px;
+        margin-left: -10px;
+    }
+ 
+        #tooltip.top:after
+        {
+            border-top-color: transparent;
+            border-bottom: 10px solid #111;
+            top: -20px;
+            bottom: auto;
+        }
+ 
+        #tooltip.left:after
+        {
+            left: 10px;
+            margin: 0;
+        }
+ 
+        #tooltip.right:after
+        {
+            right: 10px;
+            left: auto;
+            margin: 0;
+        }
+</style>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+<script>
+$( function()
+{
+    var targets = $( '[rel~=tooltip]' ),
+        target  = false,
+        tooltip = false,
+        title   = false;
+ 
+    targets.bind( 'mouseenter', function()
+    {
+        target  = $( this );
+        tip     = target.attr( 'title' );
+        tooltip = $( '<div id="tooltip"></div>' );
+ 
+        if( !tip || tip == '' )
+            return false;
+ 
+        target.removeAttr( 'title' );
+        tooltip.css( 'opacity', 0 )
+               .html( tip )
+               .appendTo( 'body' );
+ 
+        var init_tooltip = function()
+        {
+            tooltip.css( 'max-width', 340);
+ 
+            var pos_left = target.offset().left + ( target.outerWidth() / 2 ) - ( tooltip.outerWidth() / 2 ),
+                pos_top  = target.offset().top - tooltip.outerHeight() - 20;
+ 
+            if( pos_left < 0 )
+            {
+                pos_left = target.offset().left + target.outerWidth() / 2 - 20;
+                tooltip.addClass( 'left' );
+            }
+            else
+                tooltip.removeClass( 'left' );
+ 
+            if( pos_left + tooltip.outerWidth() > $( window ).width() )
+            {
+                pos_left = target.offset().left - tooltip.outerWidth() + target.outerWidth() / 2 + 20;
+                tooltip.addClass( 'right' );
+            }
+            else
+                tooltip.removeClass( 'right' );
+ 
+            if( pos_top < 0 )
+            {
+                var pos_top  = target.offset().top + target.outerHeight();
+                tooltip.addClass( 'top' );
+            }
+            else
+                tooltip.removeClass( 'top' );
+ 
+            tooltip.css( { left: pos_left, top: pos_top } )
+                   .animate( { top: '+=10', opacity: 1 }, 50 );
+        };
+ 
+        init_tooltip();
+        $( window ).resize( init_tooltip );
+ 
+        var remove_tooltip = function()
+        {
+            tooltip.animate( { top: '-=10', opacity: 0 }, 50, function()
+            {
+                $( this ).remove();
+            });
+ 
+            target.attr( 'title', tip );
+        };
+ 
+        target.bind( 'mouseleave', remove_tooltip );
+        tooltip.bind( 'click', remove_tooltip );
+    });
+});
+</script><div id="mt" class="multitable">
+<br /><div class="tablebg" style="-width:742px;">
+<div id="ribbon">
+<div style="float:left">
+   <h1 class="title">2015-16 Drummondville Voltigeurs roster and statistics</h1>   <div class="breadcrumb"><a href="/ihdb/stats/leagues.html">League Search Page</a> -> <a href="http://www.hockeydb.com/ihdb/stats/leagues/197.html">QMJHL</a> -> <a href="/ihdb/stats/leagues/seasons/qmjhl19702016.html">2015-16</a> -> <a href="/stte/drummondville-voltigeurs-5540.html">Drummondville Voltigeurs</a> -> Roster & Statistics</div>
+   <div style="margin: 5px 5px 10px;"><a target="_blank" href="/ihdb/stats/player_register.php?tid=1022&sid=2016">Click to view Player Register</a></div>
+</div>
+<div style="padding:4px; border-width:1px; border-style:solid; border-color:black; background-color:white;float: right; margin-bottom: 10px;">   <a href="/ihdb/stats/team_results.php?tid=1022&amp;sid=2016"><span class="c">Game-by-game results</span></a> <br /><img style="border:0;" alt="game results graph" src="/common/team_result_graph.php?tid=1022&amp;sid=2016&amp;size=small" />
+</div>
+<br style="clear:left" />
+<div style="float:left; margin-left:10px; margin-top:5px; padding:4px; border-width:1px; border-style:solid; border-color:black; background-color:white;">
+Head Coach: <a href="/ihdb/stats/pdisplay.php?pid=52730">Martin Raymond</a> (27-39-0-2) <br />Assistant Coach: <a href="/ihdb/stats/pdisplay.php?pid=43769">Jonathan Lessard</a> <br />Assistant Coach: <a href="/ihdb/stats/pdisplay.php?pid=49831">Louis Robitaille</a> <br />Goalie Coach: <a href="/ihdb/stats/pdisplay.php?pid=50935">Olivier Michaud</a> <br />Goalie Coach: <a href="/ihdb/stats/pdisplay.php?pid=35692">Frederic Malette</a> <br /></div>
+<br style="clear:left" />
+<div style="float:left; margin-left:10px; margin-top:10px;">
+<a href="/ihdb/stats/roster_gallery.php?tid=1022&amp;sid=2016">View photo gallery</a> [4 photos of 40 players]
+</div>
+<div style="clear:both"></div>
+</div>
+<br />
+<table class="sortable autostripe">
+<thead>
+<tr>
+<th class="norow" colspan="3"></th>
+<th class="c_sec_head" colspan="6" style="text-align:center;">Regular Season</th>
+<th class="c_sec_head" colspan="5" style="text-align:center;">Playoffs</th>
+<th class="c_sec_head" colspan="2" style="text-align:center;">Vitals</th>
+</tr>
+<tr class="c_sort_head">
+<th>#</th>
+<th class="l">Player Name</th>
+<th>Pos.</th>
+<th>GP</th>
+<th>G</th>
+<th>A</th>
+<th>Pts</th>
+<th>PIM</th>
+<th class="htext">+/-</th>
+<th>GP</th>
+<th>G</th>
+<th>A</th>
+<th>Pts</th>
+<th>PIM</th>
+<th>Birthplace</th>
+<th>Age</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=169554">Michael Carcone</a></td>
+<td class="l">R</td>
+<td class="stat">66</td>
+<td class="stat">47</td>
+<td class="stat">42</td>
+<td class="stat">89</td>
+<td class="stat">80</td>
+<td>1</td>
+<td class="stat">3</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">12</td>
+<td class="l">ONT: Ajax</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=176685">Alex Barre-Boulet</a></td>
+<td class="l">C</td>
+<td class="stat">65</td>
+<td class="stat">35</td>
+<td class="stat">54</td>
+<td class="stat">89</td>
+<td class="stat">42</td>
+<td>2</td>
+<td class="stat">4</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td class="stat">8</td>
+<td class="l">PQ: Montmagny</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=168923">Frederic Aube</a></td>
+<td class="l">D</td>
+<td class="stat">67</td>
+<td class="stat">7</td>
+<td class="stat">34</td>
+<td class="stat">41</td>
+<td class="stat">103</td>
+<td>-28</td>
+<td class="stat">4</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">10</td>
+<td class="l">PQ: Sherbrooke</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=143861">Justin Guenette</a></td>
+<td class="l">D</td>
+<td class="stat">66</td>
+<td class="stat">5</td>
+<td class="stat">24</td>
+<td class="stat">29</td>
+<td class="stat">46</td>
+<td>-16</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">3</td>
+<td class="stat">3</td>
+<td class="stat">6</td>
+<td class="l">PQ: Ste. Agathe</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=169566">Sergei Boikov</a></td>
+<td class="l">D</td>
+<td class="stat">52</td>
+<td class="stat">6</td>
+<td class="stat">20</td>
+<td class="stat">26</td>
+<td class="stat">73</td>
+<td>0</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">6</td>
+<td class="l">Russia: Khabarovsk</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=160393">Joey Ratelle</a></td>
+<td class="l">L</td>
+<td class="stat">27</td>
+<td class="stat">11</td>
+<td class="stat">13</td>
+<td class="stat">24</td>
+<td class="stat">40</td>
+<td>5</td>
+<td class="stat">3</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">11</td>
+<td class="l">PQ: Otterburn Park</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=176686">Mathieu Sevigny</a></td>
+<td class="l">L</td>
+<td class="stat">64</td>
+<td class="stat">12</td>
+<td class="stat">10</td>
+<td class="stat">22</td>
+<td class="stat">62</td>
+<td>-21</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">6</td>
+<td class="l">CT: Hartford</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=171514">Charley Graaskamp</a><sup rel="tooltip" title="From Quebec"> 1 </sup></td>
+<td class="l">C</td>
+<td class="stat">32</td>
+<td class="stat">8</td>
+<td class="stat">13</td>
+<td class="stat">21</td>
+<td class="stat">34</td>
+<td>-9</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="stat">2</td>
+<td class="stat">4</td>
+<td class="l">WI: Eau Claire</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=186205">Kristian Afanasyev</a></td>
+<td class="l">C</td>
+<td class="stat">63</td>
+<td class="stat">10</td>
+<td class="stat">10</td>
+<td class="stat">20</td>
+<td class="stat">24</td>
+<td>-19</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l"></td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=169570">Jeremy Bouchard</a></td>
+<td class="l">L</td>
+<td class="stat">22</td>
+<td class="stat">3</td>
+<td class="stat">15</td>
+<td class="stat">18</td>
+<td class="stat">8</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">PQ: Chateauguay</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=172236">Philippe Pelletier-Leblanc</a></td>
+<td class="l">L</td>
+<td class="stat">66</td>
+<td class="stat">6</td>
+<td class="stat">8</td>
+<td class="stat">14</td>
+<td class="stat">18</td>
+<td>-17</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="l">PQ: Gatineau</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=143864">Gabriel Slight</a><sup rel="tooltip" title="From Shawinigan"> 2 </sup></td>
+<td class="l">L</td>
+<td class="stat">26</td>
+<td class="stat">10</td>
+<td class="stat">3</td>
+<td class="stat">13</td>
+<td class="stat">49</td>
+<td>-13</td>
+<td class="stat">4</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td class="stat">16</td>
+<td class="l">PQ: Riviere-du-Loup</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=160373">Kevin Laliberte</a></td>
+<td class="l">D</td>
+<td class="stat">68</td>
+<td class="stat">3</td>
+<td class="stat">10</td>
+<td class="stat">13</td>
+<td class="stat">36</td>
+<td>-25</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="l">PQ: Bois-des-Filions</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=143845">Jasmin Boutet</a><sup rel="tooltip" title="From Baie-Comeau"> 3 </sup></td>
+<td class="l">C</td>
+<td class="stat">47</td>
+<td class="stat">4</td>
+<td class="stat">6</td>
+<td class="stat">10</td>
+<td class="stat">34</td>
+<td>-19</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">4</td>
+<td class="l">PQ: St. Nicolas</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=186216">William Poirier</a></td>
+<td class="l">L</td>
+<td class="stat">61</td>
+<td class="stat">3</td>
+<td class="stat">6</td>
+<td class="stat">9</td>
+<td class="stat">23</td>
+<td>-19</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">6</td>
+<td class="l">PQ: Valleyfield</td>
+<td>15</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=172209">Emanuel Aucoin</a><sup rel="tooltip" title="To Acadie-Bathurst"> 4 </sup></td>
+<td class="l">C</td>
+<td class="stat">40</td>
+<td class="stat">5</td>
+<td class="stat">2</td>
+<td class="stat">7</td>
+<td class="stat">26</td>
+<td>-19</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">PQ: Iles-de-la-Madeleine</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=181064">Felix Girard</a></td>
+<td class="l">F</td>
+<td class="stat">19</td>
+<td class="stat">3</td>
+<td class="stat">4</td>
+<td class="stat">7</td>
+<td class="stat">20</td>
+<td>-6</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">Switzerland: Eculbens</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=176684">Benjamin Gagne</a></td>
+<td class="l">D</td>
+<td class="stat">51</td>
+<td class="stat">1</td>
+<td class="stat">6</td>
+<td class="stat">7</td>
+<td class="stat">32</td>
+<td>-20</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">PQ: Quebec</td>
+<td>16</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=189938">William Leblanc</a></td>
+<td class="l">C</td>
+<td class="stat">23</td>
+<td class="stat">2</td>
+<td class="stat">2</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td>-2</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">PQ: Drummondville</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=180250">Jeremy Way-Gagnon</a></td>
+<td class="l">C</td>
+<td class="stat">32</td>
+<td class="stat">2</td>
+<td class="stat">1</td>
+<td class="stat">3</td>
+<td class="stat">2</td>
+<td>-7</td>
+<td class="stat">3</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">PQ: Chateauguay</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=186245">Eric Theander</a></td>
+<td class="l">R</td>
+<td class="stat">23</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td class="stat">3</td>
+<td class="stat">2</td>
+<td>-8</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ALTA: Okotoks</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=186244">Samuel Gaumond</a></td>
+<td class="l">C</td>
+<td class="stat">30</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td class="stat">3</td>
+<td class="stat">25</td>
+<td>-17</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">PQ: Terrebonne</td>
+<td>16</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=188334">J.C. Thivierge</a></td>
+<td class="l">D</td>
+<td class="stat">34</td>
+<td class="stat">0</td>
+<td class="stat">3</td>
+<td class="stat">3</td>
+<td class="stat">13</td>
+<td>-5</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">ONT: Welland</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=170458">Aaron Kerr</a></td>
+<td class="l">L</td>
+<td class="stat">13</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td class="stat">6</td>
+<td>-4</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Timmins</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=179942">Vincent Chapleau</a><sup rel="tooltip" title="From Rouyn-Noranda"> 5 </sup></td>
+<td class="l">C</td>
+<td class="stat">25</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td>-13</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">PQ: Longueuil</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=180248">Anthony Dumont-Bouchard</a></td>
+<td class="l">G</td>
+<td class="stat">48</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">PQ: Quebec</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=176688">Justin Doucet</a><sup rel="tooltip" title="To Baie-Comeau"> 6 </sup></td>
+<td class="l">L</td>
+<td class="stat">28</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">58</td>
+<td>-15</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">PQ: Salaberry-de-Valleyf</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=189937">Jeremy Cote</a></td>
+<td class="l">L</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">PQ: St-Felix-de-Kingsey</td>
+<td>16</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=181261">William Leclerc</a></td>
+<td class="l">C</td>
+<td class="stat">6</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">PQ: Lasalle</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=174934">Nicolas Lachance</a></td>
+<td class="l">G</td>
+<td class="stat">20</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">PQ: Trois-Rivieres</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=187273">Nicolas Beaudin</a></td>
+<td class="l">D</td>
+<td class="stat">26</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">4</td>
+<td>-7</td>
+<td class="stat">3</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td class="l">PQ: Chateauguay</td>
+<td>15</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=176683">Nicolas Patry-Gingras</a></td>
+<td class="l">D</td>
+<td class="stat">60</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">14</td>
+<td>-21</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="l">PQ: Val-d'Or</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=192900">Cederic Godbout-Parent</a></td>
+<td class="l"></td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td>--</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l"></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=192899">Tristan Berube</a></td>
+<td class="l">G</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td>--</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">PQ: La Pocatiere</td>
+<td>16</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=178048">Xavier Vinetti</a><sup rel="tooltip" title="From Acadie-Bathurst"> 7 </sup></td>
+<td class="l">D</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>-3</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">PQ: St. Hubert</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=188986">Jeremy Manseau</a></td>
+<td class="l">C</td>
+<td class="stat">3</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>-1</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">PQ: Trois-Rivieres</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=191064">Matthew Newbury</a></td>
+<td class="l">L</td>
+<td class="stat">3</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">PQ: Trois-Rivieres</td>
+<td>16</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=170119">Ryan Foss</a></td>
+<td class="l">C</td>
+<td class="stat">3</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>-1</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Oakville</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=186188">Simon Leclerc</a></td>
+<td class="l">D</td>
+<td class="stat">7</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">11</td>
+<td>1</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">PQ: Laval</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=187280">Frederic Foulem</a><sup rel="tooltip" title="From Shawinigan"> 2 </sup></td>
+<td class="l">G</td>
+<td class="stat">10</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">NB: Dieppe</td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=7335">Bench </a></td>
+<td class="l"></td>
+<td class="stat">68</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">12</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l"></td>
+<td></td>
+</tr>
+
+</tbody>
+<tfoot>
+<tr class="c_sec_foot">
+<td style="text-align: left;" colspan="6">Totals</td>
+<td></td>
+<td>187</td>
+<td>300</td>
+<td>487</td>
+<td>897</td>
+<td></td>
+<td colspan="5"></td>
+</tr>
+</tfoot>
+</table>
+<br />
+<div id="goalie_scoring">
+<table class="sortable autostripe goalietab">
+<thead><tr><th class="c_sec_head l" colspan="12">Goalies</th></tr><tr class="c_sort_head"><th class="l">Player Name</th><th>GP</th><th>Min</th><th class="c_sort_head">GA</th><th>GAA</th><th>W</th><th>L</th><th>T</th><th>Svs</th><th>Pct</th><th>EN</th><th>SO</th></tr></thead>
+<tbody><tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=180248">Anthony Dumont-Bouchard</a></td><td>48</td><td>2524</td><td>146</td><td>3.47</td><td>16</td><td>24</td><td>1</td><td>1166</td><td>0.889</td><td>8</td><td>0</td></tr>
+<tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=174934">Nicolas Lachance</a></td><td>20</td><td>1055</td><td>72</td><td>4.09</td><td>8</td><td>11</td><td>0</td><td>424</td><td>0.855</td><td>3</td><td>0</td></tr>
+<tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=187280">Frederic Foulem</a></td><td>10</td><td>496</td><td>35</td><td>4.23</td><td>3</td><td>4</td><td>1</td><td>249</td><td>0.877</td><td>0</td><td>0</td></tr>
+</tbody>
+</table>
+</div>
+<br />
+<div id="tradekeycontainer">
+<div id="tradekey">
+Trade Key
+</div>
+<div>1: From Quebec</div>
+<div>2: From Shawinigan</div>
+<div>3: From Baie-Comeau</div>
+<div>4: To Acadie-Bathurst</div>
+<div>5: From Rouyn-Noranda</div>
+<div>6: To Baie-Comeau</div>
+<div>7: From Acadie-Bathurst</div>
+</div>
+</div>
+</div>
+<div class="sponsor">
+<div id='right_rectangle'>
+<script type="text/javascript" src="/proxy/ad_proxy_300_160_360.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('right_rectangle'); });
+</script>
+</div>
+</div>
+
+<script>
+$(".sponsor").each(function(){
+      var $this = $(this);
+      $this.data('fixed', $this.offset().left); // Left value for fixed position 
+      $this.data('absolute', $this.position().left); // Left value for absolute (on bottom)
+}); 
+
+$(".sponsor").stick_in_parent({ spacer: false })
+.on("sticky_kit:stick sticky_kit:unbottom", function(e) {
+  var $el = $(e.target);
+  $el.css({ 'left': $el.data('fixed') });
+})
+.on("sticky_kit:bottom", function(e) {
+  var $el = $(e.target);
+  $el.css({ 'left': $el.data('absolute') });
+});
+
+</script>
+
+<script>
+$("#mt").on("swipe",function(){
+  $('.multitable').each(function(i, el) {
+    $(el).css("width","765px");
+  })
+  $('.expand').each(function(i, el) {
+    $(el).css("display","none");
+  })
+  $("#mt").off()
+;})
+</script>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2011 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='//storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>
