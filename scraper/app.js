@@ -6,10 +6,10 @@ const argv = require('yargs')
     .usage('Usage: $0 [options]')
     .hide('version')
     .option('year', {alias: 'y', type: 'number', describe: 'year to run for'})
-    .check((argv) => {
-        if (argv.collection || argv.group) return true;
-        throw(new Error("Must provide one of Collection or Group"));
-    })
+    // .check((argv) => {
+    //     if (argv.collection || argv.group) return true;
+    //     throw(new Error("Must provide one of Collection or Group"));
+    // })
     .help()
     .argv;
 

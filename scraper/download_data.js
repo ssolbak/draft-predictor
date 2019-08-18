@@ -18,7 +18,7 @@ module.exports = (years, options, done) => {
     async.series([
         (cb) => {
 
-            if(options.all) return cb();
+            if(!options.all) return cb();
 
             let start = years[0];
             years.unshift(start-1);
