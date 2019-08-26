@@ -6,6 +6,7 @@ const argv = require('yargs')
     .usage('Usage: $0 [options]')
     .hide('version')
     .option('year', {alias: 'y', type: 'number', describe: 'year to run for'})
+    .option('all', {alias: 'a', type: 'boolean', default: true, describe: 'all includes the league info'})
     // .check((argv) => {
     //     if (argv.collection || argv.group) return true;
     //     throw(new Error("Must provide one of Collection or Group"));
@@ -16,6 +17,7 @@ const argv = require('yargs')
 /*
 
 sudo yum install git -y
+
 git config --global core.editor "nano"
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 . ~/.nvm/nvm.sh
@@ -26,14 +28,14 @@ npm install
 node app.js > ~/scraper-log.txt &
 
 players only for a year
-node app.js -y 2012 > ~/scraper-log.txt &
+node app.js -y 2007 > ~/scraper-log.txt &
 
  */
 
 const start_year = 2005;
 const end_year = 2015;
 
-let import_options = { all: true };
+let import_options = { all: argv.all };
 let years = [];
 
 if (argv.year) {
@@ -45,7 +47,8 @@ if (argv.year) {
     }
 }
 
-console.log("YEARS", years);
+console.log("years", years);
+console.log("options", JSON.stringify(import_options, null, 2));
 
 async.series([
     (cb) => {
