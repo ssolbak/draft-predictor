@@ -1,0 +1,1041 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Orebro HK 2015-16 roster and scoring statistics at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="The roster, scoring and goaltender statistics for the 2015-16 Orebro HK playing in the SweHL." />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
+
+<script src="/js/all.js"></script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
+</script>
+
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function(){ 
+    var gads = document.createElement('script'); gads.async = true;
+    gads.type = 'text/javascript'; 
+    var useSSL = 'https:' == document.location.protocol; gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0]; 
+    node.parentNode.insertBefore(gads, node); 
+  })();
+</script>
+
+<script src="https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js"></script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    var mapping1 = googletag.sizeMapping()
+      .addSize([1080, 0], [300, 250])
+      .addSize([760, 0], [160, 600])
+      .addSize([300, 0], [300, 250])
+      .addSize([0, 0], [])
+        .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [320, 50], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .set('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_300x250_1', [[300, 250], [160, 600], [300, 250]], 'right_rectangle')
+   	.defineSizeMapping(mapping1)
+   	.set('sizeMap', mapping1)
+    .addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<link rel="canonical" href="http://www.hockeydb.com/ihdb/stats/leagues/seasons/teams/0070572016.html" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script src="/js/jquery.mobile.custom.min.js"></script>
+<script src="/js/jquery.sticky-kit.js"></script>
+
+<style>
+.sponsor {
+   margin-top:24px !important;
+}
+
+#mt {
+   width:inherit !important;
+}
+
+.tablebg td {
+    border-color: rgb(203, 192, 192);
+}
+
+
+.tablebg table td A:link {
+    font-weight: initial;
+    color: black;
+}
+
+#tooltip
+{
+    text-align: center;
+    color: #fff;
+    background: #111;
+    position: absolute;
+    z-index: 100;
+    padding: 15px;
+}
+ 
+    #tooltip:after /* triangle decoration */
+    {
+        width: 0;
+        height: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px solid #111;
+        content: '';
+        position: absolute;
+        left: 50%;
+        bottom: -10px;
+        margin-left: -10px;
+    }
+ 
+        #tooltip.top:after
+        {
+            border-top-color: transparent;
+            border-bottom: 10px solid #111;
+            top: -20px;
+            bottom: auto;
+        }
+ 
+        #tooltip.left:after
+        {
+            left: 10px;
+            margin: 0;
+        }
+ 
+        #tooltip.right:after
+        {
+            right: 10px;
+            left: auto;
+            margin: 0;
+        }
+</style>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+<script>
+$( function()
+{
+    var targets = $( '[rel~=tooltip]' ),
+        target  = false,
+        tooltip = false,
+        title   = false;
+ 
+    targets.bind( 'mouseenter', function()
+    {
+        target  = $( this );
+        tip     = target.attr( 'title' );
+        tooltip = $( '<div id="tooltip"></div>' );
+ 
+        if( !tip || tip == '' )
+            return false;
+ 
+        target.removeAttr( 'title' );
+        tooltip.css( 'opacity', 0 )
+               .html( tip )
+               .appendTo( 'body' );
+ 
+        var init_tooltip = function()
+        {
+            tooltip.css( 'max-width', 340);
+ 
+            var pos_left = target.offset().left + ( target.outerWidth() / 2 ) - ( tooltip.outerWidth() / 2 ),
+                pos_top  = target.offset().top - tooltip.outerHeight() - 20;
+ 
+            if( pos_left < 0 )
+            {
+                pos_left = target.offset().left + target.outerWidth() / 2 - 20;
+                tooltip.addClass( 'left' );
+            }
+            else
+                tooltip.removeClass( 'left' );
+ 
+            if( pos_left + tooltip.outerWidth() > $( window ).width() )
+            {
+                pos_left = target.offset().left - tooltip.outerWidth() + target.outerWidth() / 2 + 20;
+                tooltip.addClass( 'right' );
+            }
+            else
+                tooltip.removeClass( 'right' );
+ 
+            if( pos_top < 0 )
+            {
+                var pos_top  = target.offset().top + target.outerHeight();
+                tooltip.addClass( 'top' );
+            }
+            else
+                tooltip.removeClass( 'top' );
+ 
+            tooltip.css( { left: pos_left, top: pos_top } )
+                   .animate( { top: '+=10', opacity: 1 }, 50 );
+        };
+ 
+        init_tooltip();
+        $( window ).resize( init_tooltip );
+ 
+        var remove_tooltip = function()
+        {
+            tooltip.animate( { top: '-=10', opacity: 0 }, 50, function()
+            {
+                $( this ).remove();
+            });
+ 
+            target.attr( 'title', tip );
+        };
+ 
+        target.bind( 'mouseleave', remove_tooltip );
+        tooltip.bind( 'click', remove_tooltip );
+    });
+});
+</script><div id="mt" class="multitable">
+<br /><div class="tablebg" style="-width:742px;">
+<div id="ribbon">
+<div style="float:left">
+   <h1 class="title">2015-16 Orebro HK roster and statistics</h1>   <div class="breadcrumb"><a href="/ihdb/stats/leagues.html">League Search Page</a> -> <a href="http://www.hockeydb.com/ihdb/stats/leagues/239.html">SweHL</a> -> <a href="/ihdb/stats/leagues/seasons/swehl20142016.html">2015-16</a> -> <a href="/stte/orebro-hk-11362.html">Orebro HK</a> -> Roster & Statistics</div>
+   <div style="margin: 5px 5px 10px;"><a target="_blank" href="/ihdb/stats/player_register.php?tid=7057&sid=2016">Click to view Player Register</a></div>
+</div>
+<div style="padding:4px; border-width:1px; border-style:solid; border-color:black; background-color:white;float: right; margin-bottom: 10px;">   <a href="/ihdb/stats/team_results.php?tid=7057&amp;sid=2016"><span class="c">Game-by-game results</span></a> <br /><img style="border:0;" alt="game results graph" src="/common/team_result_graph.php?tid=7057&amp;sid=2016&amp;size=small" />
+</div>
+<br style="clear:left" />
+<div style="float:left; margin-left:10px; margin-top:10px;">
+<a href="/ihdb/stats/roster_gallery.php?tid=7057&amp;sid=2016">View photo gallery</a> [7 photos of 34 players]
+</div>
+<div style="clear:both"></div>
+</div>
+<br />
+<table class="sortable autostripe">
+<thead>
+<tr>
+<th class="norow" colspan="3"></th>
+<th class="c_sec_head" colspan="6" style="text-align:center;">Regular Season</th>
+<th class="c_sec_head" colspan="5" style="text-align:center;">Playoffs</th>
+<th class="c_sec_head" colspan="2" style="text-align:center;">Vitals</th>
+</tr>
+<tr class="c_sort_head">
+<th>#</th>
+<th class="l">Player Name</th>
+<th>Pos.</th>
+<th>GP</th>
+<th>G</th>
+<th>A</th>
+<th>Pts</th>
+<th>PIM</th>
+<th class="htext">+/-</th>
+<th>GP</th>
+<th>G</th>
+<th>A</th>
+<th>Pts</th>
+<th>PIM</th>
+<th>Birthplace</th>
+<th>Age</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=112755">Daniel Viksten</a></td>
+<td class="l">L</td>
+<td class="stat">49</td>
+<td class="stat">17</td>
+<td class="stat">20</td>
+<td class="stat">37</td>
+<td class="stat">4</td>
+<td>0</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="l"></td>
+<td>25</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=98640">Martin Johansson</a></td>
+<td class="l">L</td>
+<td class="stat">48</td>
+<td class="stat">15</td>
+<td class="stat">19</td>
+<td class="stat">34</td>
+<td class="stat">8</td>
+<td>5</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="l"></td>
+<td>27</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=159346">Libor Hudacek</a></td>
+<td class="l">L</td>
+<td class="stat">48</td>
+<td class="stat">14</td>
+<td class="stat">14</td>
+<td class="stat">28</td>
+<td class="stat">42</td>
+<td>7</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="l"></td>
+<td>24</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=139984">Joel Mustonen</a></td>
+<td class="l">L</td>
+<td class="stat">46</td>
+<td class="stat">15</td>
+<td class="stat">10</td>
+<td class="stat">25</td>
+<td class="stat">41</td>
+<td>7</td>
+<td class="stat">2</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="l">Finland: Oulu</td>
+<td>22</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=99519">Gregory Squires</a></td>
+<td class="l">R</td>
+<td class="stat">48</td>
+<td class="stat">13</td>
+<td class="stat">11</td>
+<td class="stat">24</td>
+<td class="stat">18</td>
+<td>1</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="l">NY: White Plains</td>
+<td>27</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=80882">Marcus Weinstock</a></td>
+<td class="l">R</td>
+<td class="stat">52</td>
+<td class="stat">5</td>
+<td class="stat">16</td>
+<td class="stat">21</td>
+<td class="stat">16</td>
+<td>-8</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l"></td>
+<td>31</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=152867">Johan Wiklander</a></td>
+<td class="l">L</td>
+<td class="stat">48</td>
+<td class="stat">6</td>
+<td class="stat">13</td>
+<td class="stat">19</td>
+<td class="stat">36</td>
+<td>-7</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="l"></td>
+<td>34</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=137714">Jakub Krejcik</a></td>
+<td class="l">D</td>
+<td class="stat">50</td>
+<td class="stat">5</td>
+<td class="stat">13</td>
+<td class="stat">18</td>
+<td class="stat">16</td>
+<td>-20</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">Czech Rep.: Prague</td>
+<td>24</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=130736">Petr Zamorsky</a></td>
+<td class="l">D</td>
+<td class="stat">30</td>
+<td class="stat">4</td>
+<td class="stat">13</td>
+<td class="stat">17</td>
+<td class="stat">14</td>
+<td>4</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">25</td>
+<td class="l">Czech Rep.: Zlin</td>
+<td>23</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=72651">Kalle Olsson</a></td>
+<td class="l">R</td>
+<td class="stat">46</td>
+<td class="stat">6</td>
+<td class="stat">9</td>
+<td class="stat">15</td>
+<td class="stat">12</td>
+<td>4</td>
+<td class="stat">2</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="l"></td>
+<td>30</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=78654">Marko Anttila</a></td>
+<td class="l">R</td>
+<td class="stat">49</td>
+<td class="stat">8</td>
+<td class="stat">6</td>
+<td class="stat">14</td>
+<td class="stat">28</td>
+<td>1</td>
+<td class="stat">2</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td class="stat">35</td>
+<td class="l">Finland: Lempaala</td>
+<td>30</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=56022">Ville Viitaluoma</a></td>
+<td class="l">C</td>
+<td class="stat">51</td>
+<td class="stat">3</td>
+<td class="stat">11</td>
+<td class="stat">14</td>
+<td class="stat">16</td>
+<td>2</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="l">Finland: Espoo</td>
+<td>34</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=112853">Anders Eriksson</a></td>
+<td class="l">C</td>
+<td class="stat">49</td>
+<td class="stat">5</td>
+<td class="stat">6</td>
+<td class="stat">11</td>
+<td class="stat">28</td>
+<td>-2</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l"></td>
+<td>30</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=87863">Mikko Lehtonen</a><sup rel="tooltip" title="To Djurgardens"> 1 </sup></td>
+<td class="l">R</td>
+<td class="stat">32</td>
+<td class="stat">3</td>
+<td class="stat">7</td>
+<td class="stat">10</td>
+<td class="stat">16</td>
+<td>-14</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">Finland: Espoo</td>
+<td>28</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=164493">Bobo Petersson</a></td>
+<td class="l">D</td>
+<td class="stat">37</td>
+<td class="stat">2</td>
+<td class="stat">7</td>
+<td class="stat">9</td>
+<td class="stat">10</td>
+<td>4</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="l"></td>
+<td>23</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=107115">Viktor Ekbom</a></td>
+<td class="l">D</td>
+<td class="stat">48</td>
+<td class="stat">1</td>
+<td class="stat">8</td>
+<td class="stat">9</td>
+<td class="stat">16</td>
+<td>2</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">Sweden: Falkoping</td>
+<td>26</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=96472">Joonas Jalvanti</a></td>
+<td class="l">D</td>
+<td class="stat">49</td>
+<td class="stat">0</td>
+<td class="stat">8</td>
+<td class="stat">8</td>
+<td class="stat">6</td>
+<td>0</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">Finland: Lahti</td>
+<td>26</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=98862">Johan Motin</a></td>
+<td class="l">D</td>
+<td class="stat">48</td>
+<td class="stat">1</td>
+<td class="stat">6</td>
+<td class="stat">7</td>
+<td class="stat">41</td>
+<td>0</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="l">Sweden: Karlskoga</td>
+<td>25</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=128549">Henrik Lowdahl</a></td>
+<td class="l">C</td>
+<td class="stat">36</td>
+<td class="stat">2</td>
+<td class="stat">4</td>
+<td class="stat">6</td>
+<td class="stat">12</td>
+<td>-7</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l"></td>
+<td>34</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=120953">Peter Andersson</a></td>
+<td class="l">D</td>
+<td class="stat">44</td>
+<td class="stat">2</td>
+<td class="stat">3</td>
+<td class="stat">5</td>
+<td class="stat">18</td>
+<td>2</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">Sweden: Kvidinge</td>
+<td>24</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=71294">Jakub Petruzalek</a></td>
+<td class="l">R</td>
+<td class="stat">14</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td>-2</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">Czech Rep.: Litvinov</td>
+<td>30</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=89724">Justin Hodgman</a></td>
+<td class="l">C</td>
+<td class="stat">11</td>
+<td class="stat">1</td>
+<td class="stat">3</td>
+<td class="stat">4</td>
+<td class="stat">2</td>
+<td>-6</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Brampton</td>
+<td>27</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=112835">Johan Adolfsson</a></td>
+<td class="l">R</td>
+<td class="stat">19</td>
+<td class="stat">0</td>
+<td class="stat">4</td>
+<td class="stat">4</td>
+<td class="stat">6</td>
+<td>-1</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l"></td>
+<td>28</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=172758">Kalle Jellvert</a></td>
+<td class="l">C</td>
+<td class="stat">7</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td class="stat">2</td>
+<td>3</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l"></td>
+<td>20</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=84464">Alexander Hellstrom</a></td>
+<td class="l">D</td>
+<td class="stat">49</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="stat">2</td>
+<td class="stat">67</td>
+<td>7</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">2</td>
+<td class="l">Sweden: Falun</td>
+<td>28</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=191369">Alexander Anderberg</a></td>
+<td class="l">D</td>
+<td class="stat">4</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td>1</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l"></td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=191234">Emil Eriksson</a></td>
+<td class="l">R</td>
+<td class="stat">14</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l"></td>
+<td>19</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=152880">Julius Hudacek</a></td>
+<td class="l">G</td>
+<td class="stat">47</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">26</td>
+<td>0</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l"></td>
+<td>27</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=180845">Oscar Froberg</a></td>
+<td class="l">G</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l"></td>
+<td>18</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=192097">Glenn Gustafsson</a></td>
+<td class="l">C</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l"></td>
+<td>16</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=164472">Emil Larsson</a></td>
+<td class="l">R</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l"></td>
+<td>22</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=120189">Stefan Johansson</a></td>
+<td class="l">D</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td>-2</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l"></td>
+<td>27</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=180835">Daniel Marmenlind</a></td>
+<td class="l">G</td>
+<td class="stat">6</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l"></td>
+<td>17</td>
+</tr>
+
+<tr>
+<td></td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=127579">Henrik Lundberg</a></td>
+<td class="l">G</td>
+<td class="stat">50</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l"></td>
+<td>24</td>
+</tr>
+
+</tbody>
+<tfoot>
+<tr class="c_sec_foot">
+<td style="text-align: left;" colspan="6">Totals</td>
+<td></td>
+<td>135</td>
+<td>215</td>
+<td>350</td>
+<td>503</td>
+<td></td>
+<td colspan="5"></td>
+</tr>
+</tfoot>
+</table>
+<br />
+<div id="goalie_scoring">
+<table class="sortable autostripe goalietab">
+<thead><tr><th class="c_sec_head l" colspan="12">Goalies</th></tr><tr class="c_sort_head"><th class="l">Player Name</th><th>GP</th><th>Min</th><th class="c_sort_head">GA</th><th>GAA</th><th>W</th><th>L</th><th>T</th><th>Svs</th><th>Pct</th><th>EN</th><th>SO</th></tr></thead>
+<tbody><tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=152880">Julius Hudacek</a></td><td>42</td><td>2494</td><td>102</td><td>2.45</td><td>23</td><td>17</td><td>0</td><td>1037</td><td>0.910</td><td>0</td><td>5</td></tr>
+<tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=127579">Henrik Lundberg</a></td><td>13</td><td>623</td><td>36</td><td>3.46</td><td>2</td><td>10</td><td>0</td><td>285</td><td>0.887</td><td>0</td><td>0</td></tr>
+<tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=180835">Daniel Marmenlind</a></td><td>1</td><td>28</td><td>2</td><td>4.34</td><td></td><td></td><td></td><td>6</td><td>0.750</td><td>0</td><td>0</td></tr>
+</tbody>
+</table>
+</div>
+<br />
+<div id="tradekeycontainer">
+<div id="tradekey">
+Trade Key
+</div>
+<div>1: To Djurgardens</div>
+</div>
+</div>
+</div>
+<div class="sponsor">
+<div id='right_rectangle'>
+<script type="text/javascript" src="/proxy/ad_proxy_300_160_360.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('right_rectangle'); });
+</script>
+</div>
+</div>
+
+<script>
+$(".sponsor").each(function(){
+      var $this = $(this);
+      $this.data('fixed', $this.offset().left); // Left value for fixed position 
+      $this.data('absolute', $this.position().left); // Left value for absolute (on bottom)
+}); 
+
+$(".sponsor").stick_in_parent({ spacer: false })
+.on("sticky_kit:stick sticky_kit:unbottom", function(e) {
+  var $el = $(e.target);
+  $el.css({ 'left': $el.data('fixed') });
+})
+.on("sticky_kit:bottom", function(e) {
+  var $el = $(e.target);
+  $el.css({ 'left': $el.data('absolute') });
+});
+
+</script>
+
+<script>
+$("#mt").on("swipe",function(){
+  $('.multitable').each(function(i, el) {
+    $(el).css("width","765px");
+  })
+  $('.expand').each(function(i, el) {
+    $(el).css("display","none");
+  })
+  $("#mt").off()
+;})
+</script>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2011 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='//storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>
