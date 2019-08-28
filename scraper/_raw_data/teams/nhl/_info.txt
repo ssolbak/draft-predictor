@@ -1,0 +1,1378 @@
+ <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>National Hockey League history and statistics at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="History and season records of the National Hockey League" />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
+
+<script src="/js/all.js"></script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
+</script>
+
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>window.googletag = window.googletag || {cmd: []};</script>
+<script async='async' src='https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js'></script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [[728, 90], [320, 50]], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .setTargeting('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_160x600_1', [160, 600], 'right_skyscraper')
+     .addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+   <script type='text/javascript'> 
+   <!--
+      function tableToggle (tabID)
+      {
+        var tbl = document.getElementById(tabID);
+        var but = document.getElementById('thebutton');
+        var ad = document.getElementById('ad');
+
+        for (var j = 0; j < tbl.rows.length; j++) {
+          var rowA = tbl.rows[j];
+          if (rowA.className.match(/vanish/)) {
+            if (rowA.style.display == 'none') {
+               but.value = 'hide details';
+               ad.style.display = 'none';
+               rowA.style.display = '';}
+            else {
+               rowA.style.display = 'none';
+               but.value = 'show details';
+               ad.style.display = '';
+            }
+          }    
+        }
+      }
+    -->
+   </script>
+
+   <script type='text/javascript'> 
+   <!--
+      function moreToggle (spanid)
+      {
+         var morespan = document.getElementById(spanid);
+         var expand = document.getElementById('expand');
+
+        if (morespan.style.display == 'none') {
+           expand.outerHTML = '';
+           morespan.style.display = '';}
+        else {
+           morespan.style.display = 'none';
+        }
+      }
+    -->
+   </script>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+<div class="tablebgl" style="width:720px;">
+<h1 class="title">National Hockey League history and statistics</h1>
+<div class="breadcrumb"><a href="http://www.hockeydb.com/ihdb/stats/leagues.html">Leagues</a> -> NHL [1917-2020]</div>
+<div id="league_history" class="tablebg1" style="margin-bottom:10px;"><div style="width:100%" class="team_section">
+<h2 class="team_header">NHL History</h2>
+<img style="float:right; border-style:thin; border-color:black; margin:10px; " src="/ihdb/logos/ll/tn_nhl_1967-68.gif" alt="1967-1968 NHL logo" />
+<div style="padding:10px;">The National Hockey League is a Major League hockey league that has operated from 1917 to 2020.</div>
+</div></div>
+<div style="width:100%; margin-top:10px;" class="team_section">
+<h2 class="team_header">NHL Seasons</h2>
+<input style="margin-bottom:7px;" id="thebutton" type="button" value="show details" onclick=" tableToggle('thisone');" /><table style="width:100%" id="thisone"><tbody><tr>
+<td style="font-weight:bold" class="norow" colspan="5">National Hockey League</td>
+</tr>
+<tr class="c_sec_head">
+<td class="cn">Year</td>
+<td class="cn">Teams</td>
+<td class="cn">Champion</td>
+<td class="cn">Runner-Up</td>
+<td class="cn">Result</td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/toronto-arenas-8484.html">Toronto Arenas</a><br />
+In: <a target="_blank" href="/stte/montreal-canadiens-6929.html">Montreal Canadiens</a><br />
+In: <a target="_blank" href="/stte/montreal-wanderers-6943.html">Montreal Wanderers</a><br />
+In: <a target="_blank" href="/stte/ottawa-senators-9663.html">Ottawa Senators</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271918.html">1917-18</a></td>
+<td>4 Teams</td>
+<td>Toronto Arenas</td>
+<td>Montreal Canadiens</td>
+<td>(10-7) Total Goals</td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/montreal-wanderers-6943.html">Montreal Wanderers</a><br />
+</td>
+<td>
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271919.html">1918-19</a></td>
+<td>3 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Ottawa Senators</td>
+<td>(4-1) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/toronto-arenas-8484.html">Toronto Arenas</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/toronto-st.-pats-8510.html">Toronto St. Pats</a><br />
+In: <a target="_blank" href="/stte/quebec-bulldogs-7576.html">Quebec Bulldogs</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271920.html">1919-20</a></td>
+<td>4 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/quebec-bulldogs-7576.html">Quebec Bulldogs</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/hamilton-tigers-6013.html">Hamilton Tigers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271921.html">1920-21</a></td>
+<td>4 Teams</td>
+<td>Ottawa Senators</td>
+<td>Toronto St. Pats</td>
+<td>(7-0) Total Goals</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271922.html">1921-22</a></td>
+<td>4 Teams</td>
+<td>Toronto St. Pats</td>
+<td>Ottawa Senators</td>
+<td>(5-4) Total Goals</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271923.html">1922-23</a></td>
+<td>4 Teams</td>
+<td>Ottawa Senators</td>
+<td>Montreal Canadiens</td>
+<td>(3-2) Total Goals</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271924.html">1923-24</a></td>
+<td>4 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Ottawa Senators</td>
+<td>(5-2) Total Goals</td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/boston-bruins-4919.html">Boston Bruins</a><br />
+In: <a target="_blank" href="/stte/montreal-maroons-6934.html">Montreal Maroons</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271925.html">1924-25</a></td>
+<td>6 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Hamilton Tigers</td>
+<td>(1-0) Forfeit</td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/hamilton-tigers-6013.html">Hamilton Tigers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/new-york-americans-7080.html">New York Americans</a><br />
+In: <a target="_blank" href="/stte/pittsburgh-pirates-7477.html">Pittsburgh Pirates</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271926.html">1925-26</a></td>
+<td>7 Teams</td>
+<td>Montreal Maroons</td>
+<td>Ottawa Senators</td>
+<td>(2-1) Total Goals</td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/toronto-st.-pats-8510.html">Toronto St. Pats</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/detroit-cougars-9146.html">Detroit Cougars</a><br />
+In: <a target="_blank" href="/stte/chicago-blackhawks-5218.html">Chicago Blackhawks</a><br />
+In: <a target="_blank" href="/stte/toronto-st.-pats-maple-leafs-9664.html">Toronto St. Pats/Maple Leafs</a><br />
+In: <a target="_blank" href="/stte/new-york-rangers-7089.html">New York Rangers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271927.html">1926-27</a></td>
+<td>10 Teams</td>
+<td>Ottawa Senators</td>
+<td>Boston Bruins</td>
+<td>(2-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/toronto-st.-pats-maple-leafs-9664.html">Toronto St. Pats/Maple Leafs</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/toronto-maple-leafs-8490.html">Toronto Maple Leafs</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271928.html">1927-28</a></td>
+<td>10 Teams</td>
+<td>New York Rangers</td>
+<td>Montreal Maroons</td>
+<td>(3-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271929.html">1928-29</a></td>
+<td>10 Teams</td>
+<td>Boston Bruins</td>
+<td>New York Rangers</td>
+<td>(2-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271930.html">1929-30</a></td>
+<td>10 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Boston Bruins</td>
+<td>(2-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/detroit-cougars-9146.html">Detroit Cougars</a><br />
+Out: <a target="_blank" href="/stte/pittsburgh-pirates-7477.html">Pittsburgh Pirates</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/detroit-falcons-9147.html">Detroit Falcons</a><br />
+In: <a target="_blank" href="/stte/philadelphia-quakers-7441.html">Philadelphia Quakers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271931.html">1930-31</a></td>
+<td>10 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Chicago Blackhawks</td>
+<td>(3-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/ottawa-senators-9663.html">Ottawa Senators</a><br />
+Out: <a target="_blank" href="/stte/philadelphia-quakers-7441.html">Philadelphia Quakers</a><br />
+</td>
+<td>
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271932.html">1931-32</a></td>
+<td>8 Teams</td>
+<td>Toronto Maple Leafs</td>
+<td>New York Rangers</td>
+<td>(3-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/detroit-falcons-9147.html">Detroit Falcons</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/detroit-red-wings-5492.html">Detroit Red Wings</a><br />
+In: <a target="_blank" href="/stte/ottawa-senators-9723.html">Ottawa Senators</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271933.html">1932-33</a></td>
+<td>9 Teams</td>
+<td>New York Rangers</td>
+<td>Toronto Maple Leafs</td>
+<td>(3-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271934.html">1933-34</a></td>
+<td>9 Teams</td>
+<td>Chicago Blackhawks</td>
+<td>Detroit Red Wings</td>
+<td>(3-1) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/ottawa-senators-9723.html">Ottawa Senators</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/st.-louis-eagles-8190.html">St. Louis Eagles</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271935.html">1934-35</a></td>
+<td>9 Teams</td>
+<td>Montreal Maroons</td>
+<td>Toronto Maple Leafs</td>
+<td>(3-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/st.-louis-eagles-8190.html">St. Louis Eagles</a><br />
+</td>
+<td>
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271936.html">1935-36</a></td>
+<td>8 Teams</td>
+<td>Detroit Red Wings</td>
+<td>Toronto Maple Leafs</td>
+<td>(3-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271937.html">1936-37</a></td>
+<td>8 Teams</td>
+<td>Detroit Red Wings</td>
+<td>New York Rangers</td>
+<td>(3-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271938.html">1937-38</a></td>
+<td>8 Teams</td>
+<td>Chicago Blackhawks</td>
+<td>Toronto Maple Leafs</td>
+<td>(3-1) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/montreal-maroons-6934.html">Montreal Maroons</a><br />
+</td>
+<td>
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271939.html">1938-39</a></td>
+<td>7 Teams</td>
+<td>Boston Bruins</td>
+<td>Toronto Maple Leafs</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271940.html">1939-40</a></td>
+<td>7 Teams</td>
+<td>New York Rangers</td>
+<td>Toronto Maple Leafs</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271941.html">1940-41</a></td>
+<td>7 Teams</td>
+<td>Boston Bruins</td>
+<td>Detroit Red Wings</td>
+<td>(4-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/new-york-americans-7080.html">New York Americans</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/new-york-americans-7080.html">Brooklyn Americans</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271942.html">1941-42</a></td>
+<td>7 Teams</td>
+<td>Toronto Maple Leafs</td>
+<td>Detroit Red Wings</td>
+<td>(4-3) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/new-york-americans-7080.html">Brooklyn Americans</a><br />
+</td>
+<td>
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271943.html">1942-43</a></td>
+<td>6 Teams</td>
+<td>Detroit Red Wings</td>
+<td>Boston Bruins</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271944.html">1943-44</a></td>
+<td>6 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Chicago Blackhawks</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271945.html">1944-45</a></td>
+<td>6 Teams</td>
+<td>Toronto Maple Leafs</td>
+<td>Detroit Red Wings</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271946.html">1945-46</a></td>
+<td>6 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Boston Bruins</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271947.html">1946-47</a></td>
+<td>6 Teams</td>
+<td>Toronto Maple Leafs</td>
+<td>Montreal Canadiens</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271948.html">1947-48</a></td>
+<td>6 Teams</td>
+<td>Toronto Maple Leafs</td>
+<td>Detroit Red Wings</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271949.html">1948-49</a></td>
+<td>6 Teams</td>
+<td>Toronto Maple Leafs</td>
+<td>Detroit Red Wings</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271950.html">1949-50</a></td>
+<td>6 Teams</td>
+<td>Detroit Red Wings</td>
+<td>New York Rangers</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271951.html">1950-51</a></td>
+<td>6 Teams</td>
+<td>Toronto Maple Leafs</td>
+<td>Montreal Canadiens</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271952.html">1951-52</a></td>
+<td>6 Teams</td>
+<td>Detroit Red Wings</td>
+<td>Montreal Canadiens</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271953.html">1952-53</a></td>
+<td>6 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Boston Bruins</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271954.html">1953-54</a></td>
+<td>6 Teams</td>
+<td>Detroit Red Wings</td>
+<td>Montreal Canadiens</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271955.html">1954-55</a></td>
+<td>6 Teams</td>
+<td>Detroit Red Wings</td>
+<td>Montreal Canadiens</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271956.html">1955-56</a></td>
+<td>6 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Detroit Red Wings</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271957.html">1956-57</a></td>
+<td>6 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Boston Bruins</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271958.html">1957-58</a></td>
+<td>6 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Boston Bruins</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271959.html">1958-59</a></td>
+<td>6 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Toronto Maple Leafs</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271960.html">1959-60</a></td>
+<td>6 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Toronto Maple Leafs</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271961.html">1960-61</a></td>
+<td>6 Teams</td>
+<td>Chicago Blackhawks</td>
+<td>Detroit Red Wings</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271962.html">1961-62</a></td>
+<td>6 Teams</td>
+<td>Toronto Maple Leafs</td>
+<td>Chicago Blackhawks</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271963.html">1962-63</a></td>
+<td>6 Teams</td>
+<td>Toronto Maple Leafs</td>
+<td>Detroit Red Wings</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271964.html">1963-64</a></td>
+<td>6 Teams</td>
+<td>Toronto Maple Leafs</td>
+<td>Detroit Red Wings</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271965.html">1964-65</a></td>
+<td>6 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Chicago Blackhawks</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271966.html">1965-66</a></td>
+<td>6 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Detroit Red Wings</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271967.html">1966-67</a></td>
+<td>6 Teams</td>
+<td>Toronto Maple Leafs</td>
+<td>Montreal Canadiens</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/california-seals-5115.html">Oakland Seals</a><br />
+In: <a target="_blank" href="/stte/minnesota-north-stars-6876.html">Minnesota North Stars</a><br />
+In: <a target="_blank" href="/stte/los-angeles-kings-6664.html">Los Angeles Kings</a><br />
+In: <a target="_blank" href="/stte/philadelphia-flyers-7439.html">Philadelphia Flyers</a><br />
+In: <a target="_blank" href="/stte/pittsburgh-penguins-7475.html">Pittsburgh Penguins</a><br />
+In: <a target="_blank" href="/stte/st.-louis-blues-8187.html">St. Louis Blues</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271968.html">1967-68</a></td>
+<td>12 Teams</td>
+<td>Montreal Canadiens</td>
+<td>St. Louis Blues</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271969.html">1968-69</a></td>
+<td>12 Teams</td>
+<td>Montreal Canadiens</td>
+<td>St. Louis Blues</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271970.html">1969-70</a></td>
+<td>12 Teams</td>
+<td>Boston Bruins</td>
+<td>St. Louis Blues</td>
+<td>(4-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/california-seals-5115.html">Oakland Seals</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/california-seals-5115.html">California Golden Seals</a><br />
+In: <a target="_blank" href="/stte/buffalo-sabres-5054.html">Buffalo Sabres</a><br />
+In: <a target="_blank" href="/stte/vancouver-canucks-8756.html">Vancouver Canucks</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271971.html">1970-71</a></td>
+<td>14 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Chicago Blackhawks</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271972.html">1971-72</a></td>
+<td>14 Teams</td>
+<td>Boston Bruins</td>
+<td>New York Rangers</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/atlanta-flames-4680.html">Atlanta Flames</a><br />
+In: <a target="_blank" href="/stte/new-york-islanders-7085.html">New York Islanders</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271973.html">1972-73</a></td>
+<td>16 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Chicago Blackhawks</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271974.html">1973-74</a></td>
+<td>16 Teams</td>
+<td>Philadelphia Flyers</td>
+<td>Boston Bruins</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/california-seals-5115.html">California Golden Seals</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/kansas-city-scouts-6302.html">Kansas City Scouts</a><br />
+In: <a target="_blank" href="/stte/california-seals-5115.html">California Seals</a><br />
+In: <a target="_blank" href="/stte/washington-capitals-8871.html">Washington Capitals</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271975.html">1974-75</a></td>
+<td>18 Teams</td>
+<td>Philadelphia Flyers</td>
+<td>Buffalo Sabres</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271976.html">1975-76</a></td>
+<td>18 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Philadelphia Flyers</td>
+<td>(4-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/kansas-city-scouts-6302.html">Kansas City Scouts</a><br />
+Out: <a target="_blank" href="/stte/california-seals-5115.html">California Seals</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/colorado-rockies-5313.html">Colorado Rockies</a><br />
+In: <a target="_blank" href="/stte/cleveland-barons-5269.html">Cleveland Barons</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271977.html">1976-77</a></td>
+<td>18 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Boston Bruins</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271978.html">1977-78</a></td>
+<td>18 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Boston Bruins</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/cleveland-barons-5269.html">Cleveland Barons</a><br />
+</td>
+<td>
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271979.html">1978-79</a></td>
+<td>17 Teams</td>
+<td>Montreal Canadiens</td>
+<td>New York Rangers</td>
+<td>(4-1) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/hartford-whalers-6045.html">Hartford Whalers</a><br />
+In: <a target="_blank" href="/stte/winnipeg-jets-9024.html">Winnipeg Jets</a><br />
+In: <a target="_blank" href="/stte/quebec-nordiques-7584.html">Quebec Nordiques</a><br />
+In: <a target="_blank" href="/stte/edmonton-oilers-5632.html">Edmonton Oilers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271980.html">1979-80</a></td>
+<td>21 Teams</td>
+<td>New York Islanders</td>
+<td>Philadelphia Flyers</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/atlanta-flames-4680.html">Atlanta Flames</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/calgary-flames-5090.html">Calgary Flames</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271981.html">1980-81</a></td>
+<td>21 Teams</td>
+<td>New York Islanders</td>
+<td>Minnesota North Stars</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271982.html">1981-82</a></td>
+<td>21 Teams</td>
+<td>New York Islanders</td>
+<td>Vancouver Canucks</td>
+<td>(4-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/colorado-rockies-5313.html">Colorado Rockies</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/new-jersey-devils-7066.html">New Jersey Devils</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271983.html">1982-83</a></td>
+<td>21 Teams</td>
+<td>New York Islanders</td>
+<td>Edmonton Oilers</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271984.html">1983-84</a></td>
+<td>21 Teams</td>
+<td>Edmonton Oilers</td>
+<td>New York Islanders</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271985.html">1984-85</a></td>
+<td>21 Teams</td>
+<td>Edmonton Oilers</td>
+<td>Philadelphia Flyers</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271986.html">1985-86</a></td>
+<td>21 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Calgary Flames</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271987.html">1986-87</a></td>
+<td>21 Teams</td>
+<td>Edmonton Oilers</td>
+<td>Philadelphia Flyers</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271988.html">1987-88</a></td>
+<td>21 Teams</td>
+<td>Edmonton Oilers</td>
+<td>Boston Bruins</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271989.html">1988-89</a></td>
+<td>21 Teams</td>
+<td>Calgary Flames</td>
+<td>Montreal Canadiens</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271990.html">1989-90</a></td>
+<td>21 Teams</td>
+<td>Edmonton Oilers</td>
+<td>Boston Bruins</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271991.html">1990-91</a></td>
+<td>21 Teams</td>
+<td>Pittsburgh Penguins</td>
+<td>Minnesota North Stars</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/san-jose-sharks-7877.html">San Jose Sharks</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271992.html">1991-92</a></td>
+<td>22 Teams</td>
+<td>Pittsburgh Penguins</td>
+<td>Chicago Blackhawks</td>
+<td>(4-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/ottawa-senators-7328.html">Ottawa Senators</a><br />
+In: <a target="_blank" href="/stte/tampa-bay-lightning-8385.html">Tampa Bay Lightning</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271993.html">1992-93</a></td>
+<td>24 Teams</td>
+<td>Montreal Canadiens</td>
+<td>Los Angeles Kings</td>
+<td>(4-1) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/minnesota-north-stars-6876.html">Minnesota North Stars</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/anaheim-ducks-4643.html">Anaheim Mighty Ducks</a><br />
+In: <a target="_blank" href="/stte/dallas-stars-5404.html">Dallas Stars</a><br />
+In: <a target="_blank" href="/stte/florida-panthers-5763.html">Florida Panthers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271994.html">1993-94</a></td>
+<td>26 Teams</td>
+<td>New York Rangers</td>
+<td>Vancouver Canucks</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271995.html">1994-95</a></td>
+<td>26 Teams</td>
+<td>New Jersey Devils</td>
+<td>Detroit Red Wings</td>
+<td>(4-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/quebec-nordiques-7584.html">Quebec Nordiques</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/colorado-avalanche-5307.html">Colorado Avalanche</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271996.html">1995-96</a></td>
+<td>26 Teams</td>
+<td>Colorado Avalanche</td>
+<td>Florida Panthers</td>
+<td>(4-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/winnipeg-jets-9024.html">Winnipeg Jets</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/phoenix-coyotes-7450.html">Phoenix Coyotes</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271997.html">1996-97</a></td>
+<td>26 Teams</td>
+<td>Detroit Red Wings</td>
+<td>Philadelphia Flyers</td>
+<td>(4-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/hartford-whalers-6045.html">Hartford Whalers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/carolina-hurricanes-5154.html">Carolina Hurricanes</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271998.html">1997-98</a></td>
+<td>26 Teams</td>
+<td>Detroit Red Wings</td>
+<td>Washington Capitals</td>
+<td>(4-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/nashville-predators-7024.html">Nashville Predators</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19271999.html">1998-99</a></td>
+<td>27 Teams</td>
+<td>Dallas Stars</td>
+<td>Buffalo Sabres</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/atlanta-thrashers-4682.html">Atlanta Thrashers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272000.html">1999-00</a></td>
+<td>28 Teams</td>
+<td>New Jersey Devils</td>
+<td>Dallas Stars</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/columbus-blue-jackets-5316.html">Columbus Blue Jackets</a><br />
+In: <a target="_blank" href="/stte/minnesota-wild-6879.html">Minnesota Wild</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272001.html">2000-01</a></td>
+<td>30 Teams</td>
+<td>Colorado Avalanche</td>
+<td>New Jersey Devils</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272002.html">2001-02</a></td>
+<td>30 Teams</td>
+<td>Detroit Red Wings</td>
+<td>Carolina Hurricanes</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272003.html">2002-03</a></td>
+<td>30 Teams</td>
+<td>New Jersey Devils</td>
+<td>Anaheim Mighty Ducks</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272004.html">2003-04</a></td>
+<td>30 Teams</td>
+<td>Tampa Bay Lightning</td>
+<td>Calgary Flames</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272006.html">2005-06</a></td>
+<td>30 Teams</td>
+<td>Carolina Hurricanes</td>
+<td>Edmonton Oilers</td>
+<td>(4-3) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/anaheim-ducks-4643.html">Anaheim Mighty Ducks</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/anaheim-ducks-4643.html">Anaheim Ducks</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272007.html">2006-07</a></td>
+<td>30 Teams</td>
+<td>Anaheim Ducks</td>
+<td>Ottawa Senators</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272008.html">2007-08</a></td>
+<td>30 Teams</td>
+<td>Detroit Red Wings</td>
+<td>Pittsburgh Penguins</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272009.html">2008-09</a></td>
+<td>30 Teams</td>
+<td>Pittsburgh Penguins</td>
+<td>Detroit Red Wings</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272010.html">2009-10</a></td>
+<td>30 Teams</td>
+<td>Chicago Blackhawks</td>
+<td>Philadelphia Flyers</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272011.html">2010-11</a></td>
+<td>30 Teams</td>
+<td>Boston Bruins</td>
+<td>Vancouver Canucks</td>
+<td>(4-3) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/atlanta-thrashers-4682.html">Atlanta Thrashers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/winnipeg-jets-10675.html">Winnipeg Jets</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272012.html">2011-12</a></td>
+<td>30 Teams</td>
+<td>Los Angeles Kings</td>
+<td>New Jersey Devils</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272013.html">2012-13</a></td>
+<td>30 Teams</td>
+<td>Chicago Blackhawks</td>
+<td>Boston Bruins</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272014.html">2013-14</a></td>
+<td>30 Teams</td>
+<td>Los Angeles Kings</td>
+<td>New York Rangers</td>
+<td>(4-1) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/phoenix-coyotes-7450.html">Phoenix Coyotes</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/phoenix-coyotes-7450.html">Arizona Coyotes</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272015.html">2014-15</a></td>
+<td>30 Teams</td>
+<td>Chicago Blackhawks</td>
+<td>Tampa Bay Lightning</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272016.html">2015-16</a></td>
+<td>30 Teams</td>
+<td>Pittsburgh Penguins</td>
+<td>San Jose Sharks</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272017.html">2016-17</a></td>
+<td>30 Teams</td>
+<td>Pittsburgh Penguins</td>
+<td>Nashville Predators</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/vegas-golden-knights-11894.html">Vegas Golden Knights</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272018.html">2017-18</a></td>
+<td>31 Teams</td>
+<td>Washington Capitals</td>
+<td>Vegas Golden Knights</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4"><td><a href="/ihdb/stats/leagues/seasons/nhl19272019.html">2018-19</a></td><td>31 Teams</td><td>St. Louis Blues</td>
+<td>Boston Bruins</td>
+<td>(4-3)</td>
+</tr></tbody></table></div>
+<div style="width:100%; margin-top:10px;" class="team_section">
+<h2 class="team_header">Cities in NHL</h2>
+<div style="padding:5px">
+<div style="float:left; padding:0px 8px 8px 3px; margin:0px 10px 5px 3px; width:47%">
+<div>Anaheim, CA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/anaheim-ducks-4643.html">Mighty Ducks</a> [1993-2020]</div>
+<div>Atlanta, GA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/atlanta-flames-4680.html">Flames</a> [1972-1980]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/atlanta-thrashers-4682.html">Thrashers</a> [1999-2011]</div>
+<div>Boston, MA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/boston-bruins-4919.html">Bruins</a> [1924-2020]</div>
+<div>Brooklyn, NY</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/new-york-americans-7080.html">Americans</a> [1925-1942]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/new-york-islanders-7085.html">New York Islanders</a> [1972-2020]</div>
+<div>Buffalo, NY</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/buffalo-sabres-5054.html">Sabres</a> [1970-2020]</div>
+<div>Calgary, ALTA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/calgary-flames-5090.html">Flames</a> [1980-2020]</div>
+<div>Chicago, IL</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/chicago-blackhawks-5218.html">Blackhawks</a> [1926-2020]</div>
+<div>Cleveland, OH</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/cleveland-barons-5269.html">Barons</a> [1976-1978]</div>
+<div>Columbus, OH</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/columbus-blue-jackets-5316.html">Blue Jackets</a> [2000-2020]</div>
+<div>Dallas, TX</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/dallas-stars-5404.html">Stars</a> [1993-2020]</div>
+<div>Denver, CO</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/colorado-rockies-5313.html">Colorado Rockies</a> [1976-1982]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/colorado-avalanche-5307.html">Colorado Avalanche</a> [1995-2020]</div>
+<div>Detroit, MI</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/detroit-cougars-9146.html">Cougars</a> [1926-1930]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/detroit-falcons-9147.html">Falcons</a> [1930-1932]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/detroit-red-wings-5492.html">Red Wings</a> [1932-2020]</div>
+<div>East Rutherford, NJ</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/new-jersey-devils-7066.html">New Jersey Devils</a> [1982-2020]</div>
+<div>Edmonton, ALTA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/edmonton-oilers-5632.html">Oilers</a> [1979-2020]</div>
+<div>Hamilton, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/hamilton-tigers-6013.html">Tigers</a> [1920-1925]</div>
+<div>Hartford, CT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/hartford-whalers-6045.html">Whalers</a> [1979-1997]</div>
+<div>Kansas City, MO</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kansas-city-scouts-6302.html">Scouts</a> [1974-1976]</div>
+<div>Las Vegas, NV</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/vegas-golden-knights-11894.html">Vegas Golden Knights</a> [2017-2020]</div>
+<div>Los Angeles, CA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/los-angeles-kings-6664.html">Kings</a> [1967-2020]</div>
+<div>Miami, FL</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/florida-panthers-5763.html">Florida Panthers</a> [1993-2020]</div>
+<div>Minneapolis, MN</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/minnesota-north-stars-6876.html">Minnesota North Stars</a> [1967-1993]</div>
+<div>Montreal, PQ</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/montreal-wanderers-6943.html">Wanderers</a> [1917-1918]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/montreal-canadiens-6929.html">Canadiens</a> [1917-2020]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/montreal-maroons-6934.html">Maroons</a> [1924-1938]</div>
+<div>Nashville, TN</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/nashville-predators-7024.html">Predators</a> [1998-2020]</div>
+</div><div style="float:left; padding:0px 8px 8px 3px; margin:0px 10px 5px 3px; width:45%">
+<div>New York, NY</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/new-york-americans-7080.html">Americans</a> [1925-1942]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/new-york-rangers-7089.html">Rangers</a> [1926-2020]</div>
+<div>Oakland, CA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/california-seals-5115.html">California Golden Seals</a> [1967-1976]</div>
+<div>Ottawa, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/ottawa-senators-9663.html">Senators</a> [1917-1931]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/ottawa-senators-9723.html">Senators</a> [1932-1934]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/ottawa-senators-7328.html">Senators</a> [1992-2020]</div>
+<div>Philadelphia, PA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/philadelphia-quakers-7441.html">Quakers</a> [1930-1931]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/philadelphia-flyers-7439.html">Flyers</a> [1967-2020]</div>
+<div>Phoenix, AZ</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/phoenix-coyotes-7450.html">Arizona Coyotes</a> [1996-2020]</div>
+<div>Pittsburgh, PA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/pittsburgh-pirates-7477.html">Pirates</a> [1925-1930]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/pittsburgh-penguins-7475.html">Penguins</a> [1967-2020]</div>
+<div>Quebec, PQ</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/quebec-nordiques-7584.html">Nordiques</a> [1979-1995]</div>
+<div>Quebec City, PQ</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/quebec-bulldogs-7576.html">Quebec Bulldogs</a> [1919-1920]</div>
+<div>Raleigh, NC</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/carolina-hurricanes-5154.html">Carolina Hurricanes</a> [1997-2020]</div>
+<div>San Jose, CA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/san-jose-sharks-7877.html">Sharks</a> [1991-2020]</div>
+<div>St. Louis, MO</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/st.-louis-eagles-8190.html">Eagles</a> [1934-1935]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/st.-louis-blues-8187.html">Blues</a> [1967-2020]</div>
+<div>St. Paul, MN</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/minnesota-wild-6879.html">Minnesota Wild</a> [2000-2020]</div>
+<div>Tampa, FL</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/tampa-bay-lightning-8385.html">Bay Lightning</a> [1992-2020]</div>
+<div>Toronto, ONT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/toronto-arenas-8484.html">Arenas</a> [1917-1919]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/toronto-st.-pats-8510.html">St. Pats</a> [1919-1926]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/toronto-st.-pats-maple-leafs-9664.html">St. Pats/Maple Leafs</a> [1926-1927]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/toronto-maple-leafs-8490.html">Maple Leafs</a> [1927-2020]</div>
+<div>Uniondale, NY</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/new-york-islanders-7085.html">New York Islanders</a> [1972-2020]</div>
+<div>Vancouver, BC</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/vancouver-canucks-8756.html">Canucks</a> [1970-2020]</div>
+<div>Washington, DC</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/washington-capitals-8871.html">Capitals</a> [1974-2020]</div>
+<div>Winnipeg, MAN</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/winnipeg-jets-9024.html">Jets</a> [1979-1996]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/winnipeg-jets-10675.html">Jets</a> [2011-2020]</div>
+</div></div></div>
+</div>
+<div id="ad" class="sponsor">
+<div id='right_skyscraper'>
+<script type="text/javascript" src="/proxy/ad_proxy_160.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('right_skyscraper'); });
+</script>
+</div>
+</div>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2019 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='//storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>
+
