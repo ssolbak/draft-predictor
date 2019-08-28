@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Riku Helenius Hockey Stats and Profile at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="Statistics of Riku Helenius, a hockey player from Palkane, Finland born Mar 1 1988 who was active from 2005 to 2019." />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
+
+<script src="/js/all.js"></script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
+</script>
+
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>window.googletag = window.googletag || {cmd: []};</script>
+<script async='async' src='https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js'></script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    var mapping1 = googletag.sizeMapping()
+      .addSize([1080, 0], [300, 250])
+      .addSize([760, 0], [160, 600])
+      .addSize([336, 0], [[336, 280], [300, 250]])
+      .addSize([0, 0], [])
+        .build();
+    var bottomAd = googletag.sizeMapping()
+      .addSize([781, 0], [728, 90])
+      .addSize([481, 0], [468, 60])
+      .addSize([0, 0], [])
+      .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [[728, 90], [320, 50]], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .setTargeting('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_300x250_1', [[336, 280], [160, 600], [300, 250]], 'right_rectangle')
+   	.defineSizeMapping(mapping1)
+   	.setTargeting('sizeMap', mapping1)
+    .addService(googletag.pubads());
+
+	if (window.innerWidth > 480) {
+    googletag.defineSlot('/170737076/hockeydb', [[728, 90], [468, 60]], 'bottom_leaderboard')
+      .defineSizeMapping(bottomAd)
+      .setTargeting('sizeMap', bottomAd)
+      .addService(googletag.pubads());
+ } else {
+    googletag.pubads().setCentering(true);
+ }
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+
+if (window.innerWidth > 480) {
+	googletag.cmd.push(function() { googletag.display('bottom_leaderboard'); });
+}
+</script>
+<link rel="canonical" href="http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=94154" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="/js/jquery.mobile.custom.min.js"></script>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=172068129524955";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">
+<!--
+function ImageCollection(images) {
+  this.images = images;
+  this.i = 0;
+  this.next = function(img) {
+    this.i++;
+    if (this.i == images.length)
+    this.i = 0;
+    img.src = images[this.i];
+  }
+}
+var ic94154 = new ImageCollection(['/ihdb/photos/riku-helenius-2014-55.jpg']);
+//-->
+</script>
+<script type="text/javascript">
+  <!-- // 
+function sc(ct,pid) {
+script = document.createElement('script');
+script.id = 'script' + pid;
+script.src = '/ihdb/stats/switch_content.php?sc=' + ct + '&pid=' + pid;
+document.getElementsByTagName('head')[0].appendChild(script);
+}
+ //  -->
+</script>
+<script type="text/javascript">
+if (screen.width >= 1270) {
+  document.write('<div class="unified">');}
+</script>
+<div id="mt" class="multitable">
+<div class="tablebg st ">
+<div itemscope itemtype="http://schema.org/Person" class="vw">
+<div class="v1">
+<h1 itemprop="name" class="title">Riku Helenius</h1>
+<div class="v1-1">
+Goalie -- shoots L<br />
+<span class="bdate">Born Mar 1 1988 -- </span><span class="hometown" itemprop="homeLocation">Palkane, Finland</span> <br />[31 yrs. ago] <br />Height 6.02 -- Weight 182<span class="vitals_metric"> [188 cm/83 kg]</span><br />
+</div>
+</div>
+<div class="vd">
+Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><div>- 
+ round 1 <a href="/ihdb/draft/draft_by_pick.php?position=15"> #15</a> overall <a href="/ihdb/draft/nhl2006e.html"> 2006 NHL Entry Draft</a></div><br /></div>
+</div>
+<div class="v1-5">
+&nbsp;
+<a href="/ihdb/cards/carddisplay.php?pid=94154" class="button sprite">&nbsp;</a> 
+</div>
+<div class="v2">
+<img itemprop="image" alt="Riku Helenius hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic94154.next(this)" src="/ihdb/photos/riku-helenius-2014-55.jpg" />
+&nbsp;
+</div>
+<div class="vtr" style="clear:left" id="content94154">
+</div>
+<div class="social_container">
+<div class="social"><div class="fb-like" data-href="http://www.hockeydb.com/ihdb/stats/pdisplay.php?filter=Y&amp;pid=94154" data-width="150" data-layout="button_count" data-show-faces="false" data-send="false"></div>&nbsp;</div>
+<div class="social"><a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>&nbsp;</div>
+</div>
+<div class="v3">
+</div>
+<table class="sortable autostripe st ti">
+<thead>
+<tr>
+<th class="norow l" colspan="3" style="background-color:white;">
+</th>
+<th class="rtab c_sec_head" colspan="3">RS Scoring</th>
+<th class="rtab c_sec_head" colspan="10">RS Goalie Stats</th>
+<th class="rtab c_sec_head" colspan="3">PO Scoring</th></tr>
+<tr class="c_sort_head">
+<th class="l">Season</th>
+<th class="l">Team</th>
+<th class="l">Lge</th>
+<th>GP</th>
+<th>A</th>
+<th>PIM</th>
+<th>Min</th>
+<th>GA</th>
+<th>EN</th>
+<th>SO</th>
+<th>GAA</th>
+<th>W</th>
+<th>L</th>
+<th>T</th>
+<th>Svs</th>
+<th class="l">Pct</th>
+<th>GP</th>
+<th>A</th>
+<th>PIM</th>
+</tr>
+</thead>
+<tbody>
+<tr class="ENONEL-1"><td class="pds l">2005-06</td>
+<td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0061782006.html">Finland U-20 National Team</a></td>
+<td class="pdl l">Mestis</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>60</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>3.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0.940</td>
+<td></td><td></td><td></td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2005-06</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0012322006.html">Ilves Tampere</a></td>
+<td class="pdl l">SM-liiga</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2006-07</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0012322007.html">Ilves Tampere</a></td>
+<td class="pdl l">SM-liiga</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MAJJUN-1"><td class="pds l">2007-08</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0010062008.html">Seattle Thunderbirds</a></td>
+<td class="pdl l">WHL</td>
+<td>41</td>
+<td>3</td>
+<td>0</td>
+<td>2358</td>
+<td>95</td>
+<td>2</td>
+<td>3</td>
+<td>2.42</td>
+<td>22</td>
+<td>12</td>
+<td>6</td>
+<td>1029</td>
+<td>0.915</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2008-09</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0069162009.html">Augusta Lynx</a></td>
+<td class="pdl l">ECHL</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td>463</td>
+<td>34</td>
+<td>0</td>
+<td>0</td>
+<td>4.41</td>
+<td>3</td>
+<td>4</td>
+<td>1</td>
+<td>235</td>
+<td>0.874</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2008-09</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047302009.html">Elmira Jackals</a></td>
+<td class="pdl l">ECHL</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2008-09</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047312009.html">Mississippi Sea Wolves</a></td>
+<td class="pdl l">ECHL</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>184</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td>2.28</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>119</td>
+<td>0.944</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-1"><td class="pds l">2008-09</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023882009.html">Norfolk Admirals</a></td>
+<td class="pdl l">AHL</td>
+<td>25</td>
+<td>1</td>
+<td>2</td>
+<td>1388</td>
+<td>63</td>
+<td>3</td>
+<td>1</td>
+<td>2.72</td>
+<td>9</td>
+<td>15</td>
+<td>0</td>
+<td>705</td>
+<td>0.918</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MAJOR-1"><td class="pds l">2008-09</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000552009.html">Tampa Bay Lightning</a></td>
+<td class="pdl l">NHL</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>1.000</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-1"><td class="pds l">2009-10</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023882010.html">Norfolk Admirals</a></td>
+<td class="pdl l">AHL</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td>719</td>
+<td>33</td>
+<td>1</td>
+<td>0</td>
+<td>2.75</td>
+<td>5</td>
+<td>7</td>
+<td>0</td>
+<td>283</td>
+<td>0.896</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2009-10</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0014372010.html">Sodertalje SK</a></td>
+<td class="pdl l">SEL</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>545</td>
+<td>22</td>
+<td>0</td>
+<td>0</td>
+<td>2.42</td>
+<td></td>
+<td></td>
+<td></td>
+<td>263</td>
+<td>0.922</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2010-11</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0014372011.html">Sodertalje SK</a></td>
+<td class="pdl l">SEL</td>
+<td>18</td>
+<td>0</td>
+<td>0</td>
+<td>911</td>
+<td>46</td>
+<td>0</td>
+<td>0</td>
+<td>3.03</td>
+<td></td>
+<td></td>
+<td></td>
+<td>351</td>
+<td>0.884</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="ENONEL-1"><td class="pds l">2011-12</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0074552012.html">JYP-Akatemia</a></td>
+<td class="pdl l">Mestis</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>120</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0.962</td>
+<td></td><td></td><td></td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2011-12</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0012342012.html">JyP HT Jyvaskyla</a></td>
+<td class="pdl l">SM-liiga</td>
+<td>33</td>
+<td>1</td>
+<td>0</td>
+<td>1908</td>
+<td>52</td>
+<td>0</td>
+<td>7</td>
+<td>1.64</td>
+<td>17</td>
+<td>9</td>
+<td>5</td>
+<td>764</td>
+<td>0.936</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="MINPRO-1"><td class="pds l">2012-13</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0005082013.html">Syracuse Crunch</a></td>
+<td class="pdl l">AHL</td>
+<td>32</td>
+<td>1</td>
+<td>7</td>
+<td>1772</td>
+<td>76</td>
+<td>1</td>
+<td>4</td>
+<td>2.57</td>
+<td>17</td>
+<td>14</td>
+<td>0</td>
+<td>682</td>
+<td>0.900</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-1"><td class="pds l">2013-14</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0005082014.html">Syracuse Crunch</a></td>
+<td class="pdl l">AHL</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td>297</td>
+<td>17</td>
+<td>1</td>
+<td>0</td>
+<td>3.43</td>
+<td>2</td>
+<td>3</td>
+<td>0</td>
+<td>119</td>
+<td>0.875</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2013-14</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0069202014.html">Florida Everblades</a></td>
+<td class="pdl l">ECHL</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>148</td>
+<td>15</td>
+<td>2</td>
+<td>0</td>
+<td>6.08</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>59</td>
+<td>0.797</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2014-15</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0072842015.html">Jokerit Helsinki</a></td>
+<td class="pdl l">KHL</td>
+<td>22</td>
+<td>0</td>
+<td>0</td>
+<td>1272</td>
+<td>50</td>
+<td>0</td>
+<td>2</td>
+<td>2.36</td>
+<td>14</td>
+<td>5</td>
+<td>2</td>
+<td>557</td>
+<td>0.918</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2015-16</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0072842016.html">Jokerit Helsinki</a></td>
+<td class="pdl l">KHL</td>
+<td>21</td>
+<td>0</td>
+<td>2</td>
+<td>1045</td>
+<td>42</td>
+<td>0</td>
+<td>2</td>
+<td>2.41</td>
+<td>7</td>
+<td>6</td>
+<td>4</td>
+<td>343</td>
+<td>0.891</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2016-17</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0072842017.html">Jokerit Helsinki</a></td>
+<td class="pdl l">KHL</td>
+<td>20</td>
+<td>1</td>
+<td>2</td>
+<td>1219</td>
+<td>54</td>
+<td>0</td>
+<td>0</td>
+<td>2.66</td>
+<td>10</td>
+<td>6</td>
+<td>4</td>
+<td>496</td>
+<td>0.902</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2017-18</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0012252018.html">KalPa Kuopio</a></td>
+<td class="pdl l">SM-liiga</td>
+<td>4</td>
+<td>0</td>
+<td>2</td>
+<td>235</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+<td>2.80</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+<td>98</td>
+<td>0.890</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2017-18</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0012322018.html">Ilves Tampere</a></td>
+<td class="pdl l">SM-liiga</td>
+<td>27</td>
+<td>1</td>
+<td>2</td>
+<td>1514</td>
+<td>71</td>
+<td>0</td>
+<td>1</td>
+<td>2.81</td>
+<td>12</td>
+<td>9</td>
+<td>4</td>
+<td>574</td>
+<td>0.880</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2018-19</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0012322019.html">Ilves Tampere</a></td>
+<td class="pdl l">SM-liiga</td>
+<td>32</td>
+<td>2</td>
+<td>2</td>
+<td>1845</td>
+<td>86</td>
+<td>0</td>
+<td>2</td>
+<td>2.69</td>
+<td>12</td>
+<td>11</td>
+<td>8</td>
+<td>659</td>
+<td>0.880</td>
+<td></td><td></td><td></td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2018-19p</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/csl_po.php?tid=1232">Ilves Tampere</a></td>
+<td class="pdl l">SM-liiga</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><td></td><td></td>
+</tr>
+</tbody>
+<tfoot>
+<tr class="c_sec_foot">
+<td></td><td class="l">NHL Totals</td>
+<td></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+<td>0.00</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>1.000</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tfoot>
+</table>
+<p class="desktop"><a href="" onclick="window.open('embed.php?pid=94154','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Riku Helenius stats!</a>
+ | <a href="viewastext.php?33fd04f0=7c8482e8&amp;pid=94154" rel="nofollow">View as text</a></p>
+   <div id="bottom_leaderboard">
+   <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
+   </div><!-- Start of tournament section -->
+<div class="title">Tournaments</div><table class="sortable autostripe reg">
+<thead>
+<tr class="c_sort_head">
+<td class="l">Year</td>
+<td class="l">Tournament</td>
+<td class="l">Team</td>
+<td>GP</td>
+<td>G</td>
+<td>A</td>
+<td>Pts</td>
+<td>PIM</td>
+<td>+/-</td>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l">2008</td><td class="l pdt"><a href="/tournaments/t-38d997.html">World Junior U-20 Championships</a></td>
+<td class="l">Finland U-20</td><td>6</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+<br />
+
+</div>
+
+<div class="tablebg desktop st">
+</div>
+</div>
+<div class="sponsor" id="300_160_300" >
+<div id='right_rectangle'>
+<script type="text/javascript" src="/proxy/ad_proxy_300_160_300.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('right_rectangle'); });
+</script>
+</div>
+</div>
+<div id="related" class="tablebg">
+<h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
+<h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
+<div style="margin-bottom:10px">Riku Helenius played in eight leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/348.html">Finland - Mestis League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/84.html">Finland SM-liiga</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/257.html">Western Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/239.html">Swedish Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/280.html">Kontinental Hockey League</a></div>
+<h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
+<div style="margin-bottom:10px">If you would like to know more about any of the 15 teams that Riku Helenius played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/finland-u-20-10473.html">Finland U-20</a></div>
+<div class="ti"><a href="/stte/ilves-tampere-6167.html">Ilves Tampere</a></div>
+<div class="ti"><a href="/stte/seattle-thunderbirds-7964.html">Seattle Thunderbirds</a></div>
+<div class="ti"><a href="/stte/augusta-lynx-4697.html">Augusta Lynx</a></div>
+<div class="ti"><a href="/stte/elmira-jackals-5653.html">Elmira Jackals</a></div>
+<div class="ti"><a href="/stte/mississippi-sea-wolves-6900.html">Mississippi Sea Wolves</a></div>
+<div class="ti"><a href="/stte/norfolk-admirals-7148.html">Norfolk Admirals</a></div>
+<div class="ti"><a href="/stte/tampa-bay-lightning-8385.html">Tampa Bay Lightning</a></div>
+<div class="ti"><a href="/stte/sodertalje-sk-8050.html">Sodertalje SK</a></div>
+<div class="ti"><a href="/stte/jyp-akatemia-11677.html">JYP-Akatemia</a></div>
+<div class="ti"><a href="/stte/jyp-ht-jyvaskyla-6265.html">JyP HT Jyvaskyla</a></div>
+<div class="ti"><a href="/stte/syracuse-crunch-8362.html">Syracuse Crunch</a></div>
+<div class="ti"><a href="/stte/florida-everblades-5761.html">Florida Everblades</a></div>
+<div class="ti"><a href="/stte/jokerit-helsinki-11521.html">Jokerit Helsinki</a></div>
+<div class="ti"><a href="/stte/kalpa-kuopio-6270.html">KalPa Kuopio</a></div>
+</div>
+<script type="text/javascript">
+if (screen.width >= 1270) {
+  document.write('</div>');}
+</script>
+<script>
+$("#mt").on("swipe",function(){
+  $('.multitable').each(function(i, el) {
+    $(el).css("width","765px");
+  })
+  $('.expand').each(function(i, el) {
+    $(el).css("display","none");
+  })
+  $("#mt").off()
+;})
+</script>
+<script>
+if (document.documentElement.clientWidth <= 760) {
+  $('.vd').each(function(i, el) {
+    $(el).insertAfter($('.v2').eq(i));
+    $(el).css("display","block");
+  })
+  $('.v1-5').each(function(i, el) {
+    $(el).insertAfter($('.v2').eq(i));
+  })
+};
+</script>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2019 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='//storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>
