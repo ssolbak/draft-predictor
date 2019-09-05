@@ -116,6 +116,9 @@ const download_leagues = (years, done) => {
 
             async.eachSeries(years, (year, cb) => {
 
+                //ie no nhl season in 2004-05
+                if(!_.has(url_map, year)) return cb();
+
                 let league_year_folder = `${constants.BASE_FOLDER}/teams/${league_key}/${year}`;
                 if(!fs.existsSync(path.join(__dirname, league_year_folder))) {
                     fs.mkdirSync(path.join(__dirname, league_year_folder));
@@ -151,6 +154,10 @@ const get_league_info_from = (league, years, content) => {
         let matches = re.exec(content);
 
         if (!matches || matches.length < 1) {
+
+            //no nhl season in 2004-05
+            if(league === 'NHL' && year === 2004) return;
+
             console.log(`Cannot find league standings for league ${league} year ${year}`);
             return process.exit(1);
         }
