@@ -424,12 +424,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <tr class="EUROEL-2"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0067322019.html">Dornbirn EC</a></td>
 <td class="pdl l">Austria</td>
-<td class="pdgp">52</td>
-<td>19</td>
-<td>19</td>
-<td>38</td>
-<td>22</td>
-<td>-15</td>
+<td class="pdgp">44</td>
+<td>12</td>
+<td>16</td>
+<td>28</td>
+<td>20</td>
+<td>-14</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -448,7 +448,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=96615','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Scott Timmins stats!</a>
- | <a href="viewastext.php?250a1f5e=d39d75bd&amp;pid=96615" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?4b35f63f=c1d51ae9&amp;pid=96615" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

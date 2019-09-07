@@ -292,7 +292,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=120918','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Anton Blomqvist stats!</a>
- | <a href="viewastext.php?7cfe9b01=0d298abe&amp;pid=120918" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?bc685e08=7aa3aa5a&amp;pid=120918" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

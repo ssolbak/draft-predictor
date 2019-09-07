@@ -393,17 +393,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00004682.html">Atlanta Thrashers</a><div
 <td>1</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="EUROEL-2"><td class="pds l">2018-19</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081072019.html">Zagreb Medvescak KHL</a></td>
-<td class="pdl l">Austria</td>
-<td class="pdgp">17</td>
-<td>2</td>
-<td>9</td>
-<td>11</td>
-<td>10</td>
-<td>-12</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 <tr class="MINPRO-2"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0069282019.html">South Carolina Stingrays</a></td>
 <td class="pdl l">ECHL</td>
@@ -419,12 +408,23 @@ Drafted by <a href="/ihdb/draft/teams/dr00004682.html">Atlanta Thrashers</a><div
 <td>3</td>
 <td>2</td>
 </tr>
+<tr class="EUROEL-2"><td class="pds l">2018-19</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081072019.html">Zagreb Medvescak KHL</a></td>
+<td class="pdl l">Austria</td>
+<td class="pdgp">17</td>
+<td>2</td>
+<td>9</td>
+<td>11</td>
+<td>10</td>
+<td>-12</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=107535','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jordan Samuels-Thomas stats!</a>
- | <a href="viewastext.php?d327abaa=10d87c8f&amp;pid=107535" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?79bef365=5a2ac3ac&amp;pid=107535" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -463,8 +463,8 @@ Drafted by <a href="/ihdb/draft/teams/dr00004682.html">Atlanta Thrashers</a><div
 <div class="ti"><a href="/stte/san-diego-gulls-11619.html">San Diego Gulls</a></div>
 <div class="ti"><a href="/stte/mlada-boleslav-bk-9313.html">Mlada Boleslav BK</a></div>
 <div class="ti"><a href="/stte/augsburg-panthers-4696.html">Augsburg Panthers</a></div>
-<div class="ti"><a href="/stte/zagreb-medvescak-khl-9668.html">Zagreb Medvescak KHL</a></div>
 <div class="ti"><a href="/stte/south-carolina-stingrays-8084.html">South Carolina Stingrays</a></div>
+<div class="ti"><a href="/stte/zagreb-medvescak-khl-9668.html">Zagreb Medvescak KHL</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

@@ -579,7 +579,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=120919','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Joni Ortio stats!</a>
- | <a href="viewastext.php?985b1301=6f8bfc0b&amp;pid=120919" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?e5c826ff=94f643f7&amp;pid=120919" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

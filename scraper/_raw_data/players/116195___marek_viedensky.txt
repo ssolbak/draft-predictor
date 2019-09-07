@@ -378,7 +378,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=116195','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Marek Viedensky stats!</a>
- | <a href="viewastext.php?8a241ecf=da07b212&amp;pid=116195" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?2ff41179=3893f0af&amp;pid=116195" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

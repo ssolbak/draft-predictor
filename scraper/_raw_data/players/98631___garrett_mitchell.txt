@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Garrett Mitchell</h1>
 <div class="v1-1">
 Right Wing -- shoots R<br />
-<span class="bdate">Born Sep 2 1991 -- </span><span class="hometown" itemprop="homeLocation">Regina, SASK</span> <br />[28 yrs. ago] <br />Height 5.11 -- Weight 196<span class="vitals_metric"> [180 cm/89 kg]</span><br />
+<span class="bdate">Born Sep 2 1991 -- </span><span class="hometown" itemprop="homeLocation">Regina, SASK</span> <br />[27 yrs. ago] <br />Height 5.11 -- Weight 196<span class="vitals_metric"> [180 cm/89 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -441,7 +441,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=98631','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Garrett Mitchell stats!</a>
- | <a href="viewastext.php?59dd5799=8dda1cb5&amp;pid=98631" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?05e4f3f4=e76e58ad&amp;pid=98631" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

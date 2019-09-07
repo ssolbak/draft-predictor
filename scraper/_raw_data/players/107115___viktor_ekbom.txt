@@ -398,7 +398,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=107115','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Viktor Ekbom stats!</a>
- | <a href="viewastext.php?f4dd2d5d=75053575&amp;pid=107115" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?c0a54f3a=5ff1519a&amp;pid=107115" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

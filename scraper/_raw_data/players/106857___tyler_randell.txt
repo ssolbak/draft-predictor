@@ -434,7 +434,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=106857','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Tyler Randell stats!</a>
- | <a href="viewastext.php?dfdd5d5f=2681b14e&amp;pid=106857" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?6818a48d=52006460&amp;pid=106857" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

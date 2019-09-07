@@ -444,7 +444,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=106988','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Brett Flemming stats!</a>
- | <a href="viewastext.php?2dd528b7=b12782fc&amp;pid=106988" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?85a40dd0=b60f160d&amp;pid=106988" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

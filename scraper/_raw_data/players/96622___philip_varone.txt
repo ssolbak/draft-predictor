@@ -500,7 +500,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=96622','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Philip Varone stats!</a>
- | <a href="viewastext.php?1086bb4e=24d8c59b&amp;pid=96622" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?28ddc56b=7c83f010&amp;pid=96622" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -521,7 +521,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=89745','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Michael Pelech stats!</a>
- | <a href="viewastext.php?b04857e9=c7c28a5a&amp;pid=89745" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?3d8328b7=4c147479&amp;pid=89745" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -390,17 +390,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00004682.html">Atlanta Thrashers</a><div
 <td>-6</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="EUROEL-2"><td class="pds l">2018-19</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0067332019.html">Innsbruck HC</a></td>
-<td class="pdl l">Austria</td>
-<td class="pdgp">27</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>6</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 <tr class="EUROEL-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0052942019.html">Banska Bystrica HC 05</a></td>
 <td class="pdl l">Slovak</td>
@@ -416,12 +405,23 @@ Drafted by <a href="/ihdb/draft/teams/dr00004682.html">Atlanta Thrashers</a><div
 <td>2</td>
 <td>4</td>
 </tr>
+<tr class="EUROEL-2"><td class="pds l">2018-19</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0067332019.html">Innsbruck HC</a></td>
+<td class="pdl l">Austria</td>
+<td class="pdgp">27</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>6</td>
+<td>-1</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=96666','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Levko Koper stats!</a>
- | <a href="viewastext.php?f17db255=2988664f&amp;pid=96666" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?cef78699=5ff4f42b&amp;pid=96666" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -445,8 +445,8 @@ Drafted by <a href="/ihdb/draft/teams/dr00004682.html">Atlanta Thrashers</a><div
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/69.html">Deutsche Eishockey League (Germany)</a></div>
-<div class="ti" ><a href="/ihdb/stats/leagues/27.html">Austrian League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/218.html">Slovakian Extraleague</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/27.html">Austrian League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
 <div style="margin-bottom:10px">If you would like to know more about any of the eight teams that Levko Koper played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/spokane-chiefs-8102.html">Spokane Chiefs</a></div>
 <div class="ti"><a href="/stte/u.-of-alberta-8600.html">U. of Alberta</a></div>
@@ -454,8 +454,8 @@ Drafted by <a href="/ihdb/draft/teams/dr00004682.html">Atlanta Thrashers</a><div
 <div class="ti"><a href="/stte/florida-everblades-5761.html">Florida Everblades</a></div>
 <div class="ti"><a href="/stte/charlotte-checkers-10349.html">Charlotte Checkers</a></div>
 <div class="ti"><a href="/stte/straubing-tigers-8291.html">Straubing Tigers</a></div>
-<div class="ti"><a href="/stte/innsbruck-hc-11035.html">Innsbruck HC</a></div>
 <div class="ti"><a href="/stte/banska-bystrica-hc-05-9567.html">Banska Bystrica HC 05</a></div>
+<div class="ti"><a href="/stte/innsbruck-hc-11035.html">Innsbruck HC</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

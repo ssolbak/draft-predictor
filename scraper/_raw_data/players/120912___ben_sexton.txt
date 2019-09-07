@@ -410,7 +410,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=120912','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ben Sexton stats!</a>
- | <a href="viewastext.php?70b61b2d=ea81e5ff&amp;pid=120912" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?075032b9=662d2ddc&amp;pid=120912" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

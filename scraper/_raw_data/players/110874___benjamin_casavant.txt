@@ -332,7 +332,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=110874','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Benjamin Casavant stats!</a>
- | <a href="viewastext.php?235df5d1=54a8ecd6&amp;pid=110874" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?b1f0d2af=224909b1&amp;pid=110874" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -402,7 +402,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=110401','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Scott Valentine stats!</a>
- | <a href="viewastext.php?8c960f3b=7f96a824&amp;pid=110401" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?3dc25f01=1c1f88c5&amp;pid=110401" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

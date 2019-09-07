@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Adam Almquist Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Adam Almquist, a hockey player from Jonkoping, Sweden born Feb 27 1991 who was active from 2009 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Adam Almquist, a hockey player from Jonkoping, Sweden born Feb 27 1991 who was active from 2009 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -377,17 +377,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>4</td>
 <td>29</td>
 </tr>
-<tr class="EUROEL-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070342020.html">Vladivostok Admiral</a></td>
-<td class="pdl l">KHL</td>
-<td class="pdgp">2</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>0</td>
-<td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -404,7 +393,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=123187','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Adam Almquist stats!</a>
- | <a href="viewastext.php?19ee5c2d=5c300ad4&amp;pid=123187" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?2172ac1a=1a05556f&amp;pid=123187" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -429,13 +418,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <div class="ti" ><a href="/ihdb/stats/leagues/280.html">Kontinental Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/241.html">Switzerland National League A</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Adam Almquist played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/hv71-jonkoping-5969.html">HV71 Jonkoping</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Adam Almquist played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/hv71-jonkoping-5969.html">HV71 Jonkoping</a></div>
 <div class="ti"><a href="/stte/grand-rapids-griffins-5898.html">Grand Rapids Griffins</a></div>
 <div class="ti"><a href="/stte/detroit-red-wings-5492.html">Detroit Red Wings</a></div>
 <div class="ti"><a href="/stte/cherepovets-severstal-9302.html">Cherepovets Severstal</a></div>
 <div class="ti"><a href="/stte/frolunda-hc-8780.html">Frolunda HC</a></div>
 <div class="ti"><a href="/stte/bern-sc-4851.html">Bern SC</a></div>
-<div class="ti"><a href="/stte/vladivostok-admiral-11339.html">Vladivostok Admiral</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

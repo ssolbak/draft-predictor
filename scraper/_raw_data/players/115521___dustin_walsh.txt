@@ -294,7 +294,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=115521','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Dustin Walsh stats!</a>
- | <a href="viewastext.php?855d5a5a=595a5e85&amp;pid=115521" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?1082e69c=e2771438&amp;pid=115521" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of coaching section -->

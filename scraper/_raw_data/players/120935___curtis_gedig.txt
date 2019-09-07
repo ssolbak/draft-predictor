@@ -335,14 +335,14 @@ Drafted by <a href="/ihdb/draft/teams/dr00007066.html">New Jersey Devils</a><div
 <td>2</td>
 <td>2</td>
 <td>4</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=120935','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Curtis Gedig stats!</a>
- | <a href="viewastext.php?6858eea1=7df2cfd0&amp;pid=120935" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?841eabce=5b84a14a&amp;pid=120935" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

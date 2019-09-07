@@ -316,7 +316,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004682.html">Atlanta Thrashers</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=98866','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jimmy Bubnick stats!</a>
- | <a href="viewastext.php?8539fe1b=cbb8a06b&amp;pid=98866" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?aa0fdfdf=fd7a16fc&amp;pid=98866" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

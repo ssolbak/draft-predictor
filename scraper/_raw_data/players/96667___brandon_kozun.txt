@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Brandon Kozun Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Brandon Kozun, a hockey player from Los Angeles, CA born Mar 8 1990 who was active from 2006 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Brandon Kozun, a hockey player from Los Angeles, CA born Mar 8 1990 who was active from 2006 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -438,16 +438,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>6</td>
 <td>8</td>
 </tr>
-<tr class="EUROEL-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050272020.html">Magnitogorsk Metallurg</a></td>
-<td class="pdl l">KHL</td>
-<td class="pdgp">2</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -464,7 +454,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=96667','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Brandon Kozun stats!</a>
- | <a href="viewastext.php?0a3bce99=5fffffa2&amp;pid=96667" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?a028dfb4=98e8765b&amp;pid=96667" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -526,14 +516,13 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/280.html">Kontinental Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the eight teams that Brandon Kozun played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/calgary-royals-5094.html">Calgary Royals</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Brandon Kozun played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/calgary-royals-5094.html">Calgary Royals</a></div>
 <div class="ti"><a href="/stte/calgary-hitmen-5091.html">Calgary Hitmen</a></div>
 <div class="ti"><a href="/stte/manchester-monarchs-6725.html">Manchester Monarchs</a></div>
 <div class="ti"><a href="/stte/toronto-marlies-8496.html">Toronto Marlies</a></div>
 <div class="ti"><a href="/stte/toronto-maple-leafs-8490.html">Toronto Maple Leafs</a></div>
 <div class="ti"><a href="/stte/jokerit-helsinki-11521.html">Jokerit Helsinki</a></div>
 <div class="ti"><a href="/stte/yaroslavl-lokomotiv-9297.html">Yaroslavl Lokomotiv</a></div>
-<div class="ti"><a href="/stte/magnitogorsk-metallurg-9298.html">Magnitogorsk Metallurg</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

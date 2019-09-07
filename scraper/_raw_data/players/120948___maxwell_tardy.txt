@@ -272,7 +272,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=120948','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Maxwell Tardy stats!</a>
- | <a href="viewastext.php?741f20d9=523a935f&amp;pid=120948" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?dcb3ceba=7399d2fc&amp;pid=120948" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

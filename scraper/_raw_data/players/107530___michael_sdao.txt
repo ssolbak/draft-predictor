@@ -397,7 +397,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=107530','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Michael Sdao stats!</a>
- | <a href="viewastext.php?08590ec9=ae067bb8&amp;pid=107530" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?11858a1c=db8c2a06&amp;pid=107530" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

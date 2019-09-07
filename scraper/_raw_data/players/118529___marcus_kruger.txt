@@ -424,7 +424,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=118529','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Marcus Kruger stats!</a>
- | <a href="viewastext.php?71fe92ed=7edc84f1&amp;pid=118529" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?8aeb9dac=2def0b49&amp;pid=118529" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

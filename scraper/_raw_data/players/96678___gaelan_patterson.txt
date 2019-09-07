@@ -378,7 +378,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=96678','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Gaelan Patterson stats!</a>
- | <a href="viewastext.php?01416179=515bf133&amp;pid=96678" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?b95d7c0c=fac36432&amp;pid=96678" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of coaching section -->

@@ -525,7 +525,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=120922','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Brandon Maxwell stats!</a>
- | <a href="viewastext.php?80154878=093e1d05&amp;pid=120922" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?0b16f7fe=c4fe57a4&amp;pid=120922" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

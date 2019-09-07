@@ -358,7 +358,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=96884','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Eric Wellwood stats!</a>
- | <a href="viewastext.php?322628a6=53e606eb&amp;pid=96884" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?fe64f075=804703ff&amp;pid=96884" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of coaching section -->

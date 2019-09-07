@@ -459,7 +459,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=107048','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Daniel Maggio stats!</a>
- | <a href="viewastext.php?177aa804=5cd7a0d5&amp;pid=107048" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?372ce935=44a52f5b&amp;pid=107048" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

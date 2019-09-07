@@ -602,7 +602,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=102649','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Darcy Kuemper stats!</a>
- | <a href="viewastext.php?ceb6459e=ef825af9&amp;pid=102649" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?c0166e0f=50a2d717&amp;pid=102649" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

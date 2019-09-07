@@ -403,7 +403,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=116116','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Mitch Callahan stats!</a>
- | <a href="viewastext.php?9f4dbbe9=119342c6&amp;pid=116116" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?5cf522d2=84c25ef9&amp;pid=116116" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

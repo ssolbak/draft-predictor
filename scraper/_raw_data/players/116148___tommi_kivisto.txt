@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Tommi Kivisto Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Tommi Kivisto, a hockey player from Vantaa, Finland born Jun 7 1991 who was active from 2008 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Tommi Kivisto, a hockey player from Vantaa, Finland born Jun 7 1991 who was active from 2008 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -401,23 +401,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td>2</td>
 <td>8</td>
 </tr>
-<tr class="EUROEL-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0072842020.html">Jokerit Helsinki</a></td>
-<td class="pdl l">KHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=116148','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Tommi Kivisto stats!</a>
- | <a href="viewastext.php?e0710f83=f8e9a015&amp;pid=116148" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?230e33c9=2b6818f6&amp;pid=116148" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -490,7 +479,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Similar Players</h4>
 <div style="margin-bottom:10px">Not the Tommi Kivisto you're looking for? We have one other player with a similar name.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=34074">Tom Koivisto</a></div>
-<div class="in1 ti" style="margin-bottom:5px"> (b.1974) (NHL, AHL, SM-liiga) [1992-2012]</div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1974) (NHL, AHL, SEL) [1992-2012]</div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
 <div style="margin-bottom:10px">Tommi Kivisto played in six leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/257.html">Western Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/84.html">Finland SM-liiga</a></div>
