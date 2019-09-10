@@ -8,6 +8,7 @@ exports.getTeamFileFor = (team_id, team_name) => {
 
     let team_key = team_name.toLowerCase()
         .replace(/ /g, "_")
+        .replace(/\//g, "-")
         .replace(/[,.']+/g,"");
 
     return `${team_id}___${team_key}.txt`;
