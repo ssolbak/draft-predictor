@@ -1,0 +1,838 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>2005-06 American Hockey League [AHL] standings at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="The standings of the teams in the American Hockey League for the 2005-06 season" />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
+
+<script src="/js/all.js"></script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
+</script>
+
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>window.googletag = window.googletag || {cmd: []};</script>
+<script async='async' src='https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js'></script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    var map300t = googletag.sizeMapping()
+      .addSize([1180, 0], [300, 600])
+      .addSize([760, 0], [160, 600])
+      .addSize([300, 0], [300, 250])
+      .addSize([0, 0], [])
+        .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [[728, 90], [320, 50]], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .setTargeting('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_300x600_1', [[300, 600], [160, 600], [300, 250]], 'tall_rectangle')
+    	.defineSizeMapping(map300t)
+    	.setTargeting('sizeMap', map300t)
+    	.addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+<div class="multitable1" style="clear:both; min-width:800px; float:left">
+<div class="tablebg" style="width:96%">
+<h1 class="title">2005-06 American Hockey League Standings</h1>
+<div class="breadcrumb"><a href="http://www.hockeydb.com/ihdb/stats/leagues.html">Leagues</a> -> <a href="http://www.hockeydb.com/ihdb/stats/leagues/112.html">AHL</a> -> 2005-06 -> standings</div>
+<div class="ti in1">
+Jump:
+<a href="ahl19412005.html">2004-05</a>,<a href="ahl19412007.html">2006-07</a></div>
+<table class="sortable autostripe">
+<thead>
+<tr>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th><th class="hilite c ol">
+<a href="/ihdb/stats/playoffdisplay.php?league=ahl1941&amp;season=2006&amp;leaguenm=AHL">Playoff Results
+</a>
+</th>
+<th class="hilite c ol">
+<a href="/ihdb/stats/top_league.php?lid=ahl1941&amp;sid=2006&amp;leaguenm=AHL">League Leaders
+</a>
+</th>
+</tr>
+<tr class="hideme">
+<td style="text-align:left" class="c_sec_head">Atlantic</td>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+</tr>
+<tr>
+<th class="l c_sort_head">Team</th>
+<th class="c_sort_head">GP</th>
+<th class="c_sort_head">W</th>
+<th class="c_sort_head">L</th>
+<th class="c_sort_head">OTL</th>
+<th class="c_sort_head">SOL</th>
+<th class="c_sort_head">Pts</th>
+<th class="c_sort_head">GF</th>
+<th class="c_sort_head">GA</th>
+<th class="c_sort_head">PIM</th>
+<th class="c_sort_head">Att.</th>
+<th class="l c_sort_head">Coach</th>
+<th class="l c_sort_head">Playoff Results</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="teams/0002622006.html">Portland Pirates</a></td>
+<td>80</td>
+<td>53</td>
+<td>19</td>
+<td>5</td>
+<td>3</td>
+<td>114</td>
+<td>306</td>
+<td>241</td>
+<td>1920</td>
+<td>4,844</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=1368">Kevin Dineen</a></td>
+<td style="text-align:left">Lost in round 3</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0008802006.html">Hartford Wolf Pack</a></td>
+<td>80</td>
+<td>48</td>
+<td>24</td>
+<td>2</td>
+<td>6</td>
+<td>104</td>
+<td>292</td>
+<td>241</td>
+<td>1930</td>
+<td>5,045</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=4818">Jim Schoenfeld</a></td>
+<td style="text-align:left">Lost in round 2</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0026722006.html">Manchester Monarchs</a></td>
+<td>80</td>
+<td>43</td>
+<td>30</td>
+<td>3</td>
+<td>4</td>
+<td>93</td>
+<td>236</td>
+<td>230</td>
+<td>1264</td>
+<td>8,612</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=6384">Jim Hughes</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0000312006.html">Providence Bruins</a></td>
+<td>80</td>
+<td>43</td>
+<td>31</td>
+<td>1</td>
+<td>5</td>
+<td>92</td>
+<td>254</td>
+<td>217</td>
+<td>1686</td>
+<td>6,809</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=1966">Scott Gordon</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0015402006.html">Lowell Lock Monsters</a></td>
+<td>80</td>
+<td>29</td>
+<td>37</td>
+<td>6</td>
+<td>8</td>
+<td>72</td>
+<td>222</td>
+<td>257</td>
+<td>1465</td>
+<td>3,634</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=4682">Tom Rowe</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0003042006.html">Springfield Falcons</a></td>
+<td>80</td>
+<td>28</td>
+<td>43</td>
+<td>3</td>
+<td>6</td>
+<td>65</td>
+<td>220</td>
+<td>312</td>
+<td>1539</td>
+<td>3,474</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=1994">Dirk Graham</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0002632006.html">Albany River Rats</a></td>
+<td>80</td>
+<td>25</td>
+<td>48</td>
+<td>4</td>
+<td>3</td>
+<td>57</td>
+<td>206</td>
+<td>278</td>
+<td>1974</td>
+<td>4,025</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=1793">Robbie Ftorek</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+<tr class="hidden">
+<th>&nbsp;</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<td style="text-align:left" class="c_sec_head">East</td>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+</tr>
+<tr>
+<td style="text-align:left"><a href="teams/0019802006.html">Wilkes-Barre/Scranton Penguins</a></td>
+<td>80</td>
+<td>51</td>
+<td>18</td>
+<td>5</td>
+<td>6</td>
+<td>113</td>
+<td>249</td>
+<td>178</td>
+<td>2101</td>
+<td>8,131</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=6142">Therrien</a>, <a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=2668">Kehoe</a>, <a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=3838">Mullen</a><a onmouseover="this.style.cursor='hand'" onClick="window.open('/ihdb/stats/multicoach.php?tid=1980&amp;season=2006','MultiCoach','width=500,height=150,left=200,top=200')"> {+}</a></td>
+<td style="text-align:left">Lost in round 2</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0000092006.html">Hershey Bears</a></td>
+<td>80</td>
+<td>44</td>
+<td>21</td>
+<td>5</td>
+<td>10</td>
+<td>103</td>
+<td>262</td>
+<td>234</td>
+<td>2072</td>
+<td>7,702</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=502">Bruce Boudreau</a></td>
+<td style="text-align:left"><b>Won Championship</b></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0023882006.html">Norfolk Admirals</a></td>
+<td>80</td>
+<td>43</td>
+<td>29</td>
+<td>4</td>
+<td>4</td>
+<td>94</td>
+<td>259</td>
+<td>246</td>
+<td>1911</td>
+<td>4,209</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=6363">Mike Haviland</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0026712006.html">Bridgeport Sound Tigers</a></td>
+<td>80</td>
+<td>38</td>
+<td>33</td>
+<td>6</td>
+<td>3</td>
+<td>85</td>
+<td>246</td>
+<td>253</td>
+<td>1303</td>
+<td>3,696</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=232">Dave Baseggio</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0030012006.html">Binghamton Senators</a></td>
+<td>80</td>
+<td>35</td>
+<td>37</td>
+<td>4</td>
+<td>4</td>
+<td>78</td>
+<td>258</td>
+<td>295</td>
+<td>2200</td>
+<td>4,045</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=7475">Dave Cameron</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0007932006.html">Philadelphia Phantoms</a></td>
+<td>80</td>
+<td>34</td>
+<td>37</td>
+<td>2</td>
+<td>7</td>
+<td>76</td>
+<td>197</td>
+<td>232</td>
+<td>2380</td>
+<td>7,162</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=5176">John Stevens</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+<tr class="hidden">
+<th>&nbsp;</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<td style="text-align:left" class="c_sec_head">North</td>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+</tr>
+<tr>
+<td style="text-align:left"><a href="teams/0026752006.html">Grand Rapids Griffins</a></td>
+<td>80</td>
+<td>55</td>
+<td>20</td>
+<td>1</td>
+<td>4</td>
+<td>115</td>
+<td>323</td>
+<td>247</td>
+<td>1888</td>
+<td>6,548</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=56418">Greg Ireland</a></td>
+<td style="text-align:left">Lost in round 3</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0005082006.html">Syracuse Crunch</a></td>
+<td>80</td>
+<td>47</td>
+<td>25</td>
+<td>5</td>
+<td>3</td>
+<td>102</td>
+<td>272</td>
+<td>251</td>
+<td>2008</td>
+<td>5,420</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=5946">Gary Agnew</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0026732006.html">Manitoba Moose</a></td>
+<td>80</td>
+<td>44</td>
+<td>24</td>
+<td>7</td>
+<td>5</td>
+<td>100</td>
+<td>243</td>
+<td>217</td>
+<td>1910</td>
+<td>8,079</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=7532">Alain Vigneault</a></td>
+<td style="text-align:left">Lost in round 2</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0039912006.html">Toronto Marlies</a></td>
+<td>80</td>
+<td>41</td>
+<td>29</td>
+<td>6</td>
+<td>4</td>
+<td>92</td>
+<td>270</td>
+<td>263</td>
+<td>1749</td>
+<td>4,361</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=38124">Paul Maurice</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0000032006.html">Rochester Americans</a></td>
+<td>80</td>
+<td>37</td>
+<td>39</td>
+<td>2</td>
+<td>2</td>
+<td>78</td>
+<td>261</td>
+<td>270</td>
+<td>1993</td>
+<td>6,988</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=1194">Randy Cunneyworth</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0007912006.html">Hamilton Bulldogs</a></td>
+<td>80</td>
+<td>35</td>
+<td>41</td>
+<td>0</td>
+<td>4</td>
+<td>74</td>
+<td>225</td>
+<td>251</td>
+<td>2090</td>
+<td>5,120</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=3128">Don Lever</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0026432006.html">Cleveland Barons</a></td>
+<td>80</td>
+<td>27</td>
+<td>48</td>
+<td>2</td>
+<td>3</td>
+<td>59</td>
+<td>210</td>
+<td>302</td>
+<td>1682</td>
+<td>3,547</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=6242">Roy Sommer</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+<tr class="hidden">
+<th>&nbsp;</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<td style="text-align:left" class="c_sec_head">West</td>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+</tr>
+<tr>
+<td style="text-align:left"><a href="teams/0026122006.html">Milwaukee Admirals</a></td>
+<td>80</td>
+<td>49</td>
+<td>21</td>
+<td>6</td>
+<td>4</td>
+<td>108</td>
+<td>268</td>
+<td>234</td>
+<td>1877</td>
+<td>5,299</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=3981">Claude Noel</a></td>
+<td style="text-align:left">Lost in Finals</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0026762006.html">Houston Aeros</a></td>
+<td>80</td>
+<td>50</td>
+<td>24</td>
+<td>3</td>
+<td>3</td>
+<td>106</td>
+<td>285</td>
+<td>242</td>
+<td>1779</td>
+<td>5,800</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=1260">Rob Daum</a></td>
+<td style="text-align:left">Lost in round 2</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0039902006.html">Peoria Rivermen</a></td>
+<td>80</td>
+<td>46</td>
+<td>26</td>
+<td>3</td>
+<td>5</td>
+<td>100</td>
+<td>253</td>
+<td>226</td>
+<td>1683</td>
+<td>4,780</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=15972">Steve Pleau</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0039882006.html">Iowa Stars</a></td>
+<td>80</td>
+<td>41</td>
+<td>31</td>
+<td>1</td>
+<td>7</td>
+<td>90</td>
+<td>238</td>
+<td>228</td>
+<td>1411</td>
+<td>5,156</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=49">Dave Allison</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0026742006.html">Chicago Wolves</a></td>
+<td>80</td>
+<td>36</td>
+<td>32</td>
+<td>4</td>
+<td>8</td>
+<td>84</td>
+<td>278</td>
+<td>275</td>
+<td>2028</td>
+<td>7,932</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=69">John Anderson</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0039892006.html">Omaha Ak-Sar-Ben Knights</a></td>
+<td>80</td>
+<td>35</td>
+<td>31</td>
+<td>3</td>
+<td>11</td>
+<td>84</td>
+<td>206</td>
+<td>221</td>
+<td>1801</td>
+<td>3,271</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=3565">Ryan McGill</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0029702006.html">San Antonio Rampage</a></td>
+<td>80</td>
+<td>23</td>
+<td>50</td>
+<td>3</td>
+<td>4</td>
+<td>53</td>
+<td>153</td>
+<td>251</td>
+<td>1598</td>
+<td>4,443</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=1069">Pat Conacher</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+</tbody>
+</table>
+</div>
+<div class="tablebg" style="width: 96%; clear:left;">
+<div class="team_section" id="logo_section" style="">
+<div class="team_header">Program Covers</div>
+<div class="ti" style="float:right; margin-right:8px; margin-top:-23px;"><a href="/ihdb/gallery/program_gallery.php?order=season&amp;start=0&amp;filter=league&amp;value=ahl1941">Enter Gallery</a></div>
+<div style="float: left; text-align: center; margin: 10px 20px; clear:left;"><div class="logo_content">
+<img alt="Albany River Rats Game Program" src="http://www.hockeydb.com/ihdb/stats/program_img.php?if=albany_river_rats-2006-ahl.jpg" />
+<div>Albany River Rats</div>
+</div>
+</div>
+<div style="float: left; text-align: center; margin: 10px 20px; "><div class="logo_content">
+<img alt="Binghamton Senators Game Program" src="http://www.hockeydb.com/ihdb/stats/program_img.php?if=binghamton_senators-2006-ahl.jpg" />
+<div>Binghamton Senators</div>
+</div>
+</div>
+<div style="float: left; text-align: center; margin: 10px 20px; "><div class="logo_content">
+<img alt="Bridgeport Sound Tigers Game Program" src="http://www.hockeydb.com/ihdb/stats/program_img.php?if=bridgeport_sound_tigers-2006-ahl.jpg" />
+<div>Bridgeport Sound Tigers</div>
+</div>
+</div>
+<div style="float: left; text-align: center; margin: 10px 20px; clear:left;"><div class="logo_content">
+<img alt="Chicago Wolves Game Program" src="http://www.hockeydb.com/ihdb/stats/program_img.php?if=chicago_wolves-2006-ahl.jpg" />
+<div>Chicago Wolves</div>
+</div>
+</div>
+<div style="float: left; text-align: center; margin: 10px 20px; "><div class="logo_content">
+<img alt="Hamilton Bulldogs Game Program" src="http://www.hockeydb.com/ihdb/stats/program_img.php?if=hamilton_bulldogs-2006-ahl.jpg" />
+<div>Hamilton Bulldogs</div>
+</div>
+</div>
+<div style="float: left; text-align: center; margin: 10px 20px; "><div class="logo_content">
+<img alt="Hartford Wolf Pack Game Program" src="http://www.hockeydb.com/ihdb/stats/program_img.php?if=hartford_wolf_pack-2006-ahl.jpg" />
+<div>Hartford Wolf Pack</div>
+</div>
+</div>
+<div style="float: left; text-align: center; margin: 10px 20px; clear:left;"><div class="logo_content">
+<img alt="Hershey Bears Game Program" src="http://www.hockeydb.com/ihdb/stats/program_img.php?if=hershey_bears-2006-ahl.jpg" />
+<div>Hershey Bears</div>
+</div>
+</div>
+<div style="float: left; text-align: center; margin: 10px 20px; "><div class="logo_content">
+<img alt="Norfolk Admirals Game Program" src="http://www.hockeydb.com/ihdb/stats/program_img.php?if=norfolk_admirals-2006-ahl.jpg" />
+<div>Norfolk Admirals</div>
+</div>
+</div>
+<div style="float: left; text-align: center; margin: 10px 20px; "><div class="logo_content">
+<img alt="Omaha Ak-Sar-Ben Knights Game Program" src="http://www.hockeydb.com/ihdb/stats/program_img.php?if=omaha_ak-sar-ben_knights-2006-ahl.jpg" />
+<div>Omaha Ak-Sar-Ben Knights</div>
+</div>
+</div>
+<div style="float: left; text-align: center; margin: 10px 20px; clear:left;"><div class="logo_content">
+<img alt="Providence Bruins Game Program" src="http://www.hockeydb.com/ihdb/stats/program_img.php?if=providence_bruins-2006-ahl.jpg" />
+<div>Providence Bruins</div>
+</div>
+</div>
+<div style="float: left; text-align: center; margin: 10px 20px; "><div class="logo_content">
+<img alt="Springfield Falcons Game Program" src="http://www.hockeydb.com/ihdb/stats/program_img.php?if=springfield_falcons-2006-ahl.jpg" />
+<div>Springfield Falcons</div>
+</div>
+</div>
+<div style="float: left; text-align: center; margin: 10px 20px; "><div class="logo_content">
+<img alt="Syracuse Crunch Game Program" src="http://www.hockeydb.com/ihdb/stats/program_img.php?if=syracuse_crunch-2006-ahl.jpg" />
+<div>Syracuse Crunch</div>
+</div>
+</div>
+<div style="float: left; text-align: center; margin: 10px 20px; clear:left;"><div class="logo_content">
+<img alt="Wilkes-Barre/Scranton Penguins Game Program" src="http://www.hockeydb.com/ihdb/stats/program_img.php?if=wilkes-barre-scranton_penguins-2006-ahl.jpg" />
+<div>Wilkes-Barre/Scranton Penguins</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sponsor" style="margin-left:10px">
+<div id='tall_rectangle'>
+<script type="text/javascript" src="/proxy/ad_proxy_300t_160_300.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('tall_rectangle'); });
+</script>
+</div>
+</div>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2011 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='//storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>

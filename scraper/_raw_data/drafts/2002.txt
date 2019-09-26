@@ -1,0 +1,4791 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>2002 NHL Entry Draft Picks at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="A sortable list of players drafted in the 2002 NHL Entry draft, including their career scoring after being drafted" />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
+
+<script src="/js/all.js"></script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
+</script>
+
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>window.googletag = window.googletag || {cmd: []};</script>
+<script async='async' src='https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js'></script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    var mapping1 = googletag.sizeMapping()
+      .addSize([1080, 0], [300, 250])
+      .addSize([760, 0], [160, 600])
+      .addSize([336, 0], [[336, 280], [300, 250]])
+      .addSize([0, 0], [])
+        .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [[728, 90], [320, 50]], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .setTargeting('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_300x250_1', [[336, 280], [160, 600], [300, 250]], 'right_rectangle')
+   	.defineSizeMapping(mapping1)
+   	.setTargeting('sizeMap', mapping1)
+    .addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<link href = "https://code.jquery.com/ui/1.11.1/themes/ui-lightness/jquery-ui.css" rel = "stylesheet">
+<script src = "https://code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script>
+<script src = "/js/jquery.sticky-kit.js"></script>
+
+<style>
+
+#draft_year_content a:link{color: #000000; }
+#draft_year_content a:visited{color: #000100; }
+
+#tooltip
+{
+    text-align: center;
+    color: #fff;
+    background: #111;
+    position: absolute;
+    z-index: 100;
+    padding: 15px;
+}
+ 
+    #tooltip:after /* triangle decoration */
+    {
+        width: 0;
+        height: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px solid #111;
+        content: '';
+        position: absolute;
+        left: 50%;
+        bottom: -10px;
+        margin-left: -10px;
+    }
+ 
+        #tooltip.top:after
+        {
+            border-top-color: transparent;
+            border-bottom: 10px solid #111;
+            top: -20px;
+            bottom: auto;
+        }
+ 
+        #tooltip.left:after
+        {
+            left: 10px;
+            margin: 0;
+        }
+ 
+        #tooltip.right:after
+        {
+            right: 10px;
+            left: auto;
+            margin: 0;
+        }
+</style>
+
+<script>
+
+if (typeof $ == 'undefined') {
+   var $ = jQuery;
+}
+
+jQuery( function()
+{
+    var targets = jQuery( '[rel~=tooltip]' ),
+        target  = false,
+        tooltip = false,
+        title   = false;
+ 
+    targets.bind( 'mouseenter', function()
+    {
+        target  = jQuery( this );
+        tip     = target.attr( 'title' );
+        tooltip = jQuery( '<div id=\"tooltip\"></div>' );
+ 
+        if( !tip || tip == '' )
+            return false;
+ 
+        target.removeAttr( 'title' );
+        tooltip.css( 'opacity', 0 )
+               .html( tip )
+               .appendTo( 'body' );
+ 
+        var init_tooltip = function()
+        {
+            tooltip.css( 'max-width', 340);
+ 
+            var pos_left = target.offset().left + ( target.outerWidth() / 2 ) - ( tooltip.outerWidth() / 2 ),
+                pos_top  = target.offset().top - tooltip.outerHeight() - 20;
+ 
+            if( pos_left < 0 )
+            {
+                pos_left = target.offset().left + target.outerWidth() / 2 - 20;
+                tooltip.addClass( 'left' );
+            }
+            else
+                tooltip.removeClass( 'left' );
+ 
+            if( pos_left + tooltip.outerWidth() > $( window ).width() )
+            {
+                pos_left = target.offset().left - tooltip.outerWidth() + target.outerWidth() / 2 + 20;
+                tooltip.addClass( 'right' );
+            }
+            else
+                tooltip.removeClass( 'right' );
+ 
+            if( pos_top < 0 )
+            {
+                var pos_top  = target.offset().top + target.outerHeight();
+                tooltip.addClass( 'top' );
+            }
+            else
+                tooltip.removeClass( 'top' );
+ 
+            tooltip.css( { left: pos_left, top: pos_top } )
+                   .animate( { top: '+=10', opacity: 1 }, 50 );
+        };
+ 
+        init_tooltip();
+        $( window ).resize( init_tooltip );
+ 
+        var remove_tooltip = function()
+        {
+            tooltip.animate( { top: '-=10', opacity: 0 }, 50, function()
+            {
+                jQuery( this ).remove();
+            });
+ 
+            target.attr( 'title', tip );
+        };
+ 
+        target.bind( 'mouseleave', remove_tooltip );
+        tooltip.bind( 'click', remove_tooltip );
+    });
+});
+</script>
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script async type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+
+<script>
+function get_draft_years() {
+  script = document.createElement('script');
+  script.id = 'draft_year_script';
+  script.src = '/ihdb/feed/jquery_draft_years.php?draft_type=e&draft_league=NHL';
+  document.getElementsByTagName('head')[0].appendChild(script);
+}
+</script>
+
+<style>
+   .ui-widget-content {
+       border: 1px solid #dddddd;
+       background: #eeeeee;
+       color: #333333;
+   }
+
+   .ui-widget-header {
+       border: 1px solid #000000;
+       background: #0091cc;;
+       color: #ffffff;
+       font-weight: bold;
+   }
+
+   #draftYear:hover {
+       text-decoration: underline;
+   }
+
+</style>
+
+<script>
+   $.noConflict();
+   jQuery( document ).ready(function( $ ) {
+      $( "#dialog" ).dialog({
+         autoOpen: false,  
+         bgiframe: true,
+         height: "auto",
+         width: 125,
+         closeOnEscape: true,
+         position: { my: "left top", at: "left+50 bottom-50", of: "#draftYear" },
+         modal: false
+      });
+      $( "#draftYear" ).click(function() {
+         get_draft_years();
+         $( "#dialog" ).dialog( "open" );
+      });
+   });
+</script>
+<p></p>
+      <div id="dialog" title = "Other Years"><div id="draft_year_content"></div></div><br /><div class="tablebg">
+<h1 class="title">2002 NHL Entry Draft</h1>
+<div class="breadcrumb"><a href="http://www.hockeydb.com/ihdb/draft/index.html">Drafts</a> -> NHL -> Entry -> <span id="draftYear">2002</span></div>
+<div style="width:850px" class="description">This is the list of players selected in the 2002 NHL Entry draft. There were 291 prospects selected across 9 rounds. Also included is each player's career NHL totals. If a player has no totals listed, this means that he has not played in a regular season game in the NHL. You can click on the headings of the tables to sort the information.</div>
+<p></p>
+<table class="sortable autostripe">
+<thead>
+<tr>
+<th class="c_sec_head">Round 1</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="c_sec_head" colspan="5">NHL Totals </th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr>
+<th class="c_sort_head">Round</th>
+<th class="c_sort_head">Num.</th>
+<th class="c_sort_head">Drafted By</th>
+<th class="c_sort_head">Player</th>
+<th class="c_sort_head">Pos</th>
+<th class="c_sort_head">Drafted From</th>
+<th class="c_sort_head">GP</th>
+<th class="c_sort_head">G</th>
+<th class="c_sort_head">A</th>
+<th class="c_sort_head">Pts</th>
+<th class="c_sort_head">PIM</th>
+<th class="c_sort_head">Last Season</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>1</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005316.html">Columbus</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55239">Rick Nash</a></td>
+<td>L</td>
+<td style="text-align:left;">London Knights [OHL]</td>
+<td class="shade4 r ">1060</td>
+<td class="shade4 r ">437</td>
+<td class="shade4 r ">368</td>
+<td class="shade4 r ">805</td>
+<td class="shade4 r ">750</td>
+<td class="shade4 c ">2017-18</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004682.html">Atlanta</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50538">Kari Lehtonen</a></td>
+<td>G</td>
+<td style="text-align:left;">Jokerit Helsinki [SM-liiga]</td>
+<td class="shade4 r ">649</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">28</td>
+<td class="shade4 r ">28</td>
+<td class="shade4 r ">42</td>
+<td class="shade4 c ">2017-18</td>
+</tr>
+<tr>
+<td>1</td>
+<td>3</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005763.html">Florida</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=46419">Jay Bouwmeester</a></td>
+<td>D</td>
+<td style="text-align:left;">Medicine Hat Tigers [WHL]</td>
+<td class="shade4 r ">1184</td>
+<td class="shade4 r ">87</td>
+<td class="shade4 r ">328</td>
+<td class="shade4 r ">415</td>
+<td class="shade4 r ">615</td>
+<td class="shade4 c ">2018-19</td>
+</tr>
+<tr>
+<td>1</td>
+<td>4</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007439.html">Philadelphia</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=56053">Joni Pitkanen</a></td>
+<td>D</td>
+<td style="text-align:left;">Karpat [SM-liiga]</td>
+<td class="shade4 r ">535</td>
+<td class="shade4 r ">57</td>
+<td class="shade4 r ">225</td>
+<td class="shade4 r ">282</td>
+<td class="shade4 r ">484</td>
+<td class="shade4 c ">2012-13</td>
+</tr>
+<tr>
+<td>1</td>
+<td>5</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63061">Ryan Whitney</a></td>
+<td>D</td>
+<td style="text-align:left;">Boston University [H-East]</td>
+<td class="shade4 r ">481</td>
+<td class="shade4 r ">50</td>
+<td class="shade4 r ">209</td>
+<td class="shade4 r ">259</td>
+<td class="shade4 r ">383</td>
+<td class="shade4 c ">2013-14</td>
+</tr>
+<tr>
+<td>1</td>
+<td>6</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007024.html">Nashville</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55361">Scottie Upshall</a></td>
+<td>R</td>
+<td style="text-align:left;">Kamloops Blazers [WHL]</td>
+<td class="shade4 r ">759</td>
+<td class="shade4 r ">138</td>
+<td class="shade4 r ">147</td>
+<td class="shade4 r ">285</td>
+<td class="shade4 r ">615</td>
+<td class="shade4 c ">2017-18</td>
+</tr>
+<tr>
+<td>1</td>
+<td>7</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004643.html">Anaheim</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=54466">Joffrey Lupul</a></td>
+<td>L</td>
+<td style="text-align:left;">Medicine Hat Tigers [WHL]</td>
+<td class="shade4 r ">701</td>
+<td class="shade4 r ">205</td>
+<td class="shade4 r ">215</td>
+<td class="shade4 r ">420</td>
+<td class="shade4 r ">407</td>
+<td class="shade4 c ">2015-16</td>
+</tr>
+<tr>
+<td>1</td>
+<td>8</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006879.html">Minnesota</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55023">Pierre-Marc Bouchard</a></td>
+<td>C</td>
+<td style="text-align:left;">Chicoutimi Sagueneens [QMJHL]</td>
+<td class="shade4 r ">593</td>
+<td class="shade4 r ">110</td>
+<td class="shade4 r ">246</td>
+<td class="shade4 r ">356</td>
+<td class="shade4 r ">190</td>
+<td class="shade4 c ">2013-14</td>
+</tr>
+<tr>
+<td>1</td>
+<td>9</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005763.html">Florida</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=53158">Petr Taticek</a></td>
+<td>C</td>
+<td style="text-align:left;">Soo Greyhounds [OHL]</td>
+<td class="shade4 r ">3</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 c ">2005-06</td>
+</tr>
+<tr>
+<td>1</td>
+<td>10</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005090.html">Calgary</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63226">Eric Nystrom</a></td>
+<td>L</td>
+<td style="text-align:left;">U. of Michigan [CCHA]</td>
+<td class="shade4 r ">593</td>
+<td class="shade4 r ">75</td>
+<td class="shade4 r ">48</td>
+<td class="shade4 r ">123</td>
+<td class="shade4 r ">401</td>
+<td class="shade4 c ">2015-16</td>
+</tr>
+<tr>
+<td>1</td>
+<td>11</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005054.html">Buffalo</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=61770">Keith Ballard</a></td>
+<td>D</td>
+<td style="text-align:left;">U. of Minnesota [WCHA]</td>
+<td class="shade4 r ">604</td>
+<td class="shade4 r ">38</td>
+<td class="shade4 r ">137</td>
+<td class="shade4 r ">175</td>
+<td class="shade4 r ">612</td>
+<td class="shade4 c ">2014-15</td>
+</tr>
+<tr>
+<td>1</td>
+<td>12</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008871.html">Washington</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50150">Steve Eminger</a></td>
+<td>D</td>
+<td style="text-align:left;">Kitchener Rangers [OHL]</td>
+<td class="shade4 r ">488</td>
+<td class="shade4 r ">19</td>
+<td class="shade4 r ">80</td>
+<td class="shade4 r ">99</td>
+<td class="shade4 r ">359</td>
+<td class="shade4 c ">2012-13</td>
+</tr>
+<tr>
+<td>1</td>
+<td>13</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008871.html">Washington</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64573">Alexander Semin</a></td>
+<td>R</td>
+<td style="text-align:left;">Cherepovets Jr. (Russia)</td>
+<td class="shade4 r ">650</td>
+<td class="shade4 r ">239</td>
+<td class="shade4 r ">278</td>
+<td class="shade4 r ">517</td>
+<td class="shade4 r ">582</td>
+<td class="shade4 c ">2015-16</td>
+</tr>
+<tr>
+<td>1</td>
+<td>14</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006929.html">Montreal</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62984">Chris Higgins</a></td>
+<td>L</td>
+<td style="text-align:left;">Yale University [ECAC]</td>
+<td class="shade4 r ">711</td>
+<td class="shade4 r ">165</td>
+<td class="shade4 r ">168</td>
+<td class="shade4 r ">333</td>
+<td class="shade4 r ">220</td>
+<td class="shade4 c ">2015-16</td>
+</tr>
+<tr>
+<td>1</td>
+<td>15</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62645">Jesse Niinimaki</a></td>
+<td>C</td>
+<td style="text-align:left;">Ilves Tampere [SM-liiga]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>1</td>
+<td>16</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007328.html">Ottawa</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62529">Jakub Klepis</a></td>
+<td>C</td>
+<td style="text-align:left;">Portland Winter Hawks [WHL]</td>
+<td class="shade4 r ">66</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">10</td>
+<td class="shade4 r ">14</td>
+<td class="shade4 r ">36</td>
+<td class="shade4 c ">2006-07</td>
+</tr>
+<tr>
+<td>1</td>
+<td>17</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008871.html">Washington</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50642">Boyd Gordon</a></td>
+<td>C</td>
+<td style="text-align:left;">Red Deer Rebels [WHL]</td>
+<td class="shade4 r ">706</td>
+<td class="shade4 r ">56</td>
+<td class="shade4 r ">105</td>
+<td class="shade4 r ">161</td>
+<td class="shade4 r ">149</td>
+<td class="shade4 c ">2016-17</td>
+</tr>
+<tr>
+<td>1</td>
+<td>18</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006664.html">Los Angeles</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63818">Denis Grebeshkov</a></td>
+<td>D</td>
+<td style="text-align:left;">Yaroslavl Lokomotiv [Russia]</td>
+<td class="shade4 r ">234</td>
+<td class="shade4 r ">17</td>
+<td class="shade4 r ">68</td>
+<td class="shade4 r ">85</td>
+<td class="shade4 r ">114</td>
+<td class="shade4 c ">2013-14</td>
+</tr>
+<tr>
+<td>1</td>
+<td>19</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007450.html">Phoenix</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63027">Jakub Koreis</a></td>
+<td>C</td>
+<td style="text-align:left;">Plzen HC [Czech]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>1</td>
+<td>20</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005054.html">Buffalo</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55220">Daniel Paille</a></td>
+<td>L</td>
+<td style="text-align:left;">Guelph Storm [OHL]</td>
+<td class="shade4 r ">582</td>
+<td class="shade4 r ">85</td>
+<td class="shade4 r ">87</td>
+<td class="shade4 r ">172</td>
+<td class="shade4 r ">135</td>
+<td class="shade4 c ">2015-16</td>
+</tr>
+<tr>
+<td>1</td>
+<td>21</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005218.html">Chicago</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64494">Anton Babchuk</a></td>
+<td>D</td>
+<td style="text-align:left;">Elemash Elektrostal (Russia)</td>
+<td class="shade4 r ">289</td>
+<td class="shade4 r ">36</td>
+<td class="shade4 r ">71</td>
+<td class="shade4 r ">107</td>
+<td class="shade4 r ">108</td>
+<td class="shade4 c ">2012-13</td>
+</tr>
+<tr>
+<td>1</td>
+<td>22</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007085.html">NY Islanders</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62649">Sean Bergenheim</a></td>
+<td>L</td>
+<td style="text-align:left;">Jokerit Helsinki [SM-liiga]</td>
+<td class="shade4 r ">506</td>
+<td class="shade4 r ">96</td>
+<td class="shade4 r ">84</td>
+<td class="shade4 r ">180</td>
+<td class="shade4 r ">379</td>
+<td class="shade4 c ">2014-15</td>
+</tr>
+<tr>
+<td>1</td>
+<td>23</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007450.html">Phoenix</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55267">Ben Eager</a></td>
+<td>L</td>
+<td style="text-align:left;">Oshawa Generals [OHL]</td>
+<td class="shade4 r ">407</td>
+<td class="shade4 r ">43</td>
+<td class="shade4 r ">42</td>
+<td class="shade4 r ">85</td>
+<td class="shade4 r ">875</td>
+<td class="shade4 c ">2013-14</td>
+</tr>
+<tr>
+<td>1</td>
+<td>24</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008490.html">Toronto</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62760">Alexander Steen</a></td>
+<td>L</td>
+<td style="text-align:left;">Vastra Frolunda HC [SEL]</td>
+<td class="shade4 r ">963</td>
+<td class="shade4 r ">238</td>
+<td class="shade4 r ">367</td>
+<td class="shade4 r ">605</td>
+<td class="shade4 r ">442</td>
+<td class="shade4 c ">2018-19</td>
+</tr>
+<tr>
+<td>1</td>
+<td>25</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005154.html">Carolina</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55426">Cam Ward</a></td>
+<td>G</td>
+<td style="text-align:left;">Red Deer Rebels [WHL]</td>
+<td class="shade4 r ">701</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">12</td>
+<td class="shade4 r ">13</td>
+<td class="shade4 r ">48</td>
+<td class="shade4 c ">2018-19</td>
+</tr>
+<tr>
+<td>1</td>
+<td>26</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005404.html">Dallas</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62283">Martin Vagner</a></td>
+<td>D</td>
+<td style="text-align:left;">Hull Olympiques [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>1</td>
+<td>27</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007877.html">San Jose</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64551">Mike Morris</a></td>
+<td>F</td>
+<td style="text-align:left;">St. Sebastian's [Mass. H.S.]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>1</td>
+<td>28</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005307.html">Colorado</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62723">Jonas Johansson</a></td>
+<td>R</td>
+<td style="text-align:left;">HV71 Jonkoping [SEL]</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 c ">2005-06</td>
+</tr>
+<tr>
+<td>1</td>
+<td>29</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004919.html">Boston</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62643">Hannu Toivonen</a></td>
+<td>G</td>
+<td style="text-align:left;">HPK Hameenlinna [SM-liiga]</td>
+<td class="shade4 r ">61</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">10</td>
+<td class="shade4 c ">2007-08</td>
+</tr>
+<tr>
+<td>1</td>
+<td>30</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004682.html">Atlanta</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63188">Jim Slater</a></td>
+<td>C</td>
+<td style="text-align:left;">Michigan State University [CCHA]</td>
+<td class="shade4 r ">584</td>
+<td class="shade4 r ">67</td>
+<td class="shade4 r ">71</td>
+<td class="shade4 r ">138</td>
+<td class="shade4 r ">407</td>
+<td class="shade4 c ">2014-15</td>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="c_sec_head">Round 2</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr><tr class="hideme">
+<th class="c_sort_head">Round</th>
+<th class="c_sort_head">Num.</th>
+<th class="c_sort_head">Drafted By</th>
+<th class="c_sort_head">Player</th>
+<th class="c_sort_head">Pos</th>
+<th class="c_sort_head">Drafted From</th>
+<th class="c_sort_head">GP</th>
+<th class="c_sort_head">G</th>
+<th class="c_sort_head">A</th>
+<th class="c_sort_head">Pts</th>
+<th class="c_sort_head">PIM</th>
+<th class="c_sort_head">Last Season</th>
+</tr>
+<tr>
+<td>2</td>
+<td>31</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62260">Jeff Drouin-Deslauriers</a></td>
+<td>G</td>
+<td style="text-align:left;">Chicoutimi Sagueneens [QMJHL]</td>
+<td class="shade4 r ">62</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">8</td>
+<td class="shade4 c ">2011-12</td>
+</tr>
+<tr>
+<td>2</td>
+<td>32</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005404.html">Dallas</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64505">Janos Vas</a></td>
+<td>L</td>
+<td style="text-align:left;">Malmo Jrs [Sweden]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>33</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007089.html">NY Rangers</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63189">Lee Falardeau</a></td>
+<td>C</td>
+<td style="text-align:left;">Michigan State University [CCHA]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>34</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005404.html">Dallas</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62780">Tobias Stephan</a></td>
+<td>G</td>
+<td style="text-align:left;">Chur EHC [Swiss-A]</td>
+<td class="shade4 r ">11</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 c ">2008-09</td>
+</tr>
+<tr>
+<td>2</td>
+<td>35</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63046">Ondrej Nemec</a></td>
+<td>D</td>
+<td style="text-align:left;">Vsetin HC [Czech]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>36</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=31058">Jarret Stoll</a></td>
+<td>C</td>
+<td style="text-align:left;">Kootenay Ice [WHL]</td>
+<td class="shade4 r ">872</td>
+<td class="shade4 r ">144</td>
+<td class="shade4 r ">244</td>
+<td class="shade4 r ">388</td>
+<td class="shade4 r ">618</td>
+<td class="shade4 c ">2015-16</td>
+</tr>
+<tr>
+<td>2</td>
+<td>37</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004643.html">Anaheim</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55335">Tim Brent</a></td>
+<td>C</td>
+<td style="text-align:left;">Toronto St. Michael's Majors [OHL]</td>
+<td class="shade4 r ">207</td>
+<td class="shade4 r ">21</td>
+<td class="shade4 r ">27</td>
+<td class="shade4 r ">48</td>
+<td class="shade4 r ">76</td>
+<td class="shade4 c ">2012-13</td>
+</tr>
+<tr>
+<td>2</td>
+<td>38</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006879.html">Minnesota</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62561">Josh Harding</a></td>
+<td>G</td>
+<td style="text-align:left;">Regina Pats [WHL]</td>
+<td class="shade4 r ">151</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 r ">6</td>
+<td class="shade4 c ">2013-14</td>
+</tr>
+<tr>
+<td>2</td>
+<td>39</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005090.html">Calgary</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63059">Brian McConnell</a></td>
+<td>F</td>
+<td style="text-align:left;">Boston University [H-East]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>40</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005763.html">Florida</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55618">Rob Globke</a></td>
+<td>R</td>
+<td style="text-align:left;">Notre Dame [CCHA]</td>
+<td class="shade4 r ">46</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 r ">8</td>
+<td class="shade4 c ">2007-08</td>
+</tr>
+<tr>
+<td>2</td>
+<td>41</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005316.html">Columbus</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=56896">Joakim Lindstrom</a></td>
+<td>L</td>
+<td style="text-align:left;">MODO Hockey Ornskoldsvik [SEL]</td>
+<td class="shade4 r ">150</td>
+<td class="shade4 r ">19</td>
+<td class="shade4 r ">24</td>
+<td class="shade4 r ">43</td>
+<td class="shade4 r ">58</td>
+<td class="shade4 c ">2014-15</td>
+</tr>
+<tr>
+<td>2</td>
+<td>42</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005404.html">Dallas</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64506">Marius Holtet</a></td>
+<td>R</td>
+<td style="text-align:left;">Farjestad Jrs. (Sweden)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>43</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005404.html">Dallas</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50248">Trevor Daley</a></td>
+<td>D</td>
+<td style="text-align:left;">Soo Greyhounds [OHL]</td>
+<td class="shade4 r ">1015</td>
+<td class="shade4 r ">89</td>
+<td class="shade4 r ">213</td>
+<td class="shade4 r ">302</td>
+<td class="shade4 r ">628</td>
+<td class="shade4 c ">2018-19</td>
+</tr>
+<tr>
+<td>2</td>
+<td>44</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64514">Matt Greene</a></td>
+<td>D</td>
+<td style="text-align:left;">Green Bay Gamblers [USHL]</td>
+<td class="shade4 r ">615</td>
+<td class="shade4 r ">17</td>
+<td class="shade4 r ">63</td>
+<td class="shade4 r ">80</td>
+<td class="shade4 r ">663</td>
+<td class="shade4 c ">2016-17</td>
+</tr>
+<tr>
+<td>2</td>
+<td>45</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006929.html">Montreal</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64526">Tomas Linhart</a></td>
+<td>D</td>
+<td style="text-align:left;">Pardubice Jr. (Czech)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>46</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007450.html">Phoenix</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62871">David LeNeveu</a></td>
+<td>G</td>
+<td style="text-align:left;">Cornell University [ECAC]</td>
+<td class="shade4 r ">22</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 c ">2010-11</td>
+</tr>
+<tr>
+<td>2</td>
+<td>47</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007328.html">Ottawa</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63729">Alexei Kaigorodov</a></td>
+<td>C</td>
+<td style="text-align:left;">Magnitogorsk Metallurg [Russia]</td>
+<td class="shade4 r ">6</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 c ">2006-07</td>
+</tr>
+<tr>
+<td>2</td>
+<td>48</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008187.html">St. Louis</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64556">Alexei Shkotov</a></td>
+<td>C</td>
+<td style="text-align:left;">Elemash Elektrostal (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>49</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008756.html">Vancouver</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=59066">Kirill Koltsov</a></td>
+<td>D</td>
+<td style="text-align:left;">Omsk Avangard [Russia]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006664.html">Los Angeles</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64521">Sergei Anshakov</a></td>
+<td>L</td>
+<td style="text-align:left;">HC CSKA (Russian Jr.)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>51</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007066.html">New Jersey</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64529">Anton Kadeykin</a></td>
+<td>D</td>
+<td style="text-align:left;">Elemash Elektrostal (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>52</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007877.html">San Jose</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64552">Dan Spang</a></td>
+<td>D</td>
+<td style="text-align:left;">Winchester H.S. (Mass.)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>53</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007066.html">New Jersey</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=61773">Barry Tallackson</a></td>
+<td>R</td>
+<td style="text-align:left;">U. of Minnesota [WCHA]</td>
+<td class="shade4 r ">20</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 c ">2008-09</td>
+</tr>
+<tr>
+<td>2</td>
+<td>54</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005218.html">Chicago</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63187">Duncan Keith</a></td>
+<td>D</td>
+<td style="text-align:left;">Michigan State University [CCHA]</td>
+<td class="shade4 r ">1077</td>
+<td class="shade4 r ">98</td>
+<td class="shade4 r ">485</td>
+<td class="shade4 r ">583</td>
+<td class="shade4 r ">605</td>
+<td class="shade4 c ">2018-19</td>
+</tr>
+<tr>
+<td>2</td>
+<td>55</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008756.html">Vancouver</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64566">Denis Grot</a></td>
+<td>D</td>
+<td style="text-align:left;">Elemash Elektrostal (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>56</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004919.html">Boston</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64481">Vladislav Yevseyev</a></td>
+<td>L</td>
+<td style="text-align:left;">HC CSKA (Russian Jr.)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>57</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008490.html">Toronto</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55194">Matthew Stajan</a></td>
+<td>C</td>
+<td style="text-align:left;">Belleville Bulls [OHL]</td>
+<td class="shade4 r ">1003</td>
+<td class="shade4 r ">146</td>
+<td class="shade4 r ">267</td>
+<td class="shade4 r ">413</td>
+<td class="shade4 r ">526</td>
+<td class="shade4 c ">2017-18</td>
+</tr>
+<tr>
+<td>2</td>
+<td>58</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005492.html">Detroit</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=56969">Jiri Hudler</a></td>
+<td>R</td>
+<td style="text-align:left;">Vsetin HC [Czech]</td>
+<td class="shade4 r ">708</td>
+<td class="shade4 r ">164</td>
+<td class="shade4 r ">264</td>
+<td class="shade4 r ">428</td>
+<td class="shade4 r ">243</td>
+<td class="shade4 c ">2016-17</td>
+</tr>
+<tr>
+<td>2</td>
+<td>59</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008871.html">Washington</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55170">Maxime Daigneault</a></td>
+<td>G</td>
+<td style="text-align:left;">Val d'Or Foreurs [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>60</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55204">Adam Henrich</a></td>
+<td>L</td>
+<td style="text-align:left;">Brampton Battalion [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>61</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005307.html">Colorado</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55353">Johnny Boychuk</a></td>
+<td>D</td>
+<td style="text-align:left;">Calgary Hitmen [WHL]</td>
+<td class="shade4 r ">661</td>
+<td class="shade4 r ">52</td>
+<td class="shade4 r ">143</td>
+<td class="shade4 r ">195</td>
+<td class="shade4 r ">317</td>
+<td class="shade4 c ">2018-19</td>
+</tr>
+<tr>
+<td>2</td>
+<td>62</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008187.html">St. Louis</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=59624">Andrei Mikhnov</a></td>
+<td>L</td>
+<td style="text-align:left;">Sudbury Wolves [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>2</td>
+<td>63</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005492.html">Detroit</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64510">Tomas Fleischmann</a></td>
+<td>L</td>
+<td style="text-align:left;">Vitkovice Jr. (Czech)</td>
+<td class="shade4 r ">657</td>
+<td class="shade4 r ">137</td>
+<td class="shade4 r ">198</td>
+<td class="shade4 r ">335</td>
+<td class="shade4 r ">200</td>
+<td class="shade4 c ">2015-16</td>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="c_sec_head">Round 3</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr><tr class="hideme">
+<th class="c_sort_head">Round</th>
+<th class="c_sort_head">Num.</th>
+<th class="c_sort_head">Drafted By</th>
+<th class="c_sort_head">Player</th>
+<th class="c_sort_head">Pos</th>
+<th class="c_sort_head">Drafted From</th>
+<th class="c_sort_head">GP</th>
+<th class="c_sort_head">G</th>
+<th class="c_sort_head">A</th>
+<th class="c_sort_head">Pts</th>
+<th class="c_sort_head">PIM</th>
+<th class="c_sort_head">Last Season</th>
+</tr>
+<tr>
+<td>3</td>
+<td>64</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007066.html">New Jersey</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63228">Jason Ryznar</a></td>
+<td>L</td>
+<td style="text-align:left;">U. of Michigan [CCHA]</td>
+<td class="shade4 r ">8</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 c ">2005-06</td>
+</tr>
+<tr>
+<td>3</td>
+<td>65</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005316.html">Columbus</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64501">Ole-Kristian Tollefsen</a></td>
+<td>D</td>
+<td style="text-align:left;">Piestany (Norway)</td>
+<td class="shade4 r ">163</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">8</td>
+<td class="shade4 r ">12</td>
+<td class="shade4 r ">296</td>
+<td class="shade4 c ">2009-10</td>
+</tr>
+<tr>
+<td>3</td>
+<td>66</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006664.html">Los Angeles</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=57050">Petr Kanko</a></td>
+<td>L</td>
+<td style="text-align:left;">Kitchener Rangers [OHL]</td>
+<td class="shade4 r ">10</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 c ">2005-06</td>
+</tr>
+<tr>
+<td>3</td>
+<td>67</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005763.html">Florida</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55300">Greg Campbell</a></td>
+<td>C</td>
+<td style="text-align:left;">Plymouth Whalers [OHL]</td>
+<td class="shade4 r ">803</td>
+<td class="shade4 r ">71</td>
+<td class="shade4 r ">116</td>
+<td class="shade4 r ">187</td>
+<td class="shade4 r ">696</td>
+<td class="shade4 c ">2015-16</td>
+</tr>
+<tr>
+<td>3</td>
+<td>68</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008756.html">Vancouver</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64567">Brett Skinner</a></td>
+<td>D</td>
+<td style="text-align:left;">Des Moines Buccaneers [USHL]</td>
+<td class="shade4 r ">11</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 c ">2008-09</td>
+</tr>
+<tr>
+<td>3</td>
+<td>69</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50627">Erik Christensen</a></td>
+<td>C</td>
+<td style="text-align:left;">Kamloops Blazers [WHL]</td>
+<td class="shade4 r ">387</td>
+<td class="shade4 r ">68</td>
+<td class="shade4 r ">95</td>
+<td class="shade4 r ">163</td>
+<td class="shade4 r ">162</td>
+<td class="shade4 c ">2011-12</td>
+</tr>
+<tr>
+<td>3</td>
+<td>70</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007450.html">Phoenix</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62985">Joe Callahan</a></td>
+<td>D</td>
+<td style="text-align:left;">Yale University [ECAC]</td>
+<td class="shade4 r ">46</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">16</td>
+<td class="shade4 c ">2010-11</td>
+</tr>
+<tr>
+<td>3</td>
+<td>71</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004643.html">Anaheim</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55215">Brian Lee</a></td>
+<td>D</td>
+<td style="text-align:left;">Erie Otters [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>72</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006879.html">Minnesota</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=61769">Mike Erickson</a></td>
+<td>R</td>
+<td style="text-align:left;">U. of Minnesota [WCHA]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>73</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006879.html">Minnesota</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55460">Barry Brust</a></td>
+<td>G</td>
+<td style="text-align:left;">Spokane Chiefs [WHL]</td>
+<td class="shade4 r ">11</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 c ">2006-07</td>
+</tr>
+<tr>
+<td>3</td>
+<td>74</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008490.html">Toronto</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55470">Todd Ford</a></td>
+<td>G</td>
+<td style="text-align:left;">Swift Current Broncos [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>75</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007328.html">Ottawa</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64541">Arttu Luttinen</a></td>
+<td>L</td>
+<td style="text-align:left;">HIFK Jr. (Finland)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>76</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005054.html">Buffalo</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55001">Michael Tessier</a></td>
+<td>L</td>
+<td style="text-align:left;">Acadie-Bathurst Titan [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>77</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008871.html">Washington</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50708">Patrick Wellar</a></td>
+<td>D</td>
+<td style="text-align:left;">Portland Winter Hawks [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>78</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005404.html">Dallas</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64507">Geoff Waugh</a></td>
+<td>D</td>
+<td style="text-align:left;">Kindersley Klippers [SJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63186">Brock Radunske</a></td>
+<td>L</td>
+<td style="text-align:left;">Michigan State University [CCHA]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007450.html">Phoenix</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62916">Matt Jones</a></td>
+<td>D</td>
+<td style="text-align:left;">U. of North Dakota [WCHA]</td>
+<td class="shade4 r ">106</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">10</td>
+<td class="shade4 r ">11</td>
+<td class="shade4 r ">63</td>
+<td class="shade4 c ">2007-08</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007089.html">NY Rangers</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64535">Marcus Jonasen</a></td>
+<td>L</td>
+<td style="text-align:left;">Vasteras Jrs. (Sweden)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005054.html">Buffalo</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63056">John Adams</a></td>
+<td>D</td>
+<td style="text-align:left;">Boston College [H-East]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>83</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008756.html">Vancouver</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64568">Lukas Mensator</a></td>
+<td>G</td>
+<td style="text-align:left;">Karlovy Vary Jrs. (Czech)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>84</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007066.html">New Jersey</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63032">Marek Chvatal</a></td>
+<td>D</td>
+<td style="text-align:left;">Trinec Ocelari HC [Czech]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007066.html">New Jersey</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55344">Ahren Nittel</a></td>
+<td>W</td>
+<td style="text-align:left;">Windsor Spitfires [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>86</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007877.html">San Jose</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=59704">Jonas Fiedler</a></td>
+<td>R</td>
+<td style="text-align:left;">Plymouth Whalers [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>87</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007085.html">NY Islanders</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62733">Frans Nielsen</a></td>
+<td>C</td>
+<td style="text-align:left;">Malmo IF [SEL]</td>
+<td class="shade4 r ">836</td>
+<td class="shade4 r ">162</td>
+<td class="shade4 r ">296</td>
+<td class="shade4 r ">458</td>
+<td class="shade4 r ">158</td>
+<td class="shade4 c ">2018-19</td>
+</tr>
+<tr>
+<td>3</td>
+<td>88</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008490.html">Toronto</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55083">Dominic D'Amour</a></td>
+<td>D</td>
+<td style="text-align:left;">Hull Olympiques [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>89</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008187.html">St. Louis</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64557">Tomas Troliga</a></td>
+<td>C</td>
+<td style="text-align:left;">Spisska Nova Ves (Slovakia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>90</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005090.html">Calgary</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=43804">Matthew Lombardi</a></td>
+<td>C</td>
+<td style="text-align:left;">Victoriaville Tigres [QMJHL]</td>
+<td class="shade4 r ">536</td>
+<td class="shade4 r ">101</td>
+<td class="shade4 r ">161</td>
+<td class="shade4 r ">262</td>
+<td class="shade4 r ">293</td>
+<td class="shade4 c ">2012-13</td>
+</tr>
+<tr>
+<td>3</td>
+<td>91</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005154.html">Carolina</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=54054">Jesse Lane</a></td>
+<td>D</td>
+<td style="text-align:left;">Hull Olympiques [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>92</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008871.html">Washington</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50660">Derek Krestanovich</a></td>
+<td>C</td>
+<td style="text-align:left;">Moose Jaw Warriors [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>93</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005218.html">Chicago</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=72597">Alexander Kozhevnikov</a></td>
+<td>F</td>
+<td style="text-align:left;">Krylja Jr. (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>94</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005307.html">Colorado</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63111">Eric Lundberg</a></td>
+<td>D</td>
+<td style="text-align:left;">Providence College [H-East]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>3</td>
+<td>95</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005492.html">Detroit</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64511">Valtteri Filppula</a></td>
+<td>C</td>
+<td style="text-align:left;">Jokerit Jrs (Finland)</td>
+<td class="shade4 r ">948</td>
+<td class="shade4 r ">185</td>
+<td class="shade4 r ">309</td>
+<td class="shade4 r ">494</td>
+<td class="shade4 r ">310</td>
+<td class="shade4 c ">2018-19</td>
+</tr>
+<tr>
+<td>3</td>
+<td>96</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005316.html">Columbus</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64502">Jeff Genovy</a></td>
+<td>C</td>
+<td style="text-align:left;">Des Moines Buccaneers [USHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="c_sec_head">Round 4</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr><tr class="hideme">
+<th class="c_sort_head">Round</th>
+<th class="c_sort_head">Num.</th>
+<th class="c_sort_head">Drafted By</th>
+<th class="c_sort_head">Player</th>
+<th class="c_sort_head">Pos</th>
+<th class="c_sort_head">Drafted From</th>
+<th class="c_sort_head">GP</th>
+<th class="c_sort_head">G</th>
+<th class="c_sort_head">A</th>
+<th class="c_sort_head">Pts</th>
+<th class="c_sort_head">PIM</th>
+<th class="c_sort_head">Last Season</th>
+</tr>
+<tr>
+<td>4</td>
+<td>97</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007450.html">Phoenix</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50679">Lance Monych</a></td>
+<td>R</td>
+<td style="text-align:left;">Brandon Wheat Kings [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>98</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005316.html">Columbus</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=59349">Ivan Tkachenko</a></td>
+<td>R</td>
+<td style="text-align:left;">Yaroslavl Lokomotiv [Russia]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>99</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006929.html">Montreal</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55009">Michael Lambert</a></td>
+<td>L</td>
+<td style="text-align:left;">Montreal Rocket [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>100</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63727">Dmitri Kazionov</a></td>
+<td>C</td>
+<td style="text-align:left;">HC CSKA (Russian Jr.)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>101</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64548">Daniel Fernholm</a></td>
+<td>D</td>
+<td style="text-align:left;">Djurgarden Jrs. (Sweden)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>102</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007024.html">Nashville</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=48685">Brandon Segal</a></td>
+<td>R</td>
+<td style="text-align:left;">Calgary Hitmen [WHL]</td>
+<td class="shade4 r ">103</td>
+<td class="shade4 r ">11</td>
+<td class="shade4 r ">11</td>
+<td class="shade4 r ">22</td>
+<td class="shade4 r ">85</td>
+<td class="shade4 c ">2012-13</td>
+</tr>
+<tr>
+<td>4</td>
+<td>103</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004643.html">Anaheim</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=56018">Joonas Vihko</a></td>
+<td>F</td>
+<td style="text-align:left;">HIFK Helsinki [SM-liiga]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>104</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006664.html">Los Angeles</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=46442">Aaron Rome</a></td>
+<td>D</td>
+<td style="text-align:left;">Swift Current Broncos [WHL]</td>
+<td class="shade4 r ">226</td>
+<td class="shade4 r ">6</td>
+<td class="shade4 r ">22</td>
+<td class="shade4 r ">28</td>
+<td class="shade4 r ">185</td>
+<td class="shade4 c ">2013-14</td>
+</tr>
+<tr>
+<td>4</td>
+<td>105</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007439.html">Philadelphia</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55111">Rosario Ruggeri</a></td>
+<td>D</td>
+<td style="text-align:left;">Chicoutimi Sagueneens [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>106</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64515">Ivan Koltsov</a></td>
+<td>D</td>
+<td style="text-align:left;">Cherepovets Jr. (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>107</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005307.html">Colorado</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64578">Mikko Kalteva</a></td>
+<td>D</td>
+<td style="text-align:left;">Jokerit Jrs (Finland)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>108</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005054.html">Buffalo</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=57030">Jakub Hulva</a></td>
+<td>R</td>
+<td style="text-align:left;">Vitkovice Jr. (Czech)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>109</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008871.html">Washington</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55459">Jevon Desautels</a></td>
+<td>L</td>
+<td style="text-align:left;">Spokane Chiefs [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>110</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005404.html">Dallas</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64508">Jarrko Immonen</a></td>
+<td>F</td>
+<td style="text-align:left;">Blues Jrs (Finland)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>111</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62737">Jonas Almtorp</a></td>
+<td>C</td>
+<td style="text-align:left;">MoDo Jr. (Sweden)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>112</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005090.html">Calgary</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64488">Yuri Artemenkov</a></td>
+<td></td>
+<td style="text-align:left;">Krylja Jr. (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>113</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007328.html">Ottawa</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55213">Scott Dobben</a></td>
+<td>W</td>
+<td style="text-align:left;">Erie Otters [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>114</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008756.html">Vancouver</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64569">John Laliberte</a></td>
+<td>F</td>
+<td style="text-align:left;">New Hampshire Jr. Monarchs</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>115</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006664.html">Los Angeles</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50689">Mark Rooneem</a></td>
+<td>L</td>
+<td style="text-align:left;">Kamloops Blazers [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>116</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004682.html">Atlanta</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63232">Patrick Dwyer</a></td>
+<td>R</td>
+<td style="text-align:left;">Western Michigan University [CCHA]</td>
+<td class="shade4 r ">416</td>
+<td class="shade4 r ">42</td>
+<td class="shade4 r ">51</td>
+<td class="shade4 r ">93</td>
+<td class="shade4 r ">77</td>
+<td class="shade4 c ">2014-15</td>
+</tr>
+<tr>
+<td>4</td>
+<td>117</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007066.html">New Jersey</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=59645">Cam Janssen</a></td>
+<td>W</td>
+<td style="text-align:left;">Windsor Spitfires [OHL]</td>
+<td class="shade4 r ">336</td>
+<td class="shade4 r ">6</td>
+<td class="shade4 r ">8</td>
+<td class="shade4 r ">14</td>
+<td class="shade4 r ">774</td>
+<td class="shade4 c ">2013-14</td>
+</tr>
+<tr>
+<td>4</td>
+<td>118</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008871.html">Washington</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=57129">Petr Dvorak</a></td>
+<td>R</td>
+<td style="text-align:left;">Havirov Jr. (Czech)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>119</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005316.html">Columbus</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64503">Jekabs Redlihs</a></td>
+<td>D</td>
+<td style="text-align:left;">Apple Core (EJHL)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>120</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008187.html">St. Louis</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=56915">Robin Jonsson</a></td>
+<td>D</td>
+<td style="text-align:left;">Bofors (Sweden)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>121</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005054.html">Buffalo</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64485">Marty Magers</a></td>
+<td>G</td>
+<td style="text-align:left;">Omaha Lancers [USHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>122</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008490.html">Toronto</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=57121">David Turon</a></td>
+<td>D</td>
+<td style="text-align:left;">Havirov Femax HC [Czech]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>123</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=56975">Robin Kovar</a></td>
+<td>D</td>
+<td style="text-align:left;">Vancouver Giants [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>124</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004682.html">Atlanta</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62520">Lane Manson</a></td>
+<td>D</td>
+<td style="text-align:left;">Moose Jaw Warriors [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>125</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007328.html">Ottawa</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64542">Johan Bjork</a></td>
+<td>D</td>
+<td style="text-align:left;">Malmo Jrs [Sweden]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>126</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007439.html">Philadelphia</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=59251">Konstantin Baranov</a></td>
+<td>F</td>
+<td style="text-align:left;">Chelyabinsk Mechel [Russia]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>127</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007089.html">NY Rangers</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64536">Nate Guenin</a></td>
+<td>D</td>
+<td style="text-align:left;">Green Bay Gamblers [USHL]</td>
+<td class="shade4 r ">205</td>
+<td class="shade4 r ">5</td>
+<td class="shade4 r ">23</td>
+<td class="shade4 r ">28</td>
+<td class="shade4 r ">94</td>
+<td class="shade4 c ">2015-16</td>
+</tr>
+<tr>
+<td>4</td>
+<td>128</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005218.html">Chicago</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64496">Matt Ellison</a></td>
+<td>C</td>
+<td style="text-align:left;">Cowichan Valley Capitals [BCHL]</td>
+<td class="shade4 r ">43</td>
+<td class="shade4 r ">3</td>
+<td class="shade4 r ">11</td>
+<td class="shade4 r ">14</td>
+<td class="shade4 r ">19</td>
+<td class="shade4 c ">2006-07</td>
+</tr>
+<tr>
+<td>4</td>
+<td>129</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005307.html">Colorado</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64499">Tom Gilbert</a></td>
+<td>D</td>
+<td style="text-align:left;">Chicago Steel [USHL]</td>
+<td class="shade4 r ">655</td>
+<td class="shade4 r ">45</td>
+<td class="shade4 r ">178</td>
+<td class="shade4 r ">223</td>
+<td class="shade4 r ">198</td>
+<td class="shade4 c ">2016-17</td>
+</tr>
+<tr>
+<td>4</td>
+<td>130</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004919.html">Boston</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64482">Jan Kubista</a></td>
+<td>R</td>
+<td style="text-align:left;">Pardubice Jr. (Czech)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>4</td>
+<td>131</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005492.html">Detroit</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64512">Johan Berggren</a></td>
+<td>D</td>
+<td style="text-align:left;">Sunne (Sweden)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="c_sec_head">Round 5</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr><tr class="hideme">
+<th class="c_sort_head">Round</th>
+<th class="c_sort_head">Num.</th>
+<th class="c_sort_head">Drafted By</th>
+<th class="c_sort_head">Player</th>
+<th class="c_sort_head">Pos</th>
+<th class="c_sort_head">Drafted From</th>
+<th class="c_sort_head">GP</th>
+<th class="c_sort_head">G</th>
+<th class="c_sort_head">A</th>
+<th class="c_sort_head">Pts</th>
+<th class="c_sort_head">PIM</th>
+<th class="c_sort_head">Last Season</th>
+</tr>
+<tr>
+<td>5</td>
+<td>132</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007450.html">Phoenix</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64545">John Zeiler</a></td>
+<td>C</td>
+<td style="text-align:left;">Sioux City Musketeers [USHL]</td>
+<td class="shade4 r ">90</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">5</td>
+<td class="shade4 r ">87</td>
+<td class="shade4 c ">2010-11</td>
+</tr>
+<tr>
+<td>5</td>
+<td>133</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005316.html">Columbus</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=22927">Lasse Pirjeta</a></td>
+<td>L</td>
+<td style="text-align:left;">Karpat [SM-liiga]</td>
+<td class="shade4 r ">146</td>
+<td class="shade4 r ">23</td>
+<td class="shade4 r ">27</td>
+<td class="shade4 r ">50</td>
+<td class="shade4 r ">50</td>
+<td class="shade4 c ">2005-06</td>
+</tr>
+<tr>
+<td>5</td>
+<td>134</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005763.html">Florida</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=56056">Topi Jaakola</a></td>
+<td>D</td>
+<td style="text-align:left;">Karpat [SM-liiga]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>135</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64560">Joseph Pearce</a></td>
+<td>G</td>
+<td style="text-align:left;">New Hampshire Jr. Monarchs</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>136</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64549">Andy Sertich</a></td>
+<td>D</td>
+<td style="text-align:left;">Greenway [Minn H.S.]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>137</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50684">Cam Paddock</a></td>
+<td>C</td>
+<td style="text-align:left;">Kelowna Rockets [WHL]</td>
+<td class="shade4 r ">16</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">3</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 c ">2008-09</td>
+</tr>
+<tr>
+<td>5</td>
+<td>138</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007024.html">Nashville</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=54083">Patrick Jarrett</a></td>
+<td>C</td>
+<td style="text-align:left;">Owen Sound Attack [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>139</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007877.html">San Jose</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=42303">Kris Newbury</a></td>
+<td>C</td>
+<td style="text-align:left;">Sarnia Sting [OHL]</td>
+<td class="shade4 r ">76</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">6</td>
+<td class="shade4 r ">10</td>
+<td class="shade4 r ">139</td>
+<td class="shade4 c ">2013-14</td>
+</tr>
+<tr>
+<td>5</td>
+<td>140</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004643.html">Anaheim</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55017">George Davis</a></td>
+<td>R</td>
+<td style="text-align:left;">Cape Breton Screaming Eagles [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>141</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005090.html">Calgary</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64489">Jiri Cetkovsky</a></td>
+<td>R</td>
+<td style="text-align:left;">Zlin Jr. (Czech. Rep)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>142</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005090.html">Calgary</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62785">Emanuel Peter</a></td>
+<td>C</td>
+<td style="text-align:left;">Kloten HC [Swiss-A]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>143</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007089.html">NY Rangers</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64537">Mike Walsh</a></td>
+<td>L</td>
+<td style="text-align:left;">Detroit Compuware [NAHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>144</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004682.html">Atlanta</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50116">Paul Flache</a></td>
+<td>D</td>
+<td style="text-align:left;">Brampton Battalion [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>145</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008871.html">Washington</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55311">Robert Gherson</a></td>
+<td>G</td>
+<td style="text-align:left;">Sarnia Sting [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>146</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005090.html">Calgary</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64490">Viktor Bobrov</a></td>
+<td>W</td>
+<td style="text-align:left;">HC CSKA (Russian Jr.)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>147</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005404.html">Dallas</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50612">David Bararuk</a></td>
+<td>L</td>
+<td style="text-align:left;">Moose Jaw Warriors [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>148</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64516">Glenn Fisher</a></td>
+<td>G</td>
+<td style="text-align:left;">Fort Saskatchewan Traders [AJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>149</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007085.html">NY Islanders</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64532">Markus Pahlsson</a></td>
+<td></td>
+<td style="text-align:left;">Morrum (Sweden)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>150</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007328.html">Ottawa</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64543">Brock Hooton</a></td>
+<td>R</td>
+<td style="text-align:left;">Quesnel Millionaires [BCHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>151</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008756.html">Vancouver</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50675">Rob McVicar</a></td>
+<td>G</td>
+<td style="text-align:left;">Brandon Wheat Kings [WHL]</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 c ">2005-06</td>
+</tr>
+<tr>
+<td>5</td>
+<td>152</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006664.html">Los Angeles</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55622">Greg Hogeboom</a></td>
+<td>C</td>
+<td style="text-align:left;">Miami University (Ohio) [CCHA]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>153</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004919.html">Boston</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=51284">Peter Hamerlik</a></td>
+<td>G</td>
+<td style="text-align:left;">Kingston Frontenacs [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>154</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007066.html">New Jersey</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64530">Krisjanis Redlihs</a></td>
+<td>D</td>
+<td style="text-align:left;">Metalurgs Liepaja [Latvia]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>155</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006879.html">Minnesota</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62385">Armands Berzins</a></td>
+<td>C</td>
+<td style="text-align:left;">Shawinigan Cataractes [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>156</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005218.html">Chicago</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55297">James Wisniewski</a></td>
+<td>D</td>
+<td style="text-align:left;">Plymouth Whalers [OHL]</td>
+<td class="shade4 r ">552</td>
+<td class="shade4 r ">53</td>
+<td class="shade4 r ">221</td>
+<td class="shade4 r ">274</td>
+<td class="shade4 r ">459</td>
+<td class="shade4 c ">2015-16</td>
+</tr>
+<tr>
+<td>5</td>
+<td>157</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006664.html">Los Angeles</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64522">Joel Andresen</a></td>
+<td>D</td>
+<td style="text-align:left;">St. Albert Saints [AJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>158</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005763.html">Florida</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64519">Vince Bellissimo</a></td>
+<td>C</td>
+<td style="text-align:left;">Topeka Scarecrows [USHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>159</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005090.html">Calgary</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64491">Kristofer Persson</a></td>
+<td>R</td>
+<td style="text-align:left;">MoDo Jr. (Sweden)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>160</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005154.html">Carolina</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62432">Daniel Manzato</a></td>
+<td>G</td>
+<td style="text-align:left;">Victoriaville Tigres [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>161</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007439.html">Philadelphia</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62887">Dov Grumet-Morris</a></td>
+<td>G</td>
+<td style="text-align:left;">Harvard University [ECAC]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>162</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50631">Gerard Dicaire</a></td>
+<td>D</td>
+<td style="text-align:left;">Kootenay Ice [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>163</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007877.html">San Jose</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64553">Tom Walsh</a></td>
+<td>D</td>
+<td style="text-align:left;">Deerfield Academy [Mass H.S.]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>164</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005307.html">Colorado</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55478">Tyler Weiman</a></td>
+<td>G</td>
+<td style="text-align:left;">Tri-City Americans [WHL]</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 c ">2007-08</td>
+</tr>
+<tr>
+<td>5</td>
+<td>165</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008187.html">St. Louis</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63060">Justin Maiser</a></td>
+<td>L</td>
+<td style="text-align:left;">Boston University [H-East]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>5</td>
+<td>166</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005492.html">Detroit</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50658">Logan Koopmans</a></td>
+<td>G</td>
+<td style="text-align:left;">Lethbridge Hurricanes [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="c_sec_head">Round 6</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr><tr class="hideme">
+<th class="c_sort_head">Round</th>
+<th class="c_sort_head">Num.</th>
+<th class="c_sort_head">Drafted By</th>
+<th class="c_sort_head">Player</th>
+<th class="c_sort_head">Pos</th>
+<th class="c_sort_head">Drafted From</th>
+<th class="c_sort_head">GP</th>
+<th class="c_sort_head">G</th>
+<th class="c_sort_head">A</th>
+<th class="c_sort_head">Pts</th>
+<th class="c_sort_head">PIM</th>
+<th class="c_sort_head">Last Season</th>
+</tr>
+<tr>
+<td>6</td>
+<td>167</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004682.html">Atlanta</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50691">Brad Schell</a></td>
+<td>C</td>
+<td style="text-align:left;">Spokane Chiefs [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>168</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005316.html">Columbus</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50657">Tim Konsorada</a></td>
+<td>R</td>
+<td style="text-align:left;">Brandon Wheat Kings [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>169</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005763.html">Florida</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55323">Jeremy Swanson</a></td>
+<td>D</td>
+<td style="text-align:left;">Barrie Colts [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>170</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64561">P.J. Atherton</a></td>
+<td>D</td>
+<td style="text-align:left;">Cedar Rapids RoughRiders [USHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>171</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64550">Bobby Goepfert</a></td>
+<td>G</td>
+<td style="text-align:left;">Cedar Rapids RoughRiders [USHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>172</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007024.html">Nashville</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62954">Mike McKenna</a></td>
+<td>G</td>
+<td style="text-align:left;">St. Lawrence University [ECAC]</td>
+<td class="shade4 r ">35</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 c ">2018-19</td>
+</tr>
+<tr>
+<td>6</td>
+<td>173</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004643.html">Anaheim</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62536">Luke Fritshaw</a></td>
+<td>D</td>
+<td style="text-align:left;">Prince Albert Raiders [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>174</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64562">Karri Akkanen</a></td>
+<td></td>
+<td style="text-align:left;">Ilves Jrs (Finland)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>175</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006879.html">Minnesota</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63088">Matt Foy</a></td>
+<td>R</td>
+<td style="text-align:left;">Merrimack College [H-East]</td>
+<td class="shade4 r ">56</td>
+<td class="shade4 r ">6</td>
+<td class="shade4 r ">7</td>
+<td class="shade4 r ">13</td>
+<td class="shade4 r ">48</td>
+<td class="shade4 c ">2007-08</td>
+</tr>
+<tr>
+<td>6</td>
+<td>176</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005090.html">Calgary</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62849">Curtis McElhinney</a></td>
+<td>G</td>
+<td style="text-align:left;">Colorado College [WCHA]</td>
+<td class="shade4 r ">219</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 c ">2018-19</td>
+</tr>
+<tr>
+<td>6</td>
+<td>177</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007089.html">NY Rangers</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=67633">Jake Taylor</a></td>
+<td>D</td>
+<td style="text-align:left;">Green Bay Gamblers [USHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>178</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005054.html">Buffalo</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=70849">Maxim Schevjev</a></td>
+<td>C</td>
+<td style="text-align:left;">Elemash Elektrostal (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>179</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008871.html">Washington</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62614">Marian Havel</a></td>
+<td>C</td>
+<td style="text-align:left;">Vancouver Giants [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>180</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005404.html">Dallas</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64509">Kirill Sidorenko</a></td>
+<td>W</td>
+<td style="text-align:left;">Kurgan (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>181</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=49935">Mikko Luoma</a></td>
+<td>D</td>
+<td style="text-align:left;">Tappara Tampere [SM-liiga]</td>
+<td class="shade4 r ">3</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 c ">2003-04</td>
+</tr>
+<tr>
+<td>6</td>
+<td>182</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006929.html">Montreal</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55196">Andre Deveaux</a></td>
+<td>C</td>
+<td style="text-align:left;">Belleville Bulls [OHL]</td>
+<td class="shade4 r ">31</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 r ">104</td>
+<td class="shade4 c ">2011-12</td>
+</tr>
+<tr>
+<td>6</td>
+<td>183</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55271">Paul Ranger</a></td>
+<td>D</td>
+<td style="text-align:left;">Oshawa Generals [OHL]</td>
+<td class="shade4 r ">323</td>
+<td class="shade4 r ">24</td>
+<td class="shade4 r ">82</td>
+<td class="shade4 r ">106</td>
+<td class="shade4 r ">254</td>
+<td class="shade4 c ">2013-14</td>
+</tr>
+<tr>
+<td>6</td>
+<td>184</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005316.html">Columbus</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=56996">Jaroslav Balastik</a></td>
+<td>L</td>
+<td style="text-align:left;">Zlin ZPS HC [Czech]</td>
+<td class="shade4 r ">74</td>
+<td class="shade4 r ">13</td>
+<td class="shade4 r ">11</td>
+<td class="shade4 r ">24</td>
+<td class="shade4 r ">30</td>
+<td class="shade4 c ">2006-07</td>
+</tr>
+<tr>
+<td>6</td>
+<td>185</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006664.html">Los Angeles</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63054">Ryan Murphy</a></td>
+<td>R</td>
+<td style="text-align:left;">Boston College [H-East]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>186</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007450.html">Phoenix</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64546">Jeff Pietrasiak</a></td>
+<td>G</td>
+<td style="text-align:left;">Berkshire H.S. (Mass.)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>187</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007066.html">New Jersey</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=31175">Eric Johansson</a></td>
+<td>C</td>
+<td style="text-align:left;">Tri-City Americans [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>188</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005218.html">Chicago</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64497">Kevin Kantee</a></td>
+<td>D</td>
+<td style="text-align:left;">Jokerit Jrs (Finland)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>189</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007085.html">NY Islanders</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64533">Alexei Stonkus</a></td>
+<td>D</td>
+<td style="text-align:left;">Yaroslavl Jrs. (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>190</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008187.html">St. Louis</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62496">D.J. King</a></td>
+<td>L</td>
+<td style="text-align:left;">Lethbridge Hurricanes [WHL]</td>
+<td class="shade4 r ">118</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">7</td>
+<td class="shade4 r ">11</td>
+<td class="shade4 r ">215</td>
+<td class="shade4 c ">2011-12</td>
+</tr>
+<tr>
+<td>6</td>
+<td>191</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008490.html">Toronto</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55464">Ian White</a></td>
+<td>D</td>
+<td style="text-align:left;">Swift Current Broncos [WHL]</td>
+<td class="shade4 r ">503</td>
+<td class="shade4 r ">45</td>
+<td class="shade4 r ">134</td>
+<td class="shade4 r ">179</td>
+<td class="shade4 r ">254</td>
+<td class="shade4 c ">2012-13</td>
+</tr>
+<tr>
+<td>6</td>
+<td>192</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007439.html">Philadelphia</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55368">Nikita Korovkin</a></td>
+<td>D</td>
+<td style="text-align:left;">Kamloops Blazers [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>193</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007439.html">Philadelphia</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62853">Joey Mormina</a></td>
+<td>D</td>
+<td style="text-align:left;">Colgate University [ECAC]</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 c ">2007-08</td>
+</tr>
+<tr>
+<td>6</td>
+<td>194</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007089.html">NY Rangers</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=56017">Kim Hirschovits</a></td>
+<td>C</td>
+<td style="text-align:left;">HIFK Helsinki [SM-liiga]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>195</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005307.html">Colorado</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63164">Taylor Christie</a></td>
+<td>D</td>
+<td style="text-align:left;">Bowling Green State University [CCHA]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>196</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005763.html">Florida</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=56058">Mikael Vuorio</a></td>
+<td>G</td>
+<td style="text-align:left;">Lukko Rauma [SM-liiga]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>6</td>
+<td>197</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005492.html">Detroit</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55146">Jimmy Cuddihy</a></td>
+<td>C</td>
+<td style="text-align:left;">Shawinigan Cataractes [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="c_sec_head">Round 7</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr><tr class="hideme">
+<th class="c_sort_head">Round</th>
+<th class="c_sort_head">Num.</th>
+<th class="c_sort_head">Drafted By</th>
+<th class="c_sort_head">Player</th>
+<th class="c_sort_head">Pos</th>
+<th class="c_sort_head">Drafted From</th>
+<th class="c_sort_head">GP</th>
+<th class="c_sort_head">G</th>
+<th class="c_sort_head">A</th>
+<th class="c_sort_head">Pts</th>
+<th class="c_sort_head">PIM</th>
+<th class="c_sort_head">Last Season</th>
+</tr>
+<tr>
+<td>7</td>
+<td>198</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004682.html">Atlanta</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64479">Nathan Oystrick</a></td>
+<td>D</td>
+<td style="text-align:left;">South Surrey Eagles [BCHL]</td>
+<td class="shade4 r ">65</td>
+<td class="shade4 r ">5</td>
+<td class="shade4 r ">10</td>
+<td class="shade4 r ">15</td>
+<td class="shade4 r ">61</td>
+<td class="shade4 c ">2010-11</td>
+</tr>
+<tr>
+<td>7</td>
+<td>199</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005316.html">Columbus</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63073">Greg Mauldin</a></td>
+<td>L</td>
+<td style="text-align:left;">UMass-Amherst [H-East]</td>
+<td class="shade4 r ">36</td>
+<td class="shade4 r ">5</td>
+<td class="shade4 r ">5</td>
+<td class="shade4 r ">10</td>
+<td class="shade4 r ">12</td>
+<td class="shade4 c ">2010-11</td>
+</tr>
+<tr>
+<td>7</td>
+<td>200</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005763.html">Florida</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=59671">Denis Yachmenev</a></td>
+<td>L</td>
+<td style="text-align:left;">North Bay Centennials [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>201</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007439.html">Philadelphia</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55171">Mathieu Brunelle</a></td>
+<td>L</td>
+<td style="text-align:left;">Victoriaville Tigres [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>202</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=58686">Patrick Bartschi</a></td>
+<td>F</td>
+<td style="text-align:left;">Kloten HC [Swiss-A]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>203</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007024.html">Nashville</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=45173">Josh Morrow</a></td>
+<td>D</td>
+<td style="text-align:left;">Tri-City Americans [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>204</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006879.html">Minnesota</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62712">Nicklas Eckerblom</a></td>
+<td>R</td>
+<td style="text-align:left;">Djurgarden Jrs. (Sweden)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>205</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=43777">Jean-Francois Dufort</a></td>
+<td>L</td>
+<td style="text-align:left;">Cape Breton Screaming Eagles [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>206</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005090.html">Calgary</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=74712">David Van Der Gulik</a></td>
+<td>L</td>
+<td style="text-align:left;">Chilliwack Chiefs [BCHL]</td>
+<td class="shade4 r ">49</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 r ">11</td>
+<td class="shade4 r ">13</td>
+<td class="shade4 r ">10</td>
+<td class="shade4 c ">2014-15</td>
+</tr>
+<tr>
+<td>7</td>
+<td>207</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005090.html">Calgary</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64493">Pierre Johnsson</a></td>
+<td>D</td>
+<td style="text-align:left;">Farjestad Jrs. (Sweden)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>208</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005054.html">Buffalo</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=60639">Radoslav Hecl</a></td>
+<td>D</td>
+<td style="text-align:left;">Bratislava Slovan [Slovak]</td>
+<td class="shade4 r ">14</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 c ">2002-03</td>
+</tr>
+<tr>
+<td>7</td>
+<td>209</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008871.html">Washington</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64574">Joni Lindlof</a></td>
+<td>W</td>
+<td style="text-align:left;">Tappara Jrs. (Finland)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>210</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005404.html">Dallas</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=59643">Bryan Hamm</a></td>
+<td>D</td>
+<td style="text-align:left;">Peterborough Petes [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>211</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64517">Patrick Murphy</a></td>
+<td>L</td>
+<td style="text-align:left;">Newmarket Hurricanes [OPJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>212</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006929.html">Montreal</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=49884">Jonathan Ferland</a></td>
+<td>R</td>
+<td style="text-align:left;">Acadie-Bathurst Titan [QMJHL]</td>
+<td class="shade4 r ">7</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 c ">2005-06</td>
+</tr>
+<tr>
+<td>7</td>
+<td>213</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=40224">Fredrik Norrena</a></td>
+<td>G</td>
+<td style="text-align:left;">TPS Turku [SM-liiga]</td>
+<td class="shade4 r ">100</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">6</td>
+<td class="shade4 c ">2008-09</td>
+</tr>
+<tr>
+<td>7</td>
+<td>214</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008756.html">Vancouver</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=54998">Marc-Andre Roy</a></td>
+<td>L</td>
+<td style="text-align:left;">Baie-Comeau Drakkar [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>215</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006664.html">Los Angeles</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63801">Mikhail Lyubushin</a></td>
+<td>D</td>
+<td style="text-align:left;">Krylja Sovetov [Russia]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>216</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007450.html">Phoenix</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=54306">Ladislav Kouba</a></td>
+<td>L</td>
+<td style="text-align:left;">Red Deer Rebels [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>217</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007877.html">San Jose</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64554">Tim Conboy</a></td>
+<td>R</td>
+<td style="text-align:left;">Topeka Scarecrows [USHL]</td>
+<td class="shade4 r ">59</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">6</td>
+<td class="shade4 r ">6</td>
+<td class="shade4 r ">121</td>
+<td class="shade4 c ">2009-10</td>
+</tr>
+<tr>
+<td>7</td>
+<td>218</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007066.html">New Jersey</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=56020">Ilkka Pikkarainen</a></td>
+<td>R</td>
+<td style="text-align:left;">HIFK Helsinki [SM-liiga]</td>
+<td class="shade4 r ">31</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">3</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">10</td>
+<td class="shade4 c ">2009-10</td>
+</tr>
+<tr>
+<td>7</td>
+<td>219</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005218.html">Chicago</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=59785">Tyson Kellerman</a></td>
+<td>G</td>
+<td style="text-align:left;">North Bay Centennials [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>220</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007085.html">NY Islanders</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55209">Brad Topping</a></td>
+<td>G</td>
+<td style="text-align:left;">Brampton Battalion [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>221</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008187.html">St. Louis</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=51470">Jonas Johnson</a></td>
+<td>C</td>
+<td style="text-align:left;">Vastra Frolunda HC [SEL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>222</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008490.html">Toronto</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=54472">Scott May</a></td>
+<td>C</td>
+<td style="text-align:left;">Ohio State University [CCHA]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>223</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008756.html">Vancouver</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64570">Ilya Krikunov</a></td>
+<td>F</td>
+<td style="text-align:left;">Elemash Elektrostal (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>224</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005154.html">Carolina</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55381">Adam Taylor</a></td>
+<td>R</td>
+<td style="text-align:left;">Kootenay Ice [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>225</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005316.html">Columbus</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62573">Steven Goertzen</a></td>
+<td>R</td>
+<td style="text-align:left;">Seattle Thunderbirds [WHL]</td>
+<td class="shade4 r ">68</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">83</td>
+<td class="shade4 c ">2009-10</td>
+</tr>
+<tr>
+<td>7</td>
+<td>226</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007089.html">NY Rangers</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64539">Joey Crabb</a></td>
+<td>R</td>
+<td style="text-align:left;">Green Bay Gamblers [USHL]</td>
+<td class="shade4 r ">179</td>
+<td class="shade4 r ">20</td>
+<td class="shade4 r ">33</td>
+<td class="shade4 r ">53</td>
+<td class="shade4 r ">100</td>
+<td class="shade4 c ">2013-14</td>
+</tr>
+<tr>
+<td>7</td>
+<td>227</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005307.html">Colorado</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=54868">Ryan Steeves</a></td>
+<td>C</td>
+<td style="text-align:left;">Yale University [ECAC]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>228</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004919.html">Boston</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64483">Dmitri Utkin</a></td>
+<td>F</td>
+<td style="text-align:left;">Yaroslavl Jrs. (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>7</td>
+<td>229</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005492.html">Detroit</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=54301">Derek Meech</a></td>
+<td>D</td>
+<td style="text-align:left;">Red Deer Rebels [WHL]</td>
+<td class="shade4 r ">144</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">13</td>
+<td class="shade4 r ">17</td>
+<td class="shade4 r ">45</td>
+<td class="shade4 c ">2012-13</td>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="c_sec_head">Round 8</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr><tr class="hideme">
+<th class="c_sort_head">Round</th>
+<th class="c_sort_head">Num.</th>
+<th class="c_sort_head">Drafted By</th>
+<th class="c_sort_head">Player</th>
+<th class="c_sort_head">Pos</th>
+<th class="c_sort_head">Drafted From</th>
+<th class="c_sort_head">GP</th>
+<th class="c_sort_head">G</th>
+<th class="c_sort_head">A</th>
+<th class="c_sort_head">Pts</th>
+<th class="c_sort_head">PIM</th>
+<th class="c_sort_head">Last Season</th>
+</tr>
+<tr>
+<td>8</td>
+<td>230</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004682.html">Atlanta</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64480">Colton Fretter</a></td>
+<td>C</td>
+<td style="text-align:left;">Chatham (WJBHL)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>231</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005316.html">Columbus</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63029">Jaroslav Kracik</a></td>
+<td>R</td>
+<td style="text-align:left;">Plzen Jrs. (Czech)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>232</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005763.html">Florida</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64520">Peter Hafner</a></td>
+<td>D</td>
+<td style="text-align:left;">Taft H.S. (Conn.)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>233</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64563">Vasily Koshechkin</a></td>
+<td>G</td>
+<td style="text-align:left;">N/A</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>234</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55072">Maxime Talbot</a></td>
+<td>C</td>
+<td style="text-align:left;">Hull Olympiques [QMJHL]</td>
+<td class="shade4 r ">704</td>
+<td class="shade4 r ">91</td>
+<td class="shade4 r ">113</td>
+<td class="shade4 r ">204</td>
+<td class="shade4 r ">495</td>
+<td class="shade4 c ">2015-16</td>
+</tr>
+<tr>
+<td>8</td>
+<td>235</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007024.html">Nashville</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64528">Kaleb Betts</a></td>
+<td>L</td>
+<td style="text-align:left;">Chilliwack Chiefs [BCHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>236</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004682.html">Atlanta</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55367">Tyler Boldt</a></td>
+<td>D</td>
+<td style="text-align:left;">Kamloops Blazers [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>237</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006879.html">Minnesota</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=41832">Christoph Brandner</a></td>
+<td>L</td>
+<td style="text-align:left;">Krefeld Penguins [DEL]</td>
+<td class="shade4 r ">35</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">5</td>
+<td class="shade4 r ">9</td>
+<td class="shade4 r ">8</td>
+<td class="shade4 c ">2003-04</td>
+</tr>
+<tr>
+<td>8</td>
+<td>238</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005090.html">Calgary</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=56038">Jyri Marttinen</a></td>
+<td>D</td>
+<td style="text-align:left;">JyP HT Jyvaskyla [SM-liiga]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>239</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62886">Ryan Lannon</a></td>
+<td>D</td>
+<td style="text-align:left;">Harvard University [ECAC]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>240</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007089.html">NY Rangers</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63016">Petr Prucha</a></td>
+<td>L</td>
+<td style="text-align:left;">Pardubice HC [Czech]</td>
+<td class="shade4 r ">346</td>
+<td class="shade4 r ">78</td>
+<td class="shade4 r ">68</td>
+<td class="shade4 r ">146</td>
+<td class="shade4 r ">133</td>
+<td class="shade4 c ">2010-11</td>
+</tr>
+<tr>
+<td>8</td>
+<td>241</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005054.html">Buffalo</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50256">Dennis Wideman</a></td>
+<td>D</td>
+<td style="text-align:left;">London Knights [OHL]</td>
+<td class="shade4 r ">815</td>
+<td class="shade4 r ">99</td>
+<td class="shade4 r ">288</td>
+<td class="shade4 r ">387</td>
+<td class="shade4 r ">503</td>
+<td class="shade4 c ">2016-17</td>
+</tr>
+<tr>
+<td>8</td>
+<td>242</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008871.html">Washington</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64575">Igor Ignatushkin</a></td>
+<td>F</td>
+<td style="text-align:left;">Elemash Elektrostal (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>243</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005404.html">Dallas</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62651">Tuomas Mikkonen</a></td>
+<td>L</td>
+<td style="text-align:left;">JyP HT Jyvaskyla [SM-liiga]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>244</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63225">Dwight Helminen</a></td>
+<td>C</td>
+<td style="text-align:left;">U. of Michigan [CCHA]</td>
+<td class="shade4 r ">27</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">3</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 c ">2009-10</td>
+</tr>
+<tr>
+<td>8</td>
+<td>245</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63038">Tomas Micka</a></td>
+<td>F</td>
+<td style="text-align:left;">Slavia Praha Jr. (Czech)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>246</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007328.html">Ottawa</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64544">Josef Vavra</a></td>
+<td>L</td>
+<td style="text-align:left;">Vsetin Jr. (Czech)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>247</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008756.html">Vancouver</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64571">Matt Violin</a></td>
+<td>G</td>
+<td style="text-align:left;">Lake Superior State University [CCHA]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>248</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006664.html">Los Angeles</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64523">Tuukka Pulliainen</a></td>
+<td>F</td>
+<td style="text-align:left;">Tuto (Finland)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>249</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007450.html">Phoenix</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=50173">Marcus Smith</a></td>
+<td>D</td>
+<td style="text-align:left;">Kitchener Rangers [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>250</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007066.html">New Jersey</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64531">Dan Glover</a></td>
+<td>D</td>
+<td style="text-align:left;">Camrose Kodiaks [AJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>251</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005218.html">Chicago</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55076">Jason Kostadine</a></td>
+<td>R</td>
+<td style="text-align:left;">Hull Olympiques [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>252</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007085.html">NY Islanders</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=57047">Martin Chabada</a></td>
+<td>L</td>
+<td style="text-align:left;">Sparta Praha [Czech]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>253</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008187.html">St. Louis</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=34074">Tom Koivisto</a></td>
+<td>D</td>
+<td style="text-align:left;">Jokerit Helsinki [SM-liiga]</td>
+<td class="shade4 r ">22</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">6</td>
+<td class="shade4 r ">10</td>
+<td class="shade4 c ">2002-03</td>
+</tr>
+<tr>
+<td>8</td>
+<td>254</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008490.html">Toronto</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62694">Jarkko Immonen</a></td>
+<td>C</td>
+<td style="text-align:left;">Assat Pori [SM-liiga]</td>
+<td class="shade4 r ">20</td>
+<td class="shade4 r ">3</td>
+<td class="shade4 r ">5</td>
+<td class="shade4 r ">8</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 c ">2006-07</td>
+</tr>
+<tr>
+<td>8</td>
+<td>255</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=30987">Ryan Craig</a></td>
+<td>C</td>
+<td style="text-align:left;">Brandon Wheat Kings [WHL]</td>
+<td class="shade4 r ">198</td>
+<td class="shade4 r ">32</td>
+<td class="shade4 r ">31</td>
+<td class="shade4 r ">63</td>
+<td class="shade4 r ">148</td>
+<td class="shade4 c ">2014-15</td>
+</tr>
+<tr>
+<td>8</td>
+<td>256</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62509">Darren Reid</a></td>
+<td>R</td>
+<td style="text-align:left;">Medicine Hat Tigers [WHL]</td>
+<td class="shade4 r ">21</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">18</td>
+<td class="shade4 c ">2006-07</td>
+</tr>
+<tr>
+<td>8</td>
+<td>257</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004682.html">Atlanta</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=41594">Pauli Levokari</a></td>
+<td>D</td>
+<td style="text-align:left;">HIFK Helsinki [SM-liiga]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>258</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005307.html">Colorado</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64500">Sergei Shemetov</a></td>
+<td>F</td>
+<td style="text-align:left;">Yaroslavl Jrs. (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>8</td>
+<td>259</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004919.html">Boston</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63199">Yan Stastny</a></td>
+<td>C</td>
+<td style="text-align:left;">Notre Dame [CCHA]</td>
+<td class="shade4 r ">91</td>
+<td class="shade4 r ">6</td>
+<td class="shade4 r ">10</td>
+<td class="shade4 r ">16</td>
+<td class="shade4 r ">58</td>
+<td class="shade4 c ">2009-10</td>
+</tr>
+<tr>
+<td>8</td>
+<td>260</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005492.html">Detroit</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55104">Pierre-Olivier Beaulieu</a></td>
+<td>D</td>
+<td style="text-align:left;">Quebec Remparts [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="c_sec_head">Round 9</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr><tr class="hideme">
+<th class="c_sort_head">Round</th>
+<th class="c_sort_head">Num.</th>
+<th class="c_sort_head">Drafted By</th>
+<th class="c_sort_head">Player</th>
+<th class="c_sort_head">Pos</th>
+<th class="c_sort_head">Drafted From</th>
+<th class="c_sort_head">GP</th>
+<th class="c_sort_head">G</th>
+<th class="c_sort_head">A</th>
+<th class="c_sort_head">Pts</th>
+<th class="c_sort_head">PIM</th>
+<th class="c_sort_head">Last Season</th>
+</tr>
+<tr>
+<td>9</td>
+<td>261</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004643.html">Anaheim</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55041">Francois Caron</a></td>
+<td>D</td>
+<td style="text-align:left;">Moncton Wildcats [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>262</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005492.html">Detroit</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=56903">Christian Soderstrom</a></td>
+<td>L</td>
+<td style="text-align:left;">Timra IK [SEL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>263</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005316.html">Columbus</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=43796">Sergei Mozyakin</a></td>
+<td>F</td>
+<td style="text-align:left;">HC CSKA (Russian Jr.)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>264</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007024.html">Nashville</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=55099">Matthew Davis</a></td>
+<td>G</td>
+<td style="text-align:left;">Moncton Wildcats [QMJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>265</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=59673">Dwight LaBrosse</a></td>
+<td>G</td>
+<td style="text-align:left;">Guelph Storm [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>266</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007024.html">Nashville</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62598">Steven Spencer</a></td>
+<td>D</td>
+<td style="text-align:left;">Swift Current Broncos [WHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>267</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004643.html">Anaheim</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62193">Chris Petrow</a></td>
+<td>D</td>
+<td style="text-align:left;">Oshawa Generals [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>268</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006879.html">Minnesota</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64525">Mikhail Tyulyapkin</a></td>
+<td>D</td>
+<td style="text-align:left;">Novgorod Jr. (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>269</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006879.html">Minnesota</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=56890">Mika Hannula</a></td>
+<td>F</td>
+<td style="text-align:left;">Malmo IF [SEL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>270</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007089.html">NY Rangers</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62885">Rob Flynn</a></td>
+<td>L</td>
+<td style="text-align:left;">Harvard University [ECAC]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>271</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005054.html">Buffalo</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64487">Martin Cizek</a></td>
+<td></td>
+<td style="text-align:left;">Slavia Praha Jr. (Czech)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>272</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008871.html">Washington</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64576">Patric Blomdahl</a></td>
+<td>R</td>
+<td style="text-align:left;">AIK Jr. (Sweden)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>273</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005404.html">Dallas</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63055">Ned Havern</a></td>
+<td>L</td>
+<td style="text-align:left;">Boston College [H-East]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>274</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005632.html">Edmonton</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64518">Fredrik Johansson</a></td>
+<td>C</td>
+<td style="text-align:left;">Frolunda Jrs (Sweden)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>275</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006929.html">Montreal</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63799">Konstantin Korneyev</a></td>
+<td>D</td>
+<td style="text-align:left;">Krylja Sovetov [Russia]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>276</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007328.html">Ottawa</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=59118">Vitaly Atyushov</a></td>
+<td>D</td>
+<td style="text-align:left;">Perm Molot [Russia]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>277</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008756.html">Vancouver</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=58715">Thomas Nussli</a></td>
+<td>F</td>
+<td style="text-align:left;">Zug EV [Swiss-A]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>278</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008756.html">Vancouver</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=62947">Matt Gens</a></td>
+<td>R</td>
+<td style="text-align:left;">St. Cloud State [WCHA]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>279</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00006664.html">Los Angeles</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=54753">Connor James</a></td>
+<td>C</td>
+<td style="text-align:left;">U. of Denver [WCHA]</td>
+<td class="shade4 r ">16</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">0</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">2</td>
+<td class="shade4 c ">2008-09</td>
+</tr>
+<tr>
+<td>9</td>
+<td>280</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007450.html">Phoenix</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64547">Russell Spence</a></td>
+<td>L</td>
+<td style="text-align:left;">OCN Blizzard [MJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>281</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007066.html">New Jersey</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=59631">Bill Kinkel</a></td>
+<td>L</td>
+<td style="text-align:left;">Kitchener Rangers [OHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>282</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005218.html">Chicago</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64498">Adam Burish</a></td>
+<td>R</td>
+<td style="text-align:left;">Green Bay Gamblers [USHL]</td>
+<td class="shade4 r ">378</td>
+<td class="shade4 r ">27</td>
+<td class="shade4 r ">33</td>
+<td class="shade4 r ">60</td>
+<td class="shade4 r ">554</td>
+<td class="shade4 c ">2014-15</td>
+</tr>
+<tr>
+<td>9</td>
+<td>283</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007085.html">NY Islanders</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64534">Per Braxenholm</a></td>
+<td>D</td>
+<td style="text-align:left;">Morrum (Sweden)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>284</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008187.html">St. Louis</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64559">Ryan MacMurchy</a></td>
+<td>R</td>
+<td style="text-align:left;">Notre Dame Hounds [SJHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>285</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008490.html">Toronto</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64565">Staffan Kronwall</a></td>
+<td>D</td>
+<td style="text-align:left;">Huddinge IK [Swe-1]</td>
+<td class="shade4 r ">66</td>
+<td class="shade4 r ">1</td>
+<td class="shade4 r ">3</td>
+<td class="shade4 r ">4</td>
+<td class="shade4 r ">23</td>
+<td class="shade4 c ">2009-10</td>
+</tr>
+<tr>
+<td>9</td>
+<td>286</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64564">Alexei Glukhov</a></td>
+<td>F</td>
+<td style="text-align:left;">Khimik (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>287</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63214">John Toffey</a></td>
+<td>F</td>
+<td style="text-align:left;">Ohio State University [CCHA]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>288</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00007877.html">San Jose</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64555">Michael Hutchins</a></td>
+<td>D</td>
+<td style="text-align:left;">Des Moines Buccaneers [USHL]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>289</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005307.html">Colorado</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=63094">Sean Collins</a></td>
+<td>C</td>
+<td style="text-align:left;">U. of New Hampshire [H-East]</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>290</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00004919.html">Boston</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64484">Pavel Frolov</a></td>
+<td>F</td>
+<td style="text-align:left;">Novgorod Jr. (Russia)</td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 r "></td>
+<td class="shade4 c "></td>
+</tr>
+<tr>
+<td>9</td>
+<td>291</td>
+<td style="text-align:left;"><a href="/ihdb/draft/teams/dr00005492.html">Detroit</a></td>
+<td style="text-align:left;"><a target="players" href="/ihdb/stats/pdisplay.php?pid=64513">Jonathan Ericsson</a></td>
+<td>D</td>
+<td style="text-align:left;">Sweden</td>
+<td class="shade4 r ">662</td>
+<td class="shade4 r ">27</td>
+<td class="shade4 r ">98</td>
+<td class="shade4 r ">125</td>
+<td class="shade4 r ">531</td>
+<td class="shade4 c ">2018-19</td>
+</tr>
+</tbody></table>
+<div>
+<h3>Draft Stats</h3>
+<p>Total drafted players to play in NHL: 104</p>
+<p>Percent of players to play in NHL: 35.7</p>
+<p>Average NHL Career Games: 323</p>
+<p>Average NHL Career Goals: 43</p>
+<p>Average NHL Career Points: 119</p>
+<p>Average NHL Career PIM: 196</p>
+</div>
+<p></p>
+</div>
+<div class="sponsor">
+<div id='right_rectangle'>
+<script type="text/javascript" src="/proxy/ad_proxy_300_160_360.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('right_rectangle'); });
+</script>
+</div>
+</div>
+
+<script>
+
+jQuery(".sponsor").each(function(){
+      var $this = jQuery(this);
+      $this.data('fixed', $this.offset().left); // Left value for fixed position 
+      $this.data('absolute', $this.position().left); // Left value for absolute (on bottom)
+}); 
+
+jQuery(".sponsor").stick_in_parent({ spacer: false })
+.on("sticky_kit:stick sticky_kit:unbottom", function(e) {
+  var $el = jQuery(e.target);
+  $el.css({ 'left': $el.data('fixed') });
+})
+.on("sticky_kit:bottom", function(e) {
+  var $el = jQuery(e.target);
+  $el.css({ 'left': $el.data('absolute') });
+});
+
+</script>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2019 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='//storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>
+
