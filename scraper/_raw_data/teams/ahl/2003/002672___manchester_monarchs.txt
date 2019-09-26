@@ -1,0 +1,1234 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Manchester Monarchs 2003-04 roster and scoring statistics at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="The roster, scoring and goaltender statistics for the 2003-04 Manchester Monarchs playing in the AHL." />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
+
+<script src="/js/all.js"></script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
+</script>
+
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function(){ 
+    var gads = document.createElement('script'); gads.async = true;
+    gads.type = 'text/javascript'; 
+    var useSSL = 'https:' == document.location.protocol; gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0]; 
+    node.parentNode.insertBefore(gads, node); 
+  })();
+</script>
+
+<script src="https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js"></script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    var mapping1 = googletag.sizeMapping()
+      .addSize([1080, 0], [300, 250])
+      .addSize([760, 0], [160, 600])
+      .addSize([336, 0], [[336, 280], [300, 250]])
+      .addSize([0, 0], [])
+        .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [[728, 90], [320, 50]], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .set('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_300x250_1', [[336, 280], [160, 600], [300, 250]], 'right_rectangle')
+   	.defineSizeMapping(mapping1)
+   	.set('sizeMap', mapping1)
+    .addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<link rel="canonical" href="http://www.hockeydb.com/ihdb/stats/leagues/seasons/teams/0026722004.html" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script src="/js/jquery.mobile.custom.min.js"></script>
+<script src="/js/jquery.sticky-kit.js"></script>
+
+<style>
+.sponsor {
+   margin-top:24px !important;
+}
+
+#mt {
+   width:inherit !important;
+}
+
+.tablebg td {
+    border-color: rgb(203, 192, 192);
+}
+
+
+#ribbon {
+  float:left;
+}
+
+#program {
+   float:left;
+   width:150px;
+}
+
+.tablebg table td A:link {
+    font-weight: initial;
+    color: black;
+}
+
+#tooltip
+{
+    text-align: center;
+    color: #fff;
+    background: #111;
+    position: absolute;
+    z-index: 100;
+    padding: 15px;
+}
+ 
+    #tooltip:after /* triangle decoration */
+    {
+        width: 0;
+        height: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px solid #111;
+        content: '';
+        position: absolute;
+        left: 50%;
+        bottom: -10px;
+        margin-left: -10px;
+    }
+ 
+        #tooltip.top:after
+        {
+            border-top-color: transparent;
+            border-bottom: 10px solid #111;
+            top: -20px;
+            bottom: auto;
+        }
+ 
+        #tooltip.left:after
+        {
+            left: 10px;
+            margin: 0;
+        }
+ 
+        #tooltip.right:after
+        {
+            right: 10px;
+            left: auto;
+            margin: 0;
+        }
+</style>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+<script>
+$( function()
+{
+    var targets = $( '[rel~=tooltip]' ),
+        target  = false,
+        tooltip = false,
+        title   = false;
+ 
+    targets.bind( 'mouseenter', function()
+    {
+        target  = $( this );
+        tip     = target.attr( 'title' );
+        tooltip = $( '<div id="tooltip"></div>' );
+ 
+        if( !tip || tip == '' )
+            return false;
+ 
+        target.removeAttr( 'title' );
+        tooltip.css( 'opacity', 0 )
+               .html( tip )
+               .appendTo( 'body' );
+ 
+        var init_tooltip = function()
+        {
+            tooltip.css( 'max-width', 340);
+ 
+            var pos_left = target.offset().left + ( target.outerWidth() / 2 ) - ( tooltip.outerWidth() / 2 ),
+                pos_top  = target.offset().top - tooltip.outerHeight() - 20;
+ 
+            if( pos_left < 0 )
+            {
+                pos_left = target.offset().left + target.outerWidth() / 2 - 20;
+                tooltip.addClass( 'left' );
+            }
+            else
+                tooltip.removeClass( 'left' );
+ 
+            if( pos_left + tooltip.outerWidth() > $( window ).width() )
+            {
+                pos_left = target.offset().left - tooltip.outerWidth() + target.outerWidth() / 2 + 20;
+                tooltip.addClass( 'right' );
+            }
+            else
+                tooltip.removeClass( 'right' );
+ 
+            if( pos_top < 0 )
+            {
+                var pos_top  = target.offset().top + target.outerHeight();
+                tooltip.addClass( 'top' );
+            }
+            else
+                tooltip.removeClass( 'top' );
+ 
+            tooltip.css( { left: pos_left, top: pos_top } )
+                   .animate( { top: '+=10', opacity: 1 }, 50 );
+        };
+ 
+        init_tooltip();
+        $( window ).resize( init_tooltip );
+ 
+        var remove_tooltip = function()
+        {
+            tooltip.animate( { top: '-=10', opacity: 0 }, 50, function()
+            {
+                $( this ).remove();
+            });
+ 
+            target.attr( 'title', tip );
+        };
+ 
+        target.bind( 'mouseleave', remove_tooltip );
+        tooltip.bind( 'click', remove_tooltip );
+    });
+});
+</script><div id="mt" class="multitable">
+<br /><div class="tablebg" style="-width:742px;">
+<div id="program">
+<img src="/ihdb/progphot/manchester_monarchs-2004-ahl.jpg" alt="2003-04 Manchester Monarchs game program" />
+</div>
+<div id="ribbon">
+<div style="float:left">
+   <h1 class="title">2003-04 Manchester Monarchs roster and statistics</h1>   <div class="breadcrumb"><a href="/ihdb/stats/leagues.html">League Search Page</a> -> <a href="http://www.hockeydb.com/ihdb/stats/leagues/112.html">AHL</a> -> <a href="/ihdb/stats/leagues/seasons/ahl19412004.html">2003-04</a> -> <a href="/stte/manchester-monarchs-6725.html">Manchester Monarchs</a> -> Roster & Statistics</div>
+   <div style="margin: 5px 5px 10px;"><a target="_blank" href="/ihdb/stats/player_register.php?tid=2672&sid=2004">Click to view Player Register</a></div>
+</div>
+<div style="padding:4px; border-width:1px; border-style:solid; border-color:black; background-color:white;float: right; margin-bottom: 10px;">   <a href="/ihdb/stats/team_results.php?tid=2672&amp;sid=2004"><span class="c">Game-by-game results</span></a> <br /><img style="border:0;" alt="game results graph" src="/common/team_result_graph.php?tid=2672&amp;sid=2004&amp;size=small" />
+</div>
+<br style="clear:left" />
+<div style="float:left; margin-left:10px; margin-top:5px; padding:4px; border-width:1px; border-style:solid; border-color:black; background-color:white;">
+Head Coach: <a href="/ihdb/stats/pdisplay.php?pid=502">Bruce Boudreau</a> (40-28-7-5) <br />Assistant Coach: <a href="/ihdb/stats/pdisplay.php?pid=6384">Jim Hughes</a> <br />Assistant Coach: <a href="/ihdb/stats/pdisplay.php?pid=2487">Dane Jackson</a> <br /></div>
+<br style="clear:left" />
+<div style="float:left; margin-left:10px; margin-top:10px;">
+<a href="/ihdb/stats/roster_gallery.php?tid=2672&amp;sid=2004">View photo gallery</a> [27 photos of 43 players]
+</div>
+<div style="clear:both"></div>
+</div>
+<br />
+<table class="sortable autostripe">
+<thead>
+<tr>
+<th class="norow" colspan="3"></th>
+<th class="c_sec_head" colspan="6" style="text-align:center;">Regular Season</th>
+<th class="c_sec_head" colspan="5" style="text-align:center;">Playoffs</th>
+<th class="c_sec_head" colspan="2" style="text-align:center;">Vitals</th>
+</tr>
+<tr class="c_sort_head">
+<th>#</th>
+<th class="l">Player Name</th>
+<th>Pos.</th>
+<th>GP</th>
+<th>G</th>
+<th>A</th>
+<th>Pts</th>
+<th>PIM</th>
+<th class="htext">+/-</th>
+<th>GP</th>
+<th>G</th>
+<th>A</th>
+<th>Pts</th>
+<th>PIM</th>
+<th>Birthplace</th>
+<th>Age</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>55</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=26796">Pavel Rosa</a></td>
+<td class="l">R</td>
+<td class="stat">77</td>
+<td class="stat">39</td>
+<td class="stat">49</td>
+<td class="stat">88</td>
+<td class="stat">32</td>
+<td>38</td>
+<td class="stat">6</td>
+<td class="stat">3</td>
+<td class="stat">6</td>
+<td class="stat">9</td>
+<td class="stat">6</td>
+<td class="l">Czech Rep.: Most</td>
+<td>26</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=17658">Steve Kelly</a></td>
+<td class="l">L</td>
+<td class="stat">59</td>
+<td class="stat">21</td>
+<td class="stat">49</td>
+<td class="stat">70</td>
+<td class="stat">117</td>
+<td>32</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="l">BC: Vancouver</td>
+<td>26</td>
+</tr>
+
+<tr>
+<td>24</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=45095">Noah Clarke</a></td>
+<td class="l">L</td>
+<td class="stat">71</td>
+<td class="stat">25</td>
+<td class="stat">26</td>
+<td class="stat">51</td>
+<td class="stat">24</td>
+<td>20</td>
+<td class="stat">6</td>
+<td class="stat">3</td>
+<td class="stat">1</td>
+<td class="stat">4</td>
+<td class="stat">4</td>
+<td class="l">CA: La Verne</td>
+<td>24</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=15967">Bryan Muir</a></td>
+<td class="l">D</td>
+<td class="stat">73</td>
+<td class="stat">13</td>
+<td class="stat">37</td>
+<td class="stat">50</td>
+<td class="stat">141</td>
+<td>24</td>
+<td class="stat">6</td>
+<td class="stat">2</td>
+<td class="stat">3</td>
+<td class="stat">5</td>
+<td class="stat">12</td>
+<td class="l">MAN: Winnipeg</td>
+<td>30</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=43828">Yanick Lehoux</a></td>
+<td class="l">C</td>
+<td class="stat">66</td>
+<td class="stat">14</td>
+<td class="stat">28</td>
+<td class="stat">42</td>
+<td class="stat">22</td>
+<td>5</td>
+<td class="stat">5</td>
+<td class="stat">2</td>
+<td class="stat">3</td>
+<td class="stat">5</td>
+<td class="stat">16</td>
+<td class="l">PQ: Montreal</td>
+<td>21</td>
+</tr>
+
+<tr>
+<td>13</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=49660">Mike Cammalleri</a></td>
+<td class="l">L</td>
+<td class="stat">41</td>
+<td class="stat">20</td>
+<td class="stat">19</td>
+<td class="stat">39</td>
+<td class="stat">28</td>
+<td>13</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="l">ONT: Toronto</td>
+<td>21</td>
+</tr>
+
+<tr>
+<td>44</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=23719">Scott Barney</a></td>
+<td class="l">R</td>
+<td class="stat">44</td>
+<td class="stat">20</td>
+<td class="stat">14</td>
+<td class="stat">34</td>
+<td class="stat">28</td>
+<td>12</td>
+<td class="stat">6</td>
+<td class="stat">2</td>
+<td class="stat">3</td>
+<td class="stat">5</td>
+<td class="stat">8</td>
+<td class="l">ONT: Oshawa</td>
+<td>24</td>
+</tr>
+
+<tr>
+<td>15</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=49098">Tomas Zizka</a></td>
+<td class="l">D</td>
+<td class="stat">58</td>
+<td class="stat">4</td>
+<td class="stat">24</td>
+<td class="stat">28</td>
+<td class="stat">31</td>
+<td>2</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">3</td>
+<td class="stat">3</td>
+<td class="stat">10</td>
+<td class="l">Czech Rep.: Sternberk</td>
+<td>23</td>
+</tr>
+
+<tr>
+<td>25</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=28640">Jerred Smithson</a></td>
+<td class="l">C</td>
+<td class="stat">66</td>
+<td class="stat">7</td>
+<td class="stat">13</td>
+<td class="stat">20</td>
+<td class="stat">51</td>
+<td>-2</td>
+<td class="stat">6</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">10</td>
+<td class="l">BC: Vernon</td>
+<td>24</td>
+</tr>
+
+<tr>
+<td>16</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=45035">Jeff Giuliano</a></td>
+<td class="l">R</td>
+<td class="stat">80</td>
+<td class="stat">6</td>
+<td class="stat">14</td>
+<td class="stat">20</td>
+<td class="stat">16</td>
+<td>-5</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">NH: Nashua</td>
+<td>24</td>
+</tr>
+
+<tr>
+<td>26</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=4807">Chris Schmidt</a></td>
+<td class="l">C</td>
+<td class="stat">54</td>
+<td class="stat">6</td>
+<td class="stat">13</td>
+<td class="stat">19</td>
+<td class="stat">39</td>
+<td>18</td>
+<td class="stat">6</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">4</td>
+<td class="l">ALTA: Beaverlodge</td>
+<td>27</td>
+</tr>
+
+<tr>
+<td>42</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=19364">John Tripp</a></td>
+<td class="l">R</td>
+<td class="stat">24</td>
+<td class="stat">8</td>
+<td class="stat">7</td>
+<td class="stat">15</td>
+<td class="stat">33</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Kingston</td>
+<td>26</td>
+</tr>
+
+<tr>
+<td>12</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=38001">Sam Ftorek</a></td>
+<td class="l">D</td>
+<td class="stat">52</td>
+<td class="stat">6</td>
+<td class="stat">9</td>
+<td class="stat">15</td>
+<td class="stat">63</td>
+<td>5</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">AZ: Phoenix</td>
+<td>28</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=29594">Joe Rullier</a></td>
+<td class="l">D</td>
+<td class="stat">73</td>
+<td class="stat">3</td>
+<td class="stat">12</td>
+<td class="stat">15</td>
+<td class="stat">186</td>
+<td>19</td>
+<td class="stat">6</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">4</td>
+<td class="l">PQ: Montreal</td>
+<td>23</td>
+</tr>
+
+<tr>
+<td>23</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=49504">Dan Welch</a></td>
+<td class="l">W</td>
+<td class="stat">31</td>
+<td class="stat">6</td>
+<td class="stat">6</td>
+<td class="stat">12</td>
+<td class="stat">18</td>
+<td>1</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">MN: Hastings</td>
+<td>22</td>
+</tr>
+
+<tr>
+<td>17</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=17659">Brad Church</a></td>
+<td class="l">L</td>
+<td class="stat">11</td>
+<td class="stat">5</td>
+<td class="stat">6</td>
+<td class="stat">11</td>
+<td class="stat">0</td>
+<td>1</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">MAN: Dauphin</td>
+<td>26</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=29184">Richard Seeley</a></td>
+<td class="l">D</td>
+<td class="stat">56</td>
+<td class="stat">2</td>
+<td class="stat">9</td>
+<td class="stat">11</td>
+<td class="stat">80</td>
+<td>10</td>
+<td class="stat">6</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">BC: Powell River</td>
+<td>24</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=14463">Maxim Kuznetsov</a></td>
+<td class="l">D</td>
+<td class="stat">39</td>
+<td class="stat">2</td>
+<td class="stat">8</td>
+<td class="stat">10</td>
+<td class="stat">57</td>
+<td>10</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">4</td>
+<td class="l">Russia: Pavlodor</td>
+<td>26</td>
+</tr>
+
+<tr>
+<td>73</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=45094">George Parros</a></td>
+<td class="l">R</td>
+<td class="stat">57</td>
+<td class="stat">3</td>
+<td class="stat">6</td>
+<td class="stat">9</td>
+<td class="stat">126</td>
+<td>-9</td>
+<td class="stat">5</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">4</td>
+<td class="l">PA: Washington</td>
+<td>23</td>
+</tr>
+
+<tr>
+<td>37<br />38</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=63818">Denis Grebeshkov</a></td>
+<td class="l">D</td>
+<td class="stat">43</td>
+<td class="stat">2</td>
+<td class="stat">7</td>
+<td class="stat">9</td>
+<td class="stat">34</td>
+<td>6</td>
+<td class="stat">6</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">6</td>
+<td class="l">Russia: Yaroslavl</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td>49</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=29538">Ryan Flinn</a></td>
+<td class="l">L</td>
+<td class="stat">59</td>
+<td class="stat">3</td>
+<td class="stat">5</td>
+<td class="stat">8</td>
+<td class="stat">164</td>
+<td>-7</td>
+<td class="stat">6</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">4</td>
+<td class="l">NS: Halifax</td>
+<td>23</td>
+</tr>
+
+<tr>
+<td>72</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=46810">Leon Hayward</a></td>
+<td class="l">F</td>
+<td class="stat">42</td>
+<td class="stat">2</td>
+<td class="stat">6</td>
+<td class="stat">8</td>
+<td class="stat">30</td>
+<td>-3</td>
+<td class="stat">6</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">14</td>
+<td class="l">WA: Seattle</td>
+<td>24</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=50279">Tim Gleason</a></td>
+<td class="l">D</td>
+<td class="stat">22</td>
+<td class="stat">0</td>
+<td class="stat">8</td>
+<td class="stat">8</td>
+<td class="stat">19</td>
+<td>10</td>
+<td class="stat">6</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">4</td>
+<td class="l">MI: Clawson</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>27</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=26825">Randy Perry</a><sup rel="tooltip" title="From Utah<br />To Bridgeport"> 1 </sup></td>
+<td class="l">D</td>
+<td class="stat">24</td>
+<td class="stat">1</td>
+<td class="stat">5</td>
+<td class="stat">6</td>
+<td class="stat">12</td>
+<td>1</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ALTA: Edmonton</td>
+<td>27</td>
+</tr>
+
+<tr>
+<td>21</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=50504">Esa Pirnes</a></td>
+<td class="l">L</td>
+<td class="stat">4</td>
+<td class="stat">3</td>
+<td class="stat">1</td>
+<td class="stat">4</td>
+<td class="stat">2</td>
+<td>2</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">Finland: Oulu</td>
+<td>26</td>
+</tr>
+
+<tr>
+<td>48</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=57050">Petr Kanko</a></td>
+<td class="l">L</td>
+<td class="stat">6</td>
+<td class="stat">1</td>
+<td class="stat">3</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td>4</td>
+<td class="stat">6</td>
+<td class="stat">1</td>
+<td class="stat">3</td>
+<td class="stat">4</td>
+<td class="stat">2</td>
+<td class="l">Czech Rep.: Pribram</td>
+<td>19</td>
+</tr>
+
+<tr>
+<td>20</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=27634">Doug Nolan</a></td>
+<td class="l">D</td>
+<td class="stat">49</td>
+<td class="stat">0</td>
+<td class="stat">3</td>
+<td class="stat">3</td>
+<td class="stat">30</td>
+<td>6</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">MA: Quincy</td>
+<td>27</td>
+</tr>
+
+<tr>
+<td>22</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=31195">Jonathan Zion</a><sup rel="tooltip" title="To Syracuse"> 2 </sup></td>
+<td class="l">D</td>
+<td class="stat">8</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="stat">2</td>
+<td class="stat">6</td>
+<td>2</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Nepean</td>
+<td>22</td>
+</tr>
+
+<tr>
+<td>29</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=29310">Greg Koehler</a><sup rel="tooltip" title="From San Antonio"> 3 </sup></td>
+<td class="l">C</td>
+<td class="stat">10</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="stat">2</td>
+<td class="stat">6</td>
+<td>1</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td class="l">ONT: Scarborough</td>
+<td>28</td>
+</tr>
+
+<tr>
+<td>22</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=49772">Troy Milam</a><sup rel="tooltip" title="To San Antonio"> 4 </sup></td>
+<td class="l">D</td>
+<td class="stat">7</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td>2</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">MI: Lake Orion</td>
+<td>23</td>
+</tr>
+
+<tr>
+<td>19</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=55622">Greg Hogeboom</a></td>
+<td class="l">C</td>
+<td class="stat">3</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td>1</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Etobicoke</td>
+<td>20</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=1243">Chad Dameworth</a></td>
+<td class="l">D</td>
+<td class="stat">10</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">4</td>
+<td>2</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">MI: Marquette</td>
+<td>31</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=48842">Martin Strbak</a></td>
+<td class="l">D</td>
+<td class="stat">12</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">25</td>
+<td>-1</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">Slovakia: Presov</td>
+<td>28</td>
+</tr>
+
+<tr>
+<td>1</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=2304">Milan Hnilicka</a></td>
+<td class="l">G</td>
+<td class="stat">20</td>
+<td class="stat">0</td>
+<td class="stat">1</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">Czech Rep.: Kladno</td>
+<td>30</td>
+</tr>
+
+<tr>
+<td>19</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=33907">Mat Snesrud</a></td>
+<td class="l">D</td>
+<td class="stat">1</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td>-2</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">MN: Cloquet</td>
+<td>26</td>
+</tr>
+
+<tr>
+<td>37</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=26004">Kip Brennan</a></td>
+<td class="l">L</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">6</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Kingston</td>
+<td>23</td>
+</tr>
+
+<tr>
+<td>41</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=49689">P.J. Martin</a><sup rel="tooltip" title="To Springfield"> 5 </sup></td>
+<td class="l">D</td>
+<td class="stat">2</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>-1</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">MN: Edina</td>
+<td>22</td>
+</tr>
+
+<tr>
+<td>48</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=42558">Judd Medak</a><sup rel="tooltip" title="To Hershey"> 6 </sup></td>
+<td class="l">W</td>
+<td class="stat">3</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>-1</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ALTA: Edmonton</td>
+<td>23</td>
+</tr>
+
+<tr>
+<td>36</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=41468">Matt Underhill</a><sup rel="tooltip" title="To Norfolk"> 7 </sup></td>
+<td class="l">G</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">BC: Campbell River</td>
+<td>23</td>
+</tr>
+
+<tr>
+<td>74</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=31739">Travis Lisabeth</a></td>
+<td class="l">L</td>
+<td class="stat">8</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>1</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">ONT: Langton</td>
+<td>23</td>
+</tr>
+
+<tr>
+<td>21</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=56492">Francis Nault</a></td>
+<td class="l">D</td>
+<td class="stat">9</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">4</td>
+<td>2</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">PQ: Tracy</td>
+<td>24</td>
+</tr>
+
+<tr>
+<td>46</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=29641">Mathieu Chouinard</a></td>
+<td class="l">G</td>
+<td class="stat">22</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td>0</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="stat">--</td>
+<td class="l">PQ: Boisbriand</td>
+<td>23</td>
+</tr>
+
+<tr>
+<td>45</td>
+<td style="text-align:left;"><a href="/ihdb/stats/pdisplay.php?pid=42553">Adam Hauser</a></td>
+<td class="l">G</td>
+<td class="stat">43</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">2</td>
+<td>0</td>
+<td class="stat">4</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="stat">0</td>
+<td class="l">MN: Bovey</td>
+<td>23</td>
+</tr>
+
+</tbody>
+<tfoot>
+<tr class="c_sec_foot">
+<td style="text-align: left;" colspan="6">Totals</td>
+<td></td>
+<td>223</td>
+<td>395</td>
+<td>618</td>
+<td>1438</td>
+<td></td>
+<td colspan="5"></td>
+</tr>
+</tfoot>
+</table>
+<br />
+<div id="goalie_scoring">
+<table class="sortable autostripe goalietab">
+<thead><tr><th class="c_sec_head l" colspan="12">Goalies</th></tr><tr class="c_sort_head"><th class="l">Player Name</th><th>GP</th><th>Min</th><th class="c_sort_head">GA</th><th>GAA</th><th>W</th><th>L</th><th>T</th><th>Svs</th><th>Pct</th><th>EN</th><th>SO</th></tr></thead>
+<tbody><tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=42553">Adam Hauser</a></td><td>43</td><td>2536</td><td>82</td><td>1.94</td><td>20</td><td>15</td><td>7</td><td>1022</td><td>0.926</td><td>0</td><td>7</td></tr>
+<tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=29641">Mathieu Chouinard</a></td><td>22</td><td>1093</td><td>41</td><td>2.25</td><td>10</td><td>6</td><td>0</td><td>428</td><td>0.913</td><td>0</td><td>4</td></tr>
+<tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=2304">Milan Hnilicka</a></td><td>20</td><td>1022</td><td>44</td><td>2.58</td><td>8</td><td>10</td><td>0</td><td>434</td><td>0.908</td><td>0</td><td>1</td></tr>
+<tr class="shade4"><td style="text-align: left;"><a href="/ihdb/stats/pdisplay.php?pid=41468">Matt Underhill</a></td><td>4</td><td>186</td><td>9</td><td>2.90</td><td>2</td><td>2</td><td>0</td><td>84</td><td>0.903</td><td>0</td><td>0</td></tr>
+</tbody>
+</table>
+</div>
+<br />
+<div id="tradekeycontainer">
+<div id="tradekey">
+Trade Key
+</div>
+<div>1: From Utah<br />To Bridgeport</div>
+<div>2: To Syracuse</div>
+<div>3: From San Antonio</div>
+<div>4: To San Antonio</div>
+<div>5: To Springfield</div>
+<div>6: To Hershey</div>
+<div>7: To Norfolk</div>
+</div>
+</div>
+</div>
+<div class="sponsor">
+<div id='right_rectangle'>
+<script type="text/javascript" src="/proxy/ad_proxy_300_160_360.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('right_rectangle'); });
+</script>
+</div>
+</div>
+
+<script>
+$(".sponsor").each(function(){
+      var $this = $(this);
+      $this.data('fixed', $this.offset().left); // Left value for fixed position 
+      $this.data('absolute', $this.position().left); // Left value for absolute (on bottom)
+}); 
+
+$(".sponsor").stick_in_parent({ spacer: false })
+.on("sticky_kit:stick sticky_kit:unbottom", function(e) {
+  var $el = $(e.target);
+  $el.css({ 'left': $el.data('fixed') });
+})
+.on("sticky_kit:bottom", function(e) {
+  var $el = $(e.target);
+  $el.css({ 'left': $el.data('absolute') });
+});
+
+</script>
+
+<script>
+$("#mt").on("swipe",function(){
+  $('.multitable').each(function(i, el) {
+    $(el).css("width","765px");
+  })
+  $('.expand').each(function(i, el) {
+    $(el).css("display","none");
+  })
+  $("#mt").off()
+;})
+</script>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2011 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='//storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>
