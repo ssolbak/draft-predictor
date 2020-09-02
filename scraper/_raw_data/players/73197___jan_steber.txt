@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Jan Steber Hockey Stats and Profile at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="Statistics of Jan Steber, a hockey player from Ostrava, Czech Rep. born Oct 19 1985 who was active from 2003 to 2009." />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
+
+<script src="/js/all.js"></script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
+</script>
+
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>window.googletag = window.googletag || {cmd: []};</script>
+<script async='async' src='https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js'></script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    var mapping1 = googletag.sizeMapping()
+      .addSize([1080, 0], [300, 250])
+      .addSize([760, 0], [160, 600])
+      .addSize([336, 0], [[336, 280], [300, 250]])
+      .addSize([0, 0], [])
+        .build();
+    var bottomAd = googletag.sizeMapping()
+      .addSize([781, 0], [728, 90])
+      .addSize([481, 0], [468, 60])
+      .addSize([0, 0], [])
+      .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [[728, 90], [320, 50]], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .setTargeting('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_300x250_1', [[336, 280], [160, 600], [300, 250]], 'right_rectangle')
+   	.defineSizeMapping(mapping1)
+   	.setTargeting('sizeMap', mapping1)
+    .addService(googletag.pubads());
+
+	if (window.innerWidth > 480) {
+    googletag.defineSlot('/170737076/hockeydb', [[728, 90], [468, 60]], 'bottom_leaderboard')
+      .defineSizeMapping(bottomAd)
+      .setTargeting('sizeMap', bottomAd)
+      .addService(googletag.pubads());
+ } else {
+    googletag.pubads().setCentering(true);
+ }
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+
+if (window.innerWidth > 480) {
+	googletag.cmd.push(function() { googletag.display('bottom_leaderboard'); });
+}
+</script>
+<link rel="canonical" href="http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=73197" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="/js/jquery.mobile.custom.min.js"></script>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script async type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=172068129524955";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">
+<!--
+function ImageCollection(images) {
+  this.images = images;
+  this.i = 0;
+  this.next = function(img) {
+    this.i++;
+    if (this.i == images.length)
+    this.i = 0;
+    img.src = images[this.i];
+  }
+}
+//-->
+</script>
+<script type="text/javascript">
+  <!-- // 
+function sc(ct,pid) {
+script = document.createElement('script');
+script.id = 'script' + pid;
+script.src = '/ihdb/stats/switch_content.php?sc=' + ct + '&pid=' + pid;
+document.getElementsByTagName('head')[0].appendChild(script);
+}
+ //  -->
+</script>
+<script type="text/javascript">
+if (screen.width >= 1270) {
+  document.write('<div class="unified">');}
+</script>
+<div id="mt" class="multitable">
+<div class="tablebg st ">
+<div itemscope itemtype="http://schema.org/Person" class="vw">
+<div class="v1">
+<h1 itemprop="name" class="title">Jan Steber</h1>
+<div class="v1-1">
+Center -- shoots R<br />
+<span class="bdate">Born Oct 19 1985 -- </span><span class="hometown" itemprop="homeLocation">Ostrava, Czech Rep.</span> <br />[33 yrs. ago] <br />Height 6.03 -- Weight 202<span class="vitals_metric"> [191 cm/92 kg]</span><br />
+</div>
+</div>
+<div class="vd">
+Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><div>- 
+ round 8 <a href="/ihdb/draft/draft_by_pick.php?position=252"> #252</a> overall <a href="/ihdb/draft/nhl2004e.html"> 2004 NHL Entry Draft</a></div><br /></div>
+</div>
+<div class="v1-5">
+&nbsp;
+<a href="/ihdb/cards/carddisplay.php?pid=73197" class="button sprite">&nbsp;</a> 
+</div>
+<div class="vtr" style="clear:left" id="content73197">
+</div>
+<div class="social_container">
+<div class="social"><div class="fb-like" data-href="http://www.hockeydb.com/ihdb/stats/pdisplay.php?filter=Y&amp;pid=73197" data-width="150" data-layout="button_count" data-show-faces="false" data-send="false"></div>&nbsp;</div>
+<div class="social"><a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>&nbsp;</div>
+</div>
+<div class="v3">
+</div>
+<table class="sortable autostripe st reg" id="73197">
+<thead>
+<tr>
+<th colspan="3" class = "l" style="background-color:white; padding:0px;">
+</th>
+<th class="c_sec_head rtab" colspan="6">Regular Season</th>
+<th class="c_sec_head rtab" colspan="5">Playoffs</th></tr>
+<tr class="c_sort_head">
+<th class="l">Season</th>
+<th class="l">Team</th>
+<th class="l">Lge</th>
+<th>GP</th>
+<th>G</th>
+<th>A</th>
+<th>Pts</th>
+<th>PIM</th>
+<th>+/-</th>
+<th>GP</th>
+<th>G</th>
+<th>A</th>
+<th>Pts</th>
+<th>PIM</th></tr>
+</thead>
+<tbody>
+<tr class="MAJJUN-1"><td class="pds l">2003-04</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0010242004.html">Halifax Mooseheads</a></td>
+<td class="pdl l">QMJHL</td>
+<td class="pdgp">69</td>
+<td>16</td>
+<td>15</td>
+<td>31</td>
+<td>45</td>
+<td>-26</td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+</tr>
+<tr class="MAJJUN-1"><td class="pds l">2004-05</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0010242005.html">Halifax Mooseheads</a></td>
+<td class="pdl l">QMJHL</td>
+<td class="pdgp">63</td>
+<td>17</td>
+<td>17</td>
+<td>34</td>
+<td>58</td>
+<td>10</td>
+<td>13</td>
+<td>3</td>
+<td>5</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2005-06</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0069252006.html">Pensacola Ice Pilots</a></td>
+<td class="pdl l">ECHL</td>
+<td class="pdgp">49</td>
+<td>11</td>
+<td>8</td>
+<td>19</td>
+<td>24</td>
+<td>-9</td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2006-07</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0018272007.html">Trinec Ocelari HC</a></td>
+<td class="pdl l">Czech</td>
+<td class="pdgp">31</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+<td>12</td>
+<td>-3</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2007-08</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0018272008.html">Trinec Ocelari HC</a></td>
+<td class="pdl l">Czech</td>
+<td class="pdgp">44</td>
+<td>0</td>
+<td>3</td>
+<td>3</td>
+<td>36</td>
+<td>-3</td>
+<td>7</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2008-09</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0018272009.html">Trinec Ocelari HC</a></td>
+<td class="pdl l">Czech</td>
+<td class="pdgp">10</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>-1</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+</tbody>
+<tfoot>
+</tfoot>
+</table>
+<p class="desktop"><a href="" onclick="window.open('embed.php?pid=73197','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jan Steber stats!</a>
+ | <a href="viewastext.php?1479d8d4=ddfe47e2&amp;pid=73197" rel="nofollow">View as text</a></p>
+   <div id="bottom_leaderboard">
+   <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
+   </div></div>
+
+<div class="tablebg desktop st">
+</div>
+</div>
+<div class="sponsor" id="300_160_300" >
+<div id='right_rectangle'>
+<script async type="text/javascript" src="/proxy/ad_proxy_300_160_300.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('right_rectangle'); });
+</script>
+</div>
+</div>
+<div id="related" class="tablebg">
+<h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
+<h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Similar Players</h4>
+<div style="margin-bottom:10px">Not the Jan Steber you're looking for? We have two other players with similar names.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=114693">Jean St. Pierre</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (QJAHL) [1964-1965]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=22515">John St. Pierre</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (ECHL, H-East, ECAC-E) [1993-2005]</div>
+<h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
+<div style="margin-bottom:10px">Jan Steber played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/197.html">Quebec Major Junior Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/66.html">Czech Republic League</a></div>
+<h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
+<div style="margin-bottom:10px">If you would like to know more about any of the three teams that Jan Steber played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/halifax-mooseheads-5976.html">Halifax Mooseheads</a></div>
+<div class="ti"><a href="/stte/pensacola-ice-pilots-7390.html">Pensacola Ice Pilots</a></div>
+<div class="ti"><a href="/stte/trinec-ocelari-hc-8545.html">Trinec Ocelari HC</a></div>
+</div>
+<script type="text/javascript">
+if (screen.width >= 1270) {
+  document.write('</div>');}
+</script>
+<script>
+$("#mt").on("swipe",function(){
+  $('.multitable').each(function(i, el) {
+    $(el).css("width","765px");
+  })
+  $('.expand').each(function(i, el) {
+    $(el).css("display","none");
+  })
+  $("#mt").off()
+;})
+</script>
+<script>
+if (document.documentElement.clientWidth <= 760) {
+  $('.vd').each(function(i, el) {
+    $(el).insertAfter($('.v2').eq(i));
+    $(el).css("display","block");
+  })
+  $('.v1-5').each(function(i, el) {
+    $(el).insertAfter($('.v2').eq(i));
+  })
+};
+</script>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2019 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='//storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>

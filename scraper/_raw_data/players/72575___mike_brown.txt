@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Mike Brown [ca.2002-2015] Hockey Stats and Profile at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="Statistics of Mike Brown, a hockey player from Baldwinsville, NY born Mar 4 1985 who was active from 2002 to 2015." />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
+
+<script src="/js/all.js"></script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
+</script>
+
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>window.googletag = window.googletag || {cmd: []};</script>
+<script async='async' src='https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js'></script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    var mapping1 = googletag.sizeMapping()
+      .addSize([1080, 0], [300, 250])
+      .addSize([760, 0], [160, 600])
+      .addSize([336, 0], [[336, 280], [300, 250]])
+      .addSize([0, 0], [])
+        .build();
+    var bottomAd = googletag.sizeMapping()
+      .addSize([781, 0], [728, 90])
+      .addSize([481, 0], [468, 60])
+      .addSize([0, 0], [])
+      .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [[728, 90], [320, 50]], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .setTargeting('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_300x250_1', [[336, 280], [160, 600], [300, 250]], 'right_rectangle')
+   	.defineSizeMapping(mapping1)
+   	.setTargeting('sizeMap', mapping1)
+    .addService(googletag.pubads());
+
+	if (window.innerWidth > 480) {
+    googletag.defineSlot('/170737076/hockeydb', [[728, 90], [468, 60]], 'bottom_leaderboard')
+      .defineSizeMapping(bottomAd)
+      .setTargeting('sizeMap', bottomAd)
+      .addService(googletag.pubads());
+ } else {
+    googletag.pubads().setCentering(true);
+ }
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+
+if (window.innerWidth > 480) {
+	googletag.cmd.push(function() { googletag.display('bottom_leaderboard'); });
+}
+</script>
+<link rel="canonical" href="http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=72575" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="/js/jquery.mobile.custom.min.js"></script>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script async type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=172068129524955";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">
+<!--
+function ImageCollection(images) {
+  this.images = images;
+  this.i = 0;
+  this.next = function(img) {
+    this.i++;
+    if (this.i == images.length)
+    this.i = 0;
+    img.src = images[this.i];
+  }
+}
+var ic72575 = new ImageCollection(['/ihdb/photos/mike-brown-2008-32.jpg']);
+//-->
+</script>
+<script type="text/javascript">
+  <!-- // 
+function sc(ct,pid) {
+script = document.createElement('script');
+script.id = 'script' + pid;
+script.src = '/ihdb/stats/switch_content.php?sc=' + ct + '&pid=' + pid;
+document.getElementsByTagName('head')[0].appendChild(script);
+}
+ //  -->
+</script>
+<script type="text/javascript">
+if (screen.width >= 1270) {
+  document.write('<div class="unified">');}
+</script>
+<div id="mt" class="multitable">
+<div class="tablebg st ">
+<div itemscope itemtype="http://schema.org/Person" class="vw">
+<div class="v1">
+<h1 itemprop="name" class="title">Mike Brown</h1>
+<div class="v1-1">
+Goalie -- shoots L<br />
+<span class="bdate">Born Mar 4 1985 -- </span><span class="hometown" itemprop="homeLocation">Baldwinsville, NY</span> <br />[34 yrs. ago] <br />Height 6.02 -- Weight 230<span class="vitals_metric"> [188 cm/104 kg]</span><br />
+</div>
+</div>
+<div class="vd">
+Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>- 
+ round 5 <a href="/ihdb/draft/draft_by_pick.php?position=153"> #153</a> overall <a href="/ihdb/draft/nhl2003e.html"> 2003 NHL Entry Draft</a></div><br /></div>
+</div>
+<div class="v1-5">
+&nbsp;
+<a href="/ihdb/cards/carddisplay.php?pid=72575" class="button sprite">&nbsp;</a> 
+</div>
+<div class="v2">
+<img itemprop="image" alt="Mike Brown hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic72575.next(this)" src="/ihdb/photos/mike-brown-2008-32.jpg" />
+&nbsp;
+</div>
+<div class="vtr" style="clear:left" id="content72575">
+</div>
+<div class="social_container">
+<div class="social"><div class="fb-like" data-href="http://www.hockeydb.com/ihdb/stats/pdisplay.php?filter=Y&amp;pid=72575" data-width="150" data-layout="button_count" data-show-faces="false" data-send="false"></div>&nbsp;</div>
+<div class="social"><a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>&nbsp;</div>
+</div>
+<div class="v3">
+</div>
+<table class="sortable autostripe st ti">
+<thead>
+<tr>
+<th class="norow l" colspan="3" style="background-color:white;">
+</th>
+<th class="rtab c_sec_head" colspan="3">RS Scoring</th>
+<th class="rtab c_sec_head" colspan="10">RS Goalie Stats</th>
+<th class="rtab c_sec_head" colspan="3">PO Scoring</th></tr>
+<tr class="c_sort_head">
+<th class="l">Season</th>
+<th class="l">Team</th>
+<th class="l">Lge</th>
+<th>GP</th>
+<th>A</th>
+<th>PIM</th>
+<th>Min</th>
+<th>GA</th>
+<th>EN</th>
+<th>SO</th>
+<th>GAA</th>
+<th>W</th>
+<th>L</th>
+<th>T</th>
+<th>Svs</th>
+<th class="l">Pct</th>
+<th>GP</th>
+<th>A</th>
+<th>PIM</th>
+</tr>
+</thead>
+<tbody>
+<tr class="MAJJUN-1"><td class="pds l">2002-03</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0030122003.html">Saginaw Spirit</a></td>
+<td class="pdl l">OHL</td>
+<td>39</td>
+<td>0</td>
+<td>13</td>
+<td>2186</td>
+<td>134</td>
+<td>0</td>
+<td>0</td>
+<td>3.68</td>
+<td>8</td>
+<td>23</td>
+<td>3</td>
+<td>1096</td>
+<td>0.891</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MAJJUN-1"><td class="pds l">2003-04</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0030122004.html">Saginaw Spirit</a></td>
+<td class="pdl l">OHL</td>
+<td>51</td>
+<td>2</td>
+<td>20</td>
+<td>2886</td>
+<td>156</td>
+<td>0</td>
+<td>4</td>
+<td>3.24</td>
+<td>14</td>
+<td>32</td>
+<td>3</td>
+<td>1457</td>
+<td>0.903</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MAJJUN-1"><td class="pds l">2004-05</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0030122005.html">Saginaw Spirit</a></td>
+<td class="pdl l">OHL</td>
+<td>26</td>
+<td>0</td>
+<td>0</td>
+<td>1482</td>
+<td>91</td>
+<td>0</td>
+<td>0</td>
+<td>3.68</td>
+<td>7</td>
+<td>15</td>
+<td>3</td>
+<td>832</td>
+<td>0.901</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MAJJUN-1"><td class="pds l">2004-05</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0025502005.html">Owen Sound Attack</a></td>
+<td class="pdl l">OHL</td>
+<td>33</td>
+<td>0</td>
+<td>0</td>
+<td>1956</td>
+<td>81</td>
+<td>0</td>
+<td>3</td>
+<td>2.49</td>
+<td>17</td>
+<td>9</td>
+<td>6</td>
+<td>845</td>
+<td>0.913</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-1"><td class="pds l">2005-06</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000312006.html">Providence Bruins</a></td>
+<td class="pdl l">AHL</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>42</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>2.87</td>
+<td></td>
+<td></td>
+<td></td>
+<td>13</td>
+<td>0.867</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2005-06</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0069192006.html">Dayton Bombers</a></td>
+<td class="pdl l">ECHL</td>
+<td>18</td>
+<td>0</td>
+<td>0</td>
+<td>1050</td>
+<td>64</td>
+<td>1</td>
+<td>0</td>
+<td>3.66</td>
+<td>4</td>
+<td>12</td>
+<td>2</td>
+<td>549</td>
+<td>0.896</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2005-06</td>
+<td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0069282006.html">South Carolina Stingrays</a></td>
+<td class="pdl l">ECHL</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>188</td>
+<td>15</td>
+<td>0</td>
+<td>0</td>
+<td>4.79</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>88</td>
+<td>0.854</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2006-07</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0032572007.html">Long Beach Ice Dogs</a></td>
+<td class="pdl l">ECHL</td>
+<td>43</td>
+<td>3</td>
+<td>6</td>
+<td>2283</td>
+<td>124</td>
+<td>5</td>
+<td>1</td>
+<td>3.26</td>
+<td>15</td>
+<td>21</td>
+<td>2</td>
+<td>1117</td>
+<td>0.900</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-1"><td class="pds l">2006-07</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000312007.html">Providence Bruins</a></td>
+<td class="pdl l">AHL</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>20</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>11</td>
+<td>1.000</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2007-08</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0069222008.html">Johnstown Chiefs</a></td>
+<td class="pdl l">ECHL</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td>336</td>
+<td>23</td>
+<td>1</td>
+<td>0</td>
+<td>4.11</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+<td>144</td>
+<td>0.862</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-1"><td class="pds l">2007-08</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000312008.html">Providence Bruins</a></td>
+<td class="pdl l">AHL</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>460</td>
+<td>22</td>
+<td>0</td>
+<td>0</td>
+<td>2.87</td>
+<td>6</td>
+<td>2</td>
+<td>0</td>
+<td>179</td>
+<td>0.891</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2007-08</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0032592008.html">Alaska Aces</a></td>
+<td class="pdl l">ECHL</td>
+<td>15</td>
+<td>0</td>
+<td>0</td>
+<td>796</td>
+<td>33</td>
+<td>2</td>
+<td>0</td>
+<td>2.49</td>
+<td>9</td>
+<td>4</td>
+<td>0</td>
+<td>387</td>
+<td>0.921</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2008-09</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0069192009.html">Dayton Bombers</a></td>
+<td class="pdl l">ECHL</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>61</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>3.91</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>17</td>
+<td>0.810</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="ENONEL-1"><td class="pds l">2008-09</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0032972009.html">Schwenningen ERC</a></td>
+<td class="pdl l">2.GBun</td>
+<td>28</td>
+<td>1</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2009-10</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0029992010.html">Amarillo Gorillas</a></td>
+<td class="pdl l">CHL</td>
+<td>41</td>
+<td>2</td>
+<td>10</td>
+<td>2325</td>
+<td>134</td>
+<td>0</td>
+<td>3</td>
+<td>3.46</td>
+<td>13</td>
+<td>21</td>
+<td>6</td>
+<td>1268</td>
+<td>0.904</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-3"><td class="pds l">2010-11</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0054422011.html">Mississippi Surge</a></td>
+<td class="pdl l">SPHL</td>
+<td>7</td>
+<td>0</td>
+<td>17</td>
+<td>377</td>
+<td>18</td>
+<td>0</td>
+<td>1</td>
+<td>2.86</td>
+<td>5</td>
+<td>2</td>
+<td>0</td>
+<td>148</td>
+<td>0.892</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2010-11</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047322011.html">Trenton Devils</a></td>
+<td class="pdl l">ECHL</td>
+<td>6</td>
+<td>0</td>
+<td>2</td>
+<td>323</td>
+<td>22</td>
+<td>1</td>
+<td>0</td>
+<td>4.09</td>
+<td>3</td>
+<td>3</td>
+<td>0</td>
+<td>171</td>
+<td>0.886</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2010-11</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0069312011.html">Wheeling Nailers</a></td>
+<td class="pdl l">ECHL</td>
+<td>3</td>
+<td>1</td>
+<td>0</td>
+<td>185</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td>3.89</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>87</td>
+<td>0.879</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2010-11</td>
+<td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0032502011.html">Rio Grande Valley Killer Bees</a></td>
+<td class="pdl l">CHL</td>
+<td>3</td>
+<td>0</td>
+<td>2</td>
+<td>174</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td>3.44</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>65</td>
+<td>0.867</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-3"><td class="pds l">2010-11</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0054412011.html">Louisiana IceGators</a></td>
+<td class="pdl l">SPHL</td>
+<td>13</td>
+<td>1</td>
+<td>2</td>
+<td>783</td>
+<td>38</td>
+<td>0</td>
+<td>1</td>
+<td>2.91</td>
+<td>7</td>
+<td>6</td>
+<td>0</td>
+<td>504</td>
+<td>0.930</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-3"><td class="pds l">2011-12</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0054412012.html">Louisiana IceGators</a></td>
+<td class="pdl l">SPHL</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td>595</td>
+<td>37</td>
+<td>0</td>
+<td>1</td>
+<td>3.73</td>
+<td>4</td>
+<td>5</td>
+<td>1</td>
+<td>270</td>
+<td>0.879</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-3"><td class="pds l">2011-12</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0036002012.html">Fayetteville FireAntz</a></td>
+<td class="pdl l">SPHL</td>
+<td>40</td>
+<td>1</td>
+<td>44</td>
+<td>2239</td>
+<td>145</td>
+<td>0</td>
+<td>0</td>
+<td>3.88</td>
+<td>14</td>
+<td>20</td>
+<td>4</td>
+<td>1297</td>
+<td>0.899</td>
+<td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-3"><td class="pds l">2012-13</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0062042013.html">Danbury Whalers</a></td>
+<td class="pdl l">FHL</td>
+<td>40</td>
+<td>1</td>
+<td>47</td>
+<td>2168</td>
+<td>126</td>
+<td>0</td>
+<td>0</td>
+<td>3.49</td>
+<td>22</td>
+<td>11</td>
+<td>4</td>
+<td>1220</td>
+<td>0.906</td>
+<td>6</td>
+<td>0</td>
+<td>4</td>
+</tr>
+<tr class="MINPRO-3"><td class="pds l">2013-14</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0062042014.html">Danbury Whalers</a></td>
+<td class="pdl l">FHL</td>
+<td>42</td>
+<td>6</td>
+<td>28</td>
+<td>2407</td>
+<td>102</td>
+<td>0</td>
+<td>2</td>
+<td>2.54</td>
+<td>29</td>
+<td>5</td>
+<td>6</td>
+<td>1339</td>
+<td>0.929</td>
+<td>4</td>
+<td>0</td>
+<td>14</td>
+</tr>
+<tr class="MINPRO-3"><td class="pds l">2014-15</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0062042015.html">Danbury Whalers</a></td>
+<td class="pdl l">FHL</td>
+<td>43</td>
+<td>4</td>
+<td>12</td>
+<td>2458</td>
+<td>124</td>
+<td>0</td>
+<td>2</td>
+<td>3.03</td>
+<td>21</td>
+<td>17</td>
+<td>4</td>
+<td>1398</td>
+<td>0.919</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+</tbody>
+<tfoot>
+</tfoot>
+</table>
+<p class="desktop"><a href="" onclick="window.open('embed.php?pid=72575','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Mike Brown stats!</a>
+ | <a href="viewastext.php?d5550758=4cd03645&amp;pid=72575" rel="nofollow">View as text</a></p>
+   <div id="bottom_leaderboard">
+   <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
+   </div></div>
+
+<div class="tablebg desktop st">
+</div>
+</div>
+<div class="sponsor" id="300_160_300" >
+<div id='right_rectangle'>
+<script async type="text/javascript" src="/proxy/ad_proxy_300_160_300.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('right_rectangle'); });
+</script>
+</div>
+</div>
+<div id="related" class="tablebg">
+<h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
+<h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Similar Players</h4>
+<div style="margin-bottom:10px">Not the Mike Brown you're looking for? We have 20 other players with similar names.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=8184">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1957) (EHL, IHL, CCHA) [1975-1986]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=14804">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (USHL, NOJHL) [1966-1976]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=26839">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1979) (NHL, AHL, IHL) [1994-2006]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=63171">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1981) (ECHL, CCHA, AJHL) [1999-2006]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=74067">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1964) (OPJHL, OJHL, MJBHL) [1980-1985]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=78351">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1985) (NHL, AHL, CCHA) [2001-2017]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=100015">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1990) (WHL, ACAC, CWUAA) [2006-2014]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=117611">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (CWHL, PSHL) [1976-1980]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=125534">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (OJHL) [2009-2010]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=126132">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (MetJHL, BCJHL) [1993-1995]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=147626">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1949) (NOJHL) [1965-1966]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=178470">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (OUAA) [1973-1974]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=192449">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (MJBHL) [1971-1973]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=210993">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"></div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=214271">Mike Brown</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (NCAA) [1949-1950]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=147087">Mike Baran</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1989) (ECHL, SPHL, NESCAC) [2007-2014]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=105058">Mike Baron</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1987) (OPJHL) [2006-2007]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=212876">Mike Baroni</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (CAHL) [1962-1963]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=33861">Mike Barren</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1976) (CCHA, BCJHL, BCHL) [1994-2000]</div>
+<div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=9735">Mike Barron</a></div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1964) (IHL, BHL, ECAC) [1983-1987]</div>
+<h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
+<div style="margin-bottom:10px">Mike Brown played in seven leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/167.html">Ontario Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/96.html">DEL-2 (Germany)</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/53.html">Central Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/232.html">Southern Professional Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/350.html">Federal Hockey League</a></div>
+<h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
+<div style="margin-bottom:10px">If you would like to know more about any of the 17 teams that Mike Brown played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/saginaw-spirit-7811.html">Saginaw Spirit</a></div>
+<div class="ti"><a href="/stte/owen-sound-attack-7333.html">Owen Sound Attack</a></div>
+<div class="ti"><a href="/stte/providence-bruins-7560.html">Providence Bruins</a></div>
+<div class="ti"><a href="/stte/dayton-bombers-5425.html">Dayton Bombers</a></div>
+<div class="ti"><a href="/stte/south-carolina-stingrays-8084.html">South Carolina Stingrays</a></div>
+<div class="ti"><a href="/stte/long-beach-ice-dogs-6637.html">Long Beach Ice Dogs</a></div>
+<div class="ti"><a href="/stte/johnstown-chiefs-6248.html">Johnstown Chiefs</a></div>
+<div class="ti"><a href="/stte/alaska-aces-4598.html">Alaska Aces</a></div>
+<div class="ti"><a href="/stte/schwenningen-erc-7945.html">Schwenningen ERC</a></div>
+<div class="ti"><a href="/stte/amarillo-gorillas-4621.html">Amarillo Gorillas</a></div>
+<div class="ti"><a href="/stte/mississippi-surge-9733.html">Mississippi Surge</a></div>
+<div class="ti"><a href="/stte/trenton-devils-8537.html">Trenton Devils</a></div>
+<div class="ti"><a href="/stte/wheeling-nailers-8950.html">Wheeling Nailers</a></div>
+<div class="ti"><a href="/stte/rio-grande-valley-killer-bees-7712.html">Rio Grande Valley Killer Bees</a></div>
+<div class="ti"><a href="/stte/louisiana-icegators-9732.html">Louisiana IceGators</a></div>
+<div class="ti"><a href="/stte/fayetteville-fireantz-5725.html">Fayetteville FireAntz</a></div>
+<div class="ti"><a href="/stte/danbury-whalers-10499.html">Danbury Whalers</a></div>
+</div>
+<script type="text/javascript">
+if (screen.width >= 1270) {
+  document.write('</div>');}
+</script>
+<script>
+$("#mt").on("swipe",function(){
+  $('.multitable').each(function(i, el) {
+    $(el).css("width","765px");
+  })
+  $('.expand').each(function(i, el) {
+    $(el).css("display","none");
+  })
+  $("#mt").off()
+;})
+</script>
+<script>
+if (document.documentElement.clientWidth <= 760) {
+  $('.vd').each(function(i, el) {
+    $(el).insertAfter($('.v2').eq(i));
+    $(el).css("display","block");
+  })
+  $('.v1-5').each(function(i, el) {
+    $(el).insertAfter($('.v2').eq(i));
+  })
+};
+</script>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2019 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='//storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>
