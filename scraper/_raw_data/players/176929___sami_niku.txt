@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Sami Niku Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Sami Niku, a hockey player from Haapavesi, Finland born Oct 10 1996 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Sami Niku, a hockey player from Haapavesi, Finland born Oct 10 1996 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic176929 = new ImageCollection(['/ihdb/photos/sami-niku-2019-6378.jpg','/ihdb/photos/sami-niku-2018-6378.jpg']);
+var ic176929 = new ImageCollection(['/ihdb/photos/sami-niku-2020-6378.jpg','/ihdb/photos/sami-niku-2019-6378.jpg','/ihdb/photos/sami-niku-2018-6378.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Sami Niku</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Oct 10 1996 -- </span><span class="hometown" itemprop="homeLocation">Haapavesi, Finland</span> <br />[22 yrs. ago] <br />Height 6.01 -- Weight 176<span class="vitals_metric"> [185 cm/80 kg]</span><br />
+<span class="bdate">Born Oct 10 1996 -- </span><span class="hometown" itemprop="homeLocation">Haapavesi, Finland</span> <br />[23 yrs. ago] <br />Height 6.00 -- Weight 194<span class="vitals_metric"> [183 cm/88 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=176929" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Sami Niku hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic176929.next(this)" src="/ihdb/photos/sami-niku-2019-6378.jpg" />
+<img itemprop="image" alt="Sami Niku hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic176929.next(this)" src="/ihdb/photos/sami-niku-2020-6378.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content176929">
@@ -244,7 +244,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>1</td>
 <td>6</td>
 <td>1</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0012342016.html">JyP HT Jyvaskyla</a></td>
@@ -255,7 +255,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>11</td>
 <td>2</td>
 <td>2</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="ENONEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0074552016.html">JYP-Akatemia</a></td>
@@ -306,7 +306,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>0</td>
 <td>1</td>
 <td>0</td>
-<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073892019.html">Manitoba Moose</a></td>
@@ -329,12 +329,32 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>2</td>
 <td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0063782020.html">Winnipeg Jets*</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073892020.html">Manitoba Moose</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">3</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+<td>0</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>31</td>
+<td>32</td>
 <td>2</td>
 <td>3</td>
 <td>5</td>
@@ -345,7 +365,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=176929','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Sami Niku stats!</a>
- | <a href="viewastext.php?5b04877e=fc5f7f70&amp;pid=176929" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?55bf902d=d41e5043&amp;pid=176929" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -388,7 +408,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 </div>
 
 <div class="tablebg desktop st">
-</div>
+<div>* No longer on active roster.</div> </div>
 </div>
 <div class="sponsor" id="300_160_300" >
 <div id='right_rectangle'>
@@ -400,7 +420,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6559">Cap Hit of $775,000 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6559">Cap Hit of $775,000 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6559"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Jean-Christophe Beaudin Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Jean-Christophe Beaudin, a hockey player from St. Bruno-de-Montarv, PQ born Mar 27 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Jean-Christophe Beaudin, a hockey player from Longueuil, PQ born Mar 27 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic172210 = new ImageCollection(['/ihdb/photos/jean-christophe-beaudin-2017-690.jpg']);
+var ic172210 = new ImageCollection(['/ihdb/photos/jean-christophe-beaudin-1934-5432.jpg','/ihdb/photos/jean-christophe-beaudin-2017-690.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -165,8 +165,8 @@ if (screen.width >= 1270) {
 <div class="v1">
 <h1 itemprop="name" class="title">Jean-Christophe Beaudin</h1>
 <div class="v1-1">
-Right Wing -- shoots R<br />
-<span class="bdate">Born Mar 27 1997 -- </span><span class="hometown" itemprop="homeLocation">St. Bruno-de-Montarv, PQ</span> <br />[22 yrs. ago] <br />Height 6.02 -- Weight 187<span class="vitals_metric"> [188 cm/85 kg]</span><br />
+Center -- shoots R<br />
+<span class="bdate">Born Mar 27 1997 -- </span><span class="hometown" itemprop="homeLocation">Longueuil, PQ</span> <br />[22 yrs. ago] <br />Height 6.01 -- Weight 196<span class="vitals_metric"> [185 cm/89 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <span id="div172210"><span id="but172210" class="trades sprite" onclick="sc('deals',172210)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Jean-Christophe Beaudin hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic172210.next(this)" src="/ihdb/photos/jean-christophe-beaudin-2017-690.jpg" />
+<img itemprop="image" alt="Jean-Christophe Beaudin hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic172210.next(this)" src="/ihdb/photos/jean-christophe-beaudin-1934-5432.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content172210">
@@ -280,7 +280,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>5</td>
 <td>7</td>
 <td>10</td>
-<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0064602018.html">Colorado Eagles</a></td>
@@ -318,12 +318,22 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>2</td>
 <td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081582020.html">Belleville Senators</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=172210','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jean-Christophe Beaudin stats!</a>
- | <a href="viewastext.php?d3bc125a=597718b1&amp;pid=172210" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?b777b21c=4a35ffdc&amp;pid=172210" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -341,7 +351,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6432">Cap Hit of $765,000 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6432">Cap Hit of $765,000 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6432"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

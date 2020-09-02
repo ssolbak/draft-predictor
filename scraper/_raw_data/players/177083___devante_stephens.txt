@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic177083 = new ImageCollection(['/ihdb/photos/devante-stephens-2019-33.jpg','/ihdb/photos/devante-stephens-2018-33.jpg','/ihdb/photos/devante-stephens-2016-33.jpg']);
+var ic177083 = new ImageCollection(['/ihdb/photos/devante-stephens-2020-33.jpg','/ihdb/photos/devante-stephens-2019-33.jpg','/ihdb/photos/devante-stephens-2018-33.jpg','/ihdb/photos/devante-stephens-2016-33.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=177083" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Devante Stephens hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic177083.next(this)" src="/ihdb/photos/devante-stephens-2019-33.jpg" />
+<img itemprop="image" alt="Devante Stephens hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic177083.next(this)" src="/ihdb/photos/devante-stephens-2020-33.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content177083">
@@ -305,12 +305,18 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>2</td>
 <td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MINPRO-2"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026942020.html">Cincinnati Cyclones</a></td>
+<td class="pdl l">ECHL</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=177083','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Devante Stephens stats!</a>
- | <a href="viewastext.php?0133e9f8=dc65b4aa&amp;pid=177083" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?5a377ec1=3a1ed480&amp;pid=177083" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -328,7 +334,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6483">Cap Hit of $743,333 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6483">Cap Hit of $743,333 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6483"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

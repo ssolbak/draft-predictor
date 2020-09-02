@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Ethan Bear Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Ethan Bear, a hockey player from Regina, SASK born Jun 26 1997 who was active from 2012 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Ethan Bear, a hockey player from Regina, SASK born Jun 26 1997 who was active from 2012 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic164825 = new ImageCollection(['/ihdb/photos/ethan-bear-2019-41.jpg','/ihdb/photos/ethan-bear-2018-41.jpg','/ihdb/photos/ethan-bear-2017-41.jpg','/ihdb/photos/ethan-bear-2016-41.jpg']);
+var ic164825 = new ImageCollection(['/ihdb/photos/ethan-bear-2020-41.jpg','/ihdb/photos/ethan-bear-2019-41.jpg','/ihdb/photos/ethan-bear-2018-41.jpg','/ihdb/photos/ethan-bear-2017-41.jpg','/ihdb/photos/ethan-bear-2016-41.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Ethan Bear</h1>
 <div class="v1-1">
 Defense -- shoots R<br />
-<span class="bdate">Born Jun 26 1997 -- </span><span class="hometown" itemprop="homeLocation">Regina, SASK</span> <br />[22 yrs. ago] <br />Height 5.11 -- Weight 197<span class="vitals_metric"> [180 cm/89 kg]</span><br />
+<span class="bdate">Born Jun 26 1997 -- </span><span class="hometown" itemprop="homeLocation">Regina, SASK</span> <br />[22 yrs. ago] <br />Height 5.11 -- Weight 195<span class="vitals_metric"> [180 cm/88 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=164825" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Ethan Bear hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic164825.next(this)" src="/ihdb/photos/ethan-bear-2019-41.jpg" />
+<img itemprop="image" alt="Ethan Bear hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic164825.next(this)" src="/ihdb/photos/ethan-bear-2020-41.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content164825">
@@ -221,7 +221,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0010062014.html">Seattle Thunderbirds</a></td>
@@ -292,7 +292,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <td>18</td>
 <td>12</td>
 <td>-8</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000412018.html">Edmonton Oilers</a></td>
@@ -303,7 +303,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <td>4</td>
 <td>10</td>
 <td>-11</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073882019.html">Bakersfield Condors</a></td>
@@ -320,29 +320,46 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <td>4</td>
 <td>4</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073882020.html">Bakersfield Condors*</a></td>
+<td class="pdl l">AHL</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000412020.html">Edmonton Oilers</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">5</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>-2</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>18</td>
+<td>23</td>
 <td>1</td>
-<td>3</td>
 <td>4</td>
-<td>10</td>
+<td>5</td>
+<td>14</td>
 <td></td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=164825','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ethan Bear stats!</a>
- | <a href="viewastext.php?d4dfc63c=adcd229b&amp;pid=164825" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?7dd0827e=31c05e4f&amp;pid=164825" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
 
 <div class="tablebg desktop st">
-</div>
+<div>* No longer on active roster.</div> </div>
 </div>
 <div class="sponsor" id="300_160_300" >
 <div id='right_rectangle'>
@@ -354,7 +371,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6485">Cap Hit of $720,000 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6485">Cap Hit of $720,000 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6485"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

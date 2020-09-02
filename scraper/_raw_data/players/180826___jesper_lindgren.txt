@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Jesper Lindgren (b.1997) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Jesper Lindgren, a hockey player from Umea, Sweden born May 19 1997 who was active from 2014 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Jesper Lindgren, a hockey player from Umea, Sweden born May 19 1997 who was active from 2014 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic180826 = new ImageCollection(['/ihdb/photos/jesper-lindgren-2019-38.jpg']);
+var ic180826 = new ImageCollection(['/ihdb/photos/jesper-lindgren-2020-38.jpg','/ihdb/photos/jesper-lindgren-2019-38.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Jesper Lindgren</h1>
 <div class="v1-1">
 Defense -- shoots R<br />
-<span class="bdate">Born May 19 1997 -- </span><span class="hometown" itemprop="homeLocation">Umea, Sweden</span> <br />[22 yrs. ago] <br />Height 6.00 -- Weight 160<span class="vitals_metric"> [183 cm/73 kg]</span><br />
+<span class="bdate">Born May 19 1997 -- </span><span class="hometown" itemprop="homeLocation">Umea, Sweden</span> <br />[22 yrs. ago] <br />Height 6.01 -- Weight 176<span class="vitals_metric"> [185 cm/80 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -177,7 +177,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 &nbsp;
 </div>
 <div class="v2">
-<img itemprop="image" alt="Jesper Lindgren hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic180826.next(this)" src="/ihdb/photos/jesper-lindgren-2019-38.jpg" />
+<img itemprop="image" alt="Jesper Lindgren hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic180826.next(this)" src="/ihdb/photos/jesper-lindgren-2020-38.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content180826">
@@ -220,7 +220,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>1</td>
 <td>1</td>
 <td>0</td>
-<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070542016.html">MODO Hockey Ornskoldsvik</a></td>
@@ -231,7 +231,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>3</td>
 <td>4</td>
 <td>-8</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="ENONEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0036872016.html">Bjorkloven IF</a></td>
@@ -264,7 +264,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>8</td>
 <td>8</td>
 <td>-4</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0039912018.html">Toronto Marlies</a></td>
@@ -275,7 +275,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>1</td>
 <td>0</td>
 <td>-4</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0012652019.html">HPK Hameenlinna</a></td>
@@ -302,18 +302,22 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>2</td>
 <td>0</td>
 </tr>
-<tr class="EUROEL-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0012652020.html">HPK Hameenlinna</a></td>
-<td class="pdl l">SM-liiga</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0039912020.html">Toronto Marlies</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=180826','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jesper Lindgren stats!</a>
- | <a href="viewastext.php?e1bef228=a5c892de&amp;pid=180826" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?68b12e7a=9e285a30&amp;pid=180826" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -331,7 +335,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6456">Cap Hit of $775,833 to 2020-21 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6456">Cap Hit of $775,833 to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6456"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

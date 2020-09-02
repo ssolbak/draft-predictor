@@ -343,19 +343,19 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0029062020.html">Brno Kometa</a></td>
 <td class="pdl l">Czech</td>
-<td>5</td>
+<td>10</td>
 <td>0</td>
 <td>0</td>
-<td>306</td>
-<td>6</td>
+<td>574</td>
+<td>20</td>
 <td>0</td>
 <td>2</td>
-<td>1.18</td>
+<td>2.09</td>
+<td>7</td>
 <td>3</td>
-<td>2</td>
 <td>0</td>
-<td>161</td>
-<td>0.964</td>
+<td>305</td>
+<td>0.939</td>
 <td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -363,7 +363,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=176778','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Karel Vejmelka stats!</a>
- | <a href="viewastext.php?b20ab5ec=359b248b&amp;pid=176778" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?810dd350=b24a297d&amp;pid=176778" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

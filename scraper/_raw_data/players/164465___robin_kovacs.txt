@@ -311,12 +311,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070532020.html">Lulea HF</a></td>
 <td class="pdl l">SweHL</td>
-<td class="pdgp">5</td>
-<td>2</td>
+<td class="pdgp">10</td>
 <td>2</td>
 <td>4</td>
+<td>6</td>
+<td>0</td>
 <td>2</td>
-<td>1</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -324,7 +324,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=164465','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Robin Kovacs stats!</a>
- | <a href="viewastext.php?4af539c3=d6aa1c64&amp;pid=164465" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?07412b49=6abfbc8c&amp;pid=164465" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

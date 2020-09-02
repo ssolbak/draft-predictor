@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Thomas Chabot Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Thomas Chabot, a hockey player from Sainte-Marie, PQ born Jan 30 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Thomas Chabot, a hockey player from Sainte-Marie, PQ born Jan 30 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic169575 = new ImageCollection(['/ihdb/photos/thomas-chabot-2019-54.jpg','/ihdb/photos/thomas-chabot-2018-54.jpg','/ihdb/photos/thomas-chabot-2017-54.jpg','/ihdb/photos/thomas-chabot-2016-54.jpg']);
+var ic169575 = new ImageCollection(['/ihdb/photos/thomas-chabot-1934-5432.jpg','/ihdb/photos/thomas-chabot-2019-54.jpg','/ihdb/photos/thomas-chabot-2018-54.jpg','/ihdb/photos/thomas-chabot-2017-54.jpg','/ihdb/photos/thomas-chabot-2016-54.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Thomas Chabot</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Jan 30 1997 -- </span><span class="hometown" itemprop="homeLocation">Sainte-Marie, PQ</span> <br />[22 yrs. ago] <br />Height 6.02 -- Weight 196<span class="vitals_metric"> [188 cm/89 kg]</span><br />
+<span class="bdate">Born Jan 30 1997 -- </span><span class="hometown" itemprop="homeLocation">Sainte-Marie, PQ</span> <br />[22 yrs. ago] <br />Height 6.02 -- Weight 190<span class="vitals_metric"> [188 cm/86 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=169575" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Thomas Chabot hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic169575.next(this)" src="/ihdb/photos/thomas-chabot-2019-54.jpg" />
+<img itemprop="image" alt="Thomas Chabot hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic169575.next(this)" src="/ihdb/photos/thomas-chabot-1934-5432.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content169575">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>22</td>
 <td>36</td>
 <td>-29</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0039802015.html">Saint John Sea Dogs</a></td>
@@ -263,7 +263,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>0</td>
 <td>0</td>
 <td>-2</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0039802017.html">Saint John Sea Dogs</a></td>
@@ -289,7 +289,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>7</td>
 <td>8</td>
 <td>-10</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000542018.html">Ottawa Senators</a></td>
@@ -300,7 +300,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>25</td>
 <td>14</td>
 <td>-12</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000542019.html">Ottawa Senators</a></td>
@@ -313,15 +313,26 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>-12</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000542020.html">Ottawa Senators</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">3</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>-3</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>134</td>
+<td>137</td>
 <td>23</td>
-<td>57</td>
-<td>80</td>
+<td>58</td>
+<td>81</td>
 <td>46</td>
 <td></td>
 <td></td><td></td><td></td><td></td><td></td>
@@ -329,7 +340,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=169575','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Thomas Chabot stats!</a>
- | <a href="viewastext.php?3b5ba763=7fcc8b6f&amp;pid=169575" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?131b60cd=d4f0c128&amp;pid=169575" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -384,10 +395,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6379">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">863,333</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6379">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">863,333</span>
  to 2019-20</a>
 </div>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6379">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">8,000,000</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6379">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">8,000,000</span>
  to 2027-28 (UFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6379"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>

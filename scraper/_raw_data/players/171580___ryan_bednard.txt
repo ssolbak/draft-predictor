@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic171580 = new ImageCollection(['/ihdb/photos/ryan-bednard-2018-234.jpg']);
+var ic171580 = new ImageCollection(['/ihdb/photos/ryan-bednard-2020-234.jpg','/ihdb/photos/ryan-bednard-2018-234.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <span id="div171580"><span id="but171580" class="trades sprite" onclick="sc('deals',171580)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Ryan Bednard hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic171580.next(this)" src="/ihdb/photos/ryan-bednard-2018-234.jpg" />
+<img itemprop="image" alt="Ryan Bednard hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic171580.next(this)" src="/ihdb/photos/ryan-bednard-2020-234.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content171580">
@@ -329,12 +329,30 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>0.927</td>
 <td></td><td></td><td></td>
 </tr>
+<tr class="MINPRO-2"><td class="pds l">2019-20</td>
+<td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0074042020.html">Greenville Swamp Rabbits</a></td>
+<td class="pdl l">ECHL</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=171580','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ryan Bednard stats!</a>
- | <a href="viewastext.php?a58f8351=3ee4da41&amp;pid=171580" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?a247254d=5c52167c&amp;pid=171580" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -352,20 +370,22 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6567">Cap Hit of $817,500 to 2020-21 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6567">Cap Hit of $817,500 to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6567"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Ryan Bednard played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/149.html">North American Hockey League</a></div>
+<div style="margin-bottom:10px">Ryan Bednard played in four leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/149.html">North American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/329.html">Western Collegiate Hockey Assn. - Div. 1</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the three teams that Ryan Bednard played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/johnstown-tomahawks-11023.html">Johnstown Tomahawks</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Ryan Bednard played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/johnstown-tomahawks-11023.html">Johnstown Tomahawks</a></div>
 <div class="ti"><a href="/stte/youngstown-phantoms-9726.html">Youngstown Phantoms</a></div>
 <div class="ti"><a href="/stte/bowling-green-state-university-4937.html">Bowling Green State University</a></div>
+<div class="ti"><a href="/stte/greenville-swamp-rabbits-11631.html">Greenville Swamp Rabbits</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

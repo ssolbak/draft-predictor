@@ -275,19 +275,19 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050362020.html">Chelyabinsk Traktor</a></td>
 <td class="pdl l">KHL</td>
-<td>7</td>
+<td>9</td>
 <td>0</td>
 <td>0</td>
-<td>392</td>
-<td>11</td>
+<td>427</td>
+<td>14</td>
 <td>0</td>
 <td>0</td>
-<td>1.68</td>
+<td>1.97</td>
 <td>3</td>
-<td>4</td>
+<td>5</td>
 <td>0</td>
-<td>203</td>
-<td>0.949</td>
+<td>216</td>
+<td>0.939</td>
 <td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -295,7 +295,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=180671','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ivan Fedotov stats!</a>
- | <a href="viewastext.php?0eb843d3=7ca0e010&amp;pid=180671" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?1c4f85bc=abb43030&amp;pid=180671" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

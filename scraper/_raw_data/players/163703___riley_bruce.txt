@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Riley Bruce (b.1997) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Riley Bruce, a hockey player from Carp, ONT born Jul 16 1997 who was active from 2012 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Riley Bruce, a hockey player from Carp, ONT born Jul 16 1997 who was active from 2012 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -306,12 +306,22 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 <td>&nbsp;</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
+<tr class="COLLEG-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0028662020.html">U. of Toronto</a></td>
+<td class="pdl l">OUAA</td>
+<td class="pdgp">4</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=163703','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Riley Bruce stats!</a>
- | <a href="viewastext.php?85d8d101=0b88807d&amp;pid=163703" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?22c0c158=159adc74&amp;pid=163703" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

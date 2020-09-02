@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Jack Becker Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Jack Becker, a hockey player from Dellwood, MN born Jun 24 1997 who was active from 2014 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Jack Becker, a hockey player from Dellwood, MN born Jun 24 1997 who was active from 2014 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -267,12 +267,22 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 <td>-8</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
+<tr class="COLLEG-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070752020.html">U. of Michigan</a></td>
+<td class="pdl l">Big-10</td>
+<td class="pdgp">1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=181799','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jack Becker stats!</a>
- | <a href="viewastext.php?95f0411f=cbb939ac&amp;pid=181799" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?bf8d88e2=7241e2cc&amp;pid=181799" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -280,12 +280,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050332020.html">St. Petersburg SKA</a></td>
 <td class="pdl l">KHL</td>
-<td class="pdgp">6</td>
+<td class="pdgp">13</td>
 <td>0</td>
 <td>2</td>
 <td>2</td>
-<td>0</td>
 <td>2</td>
+<td>1</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -293,7 +293,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=182213','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Alexander Dergachyov stats!</a>
- | <a href="viewastext.php?04587b67=bc39e833&amp;pid=182213" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?4eff1830=ba9983d6&amp;pid=182213" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Jeremy Bracco Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Jeremy Bracco, a hockey player from Freeport, NY born Mar 17 1997 who was active from 2012 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Jeremy Bracco, a hockey player from Freeport, NY born Mar 17 1997 who was active from 2012 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic170273 = new ImageCollection(['/ihdb/photos/jeremy-bracco-2019-38.jpg','/ihdb/photos/jeremy-bracco-2018-38.jpg','/ihdb/photos/jeremy-bracco-2017-38.jpg']);
+var ic170273 = new ImageCollection(['/ihdb/photos/jeremy-bracco-2020-38.jpg','/ihdb/photos/jeremy-bracco-2019-38.jpg','/ihdb/photos/jeremy-bracco-2018-38.jpg','/ihdb/photos/jeremy-bracco-2017-38.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Jeremy Bracco</h1>
 <div class="v1-1">
 Right Wing -- shoots R<br />
-<span class="bdate">Born Mar 17 1997 -- </span><span class="hometown" itemprop="homeLocation">Freeport, NY</span> <br />[22 yrs. ago] <br />Height 5.11 -- Weight 171<span class="vitals_metric"> [180 cm/78 kg]</span><br />
+<span class="bdate">Born Mar 17 1997 -- </span><span class="hometown" itemprop="homeLocation">Freeport, NY</span> <br />[22 yrs. ago] <br />Height 5.11 -- Weight 185<span class="vitals_metric"> [180 cm/84 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <span id="div170273"><span id="but170273" class="trades sprite" onclick="sc('deals',170273)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Jeremy Bracco hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic170273.next(this)" src="/ihdb/photos/jeremy-bracco-2019-38.jpg" />
+<img itemprop="image" alt="Jeremy Bracco hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic170273.next(this)" src="/ihdb/photos/jeremy-bracco-2020-38.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content170273">
@@ -234,7 +234,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>37</td>
 <td>10</td>
 <td>-7</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0065622015.html">U.S. National Under-18 Team</a></td>
@@ -245,7 +245,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>32</td>
 <td>6</td>
 <td>20</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="COLLEG-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0005602016.html">Boston College</a></td>
@@ -282,7 +282,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>51</td>
 <td>4</td>
 <td>15</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008412017.html">Windsor Spitfires</a></td>
@@ -329,12 +329,22 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>16</td>
 <td>2</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0039912020.html">Toronto Marlies</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">3</td>
+<td>0</td>
+<td>4</td>
+<td>4</td>
+<td>0</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170273','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jeremy Bracco stats!</a>
- | <a href="viewastext.php?0604bc46=4f31f7f9&amp;pid=170273" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?fe0dabec=1684e053&amp;pid=170273" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -381,7 +391,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6422">Cap Hit of $842,500 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6422">Cap Hit of $842,500 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6422"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

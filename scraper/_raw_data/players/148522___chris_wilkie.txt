@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Chris Wilkie Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Chris Wilkie, a hockey player from Omaha, NE born Jul 10 1996 who was active from 2011 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Chris Wilkie, a hockey player from Omaha, NE born Jul 10 1996 who was active from 2011 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -292,12 +292,23 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>5</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
+<tr class="COLLEG-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070582020.html">Colorado College</a></td>
+<td class="pdl l">NCHC</td>
+<td class="pdgp">2</td>
+<td>3</td>
+<td>2</td>
+<td>5</td>
+<td>0</td>
+<td>3</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=148522','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Chris Wilkie stats!</a>
- | <a href="viewastext.php?c2920b2b=7f28beeb&amp;pid=148522" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?8d43aa9c=b6efb60e&amp;pid=148522" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

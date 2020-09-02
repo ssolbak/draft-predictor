@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic160644 = new ImageCollection(['/ihdb/photos/christian-wolanin-2019-54.jpg']);
+var ic160644 = new ImageCollection(['/ihdb/photos/christian-wolanin-1934-5432.jpg','/ihdb/photos/christian-wolanin-2019-54.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <span id="div160644"><span id="but160644" class="trades sprite" onclick="sc('deals',160644)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Christian Wolanin hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160644.next(this)" src="/ihdb/photos/christian-wolanin-2019-54.jpg" />
+<img itemprop="image" alt="Christian Wolanin hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160644.next(this)" src="/ihdb/photos/christian-wolanin-1934-5432.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content160644">
@@ -238,7 +238,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>5</td>
 <td>30</td>
 <td>-5</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0060522014.html">Muskegon Lumberjacks</a></td>
@@ -249,7 +249,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>21</td>
 <td>44</td>
 <td>-1</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0060522015.html">Muskegon Lumberjacks</a></td>
@@ -308,7 +308,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>3</td>
 <td>0</td>
 <td>-4</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081582019.html">Belleville Senators</a></td>
@@ -332,6 +332,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>3</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000542020.html">Ottawa Senators*</a></td>
+<td class="pdl l">NHL</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -348,13 +354,13 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160644','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Christian Wolanin stats!</a>
- | <a href="viewastext.php?66e5c7c4=f6a624f5&amp;pid=160644" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?cedd7654=a6cd5f22&amp;pid=160644" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
 
 <div class="tablebg desktop st">
-</div>
+<div>* No longer on active roster.</div> </div>
 </div>
 <div class="sponsor" id="300_160_300" >
 <div id='right_rectangle'>
@@ -366,10 +372,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6468">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">925,000</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6468">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">925,000</span>
  to 2018-19</a>
 </div>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6468">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">900,000</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6468">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">900,000</span>
  to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6468"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Jack Sadek Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Jack Sadek, a hockey player from Lakeville, MN born Apr 19 1997 who was active from 2015 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Jack Sadek, a hockey player from Lakeville, MN born Apr 19 1997 who was active from 2015 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -263,12 +263,23 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>-1</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MINPRO-2"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073142020.html">Allen Americans</a></td>
+<td class="pdl l">ECHL</td>
+<td class="pdgp">2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=182233','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jack Sadek stats!</a>
- | <a href="viewastext.php?f647eaa9=e0e1016b&amp;pid=182233" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?6880c5e1=5c19f6f4&amp;pid=182233" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

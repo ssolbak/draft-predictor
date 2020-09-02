@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Felix Sandstrom Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Felix Sandstrom, a hockey player from Gavle, Sweden born Jan 12 1997 who was active from 2014 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Felix Sandstrom, a hockey player from Gavle, Sweden born Jan 12 1997 who was active from 2014 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Felix Sandstrom</h1>
 <div class="v1-1">
 Goalie -- shoots L<br />
-<span class="bdate">Born Jan 12 1997 -- </span><span class="hometown" itemprop="homeLocation">Gavle, Sweden</span> <br />[22 yrs. ago] <br />Height 6.02 -- Weight 192<span class="vitals_metric"> [188 cm/87 kg]</span><br />
+<span class="bdate">Born Jan 12 1997 -- </span><span class="hometown" itemprop="homeLocation">Gavle, Sweden</span> <br />[22 yrs. ago] <br />Height 6.02 -- Weight 196<span class="vitals_metric"> [188 cm/89 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -296,7 +296,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <td>0</td>
 <td>180</td>
 <td>0.904</td>
-<td>-</td><td>-</td><td>-</td>
+<td></td><td></td><td></td>
 </tr>
 <tr class="ENONEL-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0035762018.html">Oskarshamn IK</a></td>
@@ -374,12 +374,48 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <td>0.930</td>
 <td>-</td><td>-</td><td>-</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073022020.html">Lehigh Valley Phantoms</a></td>
+<td class="pdl l">AHL</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><td></td><td></td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0069272020.html">Reading Royals</a></td>
+<td class="pdl l">ECHL</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>60</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td>5.00</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>26</td>
+<td>0.839</td>
+<td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=176325','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Felix Sandstrom stats!</a>
- | <a href="viewastext.php?dc75dc24=cb815605&amp;pid=176325" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?940248ca=4a058484&amp;pid=176325" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -397,21 +433,23 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6431">Cap Hit of $792,500 to 2020-21 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6431">Cap Hit of $792,500 to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6431"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Felix Sandstrom played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/239.html">Swedish Hockey League</a></div>
+<div style="margin-bottom:10px">Felix Sandstrom played in four leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/239.html">Swedish Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/238.html">Sweden 1st Division</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Felix Sandstrom played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/brynas-if-gavle-5043.html">Brynas IF Gavle</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Felix Sandstrom played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/brynas-if-gavle-5043.html">Brynas IF Gavle</a></div>
 <div class="ti"><a href="/stte/oskarshamn-ik-7308.html">Oskarshamn IK</a></div>
 <div class="ti"><a href="/stte/hv71-jonkoping-5969.html">HV71 Jonkoping</a></div>
 <div class="ti"><a href="/stte/lehigh-valley-phantoms-11538.html">Lehigh Valley Phantoms</a></div>
+<div class="ti"><a href="/stte/reading-royals-7621.html">Reading Royals</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

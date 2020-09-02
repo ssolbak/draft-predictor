@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">John Dahlstrom</h1>
 <div class="v1-1">
 Right Wing -- shoots L<br />
-<span class="bdate">Born Jan 22 1997 -- </span><span class="hometown" itemprop="homeLocation">Kungsbacka, Sweden</span> <br />[22 yrs. ago] <br />Height 6.01 -- Weight 197<span class="vitals_metric"> [185 cm/89 kg]</span><br />
+<span class="bdate">Born Jan 22 1997 -- </span><span class="hometown" itemprop="homeLocation">Kungsbacka, Sweden</span> <br />[22 yrs. ago] <br />Height 6.01 -- Weight 194<span class="vitals_metric"> [185 cm/88 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -221,7 +221,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070492016.html">Frolunda HC</a></td>
@@ -232,7 +232,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td>1</td>
 <td>0</td>
 <td>-3</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="ENONEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0072922016.html">Vita Hasten HC</a></td>
@@ -297,7 +297,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=180805','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed John Dahlstrom stats!</a>
- | <a href="viewastext.php?41c65975=a810a2a3&amp;pid=180805" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d40215a1=22ff7cab&amp;pid=180805" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

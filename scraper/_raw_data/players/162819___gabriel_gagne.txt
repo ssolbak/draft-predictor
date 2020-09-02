@@ -350,12 +350,18 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>2</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MINPRO-2"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073142020.html">Allen Americans</a></td>
+<td class="pdl l">ECHL</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=162819','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Gabriel Gagne stats!</a>
- | <a href="viewastext.php?6d8c8a9f=8e5f505c&amp;pid=162819" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?fd4e0124=db80593f&amp;pid=162819" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -373,7 +379,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6397">Cap Hit of $742,500 to 2018-19 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6397">Cap Hit of $742,500 to 2018-19 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6397"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
@@ -384,13 +390,14 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Gabriel Gagne played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/victoriaville-tigres-8827.html">Victoriaville Tigres</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the eight teams that Gabriel Gagne played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/victoriaville-tigres-8827.html">Victoriaville Tigres</a></div>
 <div class="ti"><a href="/stte/shawinigan-cataractes-7985.html">Shawinigan Cataractes</a></div>
 <div class="ti"><a href="/stte/binghamton-senators-4872.html">Binghamton Senators</a></div>
 <div class="ti"><a href="/stte/wichita-thunder-11555.html">Wichita Thunder</a></div>
 <div class="ti"><a href="/stte/belleville-senators-12221.html">Belleville Senators</a></div>
 <div class="ti"><a href="/stte/toronto-marlies-8496.html">Toronto Marlies</a></div>
 <div class="ti"><a href="/stte/newfoundland-growlers-12427.html">Newfoundland Growlers</a></div>
+<div class="ti"><a href="/stte/allen-americans-11549.html">Allen Americans</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

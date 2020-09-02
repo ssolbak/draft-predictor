@@ -272,12 +272,18 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <td>2</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
+<tr class="COLLEG-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070742020.html">Pennsylvania State U</a></td>
+<td class="pdl l">Big-10</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=172198','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Nikita Pavlychev stats!</a>
- | <a href="viewastext.php?160aea21=ebc4096b&amp;pid=172198" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?5fca8fa2=9d0bdb6c&amp;pid=172198" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

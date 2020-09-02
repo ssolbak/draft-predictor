@@ -224,12 +224,18 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>-7</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="COLLEG-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0005512020.html">Cornell University</a></td>
+<td class="pdl l">ECAC</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=182229','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed AnDong Song stats!</a>
- | <a href="viewastext.php?5dc81dea=531c6f17&amp;pid=182229" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?a903b676=a5544364&amp;pid=182229" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -242,9 +248,11 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">AnDong Song played in one league over the course of his career. Learn more about the league from its League History page.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
+<div style="margin-bottom:10px">AnDong Song played in two leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/327.html">ECAC - Div. 1</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about the one team that AnDong Song played for during his career, visit its Team History page.</div><div class="ti"><a href="/stte/madison-capitols-11537.html">Madison Capitols</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the two teams that AnDong Song played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/madison-capitols-11537.html">Madison Capitols</a></div>
+<div class="ti"><a href="/stte/cornell-university-5347.html">Cornell University</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

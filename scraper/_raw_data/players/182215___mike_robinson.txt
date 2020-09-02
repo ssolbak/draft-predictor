@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Mike Robinson (b.1997) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Mike Robinson, a hockey player from Bedford, NH born Mar 27 1997 who was active from 2014 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Mike Robinson, a hockey player from Bedford, NH born Mar 27 1997 who was active from 2014 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -325,12 +325,30 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 <td>0.915</td>
 <td></td><td></td><td></td>
 </tr>
+<tr class="COLLEG-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0004962020.html">U. of New Hampshire</a></td>
+<td class="pdl l">H-East</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>125</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td>2.88</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>46</td>
+<td>0.885</td>
+<td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=182215','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Mike Robinson stats!</a>
- | <a href="viewastext.php?56097ff0=26207769&amp;pid=182215" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?048f0ac9=420c6585&amp;pid=182215" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

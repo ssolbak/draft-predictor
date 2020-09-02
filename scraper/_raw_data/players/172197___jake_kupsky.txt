@@ -311,7 +311,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=172197','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jake Kupsky stats!</a>
- | <a href="viewastext.php?923f0d2d=bdb62845&amp;pid=172197" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?5461e81a=2549e766&amp;pid=172197" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

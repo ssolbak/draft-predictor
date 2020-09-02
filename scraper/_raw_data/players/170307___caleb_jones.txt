@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Caleb Jones Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Caleb Jones, a hockey player from Arlington, TX born Jun 6 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Caleb Jones, a hockey player from Dallas, TX born Jun 6 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic170307 = new ImageCollection(['/ihdb/photos/caleb-jones-2019-41.jpg','/ihdb/photos/caleb-jones-2018-41.jpg','/ihdb/photos/caleb-jones-2017-41.jpg','/ihdb/photos/caleb-jones-2016-41.jpg']);
+var ic170307 = new ImageCollection(['/ihdb/photos/caleb-jones-2020-41.jpg','/ihdb/photos/caleb-jones-2019-41.jpg','/ihdb/photos/caleb-jones-2018-41.jpg','/ihdb/photos/caleb-jones-2017-41.jpg','/ihdb/photos/caleb-jones-2016-41.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Caleb Jones</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Jun 6 1997 -- </span><span class="hometown" itemprop="homeLocation">Arlington, TX</span> <br />[22 yrs. ago] <br />Height 6.01 -- Weight 194<span class="vitals_metric"> [185 cm/88 kg]</span><br />
+<span class="bdate">Born Jun 6 1997 -- </span><span class="hometown" itemprop="homeLocation">Dallas, TX</span> <br />[22 yrs. ago] <br />Height 6.01 -- Weight 192<span class="vitals_metric"> [185 cm/87 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <span id="div170307"><span id="but170307" class="trades sprite" onclick="sc('deals',170307)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Caleb Jones hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic170307.next(this)" src="/ihdb/photos/caleb-jones-2019-41.jpg" />
+<img itemprop="image" alt="Caleb Jones hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic170307.next(this)" src="/ihdb/photos/caleb-jones-2020-41.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content170307">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <td>7</td>
 <td>57</td>
 <td>-14</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0065622015.html">U.S. National Under-18 Team</a></td>
@@ -233,7 +233,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <td>8</td>
 <td>28</td>
 <td>14</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0054022016.html">Portland Winterhawks</a></td>
@@ -259,7 +259,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <td>0</td>
 <td>2</td>
 <td>-2</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0054022017.html">Portland Winterhawks</a></td>
@@ -285,7 +285,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <td>17</td>
 <td>43</td>
 <td>-25</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073882019.html">Bakersfield Condors</a></td>
@@ -313,6 +313,17 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <td>-9</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073882020.html">Bakersfield Condors</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">3</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>-1</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -329,7 +340,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170307','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Caleb Jones stats!</a>
- | <a href="viewastext.php?8aba3a30=cf9e3181&amp;pid=170307" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?dcab8503=15281e49&amp;pid=170307" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -376,7 +387,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6478">Cap Hit of $720,000 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6478">Cap Hit of $720,000 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6478"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

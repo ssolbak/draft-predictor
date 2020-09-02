@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Evgeny Svechnikov Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Evgeny Svechnikov, a hockey player from Yuzhno-Sakhalinsk, Russia born Oct 31 1996 who was active from 2013 to 2018." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Evgeny Svechnikov, a hockey player from Yuzhno-Sakhalinsk, Russia born Oct 31 1996 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Evgeny Svechnikov</h1>
 <div class="v1-1">
 Right Wing -- shoots L<br />
-<span class="bdate">Born Oct 31 1996 -- </span><span class="hometown" itemprop="homeLocation">Yuzhno-Sakhalinsk, Russia</span> <br />[22 yrs. ago] <br />Height 6.03 -- Weight 212<span class="vitals_metric"> [191 cm/96 kg]</span><br />
+<span class="bdate">Born Oct 31 1996 -- </span><span class="hometown" itemprop="homeLocation">Yuzhno-Sakhalinsk, Russia</span> <br />[22 yrs. ago] <br />Height 6.03 -- Weight 208<span class="vitals_metric"> [191 cm/94 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>0</td>
 <td>0</td>
 <td>-1</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0013302015.html">Cape Breton Screaming Eagles</a></td>
@@ -286,7 +286,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000342018.html">Detroit Red Wings</a></td>
@@ -297,7 +297,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>4</td>
 <td>8</td>
 <td>-2</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026752018.html">Grand Rapids Griffins</a></td>
@@ -313,6 +313,23 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>0</td>
 <td>1</td>
 <td>4</td>
+</tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026752020.html">Grand Rapids Griffins*</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">1</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>-1</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000342020.html">Detroit Red Wings</a></td>
+<td class="pdl l">NHL</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
 <tfoot>
@@ -330,7 +347,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=173023','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Evgeny Svechnikov stats!</a>
- | <a href="viewastext.php?889f215a=c8c514ca&amp;pid=173023" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?f72aa054=cce8e72a&amp;pid=173023" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -365,7 +382,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 </div>
 
 <div class="tablebg desktop st">
-</div>
+<div>* No longer on active roster.</div> </div>
 </div>
 <div class="sponsor" id="300_160_300" >
 <div id='right_rectangle'>
@@ -377,7 +394,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6380">Cap Hit of $863,333 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6380">Cap Hit of $863,333 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6380"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>John Marino (b.1997) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of John Marino, a hockey player from North Easton, MA born May 21 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of John Marino, a hockey player from North Easton, MA born May 21 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -174,6 +174,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 </div>
 <div class="v1-5">
 &nbsp;
+<span id="div174819"><span id="but174819" class="trades sprite" onclick="sc('deals',174819)"></span></span>
 </div>
 <div class="vtr" style="clear:left" id="content174819">
 </div>
@@ -281,12 +282,34 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <td>-3</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000502020.html">Pittsburgh Penguins</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">4</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>-1</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
+<tr class="c_sec_foot">
+<td></td><td class="l">NHL Totals</td>
+<td></td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=174819','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed John Marino stats!</a>
- | <a href="viewastext.php?5e2b124f=950f0901&amp;pid=174819" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?e0066061=fbf0a38b&amp;pid=174819" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -304,7 +327,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6515">Cap Hit of $925,000 to 2020-21 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6515">Cap Hit of $925,000 to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6515"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
@@ -322,13 +345,15 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=190139">John Morin</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (ECAC-2) [1981-1982]</div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">John Marino played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/413.html">United States Premier Hockey League-Premier</a></div>
+<div style="margin-bottom:10px">John Marino played in four leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/413.html">United States Premier Hockey League-Premier</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/327.html">ECAC - Div. 1</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the three teams that John Marino played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/south-shore-kings-11410.html">South Shore Kings</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the four teams that John Marino played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/south-shore-kings-11410.html">South Shore Kings</a></div>
 <div class="ti"><a href="/stte/tri-city-storm-8542.html">Tri-City Storm</a></div>
 <div class="ti"><a href="/stte/harvard-university-6047.html">Harvard University</a></div>
+<div class="ti"><a href="/stte/pittsburgh-penguins-7475.html">Pittsburgh Penguins</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Brandon Carlo Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Brandon Carlo, a hockey player from Colorado Springs, CO born Nov 26 1996 who was active from 2012 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Brandon Carlo, a hockey player from Colorado Springs, CO born Nov 26 1996 who was active from 2012 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -317,16 +317,27 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 <td>4</td>
 <td>6</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000322020.html">Boston Bruins</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">5</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>230</td>
+<td>235</td>
 <td>8</td>
-<td>24</td>
-<td>32</td>
-<td>151</td>
+<td>25</td>
+<td>33</td>
+<td>153</td>
 <td></td>
 <td>24</td>
 <td>2</td>
@@ -337,7 +348,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=161688','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Brandon Carlo stats!</a>
- | <a href="viewastext.php?88a47a8a=1d78c4bc&amp;pid=161688" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?1018dd59=f7292b6e&amp;pid=161688" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -392,10 +403,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6398">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">789,167</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6398">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">789,167</span>
  to 2018-19</a>
 </div>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6398">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">2,850,000</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6398">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">2,850,000</span>
  to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6398"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
@@ -408,7 +419,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=135296">Brendan Carroll</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (ECAC-E) [2007-2011]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=177558">Brandon Crawley</a></div>
-<div class="in1 ti" style="margin-bottom:5px"> (b.1997) (AHL, OHL) [2014-2019]</div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1997) (AHL, ECHL, OHL) [2014-2020]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=1200">Brendan Curley</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (b.1971) (ECHL, CCHA) [1989-1995]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=152487">Brandon Kaarela</a></div>

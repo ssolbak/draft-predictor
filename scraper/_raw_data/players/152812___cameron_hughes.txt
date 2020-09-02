@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Cameron Hughes [ca.2011-2019] Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Cameron Hughes, a hockey player from Edmonton, ALTA born Oct 9 1996 who was active from 2011 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Cameron Hughes, a hockey player from Edmonton, ALTA born Oct 9 1996 who was active from 2011 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Cameron Hughes</h1>
 <div class="v1-1">
 Center -- shoots L<br />
-<span class="bdate">Born Oct 9 1996 -- </span><span class="hometown" itemprop="homeLocation">Edmonton, ALTA</span> <br />[22 yrs. ago] <br />Height 6.00 -- Weight 175<span class="vitals_metric"> [183 cm/79 kg]</span><br />
+<span class="bdate">Born Oct 9 1996 -- </span><span class="hometown" itemprop="homeLocation">Edmonton, ALTA</span> <br />[23 yrs. ago] <br />Height 5.11 -- Weight 175<span class="vitals_metric"> [180 cm/79 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 <td>1</td>
 <td>2</td>
 <td>&nbsp;</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="CANJRA-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0041262013.html">Spruce Grove Saints</a></td>
@@ -307,7 +307,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 <td>3</td>
 <td>6</td>
 <td>-1</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000312019.html">Providence Bruins</a></td>
@@ -324,12 +324,22 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 <td>0</td>
 <td>0</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000312020.html">Providence Bruins</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">4</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=152812','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Cameron Hughes stats!</a>
- | <a href="viewastext.php?9598ee66=c7da7324&amp;pid=152812" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?df9d185b=7fba0a35&amp;pid=152812" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -347,7 +357,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6526">Cap Hit of $792,500 to 2020-21 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6526">Cap Hit of $792,500 to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6526"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Guillaume Brisebois (b.1997) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Guillaume Brisebois, a hockey player from Longueuil, PQ born Jul 21 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Guillaume Brisebois, a hockey player from Longueuil, PQ born Jul 21 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic169648 = new ImageCollection(['/ihdb/photos/guillaume-brisebois-2019-39.jpg','/ihdb/photos/guillaume-brisebois-2018-39.jpg','/ihdb/photos/guillaume-brisebois-2017-39.jpg','/ihdb/photos/guillaume-brisebois-2016-39.jpg']);
+var ic169648 = new ImageCollection(['/ihdb/photos/guillaume-brisebois-2020-39.jpg','/ihdb/photos/guillaume-brisebois-2019-39.jpg','/ihdb/photos/guillaume-brisebois-2018-39.jpg','/ihdb/photos/guillaume-brisebois-2017-39.jpg','/ihdb/photos/guillaume-brisebois-2016-39.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Guillaume Brisebois</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Jul 21 1997 -- </span><span class="hometown" itemprop="homeLocation">Longueuil, PQ</span> <br />[22 yrs. ago] <br />Height 6.02 -- Weight 175<span class="vitals_metric"> [188 cm/79 kg]</span><br />
+<span class="bdate">Born Jul 21 1997 -- </span><span class="hometown" itemprop="homeLocation">Longueuil, PQ</span> <br />[22 yrs. ago] <br />Height 6.03 -- Weight 189<span class="vitals_metric"> [191 cm/86 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 <span id="div169648"><span id="but169648" class="trades sprite" onclick="sc('deals',169648)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Guillaume Brisebois hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic169648.next(this)" src="/ihdb/photos/guillaume-brisebois-2019-39.jpg" />
+<img itemprop="image" alt="Guillaume Brisebois hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic169648.next(this)" src="/ihdb/photos/guillaume-brisebois-2020-39.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content169648">
@@ -237,7 +237,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 <td>28</td>
 <td>34</td>
 <td>-40</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0016992016.html">Acadie-Bathurst Titan</a></td>
@@ -306,6 +306,17 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 <td>-4</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070412020.html">Utica Comets</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">2</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -322,7 +333,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=169648','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Guillaume Brisebois stats!</a>
- | <a href="viewastext.php?73b6aa14=ce78afb2&amp;pid=169648" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?be95e490=64daf8fa&amp;pid=169648" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -340,7 +351,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6427">Cap Hit of $697,500 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6427">Cap Hit of $697,500 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6427"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

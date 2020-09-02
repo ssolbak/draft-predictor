@@ -283,20 +283,19 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076192020.html">Jukurit Mikkeli</a></td>
 <td class="pdl l">SM-liiga</td>
-<td class="pdgp">3</td>
+<td class="pdgp">9</td>
 <td>0</td>
+<td>4</td>
+<td>4</td>
 <td>2</td>
-<td>2</td>
-<td>0</td>
-<td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=182212','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Martins Dzierkals stats!</a>
- | <a href="viewastext.php?adae028b=da4e07d3&amp;pid=182212" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?8e570dff=27023acc&amp;pid=182212" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

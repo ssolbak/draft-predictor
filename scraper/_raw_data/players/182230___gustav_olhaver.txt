@@ -270,19 +270,20 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <tr class="ENONEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0074182020.html">Tingsryds AIF</a></td>
 <td class="pdl l">Swe-1</td>
-<td class="pdgp">5</td>
-<td>1</td>
+<td class="pdgp">9</td>
 <td>1</td>
 <td>2</td>
+<td>3</td>
 <td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>-2</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=182230','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Gustav Olhaver stats!</a>
- | <a href="viewastext.php?c9e85ee4=41d071a9&amp;pid=182230" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?71dd545e=4f63e1b8&amp;pid=182230" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

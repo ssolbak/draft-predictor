@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Jacob Larsson Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Jacob Larsson, a hockey player from Ljungby, Sweden born Apr 29 1997 who was active from 2014 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Jacob Larsson, a hockey player from Ljungby, Sweden born Apr 29 1997 who was active from 2014 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Jacob Larsson</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Apr 29 1997 -- </span><span class="hometown" itemprop="homeLocation">Ljungby, Sweden</span> <br />[22 yrs. ago] <br />Height 6.02 -- Weight 197<span class="vitals_metric"> [188 cm/89 kg]</span><br />
+<span class="bdate">Born Apr 29 1997 -- </span><span class="hometown" itemprop="homeLocation">Ljungby, Sweden</span> <br />[22 yrs. ago] <br />Height 6.02 -- Weight 190<span class="vitals_metric"> [188 cm/86 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>3</td>
 <td>6</td>
 <td>4</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070492016.html">Frolunda HC</a></td>
@@ -258,7 +258,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>0</td>
 <td>2</td>
 <td>-1</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073912017.html">San Diego Gulls</a></td>
@@ -269,7 +269,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>2</td>
 <td>2</td>
 <td>-6</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070492017.html">Frolunda HC</a></td>
@@ -295,7 +295,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>16</td>
 <td>20</td>
 <td>12</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073912019.html">San Diego Gulls</a></td>
@@ -323,15 +323,26 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>-4</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0043122020.html">Anaheim Ducks</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">5</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>53</td>
+<td>58</td>
 <td>0</td>
-<td>5</td>
-<td>5</td>
+<td>6</td>
+<td>6</td>
 <td>18</td>
 <td></td>
 <td></td><td></td><td></td><td></td><td></td>
@@ -339,7 +350,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=180801','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jacob Larsson stats!</a>
- | <a href="viewastext.php?34dc7269=e254557e&amp;pid=180801" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d33634c9=3833de92&amp;pid=180801" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -394,7 +405,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6388">Cap Hit of $894,166 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6388">Cap Hit of $894,166 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6388"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

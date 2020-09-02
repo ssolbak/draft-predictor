@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Sebastian Aho (b.1997) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Sebastian Aho, a hockey player from Rauma, Finland born Jul 26 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Sebastian Aho, a hockey player from Rauma, Finland born Jul 26 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -302,16 +302,26 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td>12</td>
 <td>2</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0009792020.html">Carolina Hurricanes</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">6</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>242</td>
-<td>83</td>
+<td>248</td>
+<td>84</td>
 <td>114</td>
-<td>197</td>
-<td>76</td>
+<td>198</td>
+<td>78</td>
 <td></td>
 <td>15</td>
 <td>5</td>
@@ -322,7 +332,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=174983','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Sebastian Aho stats!</a>
- | <a href="viewastext.php?cfc2334f=033a1d0f&amp;pid=174983" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?11f2f228=befea7c3&amp;pid=174983" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -377,10 +387,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6396">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">925,000</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6396">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">925,000</span>
  to 2018-19</a>
 </div>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6396">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">8,454,000</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6396">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">8,454,000</span>
  to 2023-24 (UFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6396"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
@@ -389,7 +399,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Similar Players</h4>
 <div style="margin-bottom:10px">Not the Sebastian Aho you're looking for? We have one other player with a similar name.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=164509">Sebastian Aho</a></div>
-<div class="in1 ti" style="margin-bottom:5px"> (b.1996) (NHL, AHL, SEL) [2012-2019]</div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1996) (NHL, AHL, SEL) [2012-2020]</div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
 <div style="margin-bottom:10px">Sebastian Aho played in two leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/84.html">Finland SM-liiga</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>

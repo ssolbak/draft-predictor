@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Markus Nutivaara Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Markus Nutivaara, a hockey player from Oulu, Finland born Jun 6 1994 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Markus Nutivaara, a hockey player from Oulu, Finland born Jun 6 1994 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Markus Nutivaara</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Jun 6 1994 -- </span><span class="hometown" itemprop="homeLocation">Oulu, Finland</span> <br />[25 yrs. ago] <br />Height 6.01 -- Weight 191<span class="vitals_metric"> [185 cm/87 kg]</span><br />
+<span class="bdate">Born Jun 6 1994 -- </span><span class="hometown" itemprop="homeLocation">Oulu, Finland</span> <br />[25 yrs. ago] <br />Height 6.01 -- Weight 187<span class="vitals_metric"> [185 cm/85 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -304,7 +304,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>0</td>
 <td>0</td>
 <td>-2</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023302019.html">Columbus Blue Jackets</a></td>
@@ -321,16 +321,27 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>0</td>
 <td>0</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023302020.html">Columbus Blue Jackets</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">4</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>207</td>
-<td>14</td>
+<td>211</td>
+<td>15</td>
 <td>37</td>
-<td>51</td>
-<td>26</td>
+<td>52</td>
+<td>28</td>
 <td></td>
 <td>10</td>
 <td>1</td>
@@ -341,7 +352,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=169520','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Markus Nutivaara stats!</a>
- | <a href="viewastext.php?f62873be=01295837&amp;pid=169520" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?76a9a942=1e5b1352&amp;pid=169520" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -359,7 +370,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6550">Cap Hit of $2,700,000 to 2021-22 (UFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6550">Cap Hit of $2,700,000 to 2021-22 (UFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6550"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

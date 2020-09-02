@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Jakob Forsbacka-Karlsson</h1>
 <div class="v1-1">
 Center -- shoots R<br />
-<span class="bdate">Born Oct 31 1996 -- </span><span class="hometown" itemprop="homeLocation">Stockholm, Sweden</span> <br />[22 yrs. ago] <br />Height 6.01 -- Weight 184<span class="vitals_metric"> [185 cm/83 kg]</span><br />
+<span class="bdate">Born Oct 31 1996 -- </span><span class="hometown" itemprop="homeLocation">Stockholm, Sweden</span> <br />[22 yrs. ago] <br />Height 6.00 -- Weight 185<span class="vitals_metric"> [183 cm/84 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -238,7 +238,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 <td>53</td>
 <td>38</td>
 <td>10</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="COLLEG-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0004492016.html">Boston University</a></td>
@@ -270,7 +270,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000312018.html">Providence Bruins</a></td>
@@ -315,12 +315,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070562020.html">Vaxjo HC</a></td>
 <td class="pdl l">SweHL</td>
-<td class="pdgp">5</td>
+<td class="pdgp">10</td>
 <td>2</td>
 <td>1</td>
 <td>3</td>
 <td>2</td>
-<td>-5</td>
+<td>-8</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -339,7 +339,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170291','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jakob Forsbacka-Karlsson stats!</a>
- | <a href="viewastext.php?aa7f6aa3=9248d6ed&amp;pid=170291" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?9d8c8efe=4eed18d8&amp;pid=170291" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -386,7 +386,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6406">Cap Hit of $916,667 to 2018-19 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6406">Cap Hit of $916,667 to 2018-19 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6406"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

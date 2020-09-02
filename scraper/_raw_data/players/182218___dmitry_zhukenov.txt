@@ -259,7 +259,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=182218','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Dmitry Zhukenov stats!</a>
- | <a href="viewastext.php?70ab2418=2228eb3b&amp;pid=182218" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?30622892=da2bd0df&amp;pid=182218" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

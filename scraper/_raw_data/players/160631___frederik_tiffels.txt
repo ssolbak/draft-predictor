@@ -332,12 +332,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0011022020.html">Cologne Sharks</a></td>
 <td class="pdl l">DEL</td>
-<td class="pdgp">4</td>
+<td class="pdgp">10</td>
 <td>1</td>
-<td>1</td>
-<td>2</td>
-<td>25</td>
-<td>-1</td>
+<td>3</td>
+<td>4</td>
+<td>27</td>
+<td>-4</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -345,7 +345,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160631','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Frederik Tiffels stats!</a>
- | <a href="viewastext.php?ff9dfb19=0fce83c5&amp;pid=160631" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?350b3d02=be8de696&amp;pid=160631" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -408,7 +408,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6528">Cap Hit of $742,500 to 2018-19 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6528">Cap Hit of $742,500 to 2018-19 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6528"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

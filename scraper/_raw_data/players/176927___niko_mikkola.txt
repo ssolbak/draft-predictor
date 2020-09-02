@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Niko Mikkola (b.1996) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Niko Mikkola, a hockey player from Kiiminki, Finland born Apr 27 1996 who was active from 2014 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Niko Mikkola, a hockey player from Kiiminki, Finland born Apr 27 1996 who was active from 2014 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Niko Mikkola</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Apr 27 1996 -- </span><span class="hometown" itemprop="homeLocation">Kiiminki, Finland</span> <br />[23 yrs. ago] <br />Height 6.04 -- Weight 185<span class="vitals_metric"> [193 cm/84 kg]</span><br />
+<span class="bdate">Born Apr 27 1996 -- </span><span class="hometown" itemprop="homeLocation">Kiiminki, Finland</span> <br />[23 yrs. ago] <br />Height 6.04 -- Weight 205<span class="vitals_metric"> [193 cm/93 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -232,7 +232,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <td>1</td>
 <td>4</td>
 <td>-1</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0012252016.html">KalPa Kuopio</a></td>
@@ -290,12 +290,23 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <td>-3</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0029702020.html">San Antonio Rampage</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">4</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=176927','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Niko Mikkola stats!</a>
- | <a href="viewastext.php?20cd6e5f=28ebeba6&amp;pid=176927" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?71b98f85=70de1305&amp;pid=176927" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -342,7 +353,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6488">Cap Hit of $842,500 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6488">Cap Hit of $842,500 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6488"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
@@ -352,7 +363,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <div style="margin-bottom:10px">Not the Niko Mikkola you're looking for? We have three other players with similar names.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=41586">Niko Mikkola</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (b.1974) (SM-liiga, FinD1, Austria) [1992-2009]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=217188">Niko Mikkola</a></div>
-<div class="in1 ti" style="margin-bottom:5px"> (b.1997) (Mestis) [2018-2019]</div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1997) (Mestis) [2018-2020]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=119462">Nick MacKeil</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (MJAHL) [2006-2008]</div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>

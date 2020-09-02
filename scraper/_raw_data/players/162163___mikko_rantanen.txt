@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Mikko Rantanen Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Mikko Rantanen, a hockey player from Nousiainen, Finland born Oct 29 1996 who was active from 2012 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Mikko Rantanen, a hockey player from Nousiainen, Finland born Oct 29 1996 who was active from 2012 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -318,15 +318,26 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>14</td>
 <td>4</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0006902020.html">Colorado Avalanche</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">3</td>
+<td>3</td>
+<td>2</td>
+<td>5</td>
+<td>0</td>
+<td>1</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>239</td>
-<td>80</td>
-<td>129</td>
-<td>209</td>
+<td>242</td>
+<td>83</td>
+<td>131</td>
+<td>214</td>
 <td>112</td>
 <td></td>
 <td>18</td>
@@ -338,7 +349,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=162163','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Mikko Rantanen stats!</a>
- | <a href="viewastext.php?f9dc64f1=2bb769aa&amp;pid=162163" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?f9276e75=94134354&amp;pid=162163" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -409,7 +420,11 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6371">Cap Hit of $894,167 to 2018-19 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6371">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">894,167</span>
+ to 2018-19</a>
+</div>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6371">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">9,250,000</span>
+ to 2024-25 (UFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6371"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

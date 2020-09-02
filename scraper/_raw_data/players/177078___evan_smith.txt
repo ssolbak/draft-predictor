@@ -287,7 +287,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=177078','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Evan Smith stats!</a>
- | <a href="viewastext.php?a1dca048=7ff7a43f&amp;pid=177078" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?747a73e9=e7d47522&amp;pid=177078" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

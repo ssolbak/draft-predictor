@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic159226 = new ImageCollection(['/ihdb/photos/travis-dermott-2019-38.jpg','/ihdb/photos/travis-dermott-2018-38.jpg','/ihdb/photos/travis-dermott-2017-38.jpg','/ihdb/photos/travis-dermott-2016-38.jpg']);
+var ic159226 = new ImageCollection(['/ihdb/photos/travis-dermott-2020-38.jpg','/ihdb/photos/travis-dermott-2019-38.jpg','/ihdb/photos/travis-dermott-2018-38.jpg','/ihdb/photos/travis-dermott-2017-38.jpg','/ihdb/photos/travis-dermott-2016-38.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Travis Dermott</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Dec 22 1996 -- </span><span class="hometown" itemprop="homeLocation">Newmarket, ONT</span> <br />[22 yrs. ago] <br />Height 6.00 -- Weight 204<span class="vitals_metric"> [183 cm/93 kg]</span><br />
+<span class="bdate">Born Dec 22 1996 -- </span><span class="hometown" itemprop="homeLocation">Newmarket, ONT</span> <br />[22 yrs. ago] <br />Height 6.00 -- Weight 205<span class="vitals_metric"> [183 cm/93 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <span id="div159226"><span id="but159226" class="trades sprite" onclick="sc('deals',159226)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Travis Dermott hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic159226.next(this)" src="/ihdb/photos/travis-dermott-2019-38.jpg" />
+<img itemprop="image" alt="Travis Dermott hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic159226.next(this)" src="/ihdb/photos/travis-dermott-2020-38.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content159226">
@@ -344,6 +344,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>3</td>
 <td>2</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000382020.html">Toronto Maple Leafs*</a></td>
+<td class="pdl l">NHL</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -364,7 +370,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=159226','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Travis Dermott stats!</a>
- | <a href="viewastext.php?79918328=f809992b&amp;pid=159226" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?b0d198c1=91967065&amp;pid=159226" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -399,7 +405,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 </div>
 
 <div class="tablebg desktop st">
-</div>
+<div>* No longer on active roster.</div> </div>
 </div>
 <div class="sponsor" id="300_160_300" >
 <div id='right_rectangle'>
@@ -411,7 +417,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6395">Cap Hit of $863,333 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6395">Cap Hit of $863,333 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6395"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

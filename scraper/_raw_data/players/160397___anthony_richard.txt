@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Anthony Richard (b.1996) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Anthony Richard, a hockey player from Trois-Rivieres, PQ born Dec 20 1996 who was active from 2012 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Anthony Richard, a hockey player from Trois-Rivieres, PQ born Dec 20 1996 who was active from 2012 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Anthony Richard</h1>
 <div class="v1-1">
 Left Wing -- shoots L<br />
-<span class="bdate">Born Dec 20 1996 -- </span><span class="hometown" itemprop="homeLocation">Trois-Rivieres, PQ</span> <br />[22 yrs. ago] <br />Height 5.10 -- Weight 176<span class="vitals_metric"> [178 cm/80 kg]</span><br />
+<span class="bdate">Born Dec 20 1996 -- </span><span class="hometown" itemprop="homeLocation">Trois-Rivieres, PQ</span> <br />[22 yrs. ago] <br />Height 5.10 -- Weight 186<span class="vitals_metric"> [178 cm/84 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -307,7 +307,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>1</td>
 <td>2</td>
 <td>0</td>
-<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026122018.html">Milwaukee Admirals</a></td>
@@ -318,7 +318,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>36</td>
 <td>45</td>
 <td>2</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026122019.html">Milwaukee Admirals</a></td>
@@ -346,6 +346,16 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>-1</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026122020.html">Milwaukee Admirals</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">3</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -362,7 +372,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160397','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Anthony Richard stats!</a>
- | <a href="viewastext.php?db530633=58319ec5&amp;pid=160397" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?2fd9d002=a3dc7a46&amp;pid=160397" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -380,7 +390,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/5226">Cap Hit of $688,333 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/5226">Cap Hit of $688,333 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/5226"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Michael Spacek Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Michael Spacek, a hockey player from Marianske Lazne, Czech Rep. born Apr 9 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Michael Spacek, a hockey player from Pardubice, Czech Rep. born Apr 9 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic169687 = new ImageCollection(['/ihdb/photos/michael-spacek-2019-6378.jpg','/ihdb/photos/michael-spacek-2018-6378.jpg','/ihdb/photos/michael-spacek-2017-6378.jpg','/ihdb/photos/michael-spacek-2016-6378.jpg']);
+var ic169687 = new ImageCollection(['/ihdb/photos/michael-spacek-2020-6378.jpg','/ihdb/photos/michael-spacek-2019-6378.jpg','/ihdb/photos/michael-spacek-2018-6378.jpg','/ihdb/photos/michael-spacek-2017-6378.jpg','/ihdb/photos/michael-spacek-2016-6378.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -165,8 +165,8 @@ if (screen.width >= 1270) {
 <div class="v1">
 <h1 itemprop="name" class="title">Michael Spacek</h1>
 <div class="v1-1">
-Right Wing -- shoots R<br />
-<span class="bdate">Born Apr 9 1997 -- </span><span class="hometown" itemprop="homeLocation">Marianske Lazne, Czech Rep.</span> <br />[22 yrs. ago] <br />Height 5.11 -- Weight 187<span class="vitals_metric"> [180 cm/85 kg]</span><br />
+Center -- shoots R<br />
+<span class="bdate">Born Apr 9 1997 -- </span><span class="hometown" itemprop="homeLocation">Pardubice, Czech Rep.</span> <br />[22 yrs. ago] <br />Height 5.11 -- Weight 183<span class="vitals_metric"> [180 cm/83 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=169687" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Michael Spacek hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic169687.next(this)" src="/ihdb/photos/michael-spacek-2019-6378.jpg" />
+<img itemprop="image" alt="Michael Spacek hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic169687.next(this)" src="/ihdb/photos/michael-spacek-2020-6378.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content169687">
@@ -221,7 +221,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0020832015.html">Pardubice HC</a></td>
@@ -277,7 +277,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>1</td>
 <td>8</td>
 <td>-1</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073892018.html">Manitoba Moose</a></td>
@@ -305,12 +305,23 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>-7</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073892020.html">Manitoba Moose</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">4</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=169687','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Michael Spacek stats!</a>
- | <a href="viewastext.php?c8f1d2f2=19752a4f&amp;pid=169687" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?8885b320=6c754df0&amp;pid=169687" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -373,7 +384,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6469">Cap Hit of $750,000 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6469">Cap Hit of $750,000 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6469"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

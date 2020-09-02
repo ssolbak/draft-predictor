@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Jake Massie Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Jake Massie, a hockey player from Saint-Lazare, PQ born Jan 21 1997 who was active from 2015 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Jake Massie, a hockey player from Saint-Lazare, PQ born Jan 21 1997 who was active from 2015 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,6 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
+var ic182225 = new ImageCollection(['/ihdb/photos/jake-massie-2020-234.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -165,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Jake Massie</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Jan 21 1997 -- </span><span class="hometown" itemprop="homeLocation">Saint-Lazare, PQ</span> <br />[22 yrs. ago] <br />Height 6.01 -- Weight 177<span class="vitals_metric"> [185 cm/80 kg]</span><br />
+<span class="bdate">Born Jan 21 1997 -- </span><span class="hometown" itemprop="homeLocation">Saint-Lazare, PQ</span> <br />[22 yrs. ago] <br />Height 6.01 -- Weight 179<span class="vitals_metric"> [185 cm/81 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -175,6 +176,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <div class="v1-5">
 &nbsp;
 <span id="div182225"><span id="but182225" class="trades sprite" onclick="sc('deals',182225)"></span></span>
+</div>
+<div class="v2">
+<img itemprop="image" alt="Jake Massie hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic182225.next(this)" src="/ihdb/photos/jake-massie-2020-234.jpg" />
+&nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content182225">
 </div>
@@ -217,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td>10</td>
 <td>43</td>
 <td>-18</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="COLLEG-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0005712017.html">U. of Vermont</a></td>
@@ -252,12 +257,22 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td>-3</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076002020.html">Springfield Thunderbirds</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=182225','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jake Massie stats!</a>
- | <a href="viewastext.php?bd4faeb5=001bf48d&amp;pid=182225" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?fd290b19=cc4e3f66&amp;pid=182225" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -275,7 +290,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6517">Cap Hit of $770,000 to 2020-21 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6517">Cap Hit of $770,000 to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6517"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
@@ -287,11 +302,13 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=13408">Jack Mayes</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (IHL, NCAA) [1951-1955]</div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Jake Massie played in two leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
+<div style="margin-bottom:10px">Jake Massie played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/328.html">Hockey East - Div. 1</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the two teams that Jake Massie played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/omaha-lancers-9692.html">Omaha Lancers</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the three teams that Jake Massie played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/omaha-lancers-9692.html">Omaha Lancers</a></div>
 <div class="ti"><a href="/stte/u.-of-vermont-8670.html">U. of Vermont</a></div>
+<div class="ti"><a href="/stte/springfield-thunderbirds-11754.html">Springfield Thunderbirds</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

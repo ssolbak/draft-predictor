@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>A.J. Greer Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of A.J. Greer, a hockey player from Joliette, PQ born Dec 14 1996 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of A.J. Greer, a hockey player from Joliette, PQ born Dec 14 1996 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -223,7 +223,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>3</td>
 <td>2</td>
 <td>3</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="COLLEG-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0004492015.html">Boston University</a></td>
@@ -271,7 +271,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>38</td>
 <td>78</td>
 <td>-15</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0006902017.html">Colorado Avalanche</a></td>
@@ -282,7 +282,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>1</td>
 <td>4</td>
 <td>-2</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0006902018.html">Colorado Avalanche</a></td>
@@ -293,7 +293,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>3</td>
 <td>29</td>
 <td>2</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0029702018.html">San Antonio Rampage</a></td>
@@ -304,7 +304,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>13</td>
 <td>34</td>
 <td>-8</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0084052019.html">Colorado Eagles</a></td>
@@ -332,6 +332,17 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>-2</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0084052020.html">Colorado Eagles</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td>-4</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -348,7 +359,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=171577','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed A.J. Greer stats!</a>
- | <a href="viewastext.php?4dbaf5a2=f11fa494&amp;pid=171577" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?46ec8184=493434ed&amp;pid=171577" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><div class="title">Awards</div><table class="sortable autostripe">
@@ -382,10 +393,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6400">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">741,667</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6400">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">741,667</span>
  to 2018-19</a>
 </div>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6400">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">735,000</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6400">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">735,000</span>
  to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6400"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>

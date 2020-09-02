@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Ryan Zuhlsdorf Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Ryan Zuhlsdorf, a hockey player from Edina, MN born Jul 1 1997 who was active from 2014 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Ryan Zuhlsdorf, a hockey player from Edina, MN born Jul 1 1997 who was active from 2014 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -282,12 +282,23 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>2</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
+<tr class="COLLEG-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070722020.html">U. of Minnesota</a></td>
+<td class="pdl l">Big-10</td>
+<td class="pdgp">2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>-2</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=177836','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ryan Zuhlsdorf stats!</a>
- | <a href="viewastext.php?c987746b=d4d02cfd&amp;pid=177836" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?6c73c804=cef120ad&amp;pid=177836" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

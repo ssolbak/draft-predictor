@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Keegan Kolesar Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Keegan Kolesar, a hockey player from Winnipeg, MAN born Apr 8 1997 who was active from 2012 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Keegan Kolesar, a hockey player from Winnipeg, MAN born Apr 8 1997 who was active from 2012 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic162464 = new ImageCollection(['/ihdb/photos/keegan-kolesar-2018-7776.jpg','/ihdb/photos/keegan-kolesar-2017-2330.jpg','/ihdb/photos/keegan-kolesar-2016-2330.jpg']);
+var ic162464 = new ImageCollection(['/ihdb/photos/keegan-kolesar-2020-7776.jpg','/ihdb/photos/keegan-kolesar-2018-7776.jpg','/ihdb/photos/keegan-kolesar-2017-2330.jpg','/ihdb/photos/keegan-kolesar-2016-2330.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <span id="div162464"><span id="but162464" class="trades sprite" onclick="sc('deals',162464)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Keegan Kolesar hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic162464.next(this)" src="/ihdb/photos/keegan-kolesar-2018-7776.jpg" />
+<img itemprop="image" alt="Keegan Kolesar hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic162464.next(this)" src="/ihdb/photos/keegan-kolesar-2020-7776.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content162464">
@@ -326,12 +326,23 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>11</td>
 <td>48</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026742020.html">Chicago Wolves</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td>-3</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=162464','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Keegan Kolesar stats!</a>
- | <a href="viewastext.php?d7c26983=a5b007ca&amp;pid=162464" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?c64c5dea=1c19a0d1&amp;pid=162464" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -349,7 +360,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6430">Cap Hit of $702,500 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6430">Cap Hit of $702,500 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6430"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

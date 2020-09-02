@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Ilya Samsonov Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Ilya Samsonov, a hockey player from Magnitogorsk, Russia born Feb 22 1997 who was active from 2014 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Ilya Samsonov, a hockey player from Magnitogorsk, Russia born Feb 22 1997 who was active from 2014 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic180628 = new ImageCollection(['/ihdb/photos/ilya-samsonov-2019-49.jpg']);
+var ic180628 = new ImageCollection(['/ihdb/photos/ilya-samsonov-2020-49.jpg','/ihdb/photos/ilya-samsonov-2019-49.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Ilya Samsonov</h1>
 <div class="v1-1">
 Goalie -- shoots L<br />
-<span class="bdate">Born Feb 22 1997 -- </span><span class="hometown" itemprop="homeLocation">Magnitogorsk, Russia</span> <br />[22 yrs. ago] <br />Height 6.03 -- Weight 200<span class="vitals_metric"> [191 cm/91 kg]</span><br />
+<span class="bdate">Born Feb 22 1997 -- </span><span class="hometown" itemprop="homeLocation">Magnitogorsk, Russia</span> <br />[22 yrs. ago] <br />Height 6.03 -- Weight 208<span class="vitals_metric"> [191 cm/94 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -177,7 +177,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 &nbsp;
 </div>
 <div class="v2">
-<img itemprop="image" alt="Ilya Samsonov hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic180628.next(this)" src="/ihdb/photos/ilya-samsonov-2019-49.jpg" />
+<img itemprop="image" alt="Ilya Samsonov hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic180628.next(this)" src="/ihdb/photos/ilya-samsonov-2020-49.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content180628">
@@ -235,7 +235,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td></td>
 <td>2</td>
 <td>0.500</td>
-<td>-</td><td>-</td><td>-</td>
+<td></td><td></td><td></td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050272016.html">Magnitogorsk Metallurg</a></td>
@@ -317,12 +317,50 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>0</td>
 <td>0</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000492020.html">Washington Capitals</a></td>
+<td class="pdl l">NHL</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>60</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1.00</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>25</td>
+<td>0.962</td>
+<td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
+<tr class="c_sec_foot">
+<td></td><td class="l">NHL Totals</td>
+<td></td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+<td>1.00</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>0.962</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=180628','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ilya Samsonov stats!</a>
- | <a href="viewastext.php?ef0fc331=efdfef94&amp;pid=180628" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?01a00e13=8758bf48&amp;pid=180628" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -340,18 +378,20 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6383">Cap Hit of $925,000 to 2020-21 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6383">Cap Hit of $925,000 to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6383"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Ilya Samsonov played in two leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/280.html">Kontinental Hockey League</a></div>
+<div style="margin-bottom:10px">Ilya Samsonov played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/280.html">Kontinental Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the two teams that Ilya Samsonov played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/magnitogorsk-metallurg-9298.html">Magnitogorsk Metallurg</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the three teams that Ilya Samsonov played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/magnitogorsk-metallurg-9298.html">Magnitogorsk Metallurg</a></div>
 <div class="ti"><a href="/stte/hershey-bears-6092.html">Hershey Bears</a></div>
+<div class="ti"><a href="/stte/washington-capitals-8871.html">Washington Capitals</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

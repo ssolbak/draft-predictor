@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Jonas Siegenthaler Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Jonas Siegenthaler, a hockey player from Zurich, Switzerland born May 6 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Jonas Siegenthaler, a hockey player from Zurich, Switzerland born May 6 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic175024 = new ImageCollection(['/ihdb/photos/jonas-siegenthaler-2019-49.jpg']);
+var ic175024 = new ImageCollection(['/ihdb/photos/jonas-siegenthaler-2020-49.jpg','/ihdb/photos/jonas-siegenthaler-2019-49.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Jonas Siegenthaler</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born May 6 1997 -- </span><span class="hometown" itemprop="homeLocation">Zurich, Switzerland</span> <br />[22 yrs. ago] <br />Height 6.03 -- Weight 206<span class="vitals_metric"> [191 cm/93 kg]</span><br />
+<span class="bdate">Born May 6 1997 -- </span><span class="hometown" itemprop="homeLocation">Zurich, Switzerland</span> <br />[22 yrs. ago] <br />Height 6.03 -- Weight 210<span class="vitals_metric"> [191 cm/95 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <span id="div175024"><span id="but175024" class="trades sprite" onclick="sc('deals',175024)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Jonas Siegenthaler hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic175024.next(this)" src="/ihdb/photos/jonas-siegenthaler-2019-49.jpg" />
+<img itemprop="image" alt="Jonas Siegenthaler hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic175024.next(this)" src="/ihdb/photos/jonas-siegenthaler-2020-49.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content175024">
@@ -233,7 +233,18 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>0</td>
 <td>2</td>
 <td>3</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr class="ENONEL-1"><td class="pds l">2014-15</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0028102015.html">GCK Lions</a></td>
+<td class="pdl l">Swiss-B</td>
+<td class="pdgp">10</td>
+<td>1</td>
+<td>7</td>
+<td>8</td>
+<td>10</td>
+<td>&nbsp;</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0011792015.html">Zurich SC</a></td>
@@ -249,17 +260,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>2</td>
 <td>2</td>
 <td>4</td>
-</tr>
-<tr class="ENONEL-1"><td class="pds l">2014-15</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0028102015.html">GCK Lions</a></td>
-<td class="pdl l">Swiss-B</td>
-<td class="pdgp">10</td>
-<td>1</td>
-<td>7</td>
-<td>8</td>
-<td>10</td>
-<td>&nbsp;</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0011792016.html">Zurich SC</a></td>
@@ -285,7 +285,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>1</td>
 <td>8</td>
 <td>-4</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0011792017.html">Zurich SC</a></td>
@@ -326,7 +326,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>12</td>
 <td>61</td>
 <td>-20</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000092019.html">Hershey Bears</a></td>
@@ -354,16 +354,33 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>0</td>
 <td>2</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000092020.html">Hershey Bears*</a></td>
+<td class="pdl l">AHL</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000492020.html">Washington Capitals</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">6</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>10</td>
+<td>2</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>26</td>
+<td>32</td>
 <td>0</td>
-<td>4</td>
-<td>4</td>
-<td>10</td>
+<td>5</td>
+<td>5</td>
+<td>20</td>
 <td></td>
 <td>4</td>
 <td>0</td>
@@ -374,7 +391,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=175024','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jonas Siegenthaler stats!</a>
- | <a href="viewastext.php?590127ba=b70b40ad&amp;pid=175024" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?3469f2d3=e93ac050&amp;pid=175024" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -425,7 +442,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 </div>
 
 <div class="tablebg desktop st">
-</div>
+<div>* No longer on active roster.</div> </div>
 </div>
 <div class="sponsor" id="300_160_300" >
 <div id='right_rectangle'>
@@ -437,7 +454,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6418">Cap Hit of $714,166 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6418">Cap Hit of $714,166 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6418"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Joey Daccord Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Joey Daccord, a hockey player from Boston, MA born Aug 19 1996 who was active from 2015 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Joey Daccord, a hockey player from Boston, MA born Aug 19 1996 who was active from 2015 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,6 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
+var ic182232 = new ImageCollection(['/ihdb/photos/joey-daccord-1934-5432.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -173,6 +174,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
  round 7 <a href="/ihdb/draft/draft_by_pick.php?position=199"> #199</a> overall <a href="/ihdb/draft/nhl2015e.html"> 2015 NHL Entry Draft</a></div><br /></div>
 </div>
 <div class="v1-5">
+&nbsp;
+</div>
+<div class="v2">
+<img itemprop="image" alt="Joey Daccord hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic182232.next(this)" src="/ihdb/photos/joey-daccord-1934-5432.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content182232">
@@ -268,6 +273,24 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>0.909</td>
 <td></td><td></td><td></td>
 </tr>
+<tr class="COLLEG-1"><td class="pds l">2018-19</td>
+<td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0074392019.html">Arizona State University</a></td>
+<td class="pdl l">NCAA</td>
+<td>35</td>
+<td>1</td>
+<td>0</td>
+<td>2092</td>
+<td>82</td>
+<td>0</td>
+<td>7</td>
+<td>2.35</td>
+<td>21</td>
+<td>13</td>
+<td>1</td>
+<td>1030</td>
+<td>0.926</td>
+<td></td><td></td><td></td>
+</tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000542019.html">Ottawa Senators</a></td>
 <td class="pdl l">NHL</td>
@@ -285,6 +308,24 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>35</td>
 <td>0.875</td>
 <td>-</td><td>-</td><td>-</td>
+</tr>
+<tr class="MINPRO-2"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073152020.html">Brampton Beast</a></td>
+<td class="pdl l">ECHL</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>126</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td>3.32</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>58</td>
+<td>0.892</td>
+<td></td><td></td><td></td>
 </tr>
 </tbody>
 <tfoot>
@@ -311,7 +352,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=182232','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Joey Daccord stats!</a>
- | <a href="viewastext.php?05e08c9f=52bed577&amp;pid=182232" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?4a7b2d3d=2f2a346a&amp;pid=182232" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -329,20 +370,22 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6560">Cap Hit of $925,000 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6560">Cap Hit of $925,000 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6560"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Joey Daccord played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
+<div style="margin-bottom:10px">Joey Daccord played in four leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/140.html">National Collegiate Athletic Association</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the three teams that Joey Daccord played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/muskegon-lumberjacks-10347.html">Muskegon Lumberjacks</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Joey Daccord played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/muskegon-lumberjacks-10347.html">Muskegon Lumberjacks</a></div>
 <div class="ti"><a href="/stte/arizona-state-university-11663.html">Arizona State University</a></div>
 <div class="ti"><a href="/stte/ottawa-senators-7328.html">Ottawa Senators</a></div>
+<div class="ti"><a href="/stte/brampton-beast-11550.html">Brampton Beast</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

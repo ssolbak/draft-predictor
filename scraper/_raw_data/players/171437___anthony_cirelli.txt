@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Anthony Cirelli Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Anthony Cirelli, a hockey player from Etobicoke, ONT born Jul 15 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Anthony Cirelli, a hockey player from Etobicoke, ONT born Jul 15 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Anthony Cirelli</h1>
 <div class="v1-1">
 Center -- shoots L<br />
-<span class="bdate">Born Jul 15 1997 -- </span><span class="hometown" itemprop="homeLocation">Etobicoke, ONT</span> <br />[22 yrs. ago] <br />Height 6.00 -- Weight 180<span class="vitals_metric"> [183 cm/82 kg]</span><br />
+<span class="bdate">Born Jul 15 1997 -- </span><span class="hometown" itemprop="homeLocation">Etobicoke, ONT</span> <br />[22 yrs. ago] <br />Height 6.00 -- Weight 193<span class="vitals_metric"> [183 cm/88 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -244,17 +244,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>10</td>
 <td>4</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2015-16</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0005082016.html">Syracuse Crunch</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">3</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>-2</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
-</tr>
 <tr class="MAJJUN-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008072016.html">Oshawa Generals</a></td>
 <td class="pdl l">OHL</td>
@@ -270,6 +259,17 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>5</td>
 <td>0</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2015-16</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0005082016.html">Syracuse Crunch</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>-2</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 <tr class="MAJJUN-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008072017.html">Oshawa Generals</a></td>
 <td class="pdl l">OHL</td>
@@ -279,7 +279,17 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>34</td>
 <td>8</td>
 <td>18</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr class="MINPRO-1"><td class="pds l">2016-17</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0005082017.html">Syracuse Crunch</a></td>
+<td class="pdl l">AHL</td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008792017.html">Erie Otters</a></td>
@@ -296,16 +306,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>31</td>
 <td>4</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2016-17</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0005082017.html">Syracuse Crunch</a></td>
-<td class="pdl l">AHL</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
-<td>6</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>6</td>
-</tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0005082018.html">Syracuse Crunch</a></td>
 <td class="pdl l">AHL</td>
@@ -315,7 +315,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>37</td>
 <td>14</td>
 <td>2</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000552018.html">Tampa Bay Lightning</a></td>
@@ -347,16 +347,27 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>2</td>
 <td>0</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000552020.html">Tampa Bay Lightning</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">5</td>
+<td>0</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>1</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>100</td>
+<td>105</td>
 <td>24</td>
-<td>26</td>
-<td>50</td>
-<td>40</td>
+<td>30</td>
+<td>54</td>
+<td>44</td>
 <td></td>
 <td>21</td>
 <td>3</td>
@@ -367,7 +378,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=171437','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Anthony Cirelli stats!</a>
- | <a href="viewastext.php?fab21174=e3e3e90c&amp;pid=171437" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?10162604=fe8584d5&amp;pid=171437" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -414,7 +425,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6433">Cap Hit of $728,333 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6433">Cap Hit of $728,333 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6433"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

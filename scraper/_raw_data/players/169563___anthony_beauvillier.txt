@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Anthony Beauvillier Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Anthony Beauvillier, a hockey player from Sorel-Tracy, PQ born Jun 8 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Anthony Beauvillier, a hockey player from Sorel-Tracy, PQ born Jun 8 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic169563 = new ImageCollection(['/ihdb/photos/anthony-beauvillier-2018-7440.jpg','/ihdb/photos/anthony-beauvillier-2017-7440.jpg','/ihdb/photos/anthony-beauvillier-2016-7440.jpg']);
+var ic169563 = new ImageCollection(['/ihdb/photos/anthony-beauvillier-2019-7440.jpg','/ihdb/photos/anthony-beauvillier-2018-7440.jpg','/ihdb/photos/anthony-beauvillier-2017-7440.jpg','/ihdb/photos/anthony-beauvillier-2016-7440.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <span id="div169563"><span id="but169563" class="trades sprite" onclick="sc('deals',169563)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Anthony Beauvillier hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic169563.next(this)" src="/ihdb/photos/anthony-beauvillier-2018-7440.jpg" />
+<img itemprop="image" alt="Anthony Beauvillier hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic169563.next(this)" src="/ihdb/photos/anthony-beauvillier-2019-7440.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content169563">
@@ -307,16 +307,27 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>2</td>
 <td>0</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0074402020.html">New York Islanders</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">4</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>4</td>
+<td>-1</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>218</td>
-<td>48</td>
-<td>40</td>
-<td>88</td>
-<td>34</td>
+<td>222</td>
+<td>50</td>
+<td>42</td>
+<td>92</td>
+<td>38</td>
 <td></td>
 <td>8</td>
 <td>1</td>
@@ -327,7 +338,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=169563','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Anthony Beauvillier stats!</a>
- | <a href="viewastext.php?611fc69b=7971eb5f&amp;pid=169563" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?77ee486e=13c4ec1e&amp;pid=169563" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -374,10 +385,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6389">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">894,167</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6389">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">894,167</span>
  to 2018-19</a>
 </div>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6389">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">2,100,000</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6389">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">2,100,000</span>
  to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6389"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>

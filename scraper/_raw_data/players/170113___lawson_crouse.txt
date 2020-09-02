@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Lawson Crouse Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Lawson Crouse, a hockey player from Mt. Brydges, ONT born Jun 23 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Lawson Crouse, a hockey player from Mt. Brydges, ONT born Jun 23 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -318,23 +318,33 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>5</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0071662020.html">Arizona Coyotes</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>164</td>
+<td>166</td>
 <td>17</td>
 <td>21</td>
 <td>38</td>
-<td>122</td>
+<td>124</td>
 <td></td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170113','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Lawson Crouse stats!</a>
- | <a href="viewastext.php?6ad03c68=40dd7d9a&amp;pid=170113" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d3a4cd90=d783786f&amp;pid=170113" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -389,10 +399,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6372">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">894,167</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6372">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">894,167</span>
  to 2018-19</a>
 </div>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6372">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">1,533,333</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6372">Cap Hit of $<span style="width: 68px; text-align: right; display: inline-block" class="capline">1,533,333</span>
  to 2021-22 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6372"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>

@@ -165,7 +165,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Ryan Pilon</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Oct 10 1996 -- </span><span class="hometown" itemprop="homeLocation">Duck Lake, SASK</span> <br />[22 yrs. ago] <br />Height 6.02 -- Weight 206<span class="vitals_metric"> [188 cm/93 kg]</span><br />
+<span class="bdate">Born Oct 10 1996 -- </span><span class="hometown" itemprop="homeLocation">Duck Lake, SASK</span> <br />[23 yrs. ago] <br />Height 6.02 -- Weight 206<span class="vitals_metric"> [188 cm/93 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -276,7 +276,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=147490','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ryan Pilon stats!</a>
- | <a href="viewastext.php?3d0a60aa=754fd49d&amp;pid=147490" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?bbeed3ed=d18b369d&amp;pid=147490" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

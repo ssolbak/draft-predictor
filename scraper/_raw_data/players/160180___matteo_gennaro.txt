@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Matteo Gennaro</h1>
 <div class="v1-1">
 Center -- shoots L<br />
-<span class="bdate">Born Mar 30 1997 -- </span><span class="hometown" itemprop="homeLocation">St. Albert, ALTA</span> <br />[22 yrs. ago] <br />Height 6.02 -- Weight 196<span class="vitals_metric"> [188 cm/89 kg]</span><br />
+<span class="bdate">Born Mar 30 1997 -- </span><span class="hometown" itemprop="homeLocation">St. Albert, ALTA</span> <br />[22 yrs. ago] <br />Height 6.02 -- Weight 187<span class="vitals_metric"> [188 cm/85 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -238,7 +238,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>31</td>
 <td>44</td>
 <td>-9</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0010012016.html">Prince Albert Raiders</a></td>
@@ -249,7 +249,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>24</td>
 <td>28</td>
 <td>-14</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0009942016.html">Calgary Hitmen</a></td>
@@ -290,7 +290,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>25</td>
 <td>22</td>
 <td>2</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0010082018.html">Swift Current Broncos</a></td>
@@ -318,12 +318,18 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>-3</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076012020.html">Tucson Roadrunners</a></td>
+<td class="pdl l">AHL</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160180','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Matteo Gennaro stats!</a>
- | <a href="viewastext.php?741a4d22=79d55e24&amp;pid=160180" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d26d2228=af4a347d&amp;pid=160180" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

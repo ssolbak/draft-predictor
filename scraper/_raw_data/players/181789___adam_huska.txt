@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Adam Huska Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Adam Huska, a hockey player from Zvolen, Slovakia born May 12 1997 who was active from 2014 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Adam Huska, a hockey player from Zvolen, Slovakia born May 12 1997 who was active from 2014 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -165,7 +165,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Adam Huska</h1>
 <div class="v1-1">
 Goalie -- shoots L<br />
-<span class="bdate">Born May 12 1997 -- </span><span class="hometown" itemprop="homeLocation">Zvolen, Slovakia</span> <br />[22 yrs. ago] <br />Height 6.04 -- Weight 220<span class="vitals_metric"> [193 cm/100 kg]</span><br />
+<span class="bdate">Born May 12 1997 -- </span><span class="hometown" itemprop="homeLocation">Zvolen, Slovakia</span> <br />[22 yrs. ago] <br />Height 6.04 -- Weight 218<span class="vitals_metric"> [193 cm/99 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -231,7 +231,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>1</td>
 <td>142</td>
 <td>0.866</td>
-<td>-</td><td>-</td><td>-</td>
+<td></td><td></td><td></td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0017912016.html">Green Bay Gamblers</a></td>
@@ -325,12 +325,30 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>0.889</td>
 <td>-</td><td>-</td><td>-</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070852020.html">Hartford Wolf Pack</a></td>
+<td class="pdl l">AHL</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>126</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td>2.37</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>51</td>
+<td>0.911</td>
+<td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=181789','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Adam Huska stats!</a>
- | <a href="viewastext.php?7a3b6f64=47335c1f&amp;pid=181789" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?ccde7a58=6ee1af74&amp;pid=181789" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -348,7 +366,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6545">Cap Hit of $925,000 to 2020-21 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6545">Cap Hit of $925,000 to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6545"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

@@ -317,12 +317,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <tr class="EUROEL-2"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0016112020.html">Klagenfurt AC</a></td>
 <td class="pdl l">Austria</td>
-<td class="pdgp">3</td>
+<td class="pdgp">5</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>1</td>
+<td>3</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -330,7 +330,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=180816','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Petter Hansson stats!</a>
- | <a href="viewastext.php?7505afcf=c29988ff&amp;pid=180816" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?c97b04de=f5677413&amp;pid=180816" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

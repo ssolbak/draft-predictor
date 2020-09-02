@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Cooper Marody Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Cooper Marody, a hockey player from Brighton, MI born Dec 20 1996 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Cooper Marody, a hockey player from Brighton, MI born Dec 20 1996 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic170491 = new ImageCollection(['/ihdb/photos/cooper-marody-2019-41.jpg','/ihdb/photos/cooper-marody-2018-53.jpg']);
+var ic170491 = new ImageCollection(['/ihdb/photos/cooper-marody-2020-41.jpg','/ihdb/photos/cooper-marody-2019-41.jpg','/ihdb/photos/cooper-marody-2018-53.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Cooper Marody</h1>
 <div class="v1-1">
 Center -- shoots R<br />
-<span class="bdate">Born Dec 20 1996 -- </span><span class="hometown" itemprop="homeLocation">Brighton, MI</span> <br />[22 yrs. ago] <br />Height 6.00 -- Weight 184<span class="vitals_metric"> [183 cm/83 kg]</span><br />
+<span class="bdate">Born Dec 20 1996 -- </span><span class="hometown" itemprop="homeLocation">Brighton, MI</span> <br />[22 yrs. ago] <br />Height 6.00 -- Weight 195<span class="vitals_metric"> [183 cm/88 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <span id="div170491"><span id="but170491" class="trades sprite" onclick="sc('deals',170491)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Cooper Marody hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic170491.next(this)" src="/ihdb/photos/cooper-marody-2019-41.jpg" />
+<img itemprop="image" alt="Cooper Marody hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic170491.next(this)" src="/ihdb/photos/cooper-marody-2020-41.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content170491">
@@ -223,7 +223,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <td>30</td>
 <td>36</td>
 <td>-1</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0060522015.html">Muskegon Lumberjacks</a></td>
@@ -234,7 +234,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <td>9</td>
 <td>4</td>
 <td>-3</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0024322015.html">Sioux Falls Stampede</a></td>
@@ -291,7 +291,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <td>2</td>
 <td>3</td>
 <td>2</td>
-<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073882019.html">Bakersfield Condors</a></td>
@@ -319,6 +319,17 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <td>-1</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073882020.html">Bakersfield Condors</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">3</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -335,7 +346,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170491','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Cooper Marody stats!</a>
- | <a href="viewastext.php?a620165f=0d10fd85&amp;pid=170491" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?ce5f3b22=412666c0&amp;pid=170491" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -353,7 +364,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6519">Cap Hit of $925,000 to 2020-21 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6519">Cap Hit of $925,000 to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6519"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Callum Booth Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Callum Booth, a hockey player from Montreal, PQ born May 21 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Callum Booth, a hockey player from Montreal, PQ born May 21 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -411,12 +411,30 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td>0</td>
 <td>0</td>
 </tr>
+<tr class="MINPRO-2"><td class="pds l">2019-20</td>
+<td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0074042020.html">Greenville Swamp Rabbits</a></td>
+<td class="pdl l">ECHL</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>67</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>2.69</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>32</td>
+<td>0.914</td>
+<td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=169569','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Callum Booth stats!</a>
- | <a href="viewastext.php?048ab611=495759b4&amp;pid=169569" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?ee71c769=cef91817&amp;pid=169569" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -434,7 +452,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6454">Cap Hit of $741,667 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6454">Cap Hit of $741,667 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6454"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
@@ -448,11 +466,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Callum Booth played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/quebec-remparts-9451.html">Quebec Remparts</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Callum Booth played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/quebec-remparts-9451.html">Quebec Remparts</a></div>
 <div class="ti"><a href="/stte/saint-john-sea-dogs-7824.html">Saint John Sea Dogs</a></div>
 <div class="ti"><a href="/stte/florida-everblades-5761.html">Florida Everblades</a></div>
 <div class="ti"><a href="/stte/charlotte-checkers-10349.html">Charlotte Checkers</a></div>
 <div class="ti"><a href="/stte/reading-royals-7621.html">Reading Royals</a></div>
+<div class="ti"><a href="/stte/greenville-swamp-rabbits-11631.html">Greenville Swamp Rabbits</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

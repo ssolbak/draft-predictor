@@ -279,12 +279,18 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Arizona Coyotes</a><div>-
 <td>-9</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
+<tr class="MINPRO-2"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073122020.html">Indy Fuel</a></td>
+<td class="pdl l">ECHL</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170353','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Brendan Warren stats!</a>
- | <a href="viewastext.php?544d851c=97e486ea&amp;pid=170353" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?89a54936=1e08538c&amp;pid=170353" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -306,12 +312,14 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Arizona Coyotes</a><div>-
 <div style="margin-bottom:10px">Not the Brendan Warren you're looking for? We have one other player with a similar name.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=180525">Brent Warren</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (CJHL) [1990-1991]</div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Brendan Warren played in two leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
+<div style="margin-bottom:10px">Brendan Warren played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/405.html">Big 10 - Div. 1</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the three teams that Brendan Warren played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/u.s.-national-under-17-team-10863.html">U.S. National Under-17 Team</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Brendan Warren played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/u.s.-national-under-17-team-10863.html">U.S. National Under-17 Team</a></div>
 <div class="ti"><a href="/stte/u.s.-national-under-18-team-10862.html">U.S. National Under-18 Team</a></div>
 <div class="ti"><a href="/stte/u.-of-michigan-8631.html">U. of Michigan</a></div>
+<div class="ti"><a href="/stte/indy-fuel-11547.html">Indy Fuel</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

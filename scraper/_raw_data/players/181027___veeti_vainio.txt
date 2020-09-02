@@ -295,12 +295,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0021292020.html">SaiPa Lappeenranta</a></td>
 <td class="pdl l">SM-liiga</td>
-<td class="pdgp">5</td>
+<td class="pdgp">8</td>
 <td>0</td>
 <td>2</td>
 <td>2</td>
 <td>10</td>
-<td>-1</td>
+<td>-4</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -308,7 +308,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=181027','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Veeti Vainio stats!</a>
- | <a href="viewastext.php?75d705bf=cb801a64&amp;pid=181027" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?69c97571=3b20fc80&amp;pid=181027" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

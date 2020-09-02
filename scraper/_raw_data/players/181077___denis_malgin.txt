@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Denis Malgin Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Denis Malgin, a hockey player from Olten, Switzerland born Jan 18 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Denis Malgin, a hockey player from Olten, Switzerland born Jan 18 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic181077 = new ImageCollection(['/ihdb/photos/denis-malgin-2019-234.jpg','/ihdb/photos/denis-malgin-2018-234.jpg','/ihdb/photos/denis-malgin-2017-234.jpg']);
+var ic181077 = new ImageCollection(['/ihdb/photos/denis-malgin-2020-234.jpg','/ihdb/photos/denis-malgin-2019-234.jpg','/ihdb/photos/denis-malgin-2018-234.jpg','/ihdb/photos/denis-malgin-2017-234.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <a href="/ihdb/cards/carddisplay.php?pid=181077" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Denis Malgin hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic181077.next(this)" src="/ihdb/photos/denis-malgin-2019-234.jpg" />
+<img itemprop="image" alt="Denis Malgin hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic181077.next(this)" src="/ihdb/photos/denis-malgin-2020-234.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content181077">
@@ -330,15 +330,25 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>-10</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0002342020.html">Florida Panthers</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">3</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>148</td>
-<td>24</td>
-<td>24</td>
-<td>48</td>
+<td>151</td>
+<td>25</td>
+<td>25</td>
+<td>50</td>
 <td>28</td>
 <td></td>
 <td></td><td></td><td></td><td></td><td></td>
@@ -346,7 +356,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=181077','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Denis Malgin stats!</a>
- | <a href="viewastext.php?76b7b1b4=3fd621a8&amp;pid=181077" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?02d926d8=fa303098&amp;pid=181077" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -401,10 +411,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6463">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">690,000</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6463">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">690,000</span>
  to 2018-19</a>
 </div>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6463">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">750,000</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6463">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">750,000</span>
  to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6463"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>

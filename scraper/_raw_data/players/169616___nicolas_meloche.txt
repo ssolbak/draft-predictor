@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Nicolas Meloche Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Nicolas Meloche, a hockey player from Mosemere, PQ born Jul 18 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Nicolas Meloche, a hockey player from Mosemere, PQ born Jul 18 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -176,6 +176,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <div class="v1-5">
 &nbsp;
 <a href="/ihdb/cards/carddisplay.php?pid=169616" class="button sprite">&nbsp;</a> 
+<span id="div169616"><span id="but169616" class="trades sprite" onclick="sc('deals',169616)"></span></span>
 </div>
 <div class="v2">
 <img itemprop="image" alt="Nicolas Meloche hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic169616.next(this)" src="/ihdb/photos/nicolas-meloche-2017-690.jpg" />
@@ -252,7 +253,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>16</td>
 <td>54</td>
 <td>-12</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0032452016.html">Gatineau Olympiques</a></td>
@@ -277,7 +278,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>14</td>
 <td>21</td>
 <td>38</td>
-<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070932017.html">Charlottetown Islanders</a></td>
@@ -303,7 +304,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>17</td>
 <td>59</td>
 <td>-16</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0064602018.html">Colorado Eagles</a></td>
@@ -335,12 +336,22 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>2</td>
 <td>0</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073922020.html">San Jose Barracuda</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=169616','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Nicolas Meloche stats!</a>
- | <a href="viewastext.php?3dd930bd=1c1d43f2&amp;pid=169616" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?8928bbab=fd948f79&amp;pid=169616" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -358,7 +369,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6401">Cap Hit of $853,333 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6401">Cap Hit of $853,333 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6401"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
@@ -369,12 +380,13 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Nicolas Meloche played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/baie-comeau-drakkar-4752.html">Baie-Comeau Drakkar</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Nicolas Meloche played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/baie-comeau-drakkar-4752.html">Baie-Comeau Drakkar</a></div>
 <div class="ti"><a href="/stte/gatineau-olympiques-5854.html">Gatineau Olympiques</a></div>
 <div class="ti"><a href="/stte/charlottetown-islanders-11381.html">Charlottetown Islanders</a></div>
 <div class="ti"><a href="/stte/san-antonio-rampage-7852.html">San Antonio Rampage</a></div>
 <div class="ti"><a href="/stte/colorado-eagles-10758.html">Colorado Eagles</a></div>
 <div class="ti"><a href="/stte/colorado-eagles-12422.html">Colorado Eagles</a></div>
+<div class="ti"><a href="/stte/san-jose-barracuda-11620.html">San Jose Barracuda</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

@@ -165,7 +165,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Chase Pearson</h1>
 <div class="v1-1">
 Center -- shoots L<br />
-<span class="bdate">Born Aug 23 1997 -- </span><span class="hometown" itemprop="homeLocation">Cornwall, ONT</span> <br />[22 yrs. ago] <br />Height 6.02 -- Weight 200<span class="vitals_metric"> [188 cm/91 kg]</span><br />
+<span class="bdate">Born Aug 23 1997 -- </span><span class="hometown" itemprop="homeLocation">Cornwall, ONT</span> <br />[22 yrs. ago] <br />Height 6.02 -- Weight 189<span class="vitals_metric"> [188 cm/86 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -231,7 +231,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0054352015.html">Youngstown Phantoms</a></td>
@@ -257,7 +257,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>50</td>
 <td>61</td>
 <td>33</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="COLLEG-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0005612017.html">U. of Maine</a></td>
@@ -303,18 +303,24 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>-2</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000342020.html">Detroit Red Wings*</a></td>
+<td class="pdl l">NHL</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=168853','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Chase Pearson stats!</a>
- | <a href="viewastext.php?898c976d=44f13395&amp;pid=168853" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?f9eb8d5a=2556eac6&amp;pid=168853" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
 
 <div class="tablebg desktop st">
-</div>
+<div>* No longer on active roster.</div> </div>
 </div>
 <div class="sponsor" id="300_160_300" >
 <div id='right_rectangle'>
@@ -326,22 +332,24 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6501">Cap Hit of $858,750 to 2020-21 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6501">Cap Hit of $858,750 to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6501"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Chase Pearson played in four leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/54.html">Central Canada Hockey League</a></div>
+<div style="margin-bottom:10px">Chase Pearson played in five leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/54.html">Central Canada Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/328.html">Hockey East - Div. 1</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Chase Pearson played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/cornwall-colts-5351.html">Cornwall Colts</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Chase Pearson played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/cornwall-colts-5351.html">Cornwall Colts</a></div>
 <div class="ti"><a href="/stte/youngstown-phantoms-9726.html">Youngstown Phantoms</a></div>
 <div class="ti"><a href="/stte/u.-of-maine-8628.html">U. of Maine</a></div>
 <div class="ti"><a href="/stte/grand-rapids-griffins-5898.html">Grand Rapids Griffins</a></div>
+<div class="ti"><a href="/stte/detroit-red-wings-5492.html">Detroit Red Wings</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

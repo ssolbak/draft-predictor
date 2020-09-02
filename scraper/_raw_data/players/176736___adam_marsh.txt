@@ -319,7 +319,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=176736','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Adam Marsh stats!</a>
- | <a href="viewastext.php?becf88ff=037000e2&amp;pid=176736" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?ca32531a=4573668d&amp;pid=176736" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -296,12 +296,30 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <td>0</td>
 <td>0</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000362020.html">St. Louis Blues</a></td>
+<td class="pdl l">NHL</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170332','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Luke Opilka stats!</a>
- | <a href="viewastext.php?579b52a0=b723b1bc&amp;pid=170332" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?17852e0e=42684ae1&amp;pid=170332" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -320,12 +338,14 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Luke Opilka played in two leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
+<div style="margin-bottom:10px">Luke Opilka played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/167.html">Ontario Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the three teams that Luke Opilka played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/u.s.-national-under-17-team-10863.html">U.S. National Under-17 Team</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Luke Opilka played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/u.s.-national-under-17-team-10863.html">U.S. National Under-17 Team</a></div>
 <div class="ti"><a href="/stte/u.s.-national-under-18-team-10862.html">U.S. National Under-18 Team</a></div>
 <div class="ti"><a href="/stte/kitchener-rangers-6416.html">Kitchener Rangers</a></div>
+<div class="ti"><a href="/stte/st.-louis-blues-8187.html">St. Louis Blues</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

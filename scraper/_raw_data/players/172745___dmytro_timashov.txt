@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Dmytro Timashov Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Dmytro Timashov, a hockey player from Kirovograd, Ukraine born Oct 1 1996 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Dmytro Timashov, a hockey player from Kirovograd, Ukraine born Oct 1 1996 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic172745 = new ImageCollection(['/ihdb/photos/dmytro-timashov-2019-38.jpg','/ihdb/photos/dmytro-timashov-2018-38.jpg','/ihdb/photos/dmytro-timashov-2017-38.jpg','/ihdb/photos/dmytro-timashov-2016-38.jpg']);
+var ic172745 = new ImageCollection(['/ihdb/photos/dmytro-timashov-2020-38.jpg','/ihdb/photos/dmytro-timashov-2019-38.jpg','/ihdb/photos/dmytro-timashov-2018-38.jpg','/ihdb/photos/dmytro-timashov-2017-38.jpg','/ihdb/photos/dmytro-timashov-2016-38.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Dmytro Timashov</h1>
 <div class="v1-1">
 Left Wing -- shoots L<br />
-<span class="bdate">Born Oct 1 1996 -- </span><span class="hometown" itemprop="homeLocation">Kirovograd, Ukraine</span> <br />[22 yrs. ago] <br />Height 5.10 -- Weight 192<span class="vitals_metric"> [178 cm/87 kg]</span><br />
+<span class="bdate">Born Oct 1 1996 -- </span><span class="hometown" itemprop="homeLocation">Kirovograd, Ukraine</span> <br />[23 yrs. ago] <br />Height 5.10 -- Weight 192<span class="vitals_metric"> [178 cm/87 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <a href="/ihdb/cards/carddisplay.php?pid=172745" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Dmytro Timashov hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic172745.next(this)" src="/ihdb/photos/dmytro-timashov-2019-38.jpg" />
+<img itemprop="image" alt="Dmytro Timashov hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic172745.next(this)" src="/ihdb/photos/dmytro-timashov-2020-38.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content172745">
@@ -332,12 +332,34 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>10</td>
 <td>14</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000382020.html">Toronto Maple Leafs</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">3</td>
+<td>0</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
+<tr class="c_sec_foot">
+<td></td><td class="l">NHL Totals</td>
+<td></td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td></td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=172745','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Dmytro Timashov stats!</a>
- | <a href="viewastext.php?203475c0=8bc12594&amp;pid=172745" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?44ea39c7=45697427&amp;pid=172745" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -384,24 +406,26 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6486">Cap Hit of $693,333 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6486">Cap Hit of $693,333 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6486"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Dmytro Timashov played in four leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/239.html">Swedish Hockey League</a></div>
+<div style="margin-bottom:10px">Dmytro Timashov played in five leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/239.html">Swedish Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/238.html">Sweden 1st Division</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/197.html">Quebec Major Junior Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
+<div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Dmytro Timashov played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/modo-hockey-ornskoldsvik-6906.html">MODO Hockey Ornskoldsvik</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Dmytro Timashov played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/modo-hockey-ornskoldsvik-6906.html">MODO Hockey Ornskoldsvik</a></div>
 <div class="ti"><a href="/stte/mora-ik-6961.html">Mora IK</a></div>
 <div class="ti"><a href="/stte/bjorkloven-if-4891.html">Bjorkloven IF</a></div>
 <div class="ti"><a href="/stte/quebec-remparts-9451.html">Quebec Remparts</a></div>
 <div class="ti"><a href="/stte/shawinigan-cataractes-7985.html">Shawinigan Cataractes</a></div>
 <div class="ti"><a href="/stte/toronto-marlies-8496.html">Toronto Marlies</a></div>
+<div class="ti"><a href="/stte/toronto-maple-leafs-8490.html">Toronto Maple Leafs</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

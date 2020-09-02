@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Thomas Schemitsch Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Thomas Schemitsch, a hockey player from Thornhill, ONT born Oct 26 1996 who was active from 2012 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Thomas Schemitsch, a hockey player from Thornhill, ONT born Oct 26 1996 who was active from 2012 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic164694 = new ImageCollection(['/ihdb/photos/thomas-schemitsch-2019-7600.jpg','/ihdb/photos/thomas-schemitsch-2019-234.jpg','/ihdb/photos/thomas-schemitsch-2018-234.jpg','/ihdb/photos/thomas-schemitsch-2017-234.jpg']);
+var ic164694 = new ImageCollection(['/ihdb/photos/thomas-schemitsch-2020-234.jpg','/ihdb/photos/thomas-schemitsch-2019-7600.jpg','/ihdb/photos/thomas-schemitsch-2019-234.jpg','/ihdb/photos/thomas-schemitsch-2018-234.jpg','/ihdb/photos/thomas-schemitsch-2017-234.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Thomas Schemitsch</h1>
 <div class="v1-1">
 Defense -- shoots R<br />
-<span class="bdate">Born Oct 26 1996 -- </span><span class="hometown" itemprop="homeLocation">Thornhill, ONT</span> <br />[22 yrs. ago] <br />Height 6.04 -- Weight 206<span class="vitals_metric"> [193 cm/93 kg]</span><br />
+<span class="bdate">Born Oct 26 1996 -- </span><span class="hometown" itemprop="homeLocation">Thornhill, ONT</span> <br />[22 yrs. ago] <br />Height 6.04 -- Weight 205<span class="vitals_metric"> [193 cm/93 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <span id="div164694"><span id="but164694" class="trades sprite" onclick="sc('deals',164694)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Thomas Schemitsch hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic164694.next(this)" src="/ihdb/photos/thomas-schemitsch-2019-7600.jpg" />
+<img itemprop="image" alt="Thomas Schemitsch hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic164694.next(this)" src="/ihdb/photos/thomas-schemitsch-2020-234.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content164694">
@@ -282,7 +282,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>4</td>
 <td>4</td>
 <td>-7</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073962017.html">Manchester Monarchs</a></td>
@@ -308,7 +308,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>19</td>
 <td>40</td>
 <td>3</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076002019.html">Springfield Thunderbirds</a></td>
@@ -321,12 +321,23 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>4</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076002020.html">Springfield Thunderbirds</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=164694','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Thomas Schemitsch stats!</a>
- | <a href="viewastext.php?f7c3f3d5=b56d397a&amp;pid=164694" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?6d309d38=01b2c2e8&amp;pid=164694" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -344,10 +355,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6449">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">717,500</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6449">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">717,500</span>
  to 2018-19</a>
 </div>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6449">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">715,000</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6449">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">715,000</span>
  to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6449"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>

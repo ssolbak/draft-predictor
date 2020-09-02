@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Colton White Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Colton White, a hockey player from London, ONT born May 3 1997 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Colton White, a hockey player from London, ONT born May 3 1997 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Colton White</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born May 3 1997 -- </span><span class="hometown" itemprop="homeLocation">London, ONT</span> <br />[22 yrs. ago] <br />Height 6.01 -- Weight 185<span class="vitals_metric"> [185 cm/84 kg]</span><br />
+<span class="bdate">Born May 3 1997 -- </span><span class="hometown" itemprop="homeLocation">London, ONT</span> <br />[22 yrs. ago] <br />Height 6.01 -- Weight 188<span class="vitals_metric"> [185 cm/85 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -282,7 +282,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007066.html">New Jersey Devils</a><div
 <td>9</td>
 <td>32</td>
 <td>-17</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073952018.html">Adirondack Thunder</a></td>
@@ -321,6 +321,17 @@ Drafted by <a href="/ihdb/draft/teams/dr00007066.html">New Jersey Devils</a><div
 <td>-2</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081602020.html">Binghamton Devils</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>-2</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -337,7 +348,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007066.html">New Jersey Devils</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170182','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Colton White stats!</a>
- | <a href="viewastext.php?6707426f=92c5c946&amp;pid=170182" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?2f4cb207=4aa385c1&amp;pid=170182" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -355,7 +366,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007066.html">New Jersey Devils</a><div
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6458">Cap Hit of $728,333 to 2019-20 (RFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6458">Cap Hit of $728,333 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6458"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
@@ -365,7 +376,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007066.html">New Jersey Devils</a><div
 <div style="margin-bottom:10px">Not the Colton White you're looking for? We have four other players with similar names.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=28500">Colin White</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (b.1977) (NHL, AHL, QMJHL) [1994-2012]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=170355">Colin White</a></div>
-<div class="in1 ti" style="margin-bottom:5px"> (b.1997) (NHL, AHL, H-East) [2013-2019]</div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1997) (NHL, AHL, H-East) [2013-2020]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=164441">Collin White</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (b.1966) (USHL) [1985-1986]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=110052">Clayton Whiteway</a></div>

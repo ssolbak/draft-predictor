@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Samuel Montembeault Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Samuel Montembeault, a hockey player from Becancour, PQ born Oct 30 1996 who was active from 2013 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Samuel Montembeault, a hockey player from Becancour, PQ born Oct 30 1996 who was active from 2013 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic169617 = new ImageCollection(['/ihdb/photos/samuel-montembeault-2019-7600.jpg','/ihdb/photos/samuel-montembeault-2019-234.jpg','/ihdb/photos/samuel-montembeault-2018-234.jpg','/ihdb/photos/samuel-montembeault-2017-234.jpg']);
+var ic169617 = new ImageCollection(['/ihdb/photos/samuel-montembeault-2020-234.jpg','/ihdb/photos/samuel-montembeault-2019-7600.jpg','/ihdb/photos/samuel-montembeault-2019-234.jpg','/ihdb/photos/samuel-montembeault-2018-234.jpg','/ihdb/photos/samuel-montembeault-2017-234.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Samuel Montembeault</h1>
 <div class="v1-1">
 Goalie -- shoots L<br />
-<span class="bdate">Born Oct 30 1996 -- </span><span class="hometown" itemprop="homeLocation">Becancour, PQ</span> <br />[22 yrs. ago] <br />Height 6.03 -- Weight 208<span class="vitals_metric"> [191 cm/94 kg]</span><br />
+<span class="bdate">Born Oct 30 1996 -- </span><span class="hometown" itemprop="homeLocation">Becancour, PQ</span> <br />[22 yrs. ago] <br />Height 6.03 -- Weight 199<span class="vitals_metric"> [191 cm/90 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <span id="div169617"><span id="but169617" class="trades sprite" onclick="sc('deals',169617)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Samuel Montembeault hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic169617.next(this)" src="/ihdb/photos/samuel-montembeault-2019-7600.jpg" />
+<img itemprop="image" alt="Samuel Montembeault hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic169617.next(this)" src="/ihdb/photos/samuel-montembeault-2020-234.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content169617">
@@ -317,7 +317,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>1</td>
 <td>1023</td>
 <td>0.896</td>
-<td>-</td><td>-</td><td>-</td>
+<td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0076002019.html">Springfield Thunderbirds</a></td>
@@ -355,24 +355,42 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>0.894</td>
 <td>-</td><td>-</td><td>-</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0002342020.html">Florida Panthers</a></td>
+<td class="pdl l">NHL</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>103</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>1.75</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>45</td>
+<td>0.938</td>
+<td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>11</td>
+<td>13</td>
 <td>1</td>
 <td>0</td>
 <td></td>
 <td></td>
 <td></td>
 <td>0</td>
-<td>3.05</td>
+<td>2.85</td>
 <td>4</td>
 <td>3</td>
-<td>2</td>
+<td>3</td>
 <td></td>
-<td>0.894</td>
+<td>0.900</td>
 <td></td>
 <td></td>
 <td></td>
@@ -380,7 +398,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=169617','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Samuel Montembeault stats!</a>
- | <a href="viewastext.php?0c646cc7=99baf091&amp;pid=169617" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?745f4658=f06cfcf9&amp;pid=169617" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -398,10 +416,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6438">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">725,833</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6438">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">725,833</span>
  to 2018-19</a>
 </div>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6438">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">708,750</span>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6438">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">708,750</span>
  to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6438"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>

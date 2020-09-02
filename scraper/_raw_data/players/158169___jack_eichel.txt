@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Jack Eichel Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Jack Eichel, a hockey player from North Chelmsford, MA born Oct 28 1996 who was active from 2011 to 2019." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Jack Eichel, a hockey player from North Chelmsford, MA born Oct 28 1996 who was active from 2011 to 2020." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic158169 = new ImageCollection(['/ihdb/photos/jack-eichel-2019-33.jpg','/ihdb/photos/jack-eichel-2018-33.jpg','/ihdb/photos/jack-eichel-2017-33.jpg','/ihdb/photos/jack-eichel-2016-33.jpg']);
+var ic158169 = new ImageCollection(['/ihdb/photos/jack-eichel-2020-33.jpg','/ihdb/photos/jack-eichel-2019-33.jpg','/ihdb/photos/jack-eichel-2018-33.jpg','/ihdb/photos/jack-eichel-2017-33.jpg','/ihdb/photos/jack-eichel-2016-33.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=158169" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Jack Eichel hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic158169.next(this)" src="/ihdb/photos/jack-eichel-2019-33.jpg" />
+<img itemprop="image" alt="Jack Eichel hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic158169.next(this)" src="/ihdb/photos/jack-eichel-2020-33.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content158169">
@@ -301,15 +301,26 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>-11</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
+<tr class="MAJOR-1"><td class="pds l">2019-20</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000332020.html">Buffalo Sabres</a></td>
+<td class="pdl l">NHL</td>
+<td class="pdgp">5</td>
+<td>3</td>
+<td>4</td>
+<td>7</td>
+<td>0</td>
+<td>-2</td>
+<td></td><td></td><td></td><td></td><td></td>
+</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>286</td>
-<td>101</td>
-<td>158</td>
-<td>259</td>
+<td>291</td>
+<td>104</td>
+<td>162</td>
+<td>266</td>
 <td>102</td>
 <td></td>
 <td></td><td></td><td></td><td></td><td></td>
@@ -317,7 +328,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=158169','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jack Eichel stats!</a>
- | <a href="viewastext.php?7d9ef746=77fc9a89&amp;pid=158169" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?74a70c8a=6217e6c8&amp;pid=158169" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -388,7 +399,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6363">Cap Hit of $10,000,000 to 2025-26 (UFA)</a>
+<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6363">Cap Hit of $10,000,000 to 2025-26 (UFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6363"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
