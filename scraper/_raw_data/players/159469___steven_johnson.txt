@@ -328,7 +328,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=159469','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Steven Johnson stats!</a>
- | <a href="viewastext.php?0b7352a8=89f2082a&amp;pid=159469" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?c017eda4=51b10515&amp;pid=159469" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

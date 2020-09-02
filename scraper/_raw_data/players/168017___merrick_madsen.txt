@@ -353,7 +353,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=168017','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Merrick Madsen stats!</a>
- | <a href="viewastext.php?de17787f=d69881a2&amp;pid=168017" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?003fef51=b328f717&amp;pid=168017" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -367,7 +367,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=134522','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Wade Murphy stats!</a>
- | <a href="viewastext.php?939ca29f=24674df1&amp;pid=134522" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?0ada8f55=f4e90317&amp;pid=134522" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

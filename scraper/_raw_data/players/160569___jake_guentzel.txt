@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Jake Guentzel Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Jake Guentzel, a hockey player from Omaha, NE born Oct 6 1994 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Jake Guentzel, a hockey player from Omaha, NE born Oct 6 1994 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Jake Guentzel</h1>
 <div class="v1-1">
 Left Wing -- shoots L<br />
-<span class="bdate">Born Oct 6 1994 -- </span><span class="hometown" itemprop="homeLocation">Omaha, NE</span> <br />[25 yrs. ago] <br />Height 5.11 -- Weight 180<span class="vitals_metric"> [180 cm/82 kg]</span><br />
+<span class="bdate">Born Oct 6 1994 -- </span><span class="hometown" itemprop="homeLocation">Omaha, NE</span> <br />[24 yrs. ago] <br />Height 5.11 -- Weight 180<span class="vitals_metric"> [180 cm/82 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -329,25 +329,15 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <td>1</td>
 <td>0</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000502020.html">Pittsburgh Penguins</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>206</td>
+<td>204</td>
 <td>78</td>
-<td>80</td>
-<td>158</td>
+<td>79</td>
+<td>157</td>
 <td>78</td>
 <td></td>
 <td>41</td>
@@ -359,7 +349,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160569','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jake Guentzel stats!</a>
- | <a href="viewastext.php?d590a6b7=f9d28f29&amp;pid=160569" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?c1dc87d8=09938a05&amp;pid=160569" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

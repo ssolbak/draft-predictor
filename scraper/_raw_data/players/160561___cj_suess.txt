@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>C.J. Suess Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of C.J. Suess, a hockey player from Forest Lake, MN born Mar 17 1994 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of C.J. Suess, a hockey player from Forest Lake, MN born Mar 17 1994 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic160561 = new ImageCollection(['/ihdb/photos/c.j.-suess-2020-6378.jpg','/ihdb/photos/c.j.-suess-2019-6378.jpg']);
+var ic160561 = new ImageCollection(['/ihdb/photos/c.j.-suess-2019-6378.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">C.J. Suess</h1>
 <div class="v1-1">
 Foward -- shoots L<br />
-<span class="bdate">Born Mar 17 1994 -- </span><span class="hometown" itemprop="homeLocation">Forest Lake, MN</span> <br />[25 yrs. ago] <br />Height 6.00 -- Weight 199<span class="vitals_metric"> [183 cm/90 kg]</span><br />
+<span class="bdate">Born Mar 17 1994 -- </span><span class="hometown" itemprop="homeLocation">Forest Lake, MN</span> <br />[25 yrs. ago] <br />Height 5.11 -- Weight 190<span class="vitals_metric"> [180 cm/86 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=160561" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="C.J. Suess hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160561.next(this)" src="/ihdb/photos/c.j.-suess-2020-6378.jpg" />
+<img itemprop="image" alt="C.J. Suess hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160561.next(this)" src="/ihdb/photos/c.j.-suess-2019-6378.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content160561">
@@ -313,23 +313,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>-3</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073892020.html">Manitoba Moose</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160561','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed C.J. Suess stats!</a>
- | <a href="viewastext.php?dd0338dc=5e4c0ef3&amp;pid=160561" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?df5bf840=82af66aa&amp;pid=160561" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -347,10 +336,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/17633">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">792,500</span>
+<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/17633">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">792,500</span>
  to 2018-19</a>
 </div>
-<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/17633">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">700,000</span>
+<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/17633">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">700,000</span>
  to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/17633"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>

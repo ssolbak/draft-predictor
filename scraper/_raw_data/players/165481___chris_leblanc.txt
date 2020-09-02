@@ -319,7 +319,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=165481','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Chris Leblanc stats!</a>
- | <a href="viewastext.php?339f272a=4c605153&amp;pid=165481" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?ef25d455=e0e829a9&amp;pid=165481" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

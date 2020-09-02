@@ -296,7 +296,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=175326','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Tyler Bird stats!</a>
- | <a href="viewastext.php?64c81913=c92a603d&amp;pid=175326" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?e96388a7=2af86a17&amp;pid=175326" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

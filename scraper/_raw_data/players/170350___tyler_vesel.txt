@@ -302,7 +302,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170350','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Tyler Vesel stats!</a>
- | <a href="viewastext.php?63dba066=5c784cc4&amp;pid=170350" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?3391c4f7=9998b50b&amp;pid=170350" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -320,7 +320,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/17554">Cap Hit of $735,000 to 2018-19 (RFA)</a>
+<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/17554">Cap Hit of $735,000 to 2018-19 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/17554"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
@@ -328,7 +328,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Similar Players</h4>
 <div style="margin-bottom:10px">Not the Tyler Vesel you're looking for? We have two other players with similar names.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=201379">Tyler Fassl</a></div>
-<div class="in1 ti" style="margin-bottom:5px"> (b.1997) (OUAA, OJHL) [2016-2020]</div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1997) (OUAA, OJHL) [2016-2019]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=172896">Taylor Fiesel</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (b.1995) (SJHL) [2013-2015]</div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>

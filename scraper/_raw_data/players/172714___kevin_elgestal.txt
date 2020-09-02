@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Kevin Elgestal Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Kevin Elgestal, a hockey player from Goteborg, Sweden born May 29 1996 who was active from 2013 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Kevin Elgestal, a hockey player from Goteborg, Sweden born May 29 1996 who was active from 2013 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -261,22 +261,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>-5</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
-<tr class="ENONEL-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0072922020.html">Vita Hasten HC</a></td>
-<td class="pdl l">Swe-1</td>
-<td class="pdgp">9</td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=172714','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Kevin Elgestal stats!</a>
- | <a href="viewastext.php?d7d4d88c=5d028891&amp;pid=172714" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?fc3e73e4=e0b10cc3&amp;pid=172714" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

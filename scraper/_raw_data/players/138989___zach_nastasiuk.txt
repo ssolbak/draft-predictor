@@ -418,18 +418,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>4</td>
 <td>2</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0029702020.html">San Antonio Rampage</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=138989','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Zach Nastasiuk stats!</a>
- | <a href="viewastext.php?c7e9175f=5d60e638&amp;pid=138989" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?bff6c7dd=0e9422dd&amp;pid=138989" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -453,13 +447,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Zach Nastasiuk played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/orangeville-flyers-10086.html">Orangeville Flyers</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Zach Nastasiuk played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/orangeville-flyers-10086.html">Orangeville Flyers</a></div>
 <div class="ti"><a href="/stte/owen-sound-attack-7333.html">Owen Sound Attack</a></div>
 <div class="ti"><a href="/stte/grand-rapids-griffins-5898.html">Grand Rapids Griffins</a></div>
 <div class="ti"><a href="/stte/toledo-walleye-9720.html">Toledo Walleye</a></div>
 <div class="ti"><a href="/stte/florida-everblades-5761.html">Florida Everblades</a></div>
 <div class="ti"><a href="/stte/charlotte-checkers-10349.html">Charlotte Checkers</a></div>
-<div class="ti"><a href="/stte/san-antonio-rampage-7852.html">San Antonio Rampage</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

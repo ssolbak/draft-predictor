@@ -268,7 +268,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>41</td>
 <td>40</td>
 <td>9</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070392015.html">North Bay Battalion</a></td>
@@ -309,7 +309,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>17</td>
 <td>42</td>
 <td>-8</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076532018.html">Cleveland Monsters</a></td>
@@ -320,7 +320,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>6</td>
 <td>18</td>
 <td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081582018.html">Belleville Senators</a></td>
@@ -331,7 +331,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>5</td>
 <td>4</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073962019.html">Manchester Monarchs</a></td>
@@ -342,7 +342,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>12</td>
 <td>2</td>
 <td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047292019.html">Rockford IceHogs</a></td>
@@ -353,20 +353,14 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>5</td>
 <td>22</td>
 <td>-10</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047292020.html">Rockford IceHogs</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145075','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Nick Moutrey stats!</a>
- | <a href="viewastext.php?f502645c=e495169e&amp;pid=145075" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?a1c7fdbc=9d4829a8&amp;pid=145075" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

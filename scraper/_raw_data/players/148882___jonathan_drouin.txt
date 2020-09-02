@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Jonathan Drouin Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Jonathan Drouin, a hockey player from Sainte-Agathe, PQ born Mar 28 1995 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Jonathan Drouin, a hockey player from Sainte-Agathe, PQ born Mar 28 1995 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic148882 = new ImageCollection(['/ihdb/photos/jonathan-drouin-2020-45.jpg','/ihdb/photos/jonathan-drouin-2019-45.jpg','/ihdb/photos/jonathan-drouin-2018-45.jpg','/ihdb/photos/jonathan-drouin-2016-55.jpg','/ihdb/photos/jonathan-drouin-2015-55.jpg','/ihdb/photos/jonathan-drouin-2014-55.jpg']);
+var ic148882 = new ImageCollection(['/ihdb/photos/jonathan-drouin-2019-45.jpg','/ihdb/photos/jonathan-drouin-2018-45.jpg','/ihdb/photos/jonathan-drouin-2016-55.jpg','/ihdb/photos/jonathan-drouin-2015-55.jpg','/ihdb/photos/jonathan-drouin-2014-55.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Jonathan Drouin</h1>
 <div class="v1-1">
 Left Wing -- shoots L<br />
-<span class="bdate">Born Mar 28 1995 -- </span><span class="hometown" itemprop="homeLocation">Sainte-Agathe, PQ</span> <br />[24 yrs. ago] <br />Height 6.00 -- Weight 197<span class="vitals_metric"> [183 cm/89 kg]</span><br />
+<span class="bdate">Born Mar 28 1995 -- </span><span class="hometown" itemprop="homeLocation">Sainte-Agathe, PQ</span> <br />[24 yrs. ago] <br />Height 6.00 -- Weight 193<span class="vitals_metric"> [183 cm/88 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <span id="div148882"><span id="but148882" class="trades sprite" onclick="sc('deals',148882)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Jonathan Drouin hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic148882.next(this)" src="/ihdb/photos/jonathan-drouin-2020-45.jpg" />
+<img itemprop="image" alt="Jonathan Drouin hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic148882.next(this)" src="/ihdb/photos/jonathan-drouin-2019-45.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content148882">
@@ -283,7 +283,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>3</td>
 <td>0</td>
 <td>4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000552016.html">Tampa Bay Lightning</a></td>
@@ -309,7 +309,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>13</td>
 <td>12</td>
 <td>-9</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000552017.html">Tampa Bay Lightning</a></td>
@@ -320,7 +320,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>53</td>
 <td>16</td>
 <td>-13</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000452018.html">Montreal Canadiens</a></td>
@@ -331,7 +331,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>46</td>
 <td>30</td>
 <td>-28</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000452019.html">Montreal Canadiens</a></td>
@@ -342,28 +342,17 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>53</td>
 <td>26</td>
 <td>-8</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000452020.html">Montreal Canadiens</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>323</td>
+<td>322</td>
 <td>60</td>
-<td>135</td>
-<td>195</td>
+<td>134</td>
+<td>194</td>
 <td>110</td>
 <td></td>
 <td>23</td>
@@ -375,7 +364,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=148882','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jonathan Drouin stats!</a>
- | <a href="viewastext.php?16c1e539=b19e1f9b&amp;pid=148882" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?b675201b=30889f0f&amp;pid=148882" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

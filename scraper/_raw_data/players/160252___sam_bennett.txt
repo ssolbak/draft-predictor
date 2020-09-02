@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Sam Bennett Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Sam Bennett, a hockey player from Holland Landing, ONT born Jun 20 1996 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Sam Bennett, a hockey player from Holland Landing, ONT born Jun 20 1996 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -325,26 +325,15 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 <td>5</td>
 <td>16</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000432020.html">Calgary Flames</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>314</td>
+<td>312</td>
 <td>55</td>
-<td>62</td>
-<td>117</td>
+<td>61</td>
+<td>116</td>
 <td>264</td>
 <td></td>
 <td>20</td>
@@ -356,7 +345,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160252','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Sam Bennett stats!</a>
- | <a href="viewastext.php?99118cfa=17057690&amp;pid=160252" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?6fcee837=f890652b&amp;pid=160252" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

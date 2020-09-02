@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Viktor Arvidsson Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Viktor Arvidsson, a hockey player from Skelleftea, Sweden born Apr 8 1993 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Viktor Arvidsson, a hockey player from Skelleftea, Sweden born Apr 8 1993 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -355,26 +355,15 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>0</td>
 <td>2</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0014122020.html">Nashville Predators</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">3</td>
-<td>2</td>
-<td>0</td>
-<td>2</td>
-<td>0</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>281</td>
-<td>104</td>
+<td>278</td>
+<td>102</td>
 <td>84</td>
-<td>188</td>
+<td>186</td>
 <td>125</td>
 <td></td>
 <td>55</td>
@@ -386,7 +375,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=139983','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Viktor Arvidsson stats!</a>
- | <a href="viewastext.php?406d1755=844e287a&amp;pid=139983" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?1cfa6c24=b6b09d82&amp;pid=139983" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

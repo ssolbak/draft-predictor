@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>William Nylander Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of William Nylander, a hockey player from Calgary, ALTA born May 1 1996 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of William Nylander, a hockey player from Calgary, ALTA born May 1 1996 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic166009 = new ImageCollection(['/ihdb/photos/william-nylander-2020-38.jpg','/ihdb/photos/william-nylander-2018-38.jpg','/ihdb/photos/william-nylander-2017-38.jpg','/ihdb/photos/william-nylander-2016-38.jpg','/ihdb/photos/william-nylander-2015-38.jpg']);
+var ic166009 = new ImageCollection(['/ihdb/photos/william-nylander-2018-38.jpg','/ihdb/photos/william-nylander-2017-38.jpg','/ihdb/photos/william-nylander-2016-38.jpg','/ihdb/photos/william-nylander-2015-38.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">William Nylander</h1>
 <div class="v1-1">
 Right Wing -- shoots R<br />
-<span class="bdate">Born May 1 1996 -- </span><span class="hometown" itemprop="homeLocation">Calgary, ALTA</span> <br />[23 yrs. ago] <br />Height 6.00 -- Weight 196<span class="vitals_metric"> [183 cm/89 kg]</span><br />
+<span class="bdate">Born May 1 1996 -- </span><span class="hometown" itemprop="homeLocation">Calgary, ALTA</span> <br />[23 yrs. ago] <br />Height 6.00 -- Weight 191<span class="vitals_metric"> [183 cm/87 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <a href="/ihdb/cards/carddisplay.php?pid=166009" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="William Nylander hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic166009.next(this)" src="/ihdb/photos/william-nylander-2020-38.jpg" />
+<img itemprop="image" alt="William Nylander hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic166009.next(this)" src="/ihdb/photos/william-nylander-2018-38.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content166009">
@@ -254,7 +254,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>7</td>
 <td>6</td>
 <td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070542015.html">MODO Hockey Ornskoldsvik</a></td>
@@ -265,7 +265,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>20</td>
 <td>6</td>
 <td>3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0039912015.html">Toronto Marlies</a></td>
@@ -306,7 +306,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>13</td>
 <td>4</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000382017.html">Toronto Maple Leafs</a></td>
@@ -353,26 +353,15 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>3</td>
 <td>2</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000382020.html">Toronto Maple Leafs</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">4</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>0</td>
-<td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>243</td>
-<td>57</td>
-<td>109</td>
-<td>166</td>
+<td>239</td>
+<td>55</td>
+<td>107</td>
+<td>162</td>
 <td>62</td>
 <td></td>
 <td>20</td>
@@ -384,7 +373,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=166009','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed William Nylander stats!</a>
- | <a href="viewastext.php?14fe6bed=eaed9a26&amp;pid=166009" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?95b9037f=b62d9f7b&amp;pid=166009" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

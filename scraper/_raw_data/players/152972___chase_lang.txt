@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic152972 = new ImageCollection(['/ihdb/photos/chase-lang-2019-2331.jpg','/ihdb/photos/chase-lang-2018-2331.jpg','/ihdb/photos/chase-lang-2017-2331.jpg','/ihdb/photos/chase-lang-2016-2331.jpg','/ihdb/photos/chase-lang-2015-2331.jpg']);
+var ic152972 = new ImageCollection(['/ihdb/photos/chase-lang-2018-2331.jpg','/ihdb/photos/chase-lang-2017-2331.jpg','/ihdb/photos/chase-lang-2016-2331.jpg','/ihdb/photos/chase-lang-2015-2331.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <span id="div152972"><span id="but152972" class="trades sprite" onclick="sc('deals',152972)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Chase Lang hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic152972.next(this)" src="/ihdb/photos/chase-lang-2019-2331.jpg" />
+<img itemprop="image" alt="Chase Lang hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic152972.next(this)" src="/ihdb/photos/chase-lang-2018-2331.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content152972">
@@ -356,18 +356,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>-5</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-2"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081632020.html">Jacksonville Icemen</a></td>
-<td class="pdl l">ECHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=152972','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Chase Lang stats!</a>
- | <a href="viewastext.php?d0a10cd2=52573864&amp;pid=152972" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?86020fa3=6187d19a&amp;pid=152972" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -385,7 +379,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6194">Cap Hit of $686,667 to 2018-19 (RFA)</a>
+<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6194">Cap Hit of $686,667 to 2018-19 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6194"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
@@ -402,14 +396,13 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the eight teams that Chase Lang played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/alberni-valley-bulldogs-4605.html">Alberni Valley Bulldogs</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Chase Lang played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/alberni-valley-bulldogs-4605.html">Alberni Valley Bulldogs</a></div>
 <div class="ti"><a href="/stte/calgary-hitmen-5091.html">Calgary Hitmen</a></div>
 <div class="ti"><a href="/stte/vancouver-giants-8759.html">Vancouver Giants</a></div>
 <div class="ti"><a href="/stte/iowa-wild-11345.html">Iowa Wild</a></div>
 <div class="ti"><a href="/stte/quad-city-mallards-11552.html">Quad City Mallards</a></div>
 <div class="ti"><a href="/stte/rapid-city-rush-11553.html">Rapid City Rush</a></div>
 <div class="ti"><a href="/stte/allen-americans-11549.html">Allen Americans</a></div>
-<div class="ti"><a href="/stte/jacksonville-icemen-12225.html">Jacksonville Icemen</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Maxim Letunov Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Maxim Letunov, a hockey player from Moscow, Russia born Feb 20 1996 who was active from 2013 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Maxim Letunov, a hockey player from Moscow, Russia born Feb 20 1996 who was active from 2013 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Maxim Letunov</h1>
 <div class="v1-1">
 Foward -- shoots L<br />
-<span class="bdate">Born Feb 20 1996 -- </span><span class="hometown" itemprop="homeLocation">Moscow, Russia</span> <br />[23 yrs. ago] <br />Height 6.04 -- Weight 180<span class="vitals_metric"> [193 cm/82 kg]</span><br />
+<span class="bdate">Born Feb 20 1996 -- </span><span class="hometown" itemprop="homeLocation">Moscow, Russia</span> <br />[23 yrs. ago] <br />Height 6.04 -- Weight 185<span class="vitals_metric"> [193 cm/84 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <td>43</td>
 <td>42</td>
 <td>-17</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0054352015.html">Youngstown Phantoms</a></td>
@@ -286,22 +286,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <td>2</td>
 <td>2</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073922020.html">San Jose Barracuda</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170314','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Maxim Letunov stats!</a>
- | <a href="viewastext.php?27d74d78=c1586eee&amp;pid=170314" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?531485d2=ac54040a&amp;pid=170314" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -277,7 +277,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>62</td>
 <td>26</td>
 <td>-3</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076532018.html">Cleveland Monsters</a></td>
@@ -288,7 +288,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>7</td>
 <td>0</td>
 <td>5</td>
-<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+<td></td><td></td><td></td><td></td><td></td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0069282019.html">South Carolina Stingrays</a></td>
@@ -319,12 +319,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0011082020.html">Krefeld Penguins</a></td>
 <td class="pdl l">DEL</td>
-<td class="pdgp">9</td>
-<td>5</td>
+<td class="pdgp">2</td>
+<td>2</td>
+<td>1</td>
 <td>3</td>
-<td>8</td>
 <td>2</td>
-<td>2</td>
+<td>1</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -332,7 +332,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=165755','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Grant Besse stats!</a>
- | <a href="viewastext.php?99d91e99=93fa7f8b&amp;pid=165755" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?a3dcc8bc=52850153&amp;pid=165755" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

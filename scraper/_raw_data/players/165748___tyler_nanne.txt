@@ -278,18 +278,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>2</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
-<tr class="COLLEG-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070722020.html">U. of Minnesota</a></td>
-<td class="pdl l">Big-10</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=165748','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Tyler Nanne stats!</a>
- | <a href="viewastext.php?4380929f=39327bed&amp;pid=165748" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?951cef55=fcf212e8&amp;pid=165748" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

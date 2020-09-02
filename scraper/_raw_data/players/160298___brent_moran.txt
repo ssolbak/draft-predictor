@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Brent Moran Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Brent Moran, a hockey player from Orleans, ONT born Jul 5 1996 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Brent Moran, a hockey player from Orleans, ONT born Jul 5 1996 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -364,30 +364,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005404.html">Dallas Stars</a><div>-
 <td>0.898</td>
 <td></td><td></td><td></td>
 </tr>
-<tr class="COLLEG-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0054942020.html">Nipissing University</a></td>
-<td class="pdl l">OUAA</td>
-<td>2</td>
-<td>0</td>
-<td>0</td>
-<td>120</td>
-<td>2</td>
-<td>0</td>
-<td>0</td>
-<td>1.00</td>
-<td>2</td>
-<td>0</td>
-<td>0</td>
-<td>78</td>
-<td>0.975</td>
-<td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160298','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Brent Moran stats!</a>
- | <a href="viewastext.php?6801127a=bf14290b&amp;pid=160298" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?3ee23ec0=d1f925ec&amp;pid=160298" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

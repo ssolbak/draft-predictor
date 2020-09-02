@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Chase De Leo Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Chase De Leo, a hockey player from La Mirada, CA born Oct 25 1995 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Chase De Leo, a hockey player from La Mirada, CA born Oct 25 1995 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Chase De Leo</h1>
 <div class="v1-1">
 Center -- shoots L<br />
-<span class="bdate">Born Oct 25 1995 -- </span><span class="hometown" itemprop="homeLocation">La Mirada, CA</span> <br />[23 yrs. ago] <br />Height 5.10 -- Weight 186<span class="vitals_metric"> [178 cm/84 kg]</span><br />
+<span class="bdate">Born Oct 25 1995 -- </span><span class="hometown" itemprop="homeLocation">La Mirada, CA</span> <br />[23 yrs. ago] <br />Height 5.09 -- Weight 179<span class="vitals_metric"> [175 cm/81 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -283,7 +283,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>40</td>
 <td>34</td>
 <td>-27</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0063782016.html">Winnipeg Jets</a></td>
@@ -294,7 +294,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>0</td>
 <td>0</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073892017.html">Manitoba Moose</a></td>
@@ -305,7 +305,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>32</td>
 <td>12</td>
 <td>-22</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073892018.html">Manitoba Moose</a></td>
@@ -348,17 +348,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>1</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073912020.html">San Diego Gulls</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -375,7 +364,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145138','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Chase De Leo stats!</a>
- | <a href="viewastext.php?08e10cd6=a9772946&amp;pid=145138" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?8b17ef6b=3dd9febd&amp;pid=145138" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

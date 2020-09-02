@@ -485,19 +485,19 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <tr class="ENONEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0071672020.html">Bietigheim-Bissingen SC</a></td>
 <td class="pdl l">DEL-2</td>
-<td>9</td>
+<td>2</td>
 <td>0</td>
 <td>0</td>
-<td>499</td>
-<td>23</td>
+<td>125</td>
+<td>4</td>
 <td>0</td>
 <td>0</td>
-<td>2.76</td>
-<td>6</td>
+<td>1.92</td>
+<td>1</td>
 <td>0</td>
 <td>0</td>
-<td>248</td>
-<td>0.915</td>
+<td>46</td>
+<td>0.920</td>
 <td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -505,7 +505,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=131019','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Stephon Williams stats!</a>
- | <a href="viewastext.php?d96fa6dd=e0d7d70e&amp;pid=131019" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?bb3408d4=68450f31&amp;pid=131019" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -324,11 +324,11 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0011702020.html">Davos HC</a></td>
 <td class="pdl l">Swiss-A</td>
-<td class="pdgp">6</td>
-<td>1</td>
+<td class="pdgp">2</td>
 <td>0</td>
-<td>1</td>
-<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
 <td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -336,7 +336,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=164361','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Fabrice Herzog stats!</a>
- | <a href="viewastext.php?69a460c7=f628518c&amp;pid=164361" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?6f661438=907250bd&amp;pid=164361" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

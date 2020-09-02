@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Cal Petersen Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Cal Petersen, a hockey player from Waterloo, IA born Oct 19 1994 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Cal Petersen, a hockey player from Waterloo, IA born Oct 19 1994 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -165,8 +165,8 @@ if (screen.width >= 1270) {
 <div class="v1">
 <h1 itemprop="name" class="title">Cal Petersen</h1>
 <div class="v1-1">
-Goalie -- shoots R<br />
-<span class="bdate">Born Oct 19 1994 -- </span><span class="hometown" itemprop="homeLocation">Waterloo, IA</span> <br />[24 yrs. ago] <br />Height 6.01 -- Weight 182<span class="vitals_metric"> [185 cm/83 kg]</span><br />
+Goalie<br />
+<span class="bdate">Born Oct 19 1994 -- </span><span class="hometown" itemprop="homeLocation">Waterloo, IA</span> <br />[24 yrs. ago] <br />Height 6.01 -- Weight 185<span class="vitals_metric"> [185 cm/84 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -237,7 +237,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>1</td>
 <td>49</td>
 <td>0.925</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2011-12</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023322012.html">Waterloo Black Hawks</a></td>
@@ -255,7 +255,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>0</td>
 <td>120</td>
 <td>0.902</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023322013.html">Waterloo Black Hawks</a></td>
@@ -387,7 +387,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>1</td>
 <td>1218</td>
 <td>0.896</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000402019.html">Los Angeles Kings</a></td>
@@ -405,25 +405,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>1</td>
 <td>328</td>
 <td>0.924</td>
-<td></td><td></td><td></td>
-</tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073902020.html">Ontario Reign</a></td>
-<td class="pdl l">AHL</td>
-<td>2</td>
-<td>0</td>
-<td>2</td>
-<td>125</td>
-<td>2</td>
-<td>0</td>
-<td>1</td>
-<td>0.96</td>
-<td>2</td>
-<td>0</td>
-<td>0</td>
-<td>83</td>
-<td>0.976</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 </tbody>
 <tfoot>
@@ -450,7 +432,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=154539','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Cal Petersen stats!</a>
- | <a href="viewastext.php?e8d46619=2f9b52df&amp;pid=154539" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?2c42aff3=b19770c9&amp;pid=154539" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

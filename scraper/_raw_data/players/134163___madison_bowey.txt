@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic134163 = new ImageCollection(['/ihdb/photos/madison-bowey-2019-34.jpg','/ihdb/photos/madison-bowey-2019-49.jpg','/ihdb/photos/madison-bowey-2017-49.jpg','/ihdb/photos/madison-bowey-2016-49.jpg','/ihdb/photos/madison-bowey-2014-49.jpg']);
+var ic134163 = new ImageCollection(['/ihdb/photos/madison-bowey-2019-34.jpg','/ihdb/photos/madison-bowey-2017-49.jpg','/ihdb/photos/madison-bowey-2016-49.jpg','/ihdb/photos/madison-bowey-2014-49.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -363,12 +363,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>-4</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000342020.html">Detroit Red Wings</a></td>
-<td class="pdl l">NHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -385,7 +379,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=134163','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Madison Bowey stats!</a>
- | <a href="viewastext.php?c78b7ef5=f3f35327&amp;pid=134163" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?34bcb383=067449cf&amp;pid=134163" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

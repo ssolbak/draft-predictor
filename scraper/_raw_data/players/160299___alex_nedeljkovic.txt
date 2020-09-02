@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Alex Nedeljkovic Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Alex Nedeljkovic, a hockey player from Parma, OH born Jan 7 1996 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Alex Nedeljkovic, a hockey player from Parma, OH born Jan 7 1996 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Alex Nedeljkovic</h1>
 <div class="v1-1">
 Goalie -- shoots R<br />
-<span class="bdate">Born Jan 7 1996 -- </span><span class="hometown" itemprop="homeLocation">Parma, OH</span> <br />[23 yrs. ago] <br />Height 5.11 -- Weight 190<span class="vitals_metric"> [180 cm/86 kg]</span><br />
+<span class="bdate">Born Jan 7 1996 -- </span><span class="hometown" itemprop="homeLocation">Parma, OH</span> <br />[23 yrs. ago] <br />Height 6.00 -- Weight 189<span class="vitals_metric"> [183 cm/86 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -276,7 +276,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td>7</td>
 <td>1827</td>
 <td>0.916</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0069202015.html">Florida Everblades</a></td>
@@ -294,7 +294,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td>0</td>
 <td>53</td>
 <td>0.841</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0074352016.html">Flint Firebirds</a></td>
@@ -312,7 +312,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td>2</td>
 <td>583</td>
 <td>0.907</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047142016.html">Niagara IceDogs</a></td>
@@ -350,7 +350,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td>0</td>
 <td>543</td>
 <td>0.881</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0009792017.html">Carolina Hurricanes</a></td>
@@ -368,7 +368,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td></td>
 <td>17</td>
 <td>1.000</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0069202017.html">Florida Everblades</a></td>
@@ -448,24 +448,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td>0.923</td>
 <td>-</td><td>-</td><td>-</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0060542020.html">Charlotte Checkers</a></td>
-<td class="pdl l">AHL</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>58</td>
-<td>5</td>
-<td>0</td>
-<td>0</td>
-<td>5.21</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>18</td>
-<td>0.783</td>
-<td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -491,7 +473,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160299','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Alex Nedeljkovic stats!</a>
- | <a href="viewastext.php?c3425567=a9f7ddfe&amp;pid=160299" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?68c0d263=c2c171a3&amp;pid=160299" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

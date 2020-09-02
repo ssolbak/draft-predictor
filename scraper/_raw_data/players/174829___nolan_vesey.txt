@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic174829 = new ImageCollection(['/ihdb/photos/nolan-vesey-2020-41.jpg','/ihdb/photos/nolan-vesey-2019-41.jpg']);
+var ic174829 = new ImageCollection(['/ihdb/photos/nolan-vesey-2019-41.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Nolan Vesey</h1>
 <div class="v1-1">
 Foward -- shoots L<br />
-<span class="bdate">Born Mar 28 1995 -- </span><span class="hometown" itemprop="homeLocation">North Reading, MA</span> <br />[24 yrs. ago] <br />Height 6.00 -- Weight 205<span class="vitals_metric"> [183 cm/93 kg]</span><br />
+<span class="bdate">Born Mar 28 1995 -- </span><span class="hometown" itemprop="homeLocation">North Reading, MA</span> <br />[24 yrs. ago] <br />Height 6.02 -- Weight 210<span class="vitals_metric"> [188 cm/95 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <span id="div174829"><span id="but174829" class="trades sprite" onclick="sc('deals',174829)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Nolan Vesey hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic174829.next(this)" src="/ihdb/photos/nolan-vesey-2020-41.jpg" />
+<img itemprop="image" alt="Nolan Vesey hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic174829.next(this)" src="/ihdb/photos/nolan-vesey-2019-41.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content174829">
@@ -295,18 +295,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>1</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073882020.html">Bakersfield Condors</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=174829','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Nolan Vesey stats!</a>
- | <a href="viewastext.php?82c38ae6=022e7815&amp;pid=174829" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?b1885288=34fefaed&amp;pid=174829" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -324,7 +318,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/17573">Cap Hit of $817,500 to 2019-20 (RFA)</a>
+<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/17573">Cap Hit of $817,500 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/17573"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

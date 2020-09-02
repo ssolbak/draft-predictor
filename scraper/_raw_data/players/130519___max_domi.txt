@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Max Domi Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Max Domi, a hockey player from Winnipeg, MAN born Mar 2 1995 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Max Domi, a hockey player from Winnipeg, MAN born Mar 2 1995 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic130519 = new ImageCollection(['/ihdb/photos/max-domi-2020-45.jpg','/ihdb/photos/max-domi-2019-45.jpg','/ihdb/photos/max-domi-2018-7166.jpg','/ihdb/photos/max-domi-2017-7166.jpg','/ihdb/photos/max-domi-2016-7166.jpg','/ihdb/photos/max-domi-2015-7166.jpg','/ihdb/photos/max-domi-2014-790.jpg']);
+var ic130519 = new ImageCollection(['/ihdb/photos/max-domi-2019-45.jpg','/ihdb/photos/max-domi-2018-7166.jpg','/ihdb/photos/max-domi-2017-7166.jpg','/ihdb/photos/max-domi-2016-7166.jpg','/ihdb/photos/max-domi-2015-7166.jpg','/ihdb/photos/max-domi-2014-790.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Max Domi</h1>
 <div class="v1-1">
 Center -- shoots L<br />
-<span class="bdate">Born Mar 2 1995 -- </span><span class="hometown" itemprop="homeLocation">Winnipeg, MAN</span> <br />[24 yrs. ago] <br />Height 5.10 -- Weight 192<span class="vitals_metric"> [178 cm/87 kg]</span><br />
+<span class="bdate">Born Mar 2 1995 -- </span><span class="hometown" itemprop="homeLocation">Winnipeg, MAN</span> <br />[24 yrs. ago] <br />Height 5.10 -- Weight 193<span class="vitals_metric"> [178 cm/88 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Phoenix Coyotes</a><div>-
 <span id="div130519"><span id="but130519" class="trades sprite" onclick="sc('deals',130519)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Max Domi hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic130519.next(this)" src="/ihdb/photos/max-domi-2020-45.jpg" />
+<img itemprop="image" alt="Max Domi hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic130519.next(this)" src="/ihdb/photos/max-domi-2019-45.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content130519">
@@ -223,7 +223,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Phoenix Coyotes</a><div>-
 <td>2</td>
 <td>0</td>
 <td>&nbsp;</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2011-12</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008142012.html">London Knights</a></td>
@@ -294,7 +294,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Phoenix Coyotes</a><div>-
 <td>52</td>
 <td>72</td>
 <td>3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0071662017.html">Arizona Coyotes</a></td>
@@ -305,7 +305,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Phoenix Coyotes</a><div>-
 <td>38</td>
 <td>40</td>
 <td>-9</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0071662018.html">Arizona Coyotes</a></td>
@@ -316,7 +316,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Phoenix Coyotes</a><div>-
 <td>45</td>
 <td>73</td>
 <td>-7</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000452019.html">Montreal Canadiens</a></td>
@@ -327,24 +327,14 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Phoenix Coyotes</a><div>-
 <td>72</td>
 <td>80</td>
 <td>20</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000452020.html">Montreal Canadiens</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>305</td>
+<td>304</td>
 <td>64</td>
 <td>143</td>
 <td>207</td>
@@ -355,7 +345,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Phoenix Coyotes</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=130519','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Max Domi stats!</a>
- | <a href="viewastext.php?6754823e=b84318cc&amp;pid=130519" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?4c639cfe=31d276f6&amp;pid=130519" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

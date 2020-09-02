@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Ryan Hartman (b.1994) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Ryan Hartman, a hockey player from Hilton Head Island, SC born Sep 20 1994 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Ryan Hartman, a hockey player from Hilton Head Island, SC born Sep 20 1994 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Ryan Hartman</h1>
 <div class="v1-1">
 Right Wing -- shoots R<br />
-<span class="bdate">Born Sep 20 1994 -- </span><span class="hometown" itemprop="homeLocation">Hilton Head Island, SC</span> <br />[25 yrs. ago] <br />Height 6.00 -- Weight 189<span class="vitals_metric"> [183 cm/86 kg]</span><br />
+<span class="bdate">Born Sep 20 1994 -- </span><span class="hometown" itemprop="homeLocation">Hilton Head Island, SC</span> <br />[24 yrs. ago] <br />Height 6.00 -- Weight 181<span class="vitals_metric"> [183 cm/82 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -238,7 +238,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td>16</td>
 <td>46</td>
 <td>6</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0011452013.html">Plymouth Whalers</a></td>
@@ -279,7 +279,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td>7</td>
 <td>8</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047292015.html">Rockford IceHogs</a></td>
@@ -305,7 +305,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td>0</td>
 <td>2</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047292016.html">Rockford IceHogs</a></td>
@@ -331,7 +331,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td>1</td>
 <td>0</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000352017.html">Chicago Blackhawks</a></td>
@@ -357,7 +357,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td>25</td>
 <td>58</td>
 <td>5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0014122018.html">Nashville Predators</a></td>
@@ -383,7 +383,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td>20</td>
 <td>44</td>
 <td>7</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000532019.html">Philadelphia Flyers</a></td>
@@ -394,25 +394,14 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td>6</td>
 <td>30</td>
 <td>-6</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023312020.html">Minnesota Wild</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>246</td>
+<td>245</td>
 <td>42</td>
 <td>47</td>
 <td>89</td>
@@ -427,7 +416,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=130904','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ryan Hartman stats!</a>
- | <a href="viewastext.php?8dae01f6=032906d3&amp;pid=130904" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?cfe2a16d=eea6c132&amp;pid=130904" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -501,13 +490,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Ryan Hartman played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/u.s.-national-development-team-9725.html">U.S. National Development Team</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Ryan Hartman played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/u.s.-national-development-team-9725.html">U.S. National Development Team</a></div>
 <div class="ti"><a href="/stte/plymouth-whalers-7484.html">Plymouth Whalers</a></div>
 <div class="ti"><a href="/stte/rockford-icehogs-7743.html">Rockford IceHogs</a></div>
 <div class="ti"><a href="/stte/chicago-blackhawks-5218.html">Chicago Blackhawks</a></div>
 <div class="ti"><a href="/stte/nashville-predators-7024.html">Nashville Predators</a></div>
 <div class="ti"><a href="/stte/philadelphia-flyers-7439.html">Philadelphia Flyers</a></div>
-<div class="ti"><a href="/stte/minnesota-wild-6879.html">Minnesota Wild</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

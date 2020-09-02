@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Zac Leslie Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Zac Leslie, a hockey player from Ottawa, ONT born Jan 31 1994 who was active from 2009 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Zac Leslie, a hockey player from Ottawa, ONT born Jan 31 1994 who was active from 2009 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -374,23 +374,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>6</td>
 <td>6</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073932020.html">Stockton Heat</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">2</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=142058','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Zac Leslie stats!</a>
- | <a href="viewastext.php?ee9c5b3f=30d72460&amp;pid=142058" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?e76927a0=cd5aaf1a&amp;pid=142058" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -420,12 +409,11 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Zac Leslie played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/gloucester-rangers-10633.html">Gloucester Rangers</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Zac Leslie played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/gloucester-rangers-10633.html">Gloucester Rangers</a></div>
 <div class="ti"><a href="/stte/guelph-storm-5953.html">Guelph Storm</a></div>
 <div class="ti"><a href="/stte/ontario-reign-11618.html">Ontario Reign</a></div>
 <div class="ti"><a href="/stte/manchester-monarchs-11624.html">Manchester Monarchs</a></div>
 <div class="ti"><a href="/stte/chicago-wolves-5237.html">Chicago Wolves</a></div>
-<div class="ti"><a href="/stte/stockton-heat-11621.html">Stockton Heat</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

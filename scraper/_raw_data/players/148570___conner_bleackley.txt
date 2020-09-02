@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Conner Bleackley Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Conner Bleackley, a hockey player from High River, ALTA born Feb 7 1996 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Conner Bleackley, a hockey player from High River, ALTA born Feb 7 1996 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -224,7 +224,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>2</td>
 <td>6</td>
 <td>-5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0010032013.html">Red Deer Rebels</a></td>
@@ -250,7 +250,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>68</td>
 <td>48</td>
 <td>3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0010032015.html">Red Deer Rebels</a></td>
@@ -276,7 +276,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>46</td>
 <td>49</td>
 <td>13</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026742017.html">Chicago Wolves</a></td>
@@ -302,7 +302,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>17</td>
 <td>14</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026742018.html">Chicago Wolves</a></td>
@@ -313,7 +313,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>1</td>
 <td>2</td>
 <td>4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073192018.html">Tulsa Oilers</a></td>
@@ -324,7 +324,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>38</td>
 <td>82</td>
 <td>-7</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0029702018.html">San Antonio Rampage</a></td>
@@ -335,7 +335,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>1</td>
 <td>7</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0029702019.html">San Antonio Rampage</a></td>
@@ -348,23 +348,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>-15</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0054192020.html">Texas Stars</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">1</td>
-<td>2</td>
-<td>0</td>
-<td>2</td>
-<td>0</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=148570','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Conner Bleackley stats!</a>
- | <a href="viewastext.php?0673123f=11a8309e&amp;pid=148570" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?bc798eaa=5339c9a1&amp;pid=148570" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -393,12 +382,11 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Conner Bleackley played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/red-deer-rebels-7627.html">Red Deer Rebels</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Conner Bleackley played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/red-deer-rebels-7627.html">Red Deer Rebels</a></div>
 <div class="ti"><a href="/stte/chicago-wolves-5237.html">Chicago Wolves</a></div>
 <div class="ti"><a href="/stte/kansas-city-mavericks-11551.html">Kansas City Mavericks</a></div>
 <div class="ti"><a href="/stte/tulsa-oilers-11554.html">Tulsa Oilers</a></div>
 <div class="ti"><a href="/stte/san-antonio-rampage-7852.html">San Antonio Rampage</a></div>
-<div class="ti"><a href="/stte/texas-stars-9708.html">Texas Stars</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

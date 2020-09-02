@@ -364,12 +364,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00007066.html">New Jersey Devils</a><div
 <td>-1</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026122020.html">Milwaukee Admirals</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -386,7 +380,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007066.html">New Jersey Devils</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145552','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Steven Santini stats!</a>
- | <a href="viewastext.php?556a27ce=b28fd8a0&amp;pid=145552" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?0472706e=8517ca10&amp;pid=145552" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -453,13 +447,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007066.html">New Jersey Devils</a><div
 <div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Steven Santini played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/new-york-apple-core-10961.html">New York Apple Core</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Steven Santini played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/new-york-apple-core-10961.html">New York Apple Core</a></div>
 <div class="ti"><a href="/stte/u.s.-national-development-team-9725.html">U.S. National Development Team</a></div>
 <div class="ti"><a href="/stte/boston-college-4920.html">Boston College</a></div>
 <div class="ti"><a href="/stte/new-jersey-devils-7066.html">New Jersey Devils</a></div>
 <div class="ti"><a href="/stte/albany-devils-10348.html">Albany Devils</a></div>
 <div class="ti"><a href="/stte/binghamton-devils-12223.html">Binghamton Devils</a></div>
-<div class="ti"><a href="/stte/milwaukee-admirals-6842.html">Milwaukee Admirals</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

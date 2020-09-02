@@ -342,18 +342,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>2</td>
 <td>4</td>
 </tr>
-<tr class="MINPRO-2"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0032552020.html">Idaho Steelheads</a></td>
-<td class="pdl l">ECHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=144242','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Kyle Schempp stats!</a>
- | <a href="viewastext.php?e16329e1=bc2474aa&amp;pid=144242" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?fd43633f=df6cfa19&amp;pid=144242" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

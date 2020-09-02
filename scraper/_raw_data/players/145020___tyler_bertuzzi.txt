@@ -363,26 +363,15 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>11</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000342020.html">Detroit Red Wings</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>0</td>
-<td>4</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>129</td>
-<td>30</td>
-<td>45</td>
-<td>75</td>
+<td>128</td>
+<td>28</td>
+<td>43</td>
+<td>71</td>
 <td>75</td>
 <td></td>
 <td></td><td></td><td></td><td></td><td></td>
@@ -390,7 +379,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145020','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Tyler Bertuzzi stats!</a>
- | <a href="viewastext.php?76a22d95=f8b7f358&amp;pid=145020" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?a09c1ee3=3bc98bd8&amp;pid=145020" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><div class="title">Awards</div><table class="sortable autostripe">

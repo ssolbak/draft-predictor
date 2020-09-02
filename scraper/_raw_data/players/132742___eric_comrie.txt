@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic132742 = new ImageCollection(['/ihdb/photos/eric-comrie-2020-6378.jpg','/ihdb/photos/eric-comrie-2019-6378.jpg','/ihdb/photos/eric-comrie-2018-6378.jpg','/ihdb/photos/eric-comrie-2017-6378.jpg','/ihdb/photos/eric-comrie-2016-6378.jpg','/ihdb/photos/eric-comrie-2015-6378.jpg','/ihdb/photos/eric-comrie-2014-6378.jpg']);
+var ic132742 = new ImageCollection(['/ihdb/photos/eric-comrie-2019-6378.jpg','/ihdb/photos/eric-comrie-2018-6378.jpg','/ihdb/photos/eric-comrie-2017-6378.jpg','/ihdb/photos/eric-comrie-2016-6378.jpg','/ihdb/photos/eric-comrie-2015-6378.jpg','/ihdb/photos/eric-comrie-2014-6378.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -176,10 +176,9 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <div class="v1-5">
 &nbsp;
 <a href="/ihdb/cards/carddisplay.php?pid=132742" class="button sprite">&nbsp;</a> 
-<span id="div132742"><span id="but132742" class="trades sprite" onclick="sc('deals',132742)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Eric Comrie hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic132742.next(this)" src="/ihdb/photos/eric-comrie-2020-6378.jpg" />
+<img itemprop="image" alt="Eric Comrie hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic132742.next(this)" src="/ihdb/photos/eric-comrie-2019-6378.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content132742">
@@ -481,24 +480,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>0.821</td>
 <td>-</td><td>-</td><td>-</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0071662020.html">Arizona Coyotes</a></td>
-<td class="pdl l">NHL</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -524,7 +505,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=132742','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Eric Comrie stats!</a>
- | <a href="viewastext.php?45cbc149=a77dbd6f&amp;pid=132742" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d76b2695=c16d924c&amp;pid=132742" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -589,11 +570,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Eric Comrie played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/tri-city-americans-8541.html">Tri-City Americans</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Eric Comrie played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/tri-city-americans-8541.html">Tri-City Americans</a></div>
 <div class="ti"><a href="/stte/st.-john%27s-icecaps-10741.html">St. John's IceCaps</a></div>
 <div class="ti"><a href="/stte/manitoba-moose-11617.html">Manitoba Moose</a></div>
 <div class="ti"><a href="/stte/winnipeg-jets-10675.html">Winnipeg Jets</a></div>
-<div class="ti"><a href="/stte/phoenix-coyotes-7450.html">Phoenix Coyotes</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

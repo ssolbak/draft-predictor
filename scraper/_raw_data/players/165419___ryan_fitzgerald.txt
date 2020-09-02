@@ -312,23 +312,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 <td>1</td>
 <td>0</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000312020.html">Providence Bruins</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">2</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=165419','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ryan Fitzgerald stats!</a>
- | <a href="viewastext.php?8c6f9337=75cec67a&amp;pid=165419" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?ea0141bd=c12cc81f&amp;pid=165419" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

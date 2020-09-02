@@ -362,7 +362,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=143885','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Vincent Dunn stats!</a>
- | <a href="viewastext.php?0b6553ce=8a63d815&amp;pid=143885" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?337df5d6=2a6c6c43&amp;pid=143885" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -382,7 +382,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Similar Players</h4>
 <div style="margin-bottom:10px">Not the Vincent Dunn you're looking for? We have three other players with similar names.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=170118">Vince Dunn</a></div>
-<div class="in1 ti" style="margin-bottom:5px"> (b.1996) (NHL, AHL, OHL) [2013-2020]</div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1996) (NHL, AHL, OHL) [2013-2019]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=29559">Vincent Dionne</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (b.1979) (QMJHL, AUS, MJAHL) [1996-2003]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=211897">Vincent Doyon</a></div>

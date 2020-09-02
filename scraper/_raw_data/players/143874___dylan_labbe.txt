@@ -355,7 +355,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=143874','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Dylan Labbe stats!</a>
- | <a href="viewastext.php?06c4723e=3143806e&amp;pid=143874" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?f8c7132e=cbe9b871&amp;pid=143874" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

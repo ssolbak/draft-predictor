@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic160632 = new ImageCollection(['/ihdb/photos/alex-tuch-2020-7776.jpg','/ihdb/photos/alex-tuch-2019-7776.jpg','/ihdb/photos/alex-tuch-2018-7776.jpg','/ihdb/photos/alex-tuch-2017-2331.jpg']);
+var ic160632 = new ImageCollection(['/ihdb/photos/alex-tuch-2019-7776.jpg','/ihdb/photos/alex-tuch-2018-7776.jpg','/ihdb/photos/alex-tuch-2017-2331.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <span id="div160632"><span id="but160632" class="trades sprite" onclick="sc('deals',160632)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Alex Tuch hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160632.next(this)" src="/ihdb/photos/alex-tuch-2020-7776.jpg" />
+<img itemprop="image" alt="Alex Tuch hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160632.next(this)" src="/ihdb/photos/alex-tuch-2019-7776.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content160632">
@@ -321,12 +321,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>2</td>
 <td>8</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0077762020.html">Vegas Golden Knights</a></td>
-<td class="pdl l">NHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -347,7 +341,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160632','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Alex Tuch stats!</a>
- | <a href="viewastext.php?a25df9ea=05fd8503&amp;pid=160632" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?5892bbf9=29573d2c&amp;pid=160632" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

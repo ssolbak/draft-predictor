@@ -302,7 +302,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005404.html">Dallas Stars</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160302','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Alex Peters stats!</a>
- | <a href="viewastext.php?63ca243f=3f94211f&amp;pid=160302" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?9e5d2c3e=c1e60799&amp;pid=160302" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

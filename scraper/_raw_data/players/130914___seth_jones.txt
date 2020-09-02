@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Seth Jones</h1>
 <div class="v1-1">
 Defense -- shoots R<br />
-<span class="bdate">Born Oct 3 1994 -- </span><span class="hometown" itemprop="homeLocation">Arlington, TX</span> <br />[25 yrs. ago] <br />Height 6.04 -- Weight 209<span class="vitals_metric"> [193 cm/95 kg]</span><br />
+<span class="bdate">Born Oct 3 1994 -- </span><span class="hometown" itemprop="homeLocation">Arlington, TX</span> <br />[24 yrs. ago] <br />Height 6.04 -- Weight 210<span class="vitals_metric"> [193 cm/95 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -223,7 +223,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>14</td>
 <td>20</td>
 <td>5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2011-12</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0054342012.html">U.S. National Development Team</a></td>
@@ -234,7 +234,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>12</td>
 <td>6</td>
 <td>5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0054022013.html">Portland Winterhawks</a></td>
@@ -260,7 +260,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>25</td>
 <td>24</td>
 <td>-23</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0014122015.html">Nashville Predators</a></td>
@@ -286,7 +286,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>11</td>
 <td>10</td>
 <td>-5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023302016.html">Columbus Blue Jackets</a></td>
@@ -297,7 +297,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>20</td>
 <td>12</td>
 <td>-9</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023302017.html">Columbus Blue Jackets</a></td>
@@ -344,22 +344,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>9</td>
 <td>0</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023302020.html">Columbus Blue Jackets</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>469</td>
+<td>468</td>
 <td>54</td>
 <td>174</td>
 <td>228</td>
@@ -374,7 +364,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=130914','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Seth Jones stats!</a>
- | <a href="viewastext.php?64f77cc7=f1a5fa94&amp;pid=130914" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d055e731=a0746947&amp;pid=130914" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

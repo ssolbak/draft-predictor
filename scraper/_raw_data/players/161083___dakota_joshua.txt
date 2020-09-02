@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Dakota Joshua Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Dakota Joshua, a hockey player from Dearborn, MI born May 15 1996 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Dakota Joshua, a hockey player from Dearborn, MI born May 15 1996 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -165,7 +165,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Dakota Joshua</h1>
 <div class="v1-1">
 Foward -- shoots L<br />
-<span class="bdate">Born May 15 1996 -- </span><span class="hometown" itemprop="homeLocation">Dearborn, MI</span> <br />[23 yrs. ago] <br />Height 6.02 -- Weight 198<span class="vitals_metric"> [188 cm/90 kg]</span><br />
+<span class="bdate">Born May 15 1996 -- </span><span class="hometown" itemprop="homeLocation">Dearborn, MI</span> <br />[23 yrs. ago] <br />Height 6.03 -- Weight 200<span class="vitals_metric"> [191 cm/91 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -217,7 +217,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>2</td>
 <td>2</td>
 <td>-6</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0024322013.html">Sioux Falls Stampede</a></td>
@@ -228,7 +228,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>1</td>
 <td>0</td>
 <td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0024322014.html">Sioux Falls Stampede</a></td>
@@ -304,23 +304,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>4</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0029702020.html">San Antonio Rampage</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=161083','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Dakota Joshua stats!</a>
- | <a href="viewastext.php?e05fbdbd=1fc10454&amp;pid=161083" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?291346c4=2d273b9d&amp;pid=161083" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -338,21 +327,19 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6157">Cap Hit of $792,500 to 2020-21 (RFA)</a>
+<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6157">Cap Hit of $792,500 to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6157"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Dakota Joshua played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
+<div style="margin-bottom:10px">Dakota Joshua played in two leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/405.html">Big 10 - Div. 1</a></div>
-<div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Dakota Joshua played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/u.s.-national-development-team-9725.html">U.S. National Development Team</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the three teams that Dakota Joshua played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/u.s.-national-development-team-9725.html">U.S. National Development Team</a></div>
 <div class="ti"><a href="/stte/sioux-falls-stampede-8026.html">Sioux Falls Stampede</a></div>
 <div class="ti"><a href="/stte/ohio-state-university-7241.html">Ohio State University</a></div>
-<div class="ti"><a href="/stte/san-antonio-rampage-7852.html">San Antonio Rampage</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

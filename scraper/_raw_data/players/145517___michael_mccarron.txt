@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic145517 = new ImageCollection(['/ihdb/photos/michael-mccarron-2020-45.jpg','/ihdb/photos/michael-mccarron-2019-45.jpg','/ihdb/photos/michael-mccarron-2018-45.jpg','/ihdb/photos/michael-mccarron-2017-45.jpg','/ihdb/photos/michael-mccarron-2016-45.jpg','/ihdb/photos/michael-mccarron-2015-45.jpg']);
+var ic145517 = new ImageCollection(['/ihdb/photos/michael-mccarron-2019-45.jpg','/ihdb/photos/michael-mccarron-2018-45.jpg','/ihdb/photos/michael-mccarron-2017-45.jpg','/ihdb/photos/michael-mccarron-2016-45.jpg','/ihdb/photos/michael-mccarron-2015-45.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Michael McCarron</h1>
 <div class="v1-1">
 Right Wing -- shoots R<br />
-<span class="bdate">Born Mar 7 1995 -- </span><span class="hometown" itemprop="homeLocation">Grosse Pointe, MI</span> <br />[24 yrs. ago] <br />Height 6.06 -- Weight 232<span class="vitals_metric"> [198 cm/105 kg]</span><br />
+<span class="bdate">Born Mar 7 1995 -- </span><span class="hometown" itemprop="homeLocation">Grosse Pointe, MI</span> <br />[24 yrs. ago] <br />Height 6.06 -- Weight 230<span class="vitals_metric"> [198 cm/104 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 <a href="/ihdb/cards/carddisplay.php?pid=145517" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Michael McCarron hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic145517.next(this)" src="/ihdb/photos/michael-mccarron-2020-45.jpg" />
+<img itemprop="image" alt="Michael McCarron hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic145517.next(this)" src="/ihdb/photos/michael-mccarron-2019-45.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content145517">
@@ -237,7 +237,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 <td>10</td>
 <td>84</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008142014.html">London Knights</a></td>
@@ -263,7 +263,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 <td>41</td>
 <td>58</td>
 <td>8</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008072015.html">Oshawa Generals</a></td>
@@ -289,7 +289,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 <td>38</td>
 <td>91</td>
 <td>-8</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000452016.html">Montreal Canadiens</a></td>
@@ -300,7 +300,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 <td>2</td>
 <td>37</td>
 <td>-10</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073942017.html">St. John's IceCaps</a></td>
@@ -341,7 +341,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 <td>24</td>
 <td>121</td>
 <td>-14</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000452018.html">Montreal Canadiens</a></td>
@@ -352,7 +352,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 <td>1</td>
 <td>32</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081592019.html">Laval Rocket</a></td>
@@ -362,13 +362,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 <td>14</td>
 <td>21</td>
 <td>46</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000452020.html">Montreal Canadiens*</a></td>
-<td class="pdl l">NHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 </tbody>
 <tfoot>
@@ -390,13 +384,13 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145517','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Michael McCarron stats!</a>
- | <a href="viewastext.php?8be7bee2=50868666&amp;pid=145517" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?e9db21c0=e5abf211&amp;pid=145517" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
 
 <div class="tablebg desktop st">
-<div>* No longer on active roster.</div> </div>
+</div>
 </div>
 <div class="sponsor" id="300_160_300" >
 <div id='right_rectangle'>

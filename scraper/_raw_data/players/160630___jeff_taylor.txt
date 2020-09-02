@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Jeff Taylor</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Apr 13 1994 -- </span><span class="hometown" itemprop="homeLocation">Albany, NY</span> <br />[25 yrs. ago] <br />Height 6.00 -- Weight 185<span class="vitals_metric"> [183 cm/84 kg]</span><br />
+<span class="bdate">Born Apr 13 1994 -- </span><span class="hometown" itemprop="homeLocation">Albany, NY</span> <br />[25 yrs. ago] <br />Height 6.00 -- Weight 180<span class="vitals_metric"> [183 cm/82 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -280,7 +280,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0019802018.html">Wilkes-Barre/Scranton Penguins</a></td>
@@ -291,7 +291,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <td>1</td>
 <td>8</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0069312018.html">Wheeling Nailers</a></td>
@@ -302,7 +302,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <td>19</td>
 <td>26</td>
 <td>5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0019802019.html">Wilkes-Barre/Scranton Penguins</a></td>
@@ -325,18 +325,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <td>-1</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070852020.html">Hartford Wolf Pack</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160630','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jeff Taylor stats!</a>
- | <a href="viewastext.php?898ebc36=4a158792&amp;pid=160630" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?3d1eef39=9943459e&amp;pid=160630" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -354,7 +348,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6229">Cap Hit of $742,500 to 2018-19 (RFA)</a>
+<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6229">Cap Hit of $742,500 to 2018-19 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6229"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
@@ -381,11 +375,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Jeff Taylor played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/dubuque-fighting-saints-10346.html">Dubuque Fighting Saints</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Jeff Taylor played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/dubuque-fighting-saints-10346.html">Dubuque Fighting Saints</a></div>
 <div class="ti"><a href="/stte/union-college-8708.html">Union College</a></div>
 <div class="ti"><a href="/stte/wilkes-barre-scranton-penguins-8979.html">Wilkes-Barre/Scranton Penguins</a></div>
 <div class="ti"><a href="/stte/wheeling-nailers-8950.html">Wheeling Nailers</a></div>
-<div class="ti"><a href="/stte/hartford-wolf-pack-11373.html">Hartford Wolf Pack</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

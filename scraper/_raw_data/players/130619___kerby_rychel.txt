@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Kerby Rychel Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Kerby Rychel, a hockey player from Torrance, CA born Oct 7 1994 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Kerby Rychel, a hockey player from Torrance, CA born Oct 7 1994 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -413,12 +413,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050292020.html">Nizhnekamsk Neftekhimik</a></td>
 <td class="pdl l">KHL</td>
-<td class="pdgp">7</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>6</td>
-<td>-3</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -437,7 +432,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=130619','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Kerby Rychel stats!</a>
- | <a href="viewastext.php?3152e763=10154b46&amp;pid=130619" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?50e31803=871be65f&amp;pid=130619" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

@@ -283,7 +283,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=168009','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Aidan Muir stats!</a>
- | <a href="viewastext.php?2d7614d8=ab12bd50&amp;pid=168009" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?7e86200f=ccdc2746&amp;pid=168009" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

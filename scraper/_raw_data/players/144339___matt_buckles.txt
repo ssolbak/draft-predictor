@@ -325,7 +325,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=144339','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Matt Buckles stats!</a>
- | <a href="viewastext.php?feb25dcf=3c2436cf&amp;pid=144339" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?9bd633ea=68207e2c&amp;pid=144339" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

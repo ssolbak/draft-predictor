@@ -282,7 +282,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=161940','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Nick Magyar stats!</a>
- | <a href="viewastext.php?3f708c79=c99b7b5c&amp;pid=161940" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?e9e55ece=c742384a&amp;pid=161940" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

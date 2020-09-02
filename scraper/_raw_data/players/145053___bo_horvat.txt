@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Bo Horvat Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Bo Horvat, a hockey player from London, ONT born Apr 5 1995 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Bo Horvat, a hockey player from London, ONT born Apr 5 1995 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic145053 = new ImageCollection(['/ihdb/photos/bo-horvat-2020-39.jpg','/ihdb/photos/bo-horvat-2019-39.jpg','/ihdb/photos/bo-horvat-2018-39.jpg','/ihdb/photos/bo-horvat-2017-39.jpg','/ihdb/photos/bo-horvat-2016-39.jpg','/ihdb/photos/bo-horvat-2015-39.jpg','/ihdb/photos/bo-horvat-2014-39.jpg']);
+var ic145053 = new ImageCollection(['/ihdb/photos/bo-horvat-2019-39.jpg','/ihdb/photos/bo-horvat-2018-39.jpg','/ihdb/photos/bo-horvat-2017-39.jpg','/ihdb/photos/bo-horvat-2016-39.jpg','/ihdb/photos/bo-horvat-2015-39.jpg','/ihdb/photos/bo-horvat-2014-39.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 <span id="div145053"><span id="but145053" class="trades sprite" onclick="sc('deals',145053)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Bo Horvat hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic145053.next(this)" src="/ihdb/photos/bo-horvat-2020-39.jpg" />
+<img itemprop="image" alt="Bo Horvat hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic145053.next(this)" src="/ihdb/photos/bo-horvat-2019-39.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content145053">
@@ -328,22 +328,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 <td>-4</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000392020.html">Vancouver Canucks</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>378</td>
+<td>377</td>
 <td>98</td>
 <td>124</td>
 <td>222</td>
@@ -358,7 +348,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145053','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Bo Horvat stats!</a>
- | <a href="viewastext.php?92188e1d=5afcd856&amp;pid=145053" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?3d16b73d=8371f8cf&amp;pid=145053" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

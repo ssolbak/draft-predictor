@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic160279 = new ImageCollection(['/ihdb/photos/josh-ho-sang-2019-7440.jpg','/ihdb/photos/josh-ho-sang-2018-7440.jpg','/ihdb/photos/josh-ho-sang-2017-7440.jpg','/ihdb/photos/josh-ho-sang-2015-52.jpg']);
+var ic160279 = new ImageCollection(['/ihdb/photos/josh-ho-sang-2018-7440.jpg','/ihdb/photos/josh-ho-sang-2017-7440.jpg','/ihdb/photos/josh-ho-sang-2015-52.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Josh Ho-Sang</h1>
 <div class="v1-1">
 Right Wing -- shoots R<br />
-<span class="bdate">Born Jan 22 1996 -- </span><span class="hometown" itemprop="homeLocation">Toronto, ONT</span> <br />[23 yrs. ago] <br />Height 6.00 -- Weight 172<span class="vitals_metric"> [183 cm/78 kg]</span><br />
+<span class="bdate">Born Jan 22 1996 -- </span><span class="hometown" itemprop="homeLocation">Toronto, ONT</span> <br />[23 yrs. ago] <br />Height 6.00 -- Weight 173<span class="vitals_metric"> [183 cm/78 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <span id="div160279"><span id="but160279" class="trades sprite" onclick="sc('deals',160279)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Josh Ho-Sang hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160279.next(this)" src="/ihdb/photos/josh-ho-sang-2019-7440.jpg" />
+<img itemprop="image" alt="Josh Ho-Sang hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160279.next(this)" src="/ihdb/photos/josh-ho-sang-2018-7440.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content160279">
@@ -223,7 +223,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>44</td>
 <td>22</td>
 <td>-23</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008412014.html">Windsor Spitfires</a></td>
@@ -249,7 +249,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>19</td>
 <td>8</td>
 <td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047142015.html">Niagara IceDogs</a></td>
@@ -290,7 +290,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>36</td>
 <td>24</td>
 <td>-4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0074402017.html">New York Islanders</a></td>
@@ -301,7 +301,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>10</td>
 <td>12</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0074402018.html">New York Islanders</a></td>
@@ -312,7 +312,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>12</td>
 <td>2</td>
 <td>-7</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026712018.html">Bridgeport Sound Tigers</a></td>
@@ -323,7 +323,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>31</td>
 <td>40</td>
 <td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026712019.html">Bridgeport Sound Tigers</a></td>
@@ -351,12 +351,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>2</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026712020.html">Bridgeport Sound Tigers</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -373,7 +367,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160279','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Josh Ho-Sang stats!</a>
- | <a href="viewastext.php?93cb399e=3c099bb0&amp;pid=160279" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?afa60392=d59b3270&amp;pid=160279" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Anthony Louis Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Anthony Louis, a hockey player from Winfield, IL born Feb 10 1995 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Anthony Louis, a hockey player from Winfield, IL born Feb 10 1995 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Anthony Louis</h1>
 <div class="v1-1">
 Center -- shoots L<br />
-<span class="bdate">Born Feb 10 1995 -- </span><span class="hometown" itemprop="homeLocation">Winfield, IL</span> <br />[24 yrs. ago] <br />Height 5.07 -- Weight 151<span class="vitals_metric"> [170 cm/68 kg]</span><br />
+<span class="bdate">Born Feb 10 1995 -- </span><span class="hometown" itemprop="homeLocation">Winfield, IL</span> <br />[24 yrs. ago] <br />Height 5.07 -- Weight 150<span class="vitals_metric"> [170 cm/68 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td>22</td>
 <td>12</td>
 <td>-23</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0054342013.html">U.S. National Development Team</a></td>
@@ -233,7 +233,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td>25</td>
 <td>10</td>
 <td>10</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="COLLEG-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070602014.html">Miami University (Ohio)</a></td>
@@ -288,7 +288,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td>2</td>
 <td>4</td>
 <td>-9</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047292018.html">Rockford IceHogs</a></td>
@@ -316,23 +316,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td>3</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0060542020.html">Charlotte Checkers</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">2</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145509','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Anthony Louis stats!</a>
- | <a href="viewastext.php?f7e76f52=9b385cad&amp;pid=145509" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?011e4bae=0db1f5df&amp;pid=145509" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -393,10 +382,9 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <div class="ti" ><a href="/ihdb/stats/leagues/404.html">National Collegiate Hockey Conf. - Div. 1</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Anthony Louis played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/u.s.-national-development-team-9725.html">U.S. National Development Team</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the three teams that Anthony Louis played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/u.s.-national-development-team-9725.html">U.S. National Development Team</a></div>
 <div class="ti"><a href="/stte/miami-university-%28ohio%29-6804.html">Miami University (Ohio)</a></div>
 <div class="ti"><a href="/stte/rockford-icehogs-7743.html">Rockford IceHogs</a></div>
-<div class="ti"><a href="/stte/charlotte-checkers-10349.html">Charlotte Checkers</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

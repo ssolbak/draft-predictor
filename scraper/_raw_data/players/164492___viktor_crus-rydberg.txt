@@ -271,7 +271,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=164492','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Viktor Crus-Rydberg stats!</a>
- | <a href="viewastext.php?9a322924=67a249ce&amp;pid=164492" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?4520b1d1=2f7bc702&amp;pid=164492" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

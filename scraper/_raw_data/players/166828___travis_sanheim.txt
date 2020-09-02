@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Travis Sanheim Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Travis Sanheim, a hockey player from Elkhorn, MAN born Mar 29 1996 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Travis Sanheim, a hockey player from Elkhorn, MAN born Mar 29 1996 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -334,23 +334,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <td>-4</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000532020.html">Philadelphia Flyers</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>132</td>
+<td>131</td>
 <td>11</td>
 <td>34</td>
 <td>45</td>
@@ -365,7 +354,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=166828','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Travis Sanheim stats!</a>
- | <a href="viewastext.php?229f84ee=3cc523c6&amp;pid=166828" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?2fbfad84=464b3ba6&amp;pid=166828" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Ben Betker Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Ben Betker, a hockey player from Cranbrook, BC born Sep 29 1994 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Ben Betker, a hockey player from Cranbrook, BC born Sep 29 1994 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Ben Betker</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Sep 29 1994 -- </span><span class="hometown" itemprop="homeLocation">Cranbrook, BC</span> <br />[25 yrs. ago] <br />Height 6.06 -- Weight 228<span class="vitals_metric"> [198 cm/103 kg]</span><br />
+<span class="bdate">Born Sep 29 1994 -- </span><span class="hometown" itemprop="homeLocation">Cranbrook, BC</span> <br />[24 yrs. ago] <br />Height 6.06 -- Weight 228<span class="vitals_metric"> [198 cm/103 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -364,12 +364,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0019902020.html">Zvolen HKm</a></td>
 <td class="pdl l">Slovak</td>
-<td class="pdgp">4</td>
-<td>0</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>3</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -377,7 +372,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=147481','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ben Betker stats!</a>
- | <a href="viewastext.php?8605576e=dd242a57&amp;pid=147481" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?6431621d=b6836d40&amp;pid=147481" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

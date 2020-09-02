@@ -332,18 +332,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td>&nbsp;</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
-<tr class="COLLEG-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0028732020.html">Wilfrid Laurier University</a></td>
-<td class="pdl l">OUAA</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160137','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Kyle Jenkins stats!</a>
- | <a href="viewastext.php?e3b8dbe6=79efcd9a&amp;pid=160137" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?21f539c9=6879e73d&amp;pid=160137" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

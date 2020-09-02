@@ -359,7 +359,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=143896','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Tommy Veilleux stats!</a>
- | <a href="viewastext.php?a4e1a222=77292275&amp;pid=143896" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?b7aeb7cb=4f50b0dc&amp;pid=143896" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

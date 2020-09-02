@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic164497 = new ImageCollection(['/ihdb/photos/marcus-hogberg-1934-5432.jpg','/ihdb/photos/marcus-hogberg-2019-54.jpg','/ihdb/photos/marcus-hogberg-2018-54.jpg']);
+var ic164497 = new ImageCollection(['/ihdb/photos/marcus-hogberg-2019-54.jpg','/ihdb/photos/marcus-hogberg-2018-54.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=164497" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Marcus Hogberg hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic164497.next(this)" src="/ihdb/photos/marcus-hogberg-1934-5432.jpg" />
+<img itemprop="image" alt="Marcus Hogberg hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic164497.next(this)" src="/ihdb/photos/marcus-hogberg-2019-54.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content164497">
@@ -464,24 +464,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>0.884</td>
 <td>-</td><td>-</td><td>-</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081582020.html">Belleville Senators</a></td>
-<td class="pdl l">AHL</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>59</td>
-<td>3</td>
-<td>1</td>
-<td>0</td>
-<td>3.05</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>29</td>
-<td>0.906</td>
-<td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -507,7 +489,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=164497','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Marcus Hogberg stats!</a>
- | <a href="viewastext.php?ed34120c=053b7599&amp;pid=164497" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?051f5a72=519a69bd&amp;pid=164497" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

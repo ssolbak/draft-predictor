@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Aaron Ekblad Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Aaron Ekblad, a hockey player from Windsor, ONT born Feb 7 1996 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Aaron Ekblad, a hockey player from Windsor, ONT born Feb 7 1996 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic145037 = new ImageCollection(['/ihdb/photos/aaron-ekblad-2020-234.jpg','/ihdb/photos/aaron-ekblad-2019-234.jpg','/ihdb/photos/aaron-ekblad-2018-234.jpg','/ihdb/photos/aaron-ekblad-2017-234.jpg','/ihdb/photos/aaron-ekblad-2016-234.jpg','/ihdb/photos/aaron-ekblad-2015-234.jpg']);
+var ic145037 = new ImageCollection(['/ihdb/photos/aaron-ekblad-2019-234.jpg','/ihdb/photos/aaron-ekblad-2018-234.jpg','/ihdb/photos/aaron-ekblad-2017-234.jpg','/ihdb/photos/aaron-ekblad-2016-234.jpg','/ihdb/photos/aaron-ekblad-2015-234.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Aaron Ekblad</h1>
 <div class="v1-1">
 Defense -- shoots R<br />
-<span class="bdate">Born Feb 7 1996 -- </span><span class="hometown" itemprop="homeLocation">Windsor, ONT</span> <br />[23 yrs. ago] <br />Height 6.04 -- Weight 215<span class="vitals_metric"> [193 cm/98 kg]</span><br />
+<span class="bdate">Born Feb 7 1996 -- </span><span class="hometown" itemprop="homeLocation">Windsor, ONT</span> <br />[23 yrs. ago] <br />Height 6.04 -- Weight 220<span class="vitals_metric"> [193 cm/100 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <a href="/ihdb/cards/carddisplay.php?pid=145037" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Aaron Ekblad hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic145037.next(this)" src="/ihdb/photos/aaron-ekblad-2020-234.jpg" />
+<img itemprop="image" alt="Aaron Ekblad hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic145037.next(this)" src="/ihdb/photos/aaron-ekblad-2019-234.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content145037">
@@ -267,7 +267,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>39</td>
 <td>32</td>
 <td>12</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0002342016.html">Florida Panthers</a></td>
@@ -293,7 +293,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>21</td>
 <td>58</td>
 <td>-23</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0002342018.html">Florida Panthers</a></td>
@@ -304,7 +304,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>38</td>
 <td>71</td>
 <td>9</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0002342019.html">Florida Panthers</a></td>
@@ -317,27 +317,16 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>1</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0002342020.html">Florida Panthers</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>393</td>
+<td>391</td>
 <td>66</td>
-<td>107</td>
-<td>173</td>
-<td>251</td>
+<td>105</td>
+<td>171</td>
+<td>249</td>
 <td></td>
 <td>6</td>
 <td>0</td>
@@ -348,7 +337,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145037','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Aaron Ekblad stats!</a>
- | <a href="viewastext.php?26833a03=224b0c4e&amp;pid=145037" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?a477fdcb=c01b3413&amp;pid=145037" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

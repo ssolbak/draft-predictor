@@ -286,7 +286,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=168012','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Terrance Amorosa stats!</a>
- | <a href="viewastext.php?46b0a082=9cc3ea61&amp;pid=168012" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?0fd1ba46=48dbfe94&amp;pid=168012" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

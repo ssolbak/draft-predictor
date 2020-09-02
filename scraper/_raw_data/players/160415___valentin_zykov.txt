@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Valentin Zykov Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Valentin Zykov, a hockey player from St. Petersburg, Russia born May 15 1995 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Valentin Zykov, a hockey player from St. Petersburg, Russia born May 15 1995 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic160415 = new ImageCollection(['/ihdb/photos/valentin-zykov-2020-7776.jpg','/ihdb/photos/valentin-zykov-2019-979.jpg','/ihdb/photos/valentin-zykov-2018-979.jpg','/ihdb/photos/valentin-zykov-2017-979.jpg','/ihdb/photos/valentin-zykov-2016-40.jpg','/ihdb/photos/valentin-zykov-2015-40.jpg','/ihdb/photos/valentin-zykov-2014-40.jpg']);
+var ic160415 = new ImageCollection(['/ihdb/photos/valentin-zykov-2019-979.jpg','/ihdb/photos/valentin-zykov-2018-979.jpg','/ihdb/photos/valentin-zykov-2017-979.jpg','/ihdb/photos/valentin-zykov-2016-40.jpg','/ihdb/photos/valentin-zykov-2015-40.jpg','/ihdb/photos/valentin-zykov-2014-40.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -165,8 +165,8 @@ if (screen.width >= 1270) {
 <div class="v1">
 <h1 itemprop="name" class="title">Valentin Zykov</h1>
 <div class="v1-1">
-Left Wing -- shoots R<br />
-<span class="bdate">Born May 15 1995 -- </span><span class="hometown" itemprop="homeLocation">St. Petersburg, Russia</span> <br />[24 yrs. ago] <br />Height 6.00 -- Weight 220<span class="vitals_metric"> [183 cm/100 kg]</span><br />
+Right Wing -- shoots R<br />
+<span class="bdate">Born May 15 1995 -- </span><span class="hometown" itemprop="homeLocation">St. Petersburg, Russia</span> <br />[24 yrs. ago] <br />Height 6.00 -- Weight 209<span class="vitals_metric"> [183 cm/95 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <span id="div160415"><span id="but160415" class="trades sprite" onclick="sc('deals',160415)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Valentin Zykov hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160415.next(this)" src="/ihdb/photos/valentin-zykov-2020-7776.jpg" />
+<img itemprop="image" alt="Valentin Zykov hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160415.next(this)" src="/ihdb/photos/valentin-zykov-2019-979.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content160415">
@@ -252,7 +252,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>12</td>
 <td>18</td>
 <td>22</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0032452015.html">Gatineau Olympiques</a></td>
@@ -278,7 +278,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>0</td>
 <td>0</td>
 <td>-4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073902016.html">Ontario Reign</a></td>
@@ -289,7 +289,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>14</td>
 <td>20</td>
 <td>7</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0060542017.html">Charlotte Checkers</a></td>
@@ -315,7 +315,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>1</td>
 <td>0</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0060542018.html">Charlotte Checkers</a></td>
@@ -341,7 +341,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>7</td>
 <td>2</td>
 <td>4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0009792019.html">Carolina Hurricanes</a></td>
@@ -352,7 +352,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>3</td>
 <td>0</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0060542019.html">Charlotte Checkers</a></td>
@@ -363,7 +363,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>2</td>
 <td>16</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000412019.html">Edmonton Oilers</a></td>
@@ -374,7 +374,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>0</td>
 <td>2</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0077762019.html">Vegas Golden Knights</a></td>
@@ -385,27 +385,17 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>2</td>
 <td>0</td>
 <td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0077762020.html">Vegas Golden Knights</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>42</td>
+<td>40</td>
 <td>6</td>
-<td>8</td>
-<td>14</td>
+<td>7</td>
+<td>13</td>
 <td>4</td>
 <td></td>
 <td></td><td></td><td></td><td></td><td></td>
@@ -413,7 +403,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160415','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Valentin Zykov stats!</a>
- | <a href="viewastext.php?854e5664=a1087312&amp;pid=160415" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?6321aa98=a5035910&amp;pid=160415" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

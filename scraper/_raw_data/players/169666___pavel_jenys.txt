@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic169666 = new ImageCollection(['/ihdb/photos/pavel-jenys-2019-2331.jpg','/ihdb/photos/pavel-jenys-2018-2331.jpg','/ihdb/photos/pavel-jenys-2017-2331.jpg','/ihdb/photos/pavel-jenys-2016-2331.jpg']);
+var ic169666 = new ImageCollection(['/ihdb/photos/pavel-jenys-2018-2331.jpg','/ihdb/photos/pavel-jenys-2017-2331.jpg','/ihdb/photos/pavel-jenys-2016-2331.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <span id="div169666"><span id="but169666" class="trades sprite" onclick="sc('deals',169666)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Pavel Jenys hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic169666.next(this)" src="/ihdb/photos/pavel-jenys-2019-2331.jpg" />
+<img itemprop="image" alt="Pavel Jenys hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic169666.next(this)" src="/ihdb/photos/pavel-jenys-2018-2331.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content169666">
@@ -349,20 +349,19 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0029062020.html">Brno Kometa</a></td>
 <td class="pdl l">Czech</td>
-<td class="pdgp">8</td>
+<td class="pdgp">2</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>4</td>
-<td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>0</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=169666','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Pavel Jenys stats!</a>
- | <a href="viewastext.php?fb23ff66=7babee72&amp;pid=169666" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?0a6701f4=d078d9d2&amp;pid=169666" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -380,7 +379,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/17586">Cap Hit of $678,333 to 2018-19 (RFA)</a>
+<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/17586">Cap Hit of $678,333 to 2018-19 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/17586"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

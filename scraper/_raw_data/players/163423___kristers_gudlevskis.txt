@@ -428,19 +428,19 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050242020.html">Riga Dynamo</a></td>
 <td class="pdl l">KHL</td>
-<td>9</td>
+<td>7</td>
 <td>0</td>
 <td>0</td>
-<td>504</td>
-<td>29</td>
+<td>384</td>
+<td>19</td>
 <td>0</td>
 <td>1</td>
-<td>3.45</td>
+<td>2.97</td>
 <td>3</td>
-<td>6</td>
+<td>4</td>
 <td>0</td>
-<td>183</td>
-<td>0.863</td>
+<td>135</td>
+<td>0.877</td>
 <td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -468,7 +468,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=163423','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Kristers Gudlevskis stats!</a>
- | <a href="viewastext.php?edfd563f=cdcafaec&amp;pid=163423" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?809cb98d=d9123fb8&amp;pid=163423" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

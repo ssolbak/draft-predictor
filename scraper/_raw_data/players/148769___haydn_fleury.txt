@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Haydn Fleury Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Haydn Fleury, a hockey player from Carlyle, SASK born Jul 8 1996 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Haydn Fleury, a hockey player from Carlyle, SASK born Jul 8 1996 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -361,23 +361,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td>6</td>
 <td>8</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0009792020.html">Carolina Hurricanes</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">3</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>90</td>
+<td>87</td>
 <td>0</td>
 <td>9</td>
 <td>9</td>
@@ -392,7 +381,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=148769','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Haydn Fleury stats!</a>
- | <a href="viewastext.php?b50f8dd5=9a9f59fd&amp;pid=148769" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?83acf6e9=b7812b63&amp;pid=148769" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -451,7 +440,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Similar Players</h4>
 <div style="margin-bottom:10px">Not the Haydn Fleury you're looking for? We have one other player with a similar name.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=201064">Hayden Fowler</a></div>
-<div class="in1 ti" style="margin-bottom:5px"> (b.2001) (OHL, OJHL) [2016-2020]</div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.2001) (OHL, OJHL) [2016-2019]</div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
 <div style="margin-bottom:10px">Haydn Fleury played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/257.html">Western Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>

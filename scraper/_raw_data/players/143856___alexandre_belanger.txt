@@ -390,30 +390,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>0.906</td>
 <td></td><td></td><td></td>
 </tr>
-<tr class="COLLEG-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0028632020.html">U. of Quebec Trois Rivieres</a></td>
-<td class="pdl l">OUAA</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=143856','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Alexandre Belanger stats!</a>
- | <a href="viewastext.php?2c67358f=d0febb3b&amp;pid=143856" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?a7d253ee=6bceb2aa&amp;pid=143856" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -433,7 +415,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Similar Players</h4>
 <div style="margin-bottom:10px">Not the Alexandre Belanger you're looking for? We have two other players with similar names.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=217392">Alec Belanger</a></div>
-<div class="in1 ti" style="margin-bottom:5px"> (b.2002) (OHL, CCHL) [2018-2020]</div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.2002) (OHL, CCHL) [2018-2019]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=63249">Alexandre Belanger</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (QSPHL) [2001-2002]</div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Elvis Merzlikins Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Elvis Merzlikins, a hockey player from Riga, Latvia born Apr 13 1994 who was active from 2013 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Elvis Merzlikins, a hockey player from  Latvia born Apr 13 1994 who was active from 2013 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Elvis Merzlikins</h1>
 <div class="v1-1">
 Goalie -- shoots L<br />
-<span class="bdate">Born Apr 13 1994 -- </span><span class="hometown" itemprop="homeLocation">Riga, Latvia</span> <br />[25 yrs. ago] <br />Height 6.03 -- Weight 181<span class="vitals_metric"> [191 cm/82 kg]</span><br />
+<span class="bdate">Born Apr 13 1994</span></span> <br />[25 yrs. ago] <br />Height 6.02 -- Weight 183<span class="vitals_metric"> [188 cm/83 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -340,50 +340,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>0</td>
 <td>2</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023302020.html">Columbus Blue Jackets</a></td>
-<td class="pdl l">NHL</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>60</td>
-<td>7</td>
-<td>0</td>
-<td>0</td>
-<td>7.00</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>33</td>
-<td>0.825</td>
-<td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
-<tr class="c_sec_foot">
-<td></td><td class="l">NHL Totals</td>
-<td></td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td></td>
-<td></td>
-<td></td>
-<td>0</td>
-<td>7.00</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td></td>
-<td>0.825</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=175015','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Elvis Merzlikins stats!</a>
- | <a href="viewastext.php?8b8b1c36=d07798b5&amp;pid=175015" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?6b461609=d5266e9e&amp;pid=175015" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -449,11 +411,9 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Elvis Merzlikins played in two leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/241.html">Switzerland National League A</a></div>
-<div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
+<div style="margin-bottom:10px">Elvis Merzlikins played in one league over the course of his career. Learn more about the league from its League History page.</div><div class="ti" ><a href="/ihdb/stats/leagues/241.html">Switzerland National League A</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the two teams that Elvis Merzlikins played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/lugano-6692.html">Lugano</a></div>
-<div class="ti"><a href="/stte/columbus-blue-jackets-5316.html">Columbus Blue Jackets</a></div>
+<div style="margin-bottom:10px">If you would like to know more about the one team that Elvis Merzlikins played for during his career, visit its Team History page.</div><div class="ti"><a href="/stte/lugano-6692.html">Lugano</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

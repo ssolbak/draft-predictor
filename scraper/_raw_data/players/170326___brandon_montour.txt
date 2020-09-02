@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic170326 = new ImageCollection(['/ihdb/photos/brandon-montour-2020-33.jpg','/ihdb/photos/brandon-montour-2019-33.jpg','/ihdb/photos/brandon-montour-2019-4312.jpg','/ihdb/photos/brandon-montour-2018-4312.jpg','/ihdb/photos/brandon-montour-2017-4312.jpg','/ihdb/photos/brandon-montour-2016-4312.jpg']);
+var ic170326 = new ImageCollection(['/ihdb/photos/brandon-montour-2019-4312.jpg','/ihdb/photos/brandon-montour-2019-33.jpg','/ihdb/photos/brandon-montour-2018-4312.jpg','/ihdb/photos/brandon-montour-2017-4312.jpg','/ihdb/photos/brandon-montour-2016-4312.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <span id="div170326"><span id="but170326" class="trades sprite" onclick="sc('deals',170326)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Brandon Montour hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic170326.next(this)" src="/ihdb/photos/brandon-montour-2020-33.jpg" />
+<img itemprop="image" alt="Brandon Montour hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic170326.next(this)" src="/ihdb/photos/brandon-montour-2019-4312.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content170326">
@@ -339,12 +339,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>-4</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000332020.html">Buffalo Sabres</a></td>
-<td class="pdl l">NHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -365,7 +359,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170326','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Brandon Montour stats!</a>
- | <a href="viewastext.php?db8f4fa3=9df9cbb7&amp;pid=170326" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?ffa0d6f2=22fbc2a0&amp;pid=170326" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Nikita Zadorov Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Nikita Zadorov, a hockey player from Moscow, Russia born Apr 16 1995 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Nikita Zadorov, a hockey player from Moscow, Russia born Apr 16 1995 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Nikita Zadorov</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Apr 16 1995 -- </span><span class="hometown" itemprop="homeLocation">Moscow, Russia</span> <br />[24 yrs. ago] <br />Height 6.06 -- Weight 235<span class="vitals_metric"> [198 cm/107 kg]</span><br />
+<span class="bdate">Born Apr 16 1995 -- </span><span class="hometown" itemprop="homeLocation">Moscow, Russia</span> <br />[24 yrs. ago] <br />Height 6.05 -- Weight 230<span class="vitals_metric"> [196 cm/104 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -253,7 +253,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>1</td>
 <td>4</td>
 <td>-4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000332015.html">Buffalo Sabres</a></td>
@@ -264,7 +264,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>15</td>
 <td>51</td>
 <td>-10</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0006902016.html">Colorado Avalanche</a></td>
@@ -275,7 +275,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>2</td>
 <td>12</td>
 <td>-5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0029702016.html">San Antonio Rampage</a></td>
@@ -286,7 +286,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>29</td>
 <td>90</td>
 <td>-9</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0006902017.html">Colorado Avalanche</a></td>
@@ -297,7 +297,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>10</td>
 <td>73</td>
 <td>-20</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0006902018.html">Colorado Avalanche</a></td>
@@ -329,27 +329,16 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>0</td>
 <td>24</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0006902020.html">Colorado Avalanche</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>9</td>
-<td>3</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>293</td>
+<td>292</td>
 <td>18</td>
-<td>45</td>
-<td>63</td>
-<td>327</td>
+<td>44</td>
+<td>62</td>
+<td>318</td>
 <td></td>
 <td>18</td>
 <td>1</td>
@@ -360,7 +349,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160323','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Nikita Zadorov stats!</a>
- | <a href="viewastext.php?811eafb9=7363f997&amp;pid=160323" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?80bf42e5=2b7bcaa3&amp;pid=160323" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

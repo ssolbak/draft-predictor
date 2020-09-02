@@ -324,12 +324,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0053702020.html">Yekaterinburg Automobilist</a></td>
 <td class="pdl l">KHL</td>
-<td class="pdgp">15</td>
+<td class="pdgp">7</td>
 <td>0</td>
 <td>2</td>
 <td>2</td>
-<td>10</td>
-<td>3</td>
+<td>2</td>
+<td>4</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -348,7 +348,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=159881','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Nikita Tryamkin stats!</a>
- | <a href="viewastext.php?c8adb2bc=af832b29&amp;pid=159881" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?584330df=f7b6d42e&amp;pid=159881" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

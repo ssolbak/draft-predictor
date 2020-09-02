@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic145528 = new ImageCollection(['/ihdb/photos/tyler-motte-2020-39.jpg','/ihdb/photos/tyler-motte-2019-39.jpg','/ihdb/photos/tyler-motte-2018-2330.jpg','/ihdb/photos/tyler-motte-2017-35.jpg']);
+var ic145528 = new ImageCollection(['/ihdb/photos/tyler-motte-2019-39.jpg','/ihdb/photos/tyler-motte-2018-2330.jpg','/ihdb/photos/tyler-motte-2017-35.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <span id="div145528"><span id="but145528" class="trades sprite" onclick="sc('deals',145528)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Tyler Motte hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic145528.next(this)" src="/ihdb/photos/tyler-motte-2020-39.jpg" />
+<img itemprop="image" alt="Tyler Motte hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic145528.next(this)" src="/ihdb/photos/tyler-motte-2019-39.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content145528">
@@ -369,12 +369,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td>-12</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000392020.html">Vancouver Canucks</a></td>
-<td class="pdl l">NHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -391,7 +385,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145528','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Tyler Motte stats!</a>
- | <a href="viewastext.php?6b2c89e9=85da00f4&amp;pid=145528" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?f46d75c6=17ba505c&amp;pid=145528" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

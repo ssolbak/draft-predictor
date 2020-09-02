@@ -317,7 +317,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=162736','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Anton Cederholm stats!</a>
- | <a href="viewastext.php?bf030e28=1eed8c54&amp;pid=162736" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?0f76b2d9=c6353979&amp;pid=162736" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

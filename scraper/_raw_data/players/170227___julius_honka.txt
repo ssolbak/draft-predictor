@@ -329,7 +329,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005404.html">Dallas Stars</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170227','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Julius Honka stats!</a>
- | <a href="viewastext.php?b2e9578b=adc21a13&amp;pid=170227" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?db2321b8=3801a750&amp;pid=170227" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

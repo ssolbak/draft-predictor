@@ -329,7 +329,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145437','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Taylor Cammarata stats!</a>
- | <a href="viewastext.php?e4903045=6b463410&amp;pid=145437" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?47d13c57=391f9ae8&amp;pid=145437" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

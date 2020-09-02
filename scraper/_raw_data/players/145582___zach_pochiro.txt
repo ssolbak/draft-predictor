@@ -354,12 +354,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <tr class="ENONEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0048272020.html">Esbjerg EfB Ishockey</a></td>
 <td class="pdl l">Denmark</td>
-<td class="pdgp">4</td>
-<td>3</td>
+<td class="pdgp">3</td>
 <td>1</td>
-<td>4</td>
-<td>12</td>
+<td>1</td>
 <td>2</td>
+<td>6</td>
+<td>1</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -367,7 +367,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145582','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Zach Pochiro stats!</a>
- | <a href="viewastext.php?c2a5986b=f7d8d9b7&amp;pid=145582" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?ee8ada82=309874c0&amp;pid=145582" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

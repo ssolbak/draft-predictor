@@ -165,7 +165,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Janne Juvonen</h1>
 <div class="v1-1">
 Goalie -- shoots L<br />
-<span class="bdate">Born Oct 3 1994 -- </span><span class="hometown" itemprop="homeLocation">Kiihtelysvaara, Finland</span> <br />[25 yrs. ago] <br />Height 6.00 -- Weight 187<span class="vitals_metric"> [183 cm/85 kg]</span><br />
+<span class="bdate">Born Oct 3 1994 -- </span><span class="hometown" itemprop="homeLocation">Kiihtelysvaara, Finland</span> <br />[24 yrs. ago] <br />Height 6.00 -- Weight 183<span class="vitals_metric"> [183 cm/83 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -269,7 +269,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>0</td>
 <td>84</td>
 <td>0.884</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="ENONEL-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0074572013.html">Peliitat Heinola</a></td>
@@ -288,6 +288,26 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td></td>
 <td>0.902</td>
 <td></td><td></td><td></td>
+</tr>
+<tr class="EUROEL-1"><td class="pds l">2013-14</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0013512014.html">Pelicans</a></td>
+<td class="pdl l">SM-liiga</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>219</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td>3.29</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>80</td>
+<td>0.870</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr class="ENONEL-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0061722014.html">KooKoo Kouvola</a></td>
@@ -325,26 +345,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>0.863</td>
 <td></td><td></td><td></td>
 </tr>
-<tr class="EUROEL-1"><td class="pds l">2013-14</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0013512014.html">Pelicans</a></td>
-<td class="pdl l">SM-liiga</td>
-<td>4</td>
-<td>0</td>
-<td>0</td>
-<td>219</td>
-<td>12</td>
-<td>0</td>
-<td>0</td>
-<td>3.29</td>
-<td>2</td>
-<td>1</td>
-<td>0</td>
-<td>80</td>
-<td>0.870</td>
-<td>8</td>
-<td>0</td>
-<td>0</td>
-</tr>
 <tr class="EUROEL-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0013512015.html">Pelicans</a></td>
 <td class="pdl l">SM-liiga</td>
@@ -361,7 +361,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>11</td>
 <td>1302</td>
 <td>0.918</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0013512016.html">Pelicans</a></td>
@@ -482,7 +482,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=148561','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Janne Juvonen stats!</a>
- | <a href="viewastext.php?aaf71ec9=07e9e35e&amp;pid=148561" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?a7876ecd=49991ebb&amp;pid=148561" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

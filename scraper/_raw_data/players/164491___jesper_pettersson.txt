@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Jesper Pettersson</h1>
 <div class="v1-1">
 Defense -- shoots R<br />
-<span class="bdate">Born Jul 16 1994 -- </span><span class="hometown" itemprop="homeLocation">Stockholm, Sweden</span> <br />[25 yrs. ago] <br />Height 5.08 -- Weight 192<span class="vitals_metric"> [173 cm/87 kg]</span><br />
+<span class="bdate">Born Jul 16 1994 -- </span><span class="hometown" itemprop="homeLocation">Stockholm, Sweden</span> <br />[25 yrs. ago] <br />Height 5.09 -- Weight 189<span class="vitals_metric"> [175 cm/86 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <td>3</td>
 <td>6</td>
 <td>6</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070522014.html">Linkopings HC</a></td>
@@ -248,7 +248,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <td>7</td>
 <td>35</td>
 <td>-5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073022016.html">Lehigh Valley Phantoms</a></td>
@@ -259,7 +259,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <td>3</td>
 <td>12</td>
 <td>-4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0069272016.html">Reading Royals</a></td>
@@ -324,20 +324,19 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0072872020.html">Djurgardens IF</a></td>
 <td class="pdl l">SweHL</td>
-<td class="pdgp">8</td>
+<td class="pdgp">3</td>
 <td>0</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=164491','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jesper Pettersson stats!</a>
- | <a href="viewastext.php?26bd6267=b45cc844&amp;pid=164491" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d4536823=321a1bb7&amp;pid=164491" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

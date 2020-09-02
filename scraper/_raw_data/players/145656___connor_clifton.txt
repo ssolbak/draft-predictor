@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Connor Clifton Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Connor Clifton, a hockey player from Long Branch, NJ born Apr 28 1995 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Connor Clifton, a hockey player from Long Branch, NJ born Apr 28 1995 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -332,27 +332,16 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Phoenix Coyotes</a><div>-
 <td>5</td>
 <td>16</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000322020.html">Boston Bruins</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>21</td>
+<td>19</td>
 <td>0</td>
 <td>1</td>
 <td>1</td>
-<td>17</td>
+<td>15</td>
 <td></td>
 <td>18</td>
 <td>2</td>
@@ -363,7 +352,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Phoenix Coyotes</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145656','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Connor Clifton stats!</a>
- | <a href="viewastext.php?e65f4721=59d608fe&amp;pid=145656" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?a0261dab=2ec3e359&amp;pid=145656" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

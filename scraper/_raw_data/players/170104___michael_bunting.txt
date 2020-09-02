@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Michael Bunting (b.1995) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Michael Bunting, a hockey player from Scarborough, ONT born Sep 17 1995 who was active from 2013 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Michael Bunting, a hockey player from Scarborough, ONT born Sep 17 1995 who was active from 2013 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -313,16 +313,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Arizona Coyotes</a><div>-
 <td>2</td>
 <td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076012020.html">Tucson Roadrunners</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -339,7 +329,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Arizona Coyotes</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170104','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Michael Bunting stats!</a>
- | <a href="viewastext.php?be97633b=e3ea602b&amp;pid=170104" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?3f2bb942=909456d8&amp;pid=170104" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -357,10 +347,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Arizona Coyotes</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6147">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">715,000</span>
+<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6147">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">715,000</span>
  to 2018-19</a>
 </div>
-<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6147">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">700,000</span>
+<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6147">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">700,000</span>
  to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6147"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>

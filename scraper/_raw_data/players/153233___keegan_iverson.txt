@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Keegan Iverson Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Keegan Iverson, a hockey player from St. Louis Park, MN born Apr 5 1996 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Keegan Iverson, a hockey player from St. Louis Park, MN born Apr 5 1996 who was active from 2011 to 2018." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -328,23 +328,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>0</td>
 <td>0</td>
 </tr>
-<tr class="COLLEG-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0067682020.html">Mount Royal University</a></td>
-<td class="pdl l">CWUAA</td>
-<td class="pdgp">2</td>
-<td>1</td>
-<td>5</td>
-<td>6</td>
-<td>2</td>
-<td>4</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=153233','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Keegan Iverson stats!</a>
- | <a href="viewastext.php?19f111f2=9b6da278&amp;pid=153233" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?2a81f128=03a85b99&amp;pid=153233" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -363,15 +352,13 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Keegan Iverson played in four leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/257.html">Western Hockey League</a></div>
+<div style="margin-bottom:10px">Keegan Iverson played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/257.html">Western Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
-<div class="ti" ><a href="/ihdb/stats/leagues/294.html">CIS - Canada West Universities Athletic Assn</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Keegan Iverson played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/portland-winterhawks-7537.html">Portland Winterhawks</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the three teams that Keegan Iverson played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/portland-winterhawks-7537.html">Portland Winterhawks</a></div>
 <div class="ti"><a href="/stte/ontario-reign-11618.html">Ontario Reign</a></div>
 <div class="ti"><a href="/stte/manchester-monarchs-11624.html">Manchester Monarchs</a></div>
-<div class="ti"><a href="/stte/mount-royal-university-11071.html">Mount Royal University</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

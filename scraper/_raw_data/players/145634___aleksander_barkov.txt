@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Aleksander Barkov Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Aleksander Barkov, a hockey player from Tampere, Finland born Sep 2 1995 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Aleksander Barkov, a hockey player from Tampere, Finland born Sep 2 1995 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic145634 = new ImageCollection(['/ihdb/photos/aleksander-barkov-2020-234.jpg','/ihdb/photos/aleksander-barkov-2019-234.jpg','/ihdb/photos/aleksander-barkov-2018-234.jpg','/ihdb/photos/aleksander-barkov-2017-234.jpg','/ihdb/photos/aleksander-barkov-2016-234.jpg','/ihdb/photos/aleksander-barkov-2015-234.jpg','/ihdb/photos/aleksander-barkov-2014-234.jpg']);
+var ic145634 = new ImageCollection(['/ihdb/photos/aleksander-barkov-2019-234.jpg','/ihdb/photos/aleksander-barkov-2018-234.jpg','/ihdb/photos/aleksander-barkov-2017-234.jpg','/ihdb/photos/aleksander-barkov-2016-234.jpg','/ihdb/photos/aleksander-barkov-2015-234.jpg','/ihdb/photos/aleksander-barkov-2014-234.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Aleksander Barkov</h1>
 <div class="v1-1">
 Center -- shoots L<br />
-<span class="bdate">Born Sep 2 1995 -- </span><span class="hometown" itemprop="homeLocation">Tampere, Finland</span> <br />[24 yrs. ago] <br />Height 6.03 -- Weight 210<span class="vitals_metric"> [191 cm/95 kg]</span><br />
+<span class="bdate">Born Sep 2 1995 -- </span><span class="hometown" itemprop="homeLocation">Tampere, Finland</span> <br />[24 yrs. ago] <br />Height 6.03 -- Weight 213<span class="vitals_metric"> [191 cm/97 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <a href="/ihdb/cards/carddisplay.php?pid=145634" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Aleksander Barkov hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic145634.next(this)" src="/ihdb/photos/aleksander-barkov-2020-234.jpg" />
+<img itemprop="image" alt="Aleksander Barkov hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic145634.next(this)" src="/ihdb/photos/aleksander-barkov-2019-234.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content145634">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>16</td>
 <td>4</td>
 <td>5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0011872013.html">Tappara Tampere</a></td>
@@ -248,7 +248,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>24</td>
 <td>10</td>
 <td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0002342015.html">Florida Panthers</a></td>
@@ -259,7 +259,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>36</td>
 <td>16</td>
 <td>-4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0002342016.html">Florida Panthers</a></td>
@@ -285,7 +285,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>52</td>
 <td>10</td>
 <td>13</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0002342018.html">Florida Panthers</a></td>
@@ -296,7 +296,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>78</td>
 <td>14</td>
 <td>9</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0002342019.html">Florida Panthers</a></td>
@@ -307,24 +307,14 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>96</td>
 <td>8</td>
 <td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0002342020.html">Florida Panthers</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>414</td>
+<td>413</td>
 <td>135</td>
 <td>210</td>
 <td>345</td>
@@ -339,7 +329,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145634','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Aleksander Barkov stats!</a>
- | <a href="viewastext.php?c4545e86=3cc2122d&amp;pid=145634" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?51113bcc=1cfc4913&amp;pid=145634" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

@@ -378,7 +378,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160284','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Miles Liberati stats!</a>
- | <a href="viewastext.php?52fe8323=1096159b&amp;pid=160284" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?1ca11bb7=94d18772&amp;pid=160284" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

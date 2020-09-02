@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>JC Lipon Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of JC Lipon, a hockey player from Regina, SASK born Jul 10 1993 who was active from 2009 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of JC Lipon, a hockey player from Regina, SASK born Jul 10 1993 who was active from 2009 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic122995 = new ImageCollection(['/ihdb/photos/jc-lipon-2020-6378.jpg','/ihdb/photos/jc-lipon-2019-6378.jpg','/ihdb/photos/jc-lipon-2018-6378.jpg','/ihdb/photos/jc-lipon-2017-6378.jpg','/ihdb/photos/j.c.-lipon-2016-6378.jpg','/ihdb/photos/j.c.-lipon-2015-6378.jpg','/ihdb/photos/j.c.-lipon-2014-6378.jpg']);
+var ic122995 = new ImageCollection(['/ihdb/photos/jc-lipon-2019-6378.jpg','/ihdb/photos/jc-lipon-2018-6378.jpg','/ihdb/photos/jc-lipon-2017-6378.jpg','/ihdb/photos/j.c.-lipon-2016-6378.jpg','/ihdb/photos/j.c.-lipon-2015-6378.jpg','/ihdb/photos/j.c.-lipon-2014-6378.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">JC Lipon</h1>
 <div class="v1-1">
 Right Wing -- shoots R<br />
-<span class="bdate">Born Jul 10 1993 -- </span><span class="hometown" itemprop="homeLocation">Regina, SASK</span> <br />[26 yrs. ago] <br />Height 6.00 -- Weight 190<span class="vitals_metric"> [183 cm/86 kg]</span><br />
+<span class="bdate">Born Jul 10 1993 -- </span><span class="hometown" itemprop="homeLocation">Regina, SASK</span> <br />[26 yrs. ago] <br />Height 6.00 -- Weight 183<span class="vitals_metric"> [183 cm/83 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <span id="div122995"><span id="but122995" class="trades sprite" onclick="sc('deals',122995)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="JC Lipon hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic122995.next(this)" src="/ihdb/photos/jc-lipon-2020-6378.jpg" />
+<img itemprop="image" alt="JC Lipon hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic122995.next(this)" src="/ihdb/photos/jc-lipon-2019-6378.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content122995">
@@ -238,7 +238,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>21</td>
 <td>109</td>
 <td>-26</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2011-12</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0009952012.html">Kamloops Blazers</a></td>
@@ -293,7 +293,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>26</td>
 <td>163</td>
 <td>-26</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073892016.html">Manitoba Moose</a></td>
@@ -304,7 +304,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>30</td>
 <td>87</td>
 <td>-13</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0063782016.html">Winnipeg Jets</a></td>
@@ -314,7 +314,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>1</td>
 <td>1</td>
 <td>5</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073892017.html">Manitoba Moose</a></td>
@@ -325,7 +325,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>30</td>
 <td>129</td>
 <td>11</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073892018.html">Manitoba Moose</a></td>
@@ -351,18 +351,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>26</td>
 <td>121</td>
 <td>10</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073892020.html">Manitoba Moose</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>4</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 </tbody>
 <tfoot>
@@ -380,7 +369,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=122995','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed JC Lipon stats!</a>
- | <a href="viewastext.php?c4501177=a478cf87&amp;pid=122995" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?aa2afd66=56793170&amp;pid=122995" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

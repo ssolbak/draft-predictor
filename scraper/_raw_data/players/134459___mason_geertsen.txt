@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Mason Geertsen Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Mason Geertsen, a hockey player from Drayton Valley, ALTA born Apr 19 1995 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Mason Geertsen, a hockey player from Drayton Valley, ALTA born Apr 19 1995 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Mason Geertsen</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Apr 19 1995 -- </span><span class="hometown" itemprop="homeLocation">Drayton Valley, ALTA</span> <br />[24 yrs. ago] <br />Height 6.04 -- Weight 221<span class="vitals_metric"> [193 cm/100 kg]</span><br />
+<span class="bdate">Born Apr 19 1995 -- </span><span class="hometown" itemprop="homeLocation">Drayton Valley, ALTA</span> <br />[24 yrs. ago] <br />Height 6.04 -- Weight 212<span class="vitals_metric"> [193 cm/96 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>0</td>
 <td>4</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2011-12</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047162012.html">Edmonton Oil Kings</a></td>
@@ -233,7 +233,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>3</td>
 <td>70</td>
 <td>5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047162013.html">Edmonton Oil Kings</a></td>
@@ -244,7 +244,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>4</td>
 <td>32</td>
 <td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0028072013.html">Vancouver Giants</a></td>
@@ -255,7 +255,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>10</td>
 <td>98</td>
 <td>-26</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0028072014.html">Vancouver Giants</a></td>
@@ -281,7 +281,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>38</td>
 <td>107</td>
 <td>3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047272015.html">Lake Erie Monsters</a></td>
@@ -292,7 +292,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>0</td>
 <td>2</td>
 <td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0029702016.html">San Antonio Rampage</a></td>
@@ -303,7 +303,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>8</td>
 <td>62</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0067292016.html">Fort Wayne Komets</a></td>
@@ -328,7 +328,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>4</td>
 <td>52</td>
 <td>-18</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0064602017.html">Colorado Eagles</a></td>
@@ -354,7 +354,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>9</td>
 <td>117</td>
 <td>-7</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0084052019.html">Colorado Eagles</a></td>
@@ -371,23 +371,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <td>0</td>
 <td>8</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070852020.html">Hartford Wolf Pack</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=134459','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Mason Geertsen stats!</a>
- | <a href="viewastext.php?bf351877=5c9eb0ef&amp;pid=134459" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?73b00be5=8956267e&amp;pid=134459" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -416,14 +405,13 @@ Drafted by <a href="/ihdb/draft/teams/dr00005307.html">Colorado Avalanche</a><di
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the eight teams that Mason Geertsen played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/edmonton-oil-kings-5630.html">Edmonton Oil Kings</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Mason Geertsen played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/edmonton-oil-kings-5630.html">Edmonton Oil Kings</a></div>
 <div class="ti"><a href="/stte/vancouver-giants-8759.html">Vancouver Giants</a></div>
 <div class="ti"><a href="/stte/cleveland-monsters-6480.html">Cleveland Monsters</a></div>
 <div class="ti"><a href="/stte/san-antonio-rampage-7852.html">San Antonio Rampage</a></div>
 <div class="ti"><a href="/stte/fort-wayne-komets-11031.html">Fort Wayne Komets</a></div>
 <div class="ti"><a href="/stte/colorado-eagles-10758.html">Colorado Eagles</a></div>
 <div class="ti"><a href="/stte/colorado-eagles-12422.html">Colorado Eagles</a></div>
-<div class="ti"><a href="/stte/hartford-wolf-pack-11373.html">Hartford Wolf Pack</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

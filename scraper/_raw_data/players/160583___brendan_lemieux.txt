@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Brendan Lemieux Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Brendan Lemieux, a hockey player from Denver, CO born Mar 15 1996 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Brendan Lemieux, a hockey player from Denver, CO born Mar 15 1996 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Brendan Lemieux</h1>
 <div class="v1-1">
 Left Wing -- shoots L<br />
-<span class="bdate">Born Mar 15 1996 -- </span><span class="hometown" itemprop="homeLocation">Denver, CO</span> <br />[23 yrs. ago] <br />Height 6.01 -- Weight 213<span class="vitals_metric"> [185 cm/97 kg]</span><br />
+<span class="bdate">Born Mar 15 1996 -- </span><span class="hometown" itemprop="homeLocation">Denver, CO</span> <br />[23 yrs. ago] <br />Height 6.01 -- Weight 215<span class="vitals_metric"> [185 cm/98 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -223,7 +223,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>2</td>
 <td>34</td>
 <td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008352013.html">Barrie Colts</a></td>
@@ -279,7 +279,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>14</td>
 <td>28</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008412016.html">Windsor Spitfires</a></td>
@@ -305,7 +305,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>3</td>
 <td>6</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073892017.html">Manitoba Moose</a></td>
@@ -316,7 +316,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>19</td>
 <td>130</td>
 <td>-16</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073892018.html">Manitoba Moose</a></td>
@@ -342,7 +342,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>1</td>
 <td>21</td>
 <td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0063782019.html">Winnipeg Jets</a></td>
@@ -366,33 +366,23 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>-4</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000482020.html">New York Rangers</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>74</td>
+<td>72</td>
 <td>13</td>
 <td>5</td>
 <td>18</td>
-<td>131</td>
+<td>129</td>
 <td></td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160583','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Brendan Lemieux stats!</a>
- | <a href="viewastext.php?2c2ce3a9=37c7c04f&amp;pid=160583" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?50ecb68c=4b86168a&amp;pid=160583" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

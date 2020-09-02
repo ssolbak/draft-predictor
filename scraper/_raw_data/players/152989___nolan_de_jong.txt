@@ -356,7 +356,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=152989','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Nolan De Jong stats!</a>
- | <a href="viewastext.php?c36fb3c5=00e1bc45&amp;pid=152989" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d2e1c91b=2742cd06&amp;pid=152989" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

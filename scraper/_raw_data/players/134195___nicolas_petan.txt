@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Nicolas Petan Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Nicolas Petan, a hockey player from Delta, BC born Mar 22 1995 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Nicolas Petan, a hockey player from Delta, BC born Mar 22 1995 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic134195 = new ImageCollection(['/ihdb/photos/nicolas-petan-2020-38.jpg','/ihdb/photos/nicolas-petan-2019-38.jpg','/ihdb/photos/nicolas-petan-2019-6378.jpg','/ihdb/photos/nicolas-petan-2018-6378.jpg','/ihdb/photos/nicolas-petan-2017-6378.jpg','/ihdb/photos/nicolas-petan-2016-6378.jpg','/ihdb/photos/nicolas-petan-2015-6378.jpg','/ihdb/photos/nicolas-petan-2014-6378.jpg']);
+var ic134195 = new ImageCollection(['/ihdb/photos/nicolas-petan-2019-38.jpg','/ihdb/photos/nicolas-petan-2019-6378.jpg','/ihdb/photos/nicolas-petan-2018-6378.jpg','/ihdb/photos/nicolas-petan-2017-6378.jpg','/ihdb/photos/nicolas-petan-2016-6378.jpg','/ihdb/photos/nicolas-petan-2015-6378.jpg','/ihdb/photos/nicolas-petan-2014-6378.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <span id="div134195"><span id="but134195" class="trades sprite" onclick="sc('deals',134195)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Nicolas Petan hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic134195.next(this)" src="/ihdb/photos/nicolas-petan-2020-38.jpg" />
+<img itemprop="image" alt="Nicolas Petan hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic134195.next(this)" src="/ihdb/photos/nicolas-petan-2019-38.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content134195">
@@ -380,22 +380,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>-3</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000382020.html">Toronto Maple Leafs</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>114</td>
+<td>113</td>
 <td>6</td>
 <td>18</td>
 <td>24</td>
@@ -406,7 +396,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=134195','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Nicolas Petan stats!</a>
- | <a href="viewastext.php?8d0943b8=2b288182&amp;pid=134195" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?47282ac9=0531d1ee&amp;pid=134195" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

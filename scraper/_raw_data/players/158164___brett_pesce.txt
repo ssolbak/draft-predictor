@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Brett Pesce Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Brett Pesce, a hockey player from Tarrytown, NY born Nov 15 1994 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Brett Pesce, a hockey player from Tarrytown, NY born Nov 15 1994 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -327,27 +327,16 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td>6</td>
 <td>0</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0009792020.html">Carolina Hurricanes</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>291</td>
+<td>289</td>
 <td>16</td>
-<td>69</td>
-<td>85</td>
-<td>80</td>
+<td>68</td>
+<td>84</td>
+<td>78</td>
 <td></td>
 <td>15</td>
 <td>0</td>
@@ -358,7 +347,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=158164','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Brett Pesce stats!</a>
- | <a href="viewastext.php?c017de59=a49040e1&amp;pid=158164" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?518dfad9=4deac061&amp;pid=158164" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

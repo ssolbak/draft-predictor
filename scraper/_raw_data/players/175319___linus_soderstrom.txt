@@ -331,30 +331,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>0</td>
 <td>0</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0026712020.html">Bridgeport Sound Tigers</a></td>
-<td class="pdl l">AHL</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=175319','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Linus Soderstrom stats!</a>
- | <a href="viewastext.php?76a8b2b1=708d7640&amp;pid=175319" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?66686f6c=7397b5aa&amp;pid=175319" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -408,16 +390,14 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Linus Soderstrom played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/239.html">Swedish Hockey League</a></div>
+<div style="margin-bottom:10px">Linus Soderstrom played in two leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/239.html">Swedish Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/238.html">Sweden 1st Division</a></div>
-<div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Linus Soderstrom played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/djurgardens-if-stockholm-5508.html">Djurgardens IF Stockholm</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Linus Soderstrom played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/djurgardens-if-stockholm-5508.html">Djurgardens IF Stockholm</a></div>
 <div class="ti"><a href="/stte/sodertalje-sk-8051.html">Sodertalje SK</a></div>
 <div class="ti"><a href="/stte/almtuna-4616.html">Almtuna</a></div>
 <div class="ti"><a href="/stte/vita-hasten-hc-11528.html">Vita Hasten HC</a></div>
 <div class="ti"><a href="/stte/hv71-jonkoping-5969.html">HV71 Jonkoping</a></div>
-<div class="ti"><a href="/stte/bridgeport-sound-tigers-5012.html">Bridgeport Sound Tigers</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

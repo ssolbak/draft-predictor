@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Wiley Sherman</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born May 24 1995 -- </span><span class="hometown" itemprop="homeLocation">Greenwich, CT</span> <br />[24 yrs. ago] <br />Height 6.06 -- Weight 201<span class="vitals_metric"> [198 cm/91 kg]</span><br />
+<span class="bdate">Born May 24 1995 -- </span><span class="hometown" itemprop="homeLocation">Greenwich, CT</span> <br />[24 yrs. ago] <br />Height 6.06 -- Weight 205<span class="vitals_metric"> [198 cm/93 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -265,7 +265,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 <td>0</td>
 <td>2</td>
 <td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000312019.html">Providence Bruins</a></td>
@@ -278,18 +278,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 <td>-7</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000312020.html">Providence Bruins</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=168015','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Wiley Sherman stats!</a>
- | <a href="viewastext.php?f5320c3b=fcdc2591&amp;pid=168015" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?445f8075=57728014&amp;pid=168015" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Sonny Milano Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Sonny Milano, a hockey player from Massapequa, NY born May 12 1996 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Sonny Milano, a hockey player from Massapequa, NY born May 12 1996 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Sonny Milano</h1>
 <div class="v1-1">
 Left Wing -- shoots L<br />
-<span class="bdate">Born May 12 1996 -- </span><span class="hometown" itemprop="homeLocation">Massapequa, NY</span> <br />[23 yrs. ago] <br />Height 6.00 -- Weight 194<span class="vitals_metric"> [183 cm/88 kg]</span><br />
+<span class="bdate">Born May 12 1996 -- </span><span class="hometown" itemprop="homeLocation">Massapequa, NY</span> <br />[23 yrs. ago] <br />Height 6.00 -- Weight 195<span class="vitals_metric"> [183 cm/88 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>22</td>
 <td>12</td>
 <td>-27</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0065622014.html">U.S. National Under-18 Team</a></td>
@@ -233,7 +233,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>39</td>
 <td>21</td>
 <td>21</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0011452015.html">Plymouth Whalers</a></td>
@@ -244,7 +244,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>68</td>
 <td>24</td>
 <td>-17</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0003042015.html">Springfield Falcons</a></td>
@@ -255,7 +255,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>5</td>
 <td>0</td>
 <td>-7</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047272016.html">Lake Erie Monsters</a></td>
@@ -281,7 +281,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>1</td>
 <td>0</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076532017.html">Cleveland Monsters</a></td>
@@ -292,7 +292,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>47</td>
 <td>24</td>
 <td>-5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023302017.html">Columbus Blue Jackets</a></td>
@@ -333,7 +333,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>5</td>
 <td>4</td>
 <td>-4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023302019.html">Columbus Blue Jackets</a></td>
@@ -360,23 +360,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>10</td>
 <td>10</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023302020.html">Columbus Blue Jackets</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>71</td>
+<td>70</td>
 <td>15</td>
 <td>9</td>
 <td>24</td>
@@ -391,7 +380,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160599','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Sonny Milano stats!</a>
- | <a href="viewastext.php?cd21a912=d3eea397&amp;pid=160599" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?99b703ec=82a9576d&amp;pid=160599" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -460,7 +449,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <div style="margin-bottom:10px">Not the Sonny Milano you're looking for? We have five other players with similar names.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=187332">Sean Mallonee</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (b.1998) (WHL, NAHL) [2015-2017]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=160590">Sean Malone</a></div>
-<div class="in1 ti" style="margin-bottom:5px"> (b.1995) (NHL, AHL, ECAC) [2012-2020]</div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1995) (NHL, AHL, ECAC) [2012-2019]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=81156">Sean Malone</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (ACAC) [2003-2005]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=136257">Sean Molin</a></div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Jared McCann Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Jared McCann, a hockey player from Stratford, ONT born May 31 1996 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Jared McCann, a hockey player from Stratford, ONT born May 31 1996 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -329,26 +329,15 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 <td>1</td>
 <td>0</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000502020.html">Pittsburgh Penguins</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">3</td>
-<td>2</td>
-<td>1</td>
-<td>3</td>
-<td>0</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>247</td>
-<td>40</td>
-<td>51</td>
-<td>91</td>
+<td>244</td>
+<td>38</td>
+<td>50</td>
+<td>88</td>
 <td>97</td>
 <td></td>
 <td>3</td>
@@ -360,7 +349,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008756.html">Vancouver Canucks</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160292','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jared McCann stats!</a>
- | <a href="viewastext.php?061aa4de=157517cb&amp;pid=160292" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?2fa6fffd=033a72e9&amp;pid=160292" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

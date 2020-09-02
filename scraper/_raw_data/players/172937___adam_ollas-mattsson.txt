@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Adam Ollas-Mattsson</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Jul 30 1996 -- </span><span class="hometown" itemprop="homeLocation">Stockholm, Sweden</span> <br />[23 yrs. ago] <br />Height 6.03 -- Weight 216<span class="vitals_metric"> [191 cm/98 kg]</span><br />
+<span class="bdate">Born Jul 30 1996 -- </span><span class="hometown" itemprop="homeLocation">Stockholm, Sweden</span> <br />[23 yrs. ago] <br />Height 6.05 -- Weight 215<span class="vitals_metric"> [196 cm/98 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -233,7 +233,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 <td>2</td>
 <td>4</td>
 <td>-8</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0072872016.html">Djurgardens IF</a></td>
@@ -274,7 +274,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 <td>2</td>
 <td>6</td>
 <td>4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073932018.html">Stockton Heat</a></td>
@@ -285,7 +285,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 <td>0</td>
 <td>6</td>
 <td>5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073932019.html">Stockton Heat</a></td>
@@ -301,12 +301,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0074242020.html">Malmo Redhawks</a></td>
 <td class="pdl l">SweHL</td>
-<td class="pdgp">8</td>
+<td class="pdgp">2</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>12</td>
-<td>4</td>
+<td>-1</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -314,7 +314,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=172937','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Adam Ollas-Mattsson stats!</a>
- | <a href="viewastext.php?5b23e3a3=7d401732&amp;pid=172937" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?a84ff314=f06cba0c&amp;pid=172937" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

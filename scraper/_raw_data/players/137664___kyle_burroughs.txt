@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Kyle Burroughs Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Kyle Burroughs, a hockey player from Langley, BC born Jul 12 1995 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Kyle Burroughs, a hockey player from Langley, BC born Jul 12 1995 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic137664 = new ImageCollection(['/ihdb/photos/kyle-burroughs-2019-7440.jpg','/ihdb/photos/kyle-burroughs-2018-7440.jpg']);
+var ic137664 = new ImageCollection(['/ihdb/photos/kyle-burroughs-2018-7440.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <a href="/ihdb/cards/carddisplay.php?pid=137664" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Kyle Burroughs hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic137664.next(this)" src="/ihdb/photos/kyle-burroughs-2019-7440.jpg" />
+<img itemprop="image" alt="Kyle Burroughs hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic137664.next(this)" src="/ihdb/photos/kyle-burroughs-2018-7440.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content137664">
@@ -221,7 +221,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2011-12</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0010042012.html">Regina Pats</a></td>
@@ -247,7 +247,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>33</td>
 <td>91</td>
 <td>-8</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0010042014.html">Regina Pats</a></td>
@@ -273,7 +273,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>0</td>
 <td>2</td>
 <td>-6</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0010042015.html">Regina Pats</a></td>
@@ -284,7 +284,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>22</td>
 <td>47</td>
 <td>31</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0009982015.html">Medicine Hat Tigers</a></td>
@@ -310,7 +310,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>7</td>
 <td>17</td>
 <td>11</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026712016.html">Bridgeport Sound Tigers</a></td>
@@ -336,7 +336,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>24</td>
 <td>116</td>
 <td>10</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026712018.html">Bridgeport Sound Tigers</a></td>
@@ -347,7 +347,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>25</td>
 <td>99</td>
 <td>16</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026712019.html">Bridgeport Sound Tigers</a></td>
@@ -364,23 +364,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 <td>3</td>
 <td>0</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026712020.html">Bridgeport Sound Tigers</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>5</td>
-<td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=137664','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Kyle Burroughs stats!</a>
- | <a href="viewastext.php?53e928b4=4f3fdb0d&amp;pid=137664" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?62030135=ca2311a8&amp;pid=137664" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

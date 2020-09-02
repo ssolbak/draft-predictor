@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Andreas Englund Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Andreas Englund, a hockey player from Stockholm, Sweden born Jan 21 1996 who was active from 2013 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Andreas Englund, a hockey player from Stockholm, Sweden born Jan 21 1996 who was active from 2013 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic172935 = new ImageCollection(['/ihdb/photos/andreas-englund-1934-5432.jpg','/ihdb/photos/andreas-englund-2019-54.jpg','/ihdb/photos/andreas-englund-2018-54.jpg','/ihdb/photos/andreas-englund-2017-54.jpg']);
+var ic172935 = new ImageCollection(['/ihdb/photos/andreas-englund-2019-54.jpg','/ihdb/photos/andreas-englund-2018-54.jpg','/ihdb/photos/andreas-englund-2017-54.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Andreas Englund</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Jan 21 1996 -- </span><span class="hometown" itemprop="homeLocation">Stockholm, Sweden</span> <br />[23 yrs. ago] <br />Height 6.04 -- Weight 205<span class="vitals_metric"> [193 cm/93 kg]</span><br />
+<span class="bdate">Born Jan 21 1996 -- </span><span class="hometown" itemprop="homeLocation">Stockholm, Sweden</span> <br />[23 yrs. ago] <br />Height 6.03 -- Weight 189<span class="vitals_metric"> [191 cm/86 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=172935" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Andreas Englund hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic172935.next(this)" src="/ihdb/photos/andreas-englund-1934-5432.jpg" />
+<img itemprop="image" alt="Andreas Englund hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic172935.next(this)" src="/ihdb/photos/andreas-englund-2019-54.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content172935">
@@ -233,7 +233,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>5</td>
 <td>32</td>
 <td>-13</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0072872016.html">Djurgardens IF</a></td>
@@ -259,7 +259,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>10</td>
 <td>82</td>
 <td>-18</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000542017.html">Ottawa Senators</a></td>
@@ -270,7 +270,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>0</td>
 <td>2</td>
 <td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081582018.html">Belleville Senators</a></td>
@@ -281,7 +281,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>10</td>
 <td>69</td>
 <td>-4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000542018.html">Ottawa Senators</a></td>
@@ -292,7 +292,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>0</td>
 <td>0</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081582019.html">Belleville Senators</a></td>
@@ -316,16 +316,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>-2</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081582020.html">Belleville Senators</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -342,7 +332,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=172935','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Andreas Englund stats!</a>
- | <a href="viewastext.php?58613675=b9447a43&amp;pid=172935" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?09c56712=01e01cbe&amp;pid=172935" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -397,11 +387,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6074">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">775,833</span>
- to 2018-19</a>
-</div>
-<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6074">Cap Hit of $<span style="width: 55px; text-align: right; display: inline-block" class="capline">700,000</span>
- to 2019-20 (RFA)</a>
+<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6074">Cap Hit of $775,833 to 2018-19 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6074"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

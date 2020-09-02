@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Sam Reinhart Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Sam Reinhart, a hockey player from West Vancouver, BC born Nov 6 1995 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Sam Reinhart, a hockey player from West Vancouver, BC born Nov 6 1995 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic132239 = new ImageCollection(['/ihdb/photos/sam-reinhart-2020-33.jpg','/ihdb/photos/sam-reinhart-2018-33.jpg','/ihdb/photos/sam-reinhart-2016-33.jpg','/ihdb/photos/sam-reinhart-2015-33.jpg']);
+var ic132239 = new ImageCollection(['/ihdb/photos/sam-reinhart-2018-33.jpg','/ihdb/photos/sam-reinhart-2016-33.jpg','/ihdb/photos/sam-reinhart-2015-33.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=132239" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Sam Reinhart hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic132239.next(this)" src="/ihdb/photos/sam-reinhart-2020-33.jpg" />
+<img itemprop="image" alt="Sam Reinhart hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic132239.next(this)" src="/ihdb/photos/sam-reinhart-2018-33.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content132239">
@@ -353,26 +353,15 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>-10</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000332020.html">Buffalo Sabres</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">3</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>0</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>334</td>
-<td>89</td>
-<td>120</td>
-<td>209</td>
+<td>331</td>
+<td>87</td>
+<td>118</td>
+<td>205</td>
 <td>60</td>
 <td></td>
 <td></td><td></td><td></td><td></td><td></td>
@@ -380,7 +369,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=132239','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Sam Reinhart stats!</a>
- | <a href="viewastext.php?a67de9c0=f7f936a4&amp;pid=132239" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?266ed06a=e5263daa&amp;pid=132239" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

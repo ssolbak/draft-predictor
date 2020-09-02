@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Troy Josephs Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Troy Josephs, a hockey player from Whitby, ONT born May 9 1994 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Troy Josephs, a hockey player from Whitby, ONT born May 9 1994 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -355,12 +355,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <tr class="ENONEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081282020.html">Visp EHC</a></td>
 <td class="pdl l">Swiss-Sw</td>
-<td class="pdgp">7</td>
-<td>6</td>
-<td>4</td>
-<td>10</td>
-<td>20</td>
-<td>8</td>
+<td class="c" colspan="6">Statistics Unavailable</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -368,7 +363,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=138993','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Troy Josephs stats!</a>
- | <a href="viewastext.php?6aa09d4a=e87d8973&amp;pid=138993" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?e0b0cbd3=84d36016&amp;pid=138993" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

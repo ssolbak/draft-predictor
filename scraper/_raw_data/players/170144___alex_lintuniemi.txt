@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Alex Lintuniemi Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Alex Lintuniemi, a hockey player from Helsinki, Finland born Sep 23 1995 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Alex Lintuniemi, a hockey player from Helsinki, Finland born Sep 23 1995 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Alex Lintuniemi</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Sep 23 1995 -- </span><span class="hometown" itemprop="homeLocation">Helsinki, Finland</span> <br />[24 yrs. ago] <br />Height 6.02 -- Weight 215<span class="vitals_metric"> [188 cm/98 kg]</span><br />
+<span class="bdate">Born Sep 23 1995 -- </span><span class="hometown" itemprop="homeLocation">Helsinki, Finland</span> <br />[23 yrs. ago] <br />Height 6.03 -- Weight 214<span class="vitals_metric"> [191 cm/97 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -234,7 +234,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>21</td>
 <td>26</td>
 <td>-38</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008102015.html">Ottawa 67's</a></td>
@@ -260,7 +260,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>1</td>
 <td>0</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073962016.html">Manchester Monarchs</a></td>
@@ -318,23 +318,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>-30</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0060542020.html">Charlotte Checkers</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170144','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Alex Lintuniemi stats!</a>
- | <a href="viewastext.php?9bc30ada=a1e25f43&amp;pid=170144" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?e1574617=30b77d33&amp;pid=170144" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -397,12 +386,11 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Alex Lintuniemi played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/kiekko-vanta-10461.html">Kiekko-Vanta</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Alex Lintuniemi played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/kiekko-vanta-10461.html">Kiekko-Vanta</a></div>
 <div class="ti"><a href="/stte/ottawa-67%27s-7314.html">Ottawa 67's</a></div>
 <div class="ti"><a href="/stte/manchester-monarchs-6725.html">Manchester Monarchs</a></div>
 <div class="ti"><a href="/stte/manchester-monarchs-11624.html">Manchester Monarchs</a></div>
 <div class="ti"><a href="/stte/ontario-reign-11618.html">Ontario Reign</a></div>
-<div class="ti"><a href="/stte/charlotte-checkers-10349.html">Charlotte Checkers</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

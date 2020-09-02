@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic160273 = new ImageCollection(['/ihdb/photos/nikolay-goldobin-2020-39.jpg','/ihdb/photos/nikolay-goldobin-2019-39.jpg','/ihdb/photos/nikolay-goldobin-2018-39.jpg','/ihdb/photos/nikolay-goldobin-2017-44.jpg','/ihdb/photos/nikolay-goldobin-2016-44.jpg','/ihdb/photos/nikolay-goldobin-2015-44.jpg']);
+var ic160273 = new ImageCollection(['/ihdb/photos/nikolay-goldobin-2019-39.jpg','/ihdb/photos/nikolay-goldobin-2018-39.jpg','/ihdb/photos/nikolay-goldobin-2017-44.jpg','/ihdb/photos/nikolay-goldobin-2016-44.jpg','/ihdb/photos/nikolay-goldobin-2015-44.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Nikolay Goldobin</h1>
 <div class="v1-1">
 Right Wing -- shoots L<br />
-<span class="bdate">Born Oct 7 1995 -- </span><span class="hometown" itemprop="homeLocation">Moscow, Russia</span> <br />[24 yrs. ago] <br />Height 5.11 -- Weight 199<span class="vitals_metric"> [180 cm/90 kg]</span><br />
+<span class="bdate">Born Oct 7 1995 -- </span><span class="hometown" itemprop="homeLocation">Moscow, Russia</span> <br />[23 yrs. ago] <br />Height 5.11 -- Weight 196<span class="vitals_metric"> [180 cm/89 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 <span id="div160273"><span id="but160273" class="trades sprite" onclick="sc('deals',160273)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Nikolay Goldobin hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160273.next(this)" src="/ihdb/photos/nikolay-goldobin-2020-39.jpg" />
+<img itemprop="image" alt="Nikolay Goldobin hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160273.next(this)" src="/ihdb/photos/nikolay-goldobin-2019-39.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content160273">
@@ -238,7 +238,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 <td>94</td>
 <td>21</td>
 <td>-30</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0012222015.html">HIFK Helsinki</a></td>
@@ -294,7 +294,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 <td>2</td>
 <td>0</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073922017.html">San Jose Barracuda</a></td>
@@ -305,7 +305,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 <td>41</td>
 <td>16</td>
 <td>5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000442017.html">San Jose Sharks</a></td>
@@ -316,7 +316,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 <td>0</td>
 <td>0</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000392017.html">Vancouver Canucks</a></td>
@@ -327,7 +327,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 <td>3</td>
 <td>0</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070412017.html">Utica Comets</a></td>
@@ -338,7 +338,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 <td>4</td>
 <td>0</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070412018.html">Utica Comets</a></td>
@@ -364,7 +364,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 <td>14</td>
 <td>6</td>
 <td>-14</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000392019.html">Vancouver Canucks</a></td>
@@ -376,12 +376,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 <td>18</td>
 <td>-10</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
-</tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070412020.html">Utica Comets</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
 <tfoot>
@@ -399,7 +393,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160273','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Nikolay Goldobin stats!</a>
- | <a href="viewastext.php?1c1bf8d9=6b0318a4&amp;pid=160273" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?74ff63de=cfc2a81e&amp;pid=160273" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

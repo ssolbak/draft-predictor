@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic170670 = new ImageCollection(['/ihdb/photos/jonas-johansson-2020-33.jpg','/ihdb/photos/jonas-johansson-2019-33.jpg','/ihdb/photos/jonas-johansson-2018-33.jpg','/ihdb/photos/jonas-johansson-2015-33.jpg']);
+var ic170670 = new ImageCollection(['/ihdb/photos/jonas-johansson-2019-33.jpg','/ihdb/photos/jonas-johansson-2018-33.jpg','/ihdb/photos/jonas-johansson-2015-33.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Jonas Johansson</h1>
 <div class="v1-1">
 Goalie -- shoots L<br />
-<span class="bdate">Born Sep 19 1995 -- </span><span class="hometown" itemprop="homeLocation">Gavle, Sweden</span> <br />[24 yrs. ago] <br />Height 6.05 -- Weight 220<span class="vitals_metric"> [196 cm/100 kg]</span><br />
+<span class="bdate">Born Sep 19 1995 -- </span><span class="hometown" itemprop="homeLocation">Gavle, Sweden</span> <br />[23 yrs. ago] <br />Height 6.04 -- Weight 205<span class="vitals_metric"> [193 cm/93 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -177,7 +177,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 &nbsp;
 </div>
 <div class="v2">
-<img itemprop="image" alt="Jonas Johansson hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic170670.next(this)" src="/ihdb/photos/jonas-johansson-2020-33.jpg" />
+<img itemprop="image" alt="Jonas Johansson hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic170670.next(this)" src="/ihdb/photos/jonas-johansson-2019-33.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content170670">
@@ -235,7 +235,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>0</td>
 <td>128</td>
 <td>0.914</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070472015.html">Brynas IF Gavle</a></td>
@@ -253,7 +253,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>0</td>
 <td>59</td>
 <td>0.842</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="ENONEL-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0046272015.html">Almtuna IS</a></td>
@@ -343,7 +343,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>0</td>
 <td>46</td>
 <td>0.920</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000032017.html">Rochester Americans</a></td>
@@ -361,7 +361,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>1</td>
 <td>166</td>
 <td>0.892</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026942018.html">Cincinnati Cyclones</a></td>
@@ -399,7 +399,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>0</td>
 <td>143</td>
 <td>0.861</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026942019.html">Cincinnati Cyclones</a></td>
@@ -437,30 +437,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>0.926</td>
 <td>-</td><td>-</td><td>-</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000032020.html">Rochester Americans</a></td>
-<td class="pdl l">AHL</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170670','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jonas Johansson stats!</a>
- | <a href="viewastext.php?8f51cac5=1c3b6270&amp;pid=170670" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?8269f977=11aad377&amp;pid=170670" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

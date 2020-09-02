@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Vitek Vanecek Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Vitek Vanecek, a hockey player from Havlickuv Brod, Czech Rep. born Jan 9 1996 who was active from 2014 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Vitek Vanecek, a hockey player from Havlickuv Brod, Czech Rep. born Jan 9 1996 who was active from 2014 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Vitek Vanecek</h1>
 <div class="v1-1">
 Goalie -- shoots L<br />
-<span class="bdate">Born Jan 9 1996 -- </span><span class="hometown" itemprop="homeLocation">Havlickuv Brod, Czech Rep.</span> <br />[23 yrs. ago] <br />Height 6.01 -- Weight 187<span class="vitals_metric"> [185 cm/85 kg]</span><br />
+<span class="bdate">Born Jan 9 1996 -- </span><span class="hometown" itemprop="homeLocation">Havlickuv Brod, Czech Rep.</span> <br />[23 yrs. ago] <br />Height 6.01 -- Weight 190<span class="vitals_metric"> [185 cm/86 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -237,7 +237,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>0</td>
 <td>50</td>
 <td>0.943</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2015-16</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0069282016.html">South Carolina Stingrays</a></td>
@@ -275,7 +275,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>0</td>
 <td>25</td>
 <td>0.962</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000092017.html">Hershey Bears</a></td>
@@ -313,7 +313,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>0</td>
 <td>679</td>
 <td>0.888</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2017-18</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0069282018.html">South Carolina Stingrays</a></td>
@@ -331,7 +331,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>0</td>
 <td>58</td>
 <td>0.935</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000092019.html">Hershey Bears</a></td>
@@ -353,30 +353,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>0</td>
 <td>0</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000092020.html">Hershey Bears</a></td>
-<td class="pdl l">AHL</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>58</td>
-<td>4</td>
-<td>0</td>
-<td>0</td>
-<td>4.14</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>26</td>
-<td>0.867</td>
-<td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=171229','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Vitek Vanecek stats!</a>
- | <a href="viewastext.php?1bedaaf0=3a311221&amp;pid=171229" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?b8ff8c68=302fede6&amp;pid=171229" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

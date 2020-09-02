@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Josh Brown (b.1994) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Josh Brown, a hockey player from London, ONT born Jan 21 1994 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Josh Brown, a hockey player from London, ONT born Jan 21 1994 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic130517 = new ImageCollection(['/ihdb/photos/josh-brown-2020-234.jpg','/ihdb/photos/josh-brown-2019-7600.jpg','/ihdb/photos/josh-brown-2019-234.jpg','/ihdb/photos/josh-brown-2018-234.jpg','/ihdb/photos/josh-brown-2017-234.jpg','/ihdb/photos/josh-brown-2015-234.jpg','/ihdb/photos/josh-brown-2014-234.jpg']);
+var ic130517 = new ImageCollection(['/ihdb/photos/josh-brown-2019-7600.jpg','/ihdb/photos/josh-brown-2019-234.jpg','/ihdb/photos/josh-brown-2018-234.jpg','/ihdb/photos/josh-brown-2017-234.jpg','/ihdb/photos/josh-brown-2015-234.jpg','/ihdb/photos/josh-brown-2014-234.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Josh Brown</h1>
 <div class="v1-1">
 Defense -- shoots R<br />
-<span class="bdate">Born Jan 21 1994 -- </span><span class="hometown" itemprop="homeLocation">London, ONT</span> <br />[25 yrs. ago] <br />Height 6.05 -- Weight 217<span class="vitals_metric"> [196 cm/98 kg]</span><br />
+<span class="bdate">Born Jan 21 1994 -- </span><span class="hometown" itemprop="homeLocation">London, ONT</span> <br />[25 yrs. ago] <br />Height 6.05 -- Weight 215<span class="vitals_metric"> [196 cm/98 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <a href="/ihdb/cards/carddisplay.php?pid=130517" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Josh Brown hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic130517.next(this)" src="/ihdb/photos/josh-brown-2020-234.jpg" />
+<img itemprop="image" alt="Josh Brown hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic130517.next(this)" src="/ihdb/photos/josh-brown-2019-7600.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content130517">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>10</td>
 <td>59</td>
 <td>&nbsp;</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2011-12</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008072012.html">Oshawa Generals</a></td>
@@ -293,7 +293,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>1</td>
 <td>7</td>
 <td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073962016.html">Manchester Monarchs</a></td>
@@ -319,7 +319,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>13</td>
 <td>96</td>
 <td>-5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076002018.html">Springfield Thunderbirds</a></td>
@@ -330,7 +330,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>10</td>
 <td>67</td>
 <td>-10</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0002342019.html">Florida Panthers</a></td>
@@ -354,23 +354,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>1</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0002342020.html">Florida Panthers</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>39</td>
+<td>37</td>
 <td>1</td>
 <td>1</td>
 <td>2</td>
@@ -381,7 +370,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=130517','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Josh Brown stats!</a>
- | <a href="viewastext.php?e90d6a06=2b06bf3c&amp;pid=130517" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?5661dcc2=55e1bc32&amp;pid=130517" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

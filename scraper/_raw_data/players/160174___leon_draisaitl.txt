@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Leon Draisaitl Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Leon Draisaitl, a hockey player from Cologne, Germany born Oct 27 1995 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Leon Draisaitl, a hockey player from Cologne, Germany born Oct 27 1995 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic160174 = new ImageCollection(['/ihdb/photos/leon-draisaitl-2020-41.jpg','/ihdb/photos/leon-draisaitl-2019-41.jpg','/ihdb/photos/leon-draisaitl-2018-41.jpg','/ihdb/photos/leon-draisaitl-2017-41.jpg','/ihdb/photos/leon-draisaitl-2016-41.jpg','/ihdb/photos/leon-draisaitl-2015-41.jpg']);
+var ic160174 = new ImageCollection(['/ihdb/photos/leon-draisaitl-2019-41.jpg','/ihdb/photos/leon-draisaitl-2018-41.jpg','/ihdb/photos/leon-draisaitl-2017-41.jpg','/ihdb/photos/leon-draisaitl-2016-41.jpg','/ihdb/photos/leon-draisaitl-2015-41.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=160174" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Leon Draisaitl hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160174.next(this)" src="/ihdb/photos/leon-draisaitl-2020-41.jpg" />
+<img itemprop="image" alt="Leon Draisaitl hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160174.next(this)" src="/ihdb/photos/leon-draisaitl-2019-41.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content160174">
@@ -328,26 +328,15 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <td>2</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000412020.html">Edmonton Oilers</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>1</td>
-<td>4</td>
-<td>5</td>
-<td>0</td>
-<td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>353</td>
-<td>126</td>
-<td>191</td>
-<td>317</td>
+<td>351</td>
+<td>125</td>
+<td>187</td>
+<td>312</td>
 <td>126</td>
 <td></td>
 <td>13</td>
@@ -359,7 +348,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160174','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Leon Draisaitl stats!</a>
- | <a href="viewastext.php?fa2bb3c3=0f5114e7&amp;pid=160174" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?12b7fbbc=52d1e7aa&amp;pid=160174" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

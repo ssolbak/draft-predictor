@@ -353,12 +353,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 <tr class="ENONEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0072912020.html">Kassel Huskies</a></td>
 <td class="pdl l">DEL-2</td>
-<td class="pdgp">9</td>
-<td>5</td>
-<td>3</td>
-<td>8</td>
-<td>43</td>
-<td>6</td>
+<td class="pdgp">2</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>33</td>
+<td>-1</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -366,7 +366,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=139244','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Austin Carroll stats!</a>
- | <a href="viewastext.php?c24b9abe=919d31e4&amp;pid=139244" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?9dadd5d6=55f93591&amp;pid=139244" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

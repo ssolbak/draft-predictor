@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Victor Olofsson (b.1995) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Victor Olofsson, a hockey player from Ornskoldsvik, Sweden born Jul 18 1995 who was active from 2013 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Victor Olofsson, a hockey player from Ornskoldsvik, Sweden born Jul 18 1995 who was active from 2013 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic142605 = new ImageCollection(['/ihdb/photos/victor-olofsson-2020-33.jpg','/ihdb/photos/victor-olofsson-2019-33.jpg','/ihdb/photos/victor-olofsson-2015-33.jpg']);
+var ic142605 = new ImageCollection(['/ihdb/photos/victor-olofsson-2019-33.jpg','/ihdb/photos/victor-olofsson-2015-33.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -177,7 +177,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 &nbsp;
 </div>
 <div class="v2">
-<img itemprop="image" alt="Victor Olofsson hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic142605.next(this)" src="/ihdb/photos/victor-olofsson-2020-33.jpg" />
+<img itemprop="image" alt="Victor Olofsson hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic142605.next(this)" src="/ihdb/photos/victor-olofsson-2019-33.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content142605">
@@ -300,26 +300,15 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>1</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000332020.html">Buffalo Sabres</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">5</td>
-<td>4</td>
-<td>1</td>
-<td>5</td>
-<td>0</td>
-<td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>11</td>
 <td>6</td>
-<td>3</td>
-<td>9</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
 <td>2</td>
 <td></td>
 <td></td><td></td><td></td><td></td><td></td>
@@ -327,7 +316,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=142605','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Victor Olofsson stats!</a>
- | <a href="viewastext.php?0d04e670=4ea52033&amp;pid=142605" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?3f30ef84=ccdf493e&amp;pid=142605" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -374,7 +363,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6209">Cap Hit of $767,500 to 2019-20 (RFA)</a>
+<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6209">Cap Hit of $767,500 to 2019-20 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6209"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

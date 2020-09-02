@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic124686 = new ImageCollection(['/ihdb/photos/tyrell-goulbourne-2020-7776.jpg','/ihdb/photos/tyrell-goulbourne-2019-53.jpg','/ihdb/photos/tyrell-goulbourne-2018-53.jpg','/ihdb/photos/tyrell-goulbourne-2017-53.jpg','/ihdb/photos/tyrell-goulbourne-2016-53.jpg','/ihdb/photos/tyrell-goulbourne-2015-53.jpg','/ihdb/photos/tyrell-goulbourne-2014-53.jpg']);
+var ic124686 = new ImageCollection(['/ihdb/photos/tyrell-goulbourne-2019-53.jpg','/ihdb/photos/tyrell-goulbourne-2018-53.jpg','/ihdb/photos/tyrell-goulbourne-2017-53.jpg','/ihdb/photos/tyrell-goulbourne-2016-53.jpg','/ihdb/photos/tyrell-goulbourne-2015-53.jpg','/ihdb/photos/tyrell-goulbourne-2014-53.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <span id="div124686"><span id="but124686" class="trades sprite" onclick="sc('deals',124686)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Tyrell Goulbourne hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic124686.next(this)" src="/ihdb/photos/tyrell-goulbourne-2020-7776.jpg" />
+<img itemprop="image" alt="Tyrell Goulbourne hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic124686.next(this)" src="/ihdb/photos/tyrell-goulbourne-2019-53.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content124686">
@@ -384,17 +384,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <td>0</td>
 <td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026742020.html">Chicago Wolves</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -411,7 +400,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=124686','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Tyrell Goulbourne stats!</a>
- | <a href="viewastext.php?618d347c=ff2539a4&amp;pid=124686" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?451415c1=bc10e235&amp;pid=124686" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -445,11 +434,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Tyrell Goulbourne played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/kelowna-rockets-6340.html">Kelowna Rockets</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Tyrell Goulbourne played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/kelowna-rockets-6340.html">Kelowna Rockets</a></div>
 <div class="ti"><a href="/stte/lehigh-valley-phantoms-11538.html">Lehigh Valley Phantoms</a></div>
 <div class="ti"><a href="/stte/reading-royals-7621.html">Reading Royals</a></div>
 <div class="ti"><a href="/stte/philadelphia-flyers-7439.html">Philadelphia Flyers</a></div>
-<div class="ti"><a href="/stte/chicago-wolves-5237.html">Chicago Wolves</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

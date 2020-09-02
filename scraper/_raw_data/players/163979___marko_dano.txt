@@ -385,12 +385,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>-6</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076532020.html">Cleveland Monsters</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -407,7 +401,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=163979','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Marko Dano stats!</a>
- | <a href="viewastext.php?7a7c5779=5a1cd75a&amp;pid=163979" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?e0e1c3d0=f828797a&amp;pid=163979" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -495,7 +489,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the ten teams that Marko Dano played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/trencin-dukla-5557.html">Trencin Dukla</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the nine teams that Marko Dano played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/trencin-dukla-5557.html">Trencin Dukla</a></div>
 <div class="ti"><a href="/stte/bratislava-slovan-11028.html">Bratislava Slovan</a></div>
 <div class="ti"><a href="/stte/springfield-falcons-8116.html">Springfield Falcons</a></div>
 <div class="ti"><a href="/stte/columbus-blue-jackets-5316.html">Columbus Blue Jackets</a></div>
@@ -504,7 +498,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <div class="ti"><a href="/stte/winnipeg-jets-10675.html">Winnipeg Jets</a></div>
 <div class="ti"><a href="/stte/manitoba-moose-11617.html">Manitoba Moose</a></div>
 <div class="ti"><a href="/stte/colorado-avalanche-5307.html">Colorado Avalanche</a></div>
-<div class="ti"><a href="/stte/cleveland-monsters-6480.html">Cleveland Monsters</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

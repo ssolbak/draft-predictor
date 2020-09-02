@@ -388,30 +388,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <td></td>
 <td></td><td></td><td></td>
 </tr>
-<tr class="EUROEL-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0072852020.html">Sochi HC</a></td>
-<td class="pdl l">KHL</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=175333','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ivan Nalimov stats!</a>
- | <a href="viewastext.php?967bf9d8=a9f1c1ab&amp;pid=175333" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?73ec0e18=101666eb&amp;pid=175333" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -461,13 +443,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
 <div style="margin-bottom:10px">Ivan Nalimov played in one league over the course of his career. Learn more about the league from its League History page.</div><div class="ti" ><a href="/ihdb/stats/leagues/280.html">Kontinental Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Ivan Nalimov played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/vladivostok-admiral-11339.html">Vladivostok Admiral</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Ivan Nalimov played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/vladivostok-admiral-11339.html">Vladivostok Admiral</a></div>
 <div class="ti"><a href="/stte/novosibirsk-sibir-9303.html">Novosibirsk Sibir</a></div>
 <div class="ti"><a href="/stte/ufa-salavat-yulayev-9301.html">Ufa Salavat Yulayev</a></div>
 <div class="ti"><a href="/stte/kunlun-red-star-11753.html">Kunlun Red Star</a></div>
 <div class="ti"><a href="/stte/omsk-avangard-9287.html">Omsk Avangard</a></div>
 <div class="ti"><a href="/stte/st.-petersburg-ska-9304.html">St. Petersburg SKA</a></div>
-<div class="ti"><a href="/stte/sochi-hc-11522.html">Sochi HC</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Aaron Irving</h1>
 <div class="v1-1">
 Defense -- shoots R<br />
-<span class="bdate">Born Mar 3 1996 -- </span><span class="hometown" itemprop="homeLocation">Edmonton, ALTA</span> <br />[23 yrs. ago] <br />Height 6.00 -- Weight 205<span class="vitals_metric"> [183 cm/93 kg]</span><br />
+<span class="bdate">Born Mar 3 1996 -- </span><span class="hometown" itemprop="homeLocation">Edmonton, ALTA</span> <br />[23 yrs. ago] <br />Height 6.01 -- Weight 197<span class="vitals_metric"> [185 cm/89 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -237,7 +237,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>0</td>
 <td>6</td>
 <td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047162014.html">Edmonton Oil Kings</a></td>
@@ -269,17 +269,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>0</td>
 <td>2</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2015-16</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026122016.html">Milwaukee Admirals</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 <tr class="MAJJUN-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047162016.html">Edmonton Oil Kings</a></td>
 <td class="pdl l">WHL</td>
@@ -295,6 +284,17 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>0</td>
 <td>0</td>
 </tr>
+<tr class="MINPRO-1"><td class="pds l">2015-16</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026122016.html">Milwaukee Admirals</a></td>
+<td class="pdl l">AHL</td>
+<td class="pdgp">1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>-3</td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+</tr>
 <tr class="MAJJUN-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0047162017.html">Edmonton Oil Kings</a></td>
 <td class="pdl l">WHL</td>
@@ -304,7 +304,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>43</td>
 <td>55</td>
 <td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0032842017.html">Everett Silvertips</a></td>
@@ -330,7 +330,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>48</td>
 <td>87</td>
 <td>4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070412018.html">Utica Comets</a></td>
@@ -341,16 +341,16 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>0</td>
 <td>0</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070572020.html">Orebro HK</a></td>
 <td class="pdl l">SweHL</td>
-<td class="pdgp">9</td>
+<td class="pdgp">2</td>
+<td>0</td>
 <td>1</td>
-<td>4</td>
-<td>5</td>
-<td>4</td>
+<td>1</td>
+<td>2</td>
 <td>1</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
@@ -359,7 +359,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=159796','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Aaron Irving stats!</a>
- | <a href="viewastext.php?2ef9ee0a=d6093c93&amp;pid=159796" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d763cfa8=8f0e3022&amp;pid=159796" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

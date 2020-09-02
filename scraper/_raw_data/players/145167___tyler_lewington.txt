@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic145167 = new ImageCollection(['/ihdb/photos/tyler-lewington-2020-49.jpg','/ihdb/photos/tyler-lewington-2019-49.jpg','/ihdb/photos/tyler-lewington-2014-49.jpg']);
+var ic145167 = new ImageCollection(['/ihdb/photos/tyler-lewington-2019-49.jpg','/ihdb/photos/tyler-lewington-2014-49.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Tyler Lewington</h1>
 <div class="v1-1">
 Defense -- shoots R<br />
-<span class="bdate">Born Dec 5 1994 -- </span><span class="hometown" itemprop="homeLocation">Edmonton, ALTA</span> <br />[24 yrs. ago] <br />Height 6.02 -- Weight 200<span class="vitals_metric"> [188 cm/91 kg]</span><br />
+<span class="bdate">Born Dec 5 1994 -- </span><span class="hometown" itemprop="homeLocation">Edmonton, ALTA</span> <br />[24 yrs. ago] <br />Height 6.02 -- Weight 202<span class="vitals_metric"> [188 cm/92 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <a href="/ihdb/cards/carddisplay.php?pid=145167" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Tyler Lewington hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic145167.next(this)" src="/ihdb/photos/tyler-lewington-2020-49.jpg" />
+<img itemprop="image" alt="Tyler Lewington hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic145167.next(this)" src="/ihdb/photos/tyler-lewington-2019-49.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content145167">
@@ -296,7 +296,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>5</td>
 <td>6</td>
 <td>20</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000092017.html">Hershey Bears</a></td>
@@ -322,7 +322,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>11</td>
 <td>149</td>
 <td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000092019.html">Hershey Bears</a></td>
@@ -350,12 +350,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>3</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000492020.html">Washington Capitals</a></td>
-<td class="pdl l">NHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -372,7 +366,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145167','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Tyler Lewington stats!</a>
- | <a href="viewastext.php?20117c3b=db276fa0&amp;pid=145167" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?3a242ecc=ff3124c9&amp;pid=145167" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

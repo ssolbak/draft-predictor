@@ -330,30 +330,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 <td>0.921</td>
 <td></td><td></td><td></td>
 </tr>
-<tr class="MINPRO-2"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081642020.html">Kansas City Mavericks</a></td>
-<td class="pdl l">ECHL</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170299','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Hayden Hawkey stats!</a>
- | <a href="viewastext.php?568ae03e=3ff791ca&amp;pid=170299" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?299e8787=3b8564dc&amp;pid=170299" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -375,13 +357,11 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 <div style="margin-bottom:10px">Not the Hayden Hawkey you're looking for? We have one other player with a similar name.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=175729">Hayden Hickey</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (b.1995) (SIJHL, NOJHL) [2013-2016]</div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Hayden Hawkey played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
+<div style="margin-bottom:10px">Hayden Hawkey played in two leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/328.html">Hockey East - Div. 1</a></div>
-<div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the three teams that Hayden Hawkey played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/omaha-lancers-9692.html">Omaha Lancers</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the two teams that Hayden Hawkey played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/omaha-lancers-9692.html">Omaha Lancers</a></div>
 <div class="ti"><a href="/stte/providence-college-7561.html">Providence College</a></div>
-<div class="ti"><a href="/stte/kansas-city-mavericks-11551.html">Kansas City Mavericks</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

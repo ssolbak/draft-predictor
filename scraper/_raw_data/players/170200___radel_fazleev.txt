@@ -308,10 +308,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050292020.html">Nizhnekamsk Neftekhimik</a></td>
 <td class="pdl l">KHL</td>
-<td class="pdgp">11</td>
+<td class="pdgp">5</td>
 <td>0</td>
-<td>2</td>
-<td>2</td>
+<td>1</td>
+<td>1</td>
 <td>6</td>
 <td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
@@ -320,7 +320,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=170200','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Radel Fazleev stats!</a>
- | <a href="viewastext.php?75a80482=f1794ce5&amp;pid=170200" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?cbb8aa2b=2239066e&amp;pid=170200" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -367,7 +367,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6195">Cap Hit of $675,000 to 2018-19 (RFA)</a>
+<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6195">Cap Hit of $675,000 to 2018-19 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6195"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>

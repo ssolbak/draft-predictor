@@ -336,12 +336,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0019332020.html">Sparta Praha</a></td>
 <td class="pdl l">Czech</td>
-<td class="pdgp">7</td>
-<td>4</td>
+<td class="pdgp">2</td>
 <td>3</td>
-<td>7</td>
-<td>8</td>
-<td>-1</td>
+<td>2</td>
+<td>5</td>
+<td>2</td>
+<td>1</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -349,7 +349,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=149724','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jan Kostalek stats!</a>
- | <a href="viewastext.php?4331ffeb=74befd18&amp;pid=149724" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?239daaab=09d4c062&amp;pid=149724" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

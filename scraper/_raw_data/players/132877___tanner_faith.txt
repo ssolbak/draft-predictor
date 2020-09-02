@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Tanner Faith</h1>
 <div class="v1-1">
 Defense -- shoots R<br />
-<span class="bdate">Born Oct 5 1995 -- </span><span class="hometown" itemprop="homeLocation">Wilcox, SASK</span> <br />[24 yrs. ago] <br />Height 6.04 -- Weight 219<span class="vitals_metric"> [193 cm/99 kg]</span><br />
+<span class="bdate">Born Oct 5 1995 -- </span><span class="hometown" itemprop="homeLocation">Wilcox, SASK</span> <br />[23 yrs. ago] <br />Height 6.04 -- Weight 219<span class="vitals_metric"> [193 cm/99 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -309,7 +309,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=132877','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Tanner Faith stats!</a>
- | <a href="viewastext.php?d5418ab3=333c76ff&amp;pid=132877" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?5799139f=fde1a8a5&amp;pid=132877" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

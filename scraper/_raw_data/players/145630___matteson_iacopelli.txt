@@ -358,7 +358,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005218.html">Chicago Blackhawks</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145630','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Matteson Iacopelli stats!</a>
- | <a href="viewastext.php?f72a9f06=df69c924&amp;pid=145630" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d5d07aeb=09cffdab&amp;pid=145630" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

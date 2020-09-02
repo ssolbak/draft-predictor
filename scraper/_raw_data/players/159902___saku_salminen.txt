@@ -334,7 +334,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=159902','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Saku Salminen stats!</a>
- | <a href="viewastext.php?445c8efd=0914c508&amp;pid=159902" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?f7aea429=4126ed1b&amp;pid=159902" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

@@ -358,12 +358,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0074202020.html">KooKoo Kouvola</a></td>
 <td class="pdl l">SM-liiga</td>
-<td class="pdgp">8</td>
+<td class="pdgp">2</td>
 <td>0</td>
-<td>3</td>
-<td>3</td>
+<td>1</td>
+<td>1</td>
 <td>0</td>
-<td>-3</td>
+<td>2</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -371,7 +371,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=149195','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Kyle Platzer stats!</a>
- | <a href="viewastext.php?c0ee491c=d3d8f314&amp;pid=149195" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?9e3c8af1=cfc2e6ba&amp;pid=149195" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -295,7 +295,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Arizona Coyotes</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160556','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jared Fiegl stats!</a>
- | <a href="viewastext.php?524e9225=e8bfe0dd&amp;pid=160556" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?e30dd191=f7eb7c86&amp;pid=160556" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

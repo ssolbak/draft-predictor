@@ -316,12 +316,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0086592020.html">Kladno</a></td>
 <td class="pdl l">Czech</td>
-<td class="pdgp">5</td>
+<td class="pdgp">2</td>
 <td>0</td>
 <td>1</td>
 <td>1</td>
 <td>0</td>
-<td>-8</td>
+<td>-3</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -329,7 +329,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160396','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Martin Reway stats!</a>
- | <a href="viewastext.php?5e7bbe53=cd3ae668&amp;pid=160396" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?53aa3f1b=80dc447f&amp;pid=160396" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -408,7 +408,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006929.html">Montreal Canadiens</a><di
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=48844">Martin Roy</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (b.1972) (QSPHL, QSCHL, OUAA) [1997-2006]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=4687">Martin Roy</a></div>
-<div class="in1 ti" style="margin-bottom:5px"> (b.1972) (ECHL, IHL, QMJHL) [1989-1997]</div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1972) (IHL, ECHL, QMJHL) [1989-1997]</div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
 <div style="margin-bottom:10px">Martin Reway played in six leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/197.html">Quebec Major Junior Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/66.html">Czech Republic League</a></div>

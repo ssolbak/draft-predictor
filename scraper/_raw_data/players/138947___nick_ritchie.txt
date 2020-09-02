@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Nick Ritchie Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Nick Ritchie, a hockey player from Orangeville, ONT born Dec 5 1995 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Nick Ritchie, a hockey player from Orangeville, ONT born Dec 5 1995 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Nick Ritchie</h1>
 <div class="v1-1">
 Left Wing -- shoots L<br />
-<span class="bdate">Born Dec 5 1995 -- </span><span class="hometown" itemprop="homeLocation">Orangeville, ONT</span> <br />[23 yrs. ago] <br />Height 6.02 -- Weight 230<span class="vitals_metric"> [188 cm/104 kg]</span><br />
+<span class="bdate">Born Dec 5 1995 -- </span><span class="hometown" itemprop="homeLocation">Orangeville, ONT</span> <br />[23 yrs. ago] <br />Height 6.02 -- Weight 234<span class="vitals_metric"> [188 cm/106 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -223,7 +223,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>0</td>
 <td>0</td>
 <td>&nbsp;</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2011-12</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008062012.html">Peterborough Petes</a></td>
@@ -234,7 +234,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>39</td>
 <td>60</td>
 <td>-22</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008062013.html">Peterborough Petes</a></td>
@@ -245,7 +245,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>35</td>
 <td>50</td>
 <td>-10</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008062014.html">Peterborough Petes</a></td>
@@ -271,7 +271,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>32</td>
 <td>69</td>
 <td>-10</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008192015.html">Soo Greyhounds</a></td>
@@ -312,7 +312,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>4</td>
 <td>37</td>
 <td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0043122017.html">Anaheim Ducks</a></td>
@@ -355,26 +355,16 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>6</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0043122020.html">Anaheim Ducks</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>2</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>248</td>
-<td>36</td>
+<td>246</td>
+<td>35</td>
 <td>55</td>
-<td>91</td>
-<td>255</td>
+<td>90</td>
+<td>253</td>
 <td></td>
 <td>19</td>
 <td>4</td>
@@ -385,7 +375,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=138947','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Nick Ritchie stats!</a>
- | <a href="viewastext.php?e89523f1=762cfe7c&amp;pid=138947" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?a2e36d27=87f00025&amp;pid=138947" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

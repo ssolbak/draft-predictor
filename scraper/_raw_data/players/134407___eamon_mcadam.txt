@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Eamon McAdam</h1>
 <div class="v1-1">
 Goalie -- shoots L<br />
-<span class="bdate">Born Sep 24 1994 -- </span><span class="hometown" itemprop="homeLocation">Doylestown, PA</span> <br />[25 yrs. ago] <br />Height 6.02 -- Weight 195<span class="vitals_metric"> [188 cm/88 kg]</span><br />
+<span class="bdate">Born Sep 24 1994 -- </span><span class="hometown" itemprop="homeLocation">Doylestown, PA</span> <br />[24 yrs. ago] <br />Height 6.02 -- Weight 195<span class="vitals_metric"> [188 cm/88 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -482,7 +482,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007085.html">New York Islanders</a><di
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=134407','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Eamon McAdam stats!</a>
- | <a href="viewastext.php?7d21577a=ede4fae1&amp;pid=134407" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?ffcd91da=464e7089&amp;pid=134407" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Ryan MacInnis (b.1996) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Ryan MacInnis, a hockey player from St. Louis, MO born Feb 14 1996 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Ryan MacInnis, a hockey player from St. Louis, MO born Feb 14 1996 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Ryan MacInnis</h1>
 <div class="v1-1">
 Center -- shoots L<br />
-<span class="bdate">Born Feb 14 1996 -- </span><span class="hometown" itemprop="homeLocation">St. Louis, MO</span> <br />[23 yrs. ago] <br />Height 6.03 -- Weight 185<span class="vitals_metric"> [191 cm/84 kg]</span><br />
+<span class="bdate">Born Feb 14 1996 -- </span><span class="hometown" itemprop="homeLocation">St. Louis, MO</span> <br />[23 yrs. ago] <br />Height 6.04 -- Weight 191<span class="vitals_metric"> [193 cm/87 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -223,7 +223,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Arizona Coyotes</a><div>-
 <td>14</td>
 <td>6</td>
 <td>-13</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008122014.html">Kitchener Rangers</a></td>
@@ -234,7 +234,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Arizona Coyotes</a><div>-
 <td>37</td>
 <td>18</td>
 <td>-28</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008122015.html">Kitchener Rangers</a></td>
@@ -275,7 +275,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Arizona Coyotes</a><div>-
 <td>0</td>
 <td>0</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076012017.html">Tucson Roadrunners</a></td>
@@ -286,7 +286,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Arizona Coyotes</a><div>-
 <td>17</td>
 <td>50</td>
 <td>-21</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076012018.html">Tucson Roadrunners</a></td>
@@ -318,23 +318,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007450.html">Arizona Coyotes</a><div>-
 <td>3</td>
 <td>2</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076532020.html">Cleveland Monsters</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160585','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ryan MacInnis stats!</a>
- | <a href="viewastext.php?b61ab21f=20e6e96d&amp;pid=160585" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?dd85fd51=892d6f24&amp;pid=160585" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

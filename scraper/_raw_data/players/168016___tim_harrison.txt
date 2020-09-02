@@ -302,7 +302,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=168016','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Tim Harrison stats!</a>
- | <a href="viewastext.php?b037046a=17e89ef7&amp;pid=168016" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?4b893ba3=b3a9aa46&amp;pid=168016" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

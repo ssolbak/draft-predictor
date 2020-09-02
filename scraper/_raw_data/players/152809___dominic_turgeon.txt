@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Dominic Turgeon (b.1996) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Dominic Turgeon, a hockey player from Pointe-Claire, PQ born Feb 25 1996 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Dominic Turgeon, a hockey player from Pointe-Claire, PQ born Feb 25 1996 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Dominic Turgeon</h1>
 <div class="v1-1">
 Center -- shoots L<br />
-<span class="bdate">Born Feb 25 1996 -- </span><span class="hometown" itemprop="homeLocation">Pointe-Claire, PQ</span> <br />[23 yrs. ago] <br />Height 6.02 -- Weight 205<span class="vitals_metric"> [188 cm/93 kg]</span><br />
+<span class="bdate">Born Feb 25 1996 -- </span><span class="hometown" itemprop="homeLocation">Pointe-Claire, PQ</span> <br />[23 yrs. ago] <br />Height 6.02 -- Weight 200<span class="vitals_metric"> [188 cm/91 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -221,7 +221,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0054022013.html">Portland Winterhawks</a></td>
@@ -307,7 +307,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>32</td>
 <td>23</td>
 <td>13</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000342018.html">Detroit Red Wings</a></td>
@@ -318,7 +318,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>0</td>
 <td>2</td>
 <td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026752019.html">Grand Rapids Griffins</a></td>
@@ -346,17 +346,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>-3</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026752020.html">Grand Rapids Griffins</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -373,7 +362,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=152809','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Dominic Turgeon stats!</a>
- | <a href="viewastext.php?bd39c0d1=0ad90833&amp;pid=152809" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d57a532d=5f9d9e3c&amp;pid=152809" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

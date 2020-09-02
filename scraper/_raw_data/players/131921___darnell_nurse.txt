@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Darnell Nurse Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Darnell Nurse, a hockey player from Hamilton, ONT born Feb 4 1995 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Darnell Nurse, a hockey player from Hamilton, ONT born Feb 4 1995 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic131921 = new ImageCollection(['/ihdb/photos/darnell-nurse-2020-41.jpg','/ihdb/photos/darnell-nurse-2018-41.jpg','/ihdb/photos/darnell-nurse-2017-41.jpg','/ihdb/photos/darnell-nurse-2016-41.jpg','/ihdb/photos/darnell-nurse-2015-41.jpg','/ihdb/photos/darnell-nurse-2014-41.jpg']);
+var ic131921 = new ImageCollection(['/ihdb/photos/darnell-nurse-2018-41.jpg','/ihdb/photos/darnell-nurse-2017-41.jpg','/ihdb/photos/darnell-nurse-2016-41.jpg','/ihdb/photos/darnell-nurse-2015-41.jpg','/ihdb/photos/darnell-nurse-2014-41.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=131921" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Darnell Nurse hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic131921.next(this)" src="/ihdb/photos/darnell-nurse-2020-41.jpg" />
+<img itemprop="image" alt="Darnell Nurse hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic131921.next(this)" src="/ihdb/photos/darnell-nurse-2018-41.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content131921">
@@ -374,26 +374,15 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 <td>-5</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000412020.html">Edmonton Oilers</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>280</td>
+<td>279</td>
 <td>24</td>
-<td>65</td>
-<td>89</td>
+<td>64</td>
+<td>88</td>
 <td>247</td>
 <td></td>
 <td>13</td>
@@ -405,7 +394,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=131921','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Darnell Nurse stats!</a>
- | <a href="viewastext.php?bdc96cb2=6d1ba81c&amp;pid=131921" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?78f69f61=17c12856&amp;pid=131921" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

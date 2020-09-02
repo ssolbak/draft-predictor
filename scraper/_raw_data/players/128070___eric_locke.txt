@@ -362,7 +362,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=128070','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Eric Locke stats!</a>
- | <a href="viewastext.php?aab783f8=89a3b34b&amp;pid=128070" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?b725aff8=5001be89&amp;pid=128070" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic152152 = new ImageCollection(['/ihdb/photos/brandon-hickey-2020-33.jpg','/ihdb/photos/brandon-hickey-2019-33.jpg','/ihdb/photos/brandon-hickey-2017-43.jpg','/ihdb/photos/brandon-hickey-2015-43.jpg']);
+var ic152152 = new ImageCollection(['/ihdb/photos/brandon-hickey-2019-33.jpg','/ihdb/photos/brandon-hickey-2017-43.jpg','/ihdb/photos/brandon-hickey-2015-43.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Brandon Hickey</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Apr 13 1996 -- </span><span class="hometown" itemprop="homeLocation">Leduc, ALTA</span> <br />[23 yrs. ago] <br />Height 6.02 -- Weight 205<span class="vitals_metric"> [188 cm/93 kg]</span><br />
+<span class="bdate">Born Apr 13 1996 -- </span><span class="hometown" itemprop="homeLocation">Leduc, ALTA</span> <br />[23 yrs. ago] <br />Height 6.02 -- Weight 201<span class="vitals_metric"> [188 cm/91 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 <span id="div152152"><span id="but152152" class="trades sprite" onclick="sc('deals',152152)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Brandon Hickey hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic152152.next(this)" src="/ihdb/photos/brandon-hickey-2020-33.jpg" />
+<img itemprop="image" alt="Brandon Hickey hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic152152.next(this)" src="/ihdb/photos/brandon-hickey-2019-33.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content152152">
@@ -223,7 +223,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 <td>0</td>
 <td>2</td>
 <td>&nbsp;</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="CANJRA-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0041262013.html">Spruce Grove Saints</a></td>
@@ -309,18 +309,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 <td>12</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000032020.html">Rochester Americans</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=152152','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Brandon Hickey stats!</a>
- | <a href="viewastext.php?812400ad=b36eddcc&amp;pid=152152" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?ee9e1af0=95581cf9&amp;pid=152152" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

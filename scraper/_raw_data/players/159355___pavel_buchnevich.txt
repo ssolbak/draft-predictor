@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Pavel Buchnevich Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Pavel Buchnevich, a hockey player from Cherepovets, Russia born Apr 17 1995 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Pavel Buchnevich, a hockey player from Cherepovets, Russia born Apr 17 1995 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -165,8 +165,8 @@ if (screen.width >= 1270) {
 <div class="v1">
 <h1 itemprop="name" class="title">Pavel Buchnevich</h1>
 <div class="v1-1">
-Right Wing -- shoots L<br />
-<span class="bdate">Born Apr 17 1995 -- </span><span class="hometown" itemprop="homeLocation">Cherepovets, Russia</span> <br />[24 yrs. ago] <br />Height 6.03 -- Weight 197<span class="vitals_metric"> [191 cm/89 kg]</span><br />
+Right Wing<br />
+<span class="bdate">Born Apr 17 1995 -- </span><span class="hometown" itemprop="homeLocation">Cherepovets, Russia</span> <br />[24 yrs. ago] <br />Height 6.03 -- Weight 196<span class="vitals_metric"> [191 cm/89 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -238,7 +238,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>18</td>
 <td>12</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050312015.html">Cherepovets Severstal</a></td>
@@ -249,7 +249,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>30</td>
 <td>16</td>
 <td>8</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050312016.html">Cherepovets Severstal</a></td>
@@ -260,7 +260,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>29</td>
 <td>20</td>
 <td>-6</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050332016.html">St. Petersburg SKA</a></td>
@@ -300,7 +300,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>5</td>
 <td>0</td>
 <td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000482018.html">New York Rangers</a></td>
@@ -311,7 +311,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>43</td>
 <td>20</td>
 <td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000482019.html">New York Rangers</a></td>
@@ -322,29 +322,18 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>38</td>
 <td>13</td>
 <td>-10</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000482020.html">New York Rangers</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>181</td>
+<td>179</td>
 <td>43</td>
-<td>60</td>
-<td>103</td>
-<td>48</td>
+<td>58</td>
+<td>101</td>
+<td>46</td>
 <td></td>
 <td>5</td>
 <td>0</td>
@@ -355,7 +344,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=159355','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Pavel Buchnevich stats!</a>
- | <a href="viewastext.php?5e1bcc9c=94d1db20&amp;pid=159355" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?9c9a1f00=423f21be&amp;pid=159355" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

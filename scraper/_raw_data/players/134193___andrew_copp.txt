@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Andrew Copp Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Andrew Copp, a hockey player from Ann Arbor, MI born Jul 8 1994 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Andrew Copp, a hockey player from Ann Arbor, MI born Jul 8 1994 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic134193 = new ImageCollection(['/ihdb/photos/andrew-copp-2020-6378.jpg','/ihdb/photos/andrew-copp-2019-6378.jpg','/ihdb/photos/andrew-copp-2018-6378.jpg','/ihdb/photos/andrew-copp-2017-6378.jpg','/ihdb/photos/andrew-copp-2016-6378.jpg','/ihdb/photos/andrew-copp-2014-6378.jpg']);
+var ic134193 = new ImageCollection(['/ihdb/photos/andrew-copp-2019-6378.jpg','/ihdb/photos/andrew-copp-2018-6378.jpg','/ihdb/photos/andrew-copp-2017-6378.jpg','/ihdb/photos/andrew-copp-2016-6378.jpg','/ihdb/photos/andrew-copp-2014-6378.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=134193" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Andrew Copp hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic134193.next(this)" src="/ihdb/photos/andrew-copp-2020-6378.jpg" />
+<img itemprop="image" alt="Andrew Copp hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic134193.next(this)" src="/ihdb/photos/andrew-copp-2019-6378.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content134193">
@@ -345,27 +345,16 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>5</td>
 <td>2</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0063782020.html">Winnipeg Jets</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">3</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>296</td>
+<td>293</td>
 <td>36</td>
-<td>49</td>
-<td>85</td>
-<td>46</td>
+<td>48</td>
+<td>84</td>
+<td>44</td>
 <td></td>
 <td>22</td>
 <td>1</td>
@@ -376,7 +365,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=134193','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Andrew Copp stats!</a>
- | <a href="viewastext.php?895085c7=d46e23e3&amp;pid=134193" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d821a009=f1baac76&amp;pid=134193" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

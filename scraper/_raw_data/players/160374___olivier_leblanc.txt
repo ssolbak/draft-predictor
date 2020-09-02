@@ -317,7 +317,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160374','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Olivier Leblanc stats!</a>
- | <a href="viewastext.php?c1b62f96=e6328f8d&amp;pid=160374" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?2bd7eee3=b27fbc4b&amp;pid=160374" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

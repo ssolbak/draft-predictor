@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Teemu Kivihalme Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Teemu Kivihalme, a hockey player from Cloquet, MN born Jun 14 1995 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Teemu Kivihalme, a hockey player from Savage, MN born Jun 14 1995 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,6 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic165758 = new ImageCollection(['/ihdb/photos/teemu-kivihalme-2020-38.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +165,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Teemu Kivihalme</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Jun 14 1995 -- </span><span class="hometown" itemprop="homeLocation">Cloquet, MN</span> <br />[24 yrs. ago] <br />Height 6.00 -- Weight 181<span class="vitals_metric"> [183 cm/82 kg]</span><br />
+<span class="bdate">Born Jun 14 1995 -- </span><span class="hometown" itemprop="homeLocation">Savage, MN</span> <br />[24 yrs. ago] <br />Height 6.00 -- Weight 170<span class="vitals_metric"> [183 cm/77 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -177,10 +176,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 &nbsp;
 <a href="/ihdb/cards/carddisplay.php?pid=165758" class="button sprite">&nbsp;</a> 
 <span id="div165758"><span id="but165758" class="trades sprite" onclick="sc('deals',165758)"></span></span>
-</div>
-<div class="v2">
-<img itemprop="image" alt="Teemu Kivihalme hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic165758.next(this)" src="/ihdb/photos/teemu-kivihalme-2020-38.jpg" />
-&nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content165758">
 </div>
@@ -223,7 +218,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>1</td>
 <td>0</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050512014.html">Fargo Force</a></td>
@@ -234,7 +229,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>12</td>
 <td>12</td>
 <td>-22</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="COLLEG-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070582015.html">Colorado College</a></td>
@@ -305,23 +300,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td class="c" colspan="6">Statistics Unavailable</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0039912020.html">Toronto Marlies</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=165758','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Teemu Kivihalme stats!</a>
- | <a href="viewastext.php?16a7c43a=0ddca662&amp;pid=165758" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?ffeb9b41=870a8d63&amp;pid=165758" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -346,15 +330,13 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Teemu Kivihalme played in four leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
+<div style="margin-bottom:10px">Teemu Kivihalme played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/404.html">National Collegiate Hockey Conf. - Div. 1</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/84.html">Finland SM-liiga</a></div>
-<div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Teemu Kivihalme played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/fargo-force-9322.html">Fargo Force</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the three teams that Teemu Kivihalme played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/fargo-force-9322.html">Fargo Force</a></div>
 <div class="ti"><a href="/stte/colorado-college-5308.html">Colorado College</a></div>
 <div class="ti"><a href="/stte/karpat-6318.html">Karpat</a></div>
-<div class="ti"><a href="/stte/toronto-marlies-8496.html">Toronto Marlies</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

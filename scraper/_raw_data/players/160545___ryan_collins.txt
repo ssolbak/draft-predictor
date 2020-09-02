@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Ryan Collins (b.1996) Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Ryan Collins, a hockey player from Bloomington, MN born May 6 1996 who was active from 2013 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Ryan Collins, a hockey player from Bloomington, MN born May 6 1996 who was active from 2013 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Ryan Collins</h1>
 <div class="v1-1">
 Defense -- shoots R<br />
-<span class="bdate">Born May 6 1996 -- </span><span class="hometown" itemprop="homeLocation">Bloomington, MN</span> <br />[23 yrs. ago] <br />Height 6.05 -- Weight 212<span class="vitals_metric"> [196 cm/96 kg]</span><br />
+<span class="bdate">Born May 6 1996 -- </span><span class="hometown" itemprop="homeLocation">Bloomington, MN</span> <br />[23 yrs. ago] <br />Height 6.05 -- Weight 204<span class="vitals_metric"> [196 cm/93 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>2</td>
 <td>10</td>
 <td>12</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="COLLEG-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070722015.html">U. of Minnesota</a></td>
@@ -266,7 +266,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>1</td>
 <td>2</td>
 <td>4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076532018.html">Cleveland Monsters</a></td>
@@ -277,7 +277,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>10</td>
 <td>39</td>
 <td>-20</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076532019.html">Cleveland Monsters</a></td>
@@ -294,23 +294,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005316.html">Columbus Blue Jackets</a>
 <td>1</td>
 <td>4</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076532020.html">Cleveland Monsters</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160545','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ryan Collins stats!</a>
- | <a href="viewastext.php?b40a7e23=0052bfbb&amp;pid=160545" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?b735591a=31513126&amp;pid=160545" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

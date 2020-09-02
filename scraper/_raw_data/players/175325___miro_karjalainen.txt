@@ -279,11 +279,11 @@ Drafted by <a href="/ihdb/draft/teams/dr00005404.html">Dallas Stars</a><div>-
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0012652020.html">HPK Hameenlinna</a></td>
 <td class="pdl l">SM-liiga</td>
-<td class="pdgp">9</td>
+<td class="pdgp">3</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>2</td>
+<td>0</td>
 <td>-1</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
@@ -292,7 +292,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005404.html">Dallas Stars</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=175325','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Miro Karjalainen stats!</a>
- | <a href="viewastext.php?630e06de=05122e9b&amp;pid=175325" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?c2d795f0=a34e1e93&amp;pid=175325" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

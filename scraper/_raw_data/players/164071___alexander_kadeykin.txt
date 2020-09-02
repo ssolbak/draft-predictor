@@ -165,7 +165,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Alexander Kadeykin</h1>
 <div class="v1-1">
 Foward<br />
-<span class="bdate">Born Oct 4 1993</span></span> <br />[26 yrs. ago] <br /></div>
+<span class="bdate">Born Oct 4 1993</span></span> <br />[25 yrs. ago] <br /></div>
 </div>
 <div class="vd">
 Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div>- 
@@ -316,12 +316,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050302020.html">Ufa Salavat Yulayev</a></td>
 <td class="pdl l">KHL</td>
-<td class="pdgp">13</td>
+<td class="pdgp">5</td>
 <td>0</td>
-<td>2</td>
-<td>2</td>
-<td>14</td>
+<td>1</td>
+<td>1</td>
 <td>4</td>
+<td>2</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
@@ -329,7 +329,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=164071','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Alexander Kadeykin stats!</a>
- | <a href="viewastext.php?112ab39f=9bd65892&amp;pid=164071" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?7814a957=6950b81e&amp;pid=164071" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

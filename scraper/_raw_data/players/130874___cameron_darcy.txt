@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Cameron Darcy Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Cameron Darcy, a hockey player from South Boston, MA born Mar 2 1994 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Cameron Darcy, a hockey player from South Boston, MA born Mar 2 1994 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Cameron Darcy</h1>
 <div class="v1-1">
 Center -- shoots R<br />
-<span class="bdate">Born Mar 2 1994 -- </span><span class="hometown" itemprop="homeLocation">South Boston, MA</span> <br />[25 yrs. ago] <br />Height 6.00 -- Weight 186<span class="vitals_metric"> [183 cm/84 kg]</span><br />
+<span class="bdate">Born Mar 2 1994 -- </span><span class="hometown" itemprop="homeLocation">South Boston, MA</span> <br />[25 yrs. ago] <br />Height 6.00 -- Weight 190<span class="vitals_metric"> [183 cm/86 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -237,7 +237,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>6</td>
 <td>8</td>
 <td>-4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="COLLEG-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0005732013.html">Northeastern University</a></td>
@@ -289,7 +289,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>14</td>
 <td>14</td>
 <td>-6</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0067382015.html">Sherbrooke Phoenix</a></td>
@@ -315,7 +315,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>12</td>
 <td>44</td>
 <td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0005082017.html">Syracuse Crunch</a></td>
@@ -326,7 +326,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>7</td>
 <td>14</td>
 <td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0054282017.html">Kalamazoo Wings</a></td>
@@ -369,23 +369,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <td>-14</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0029702020.html">San Antonio Rampage</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">3</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=130874','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Cameron Darcy stats!</a>
- | <a href="viewastext.php?55b667b0=8b642862&amp;pid=130874" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?c6e770c6=ac30afd5&amp;pid=130874" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -410,7 +399,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the nine teams that Cameron Darcy played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/u.s.-national-development-team-9725.html">U.S. National Development Team</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the eight teams that Cameron Darcy played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/u.s.-national-development-team-9725.html">U.S. National Development Team</a></div>
 <div class="ti"><a href="/stte/northeastern-university-7171.html">Northeastern University</a></div>
 <div class="ti"><a href="/stte/muskegon-lumberjacks-10347.html">Muskegon Lumberjacks</a></div>
 <div class="ti"><a href="/stte/cape-breton-screaming-eagles-5136.html">Cape Breton Screaming Eagles</a></div>
@@ -418,7 +407,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00008385.html">Tampa Bay Lightning</a><d
 <div class="ti"><a href="/stte/syracuse-crunch-8362.html">Syracuse Crunch</a></div>
 <div class="ti"><a href="/stte/kalamazoo-wings-9719.html">Kalamazoo Wings</a></div>
 <div class="ti"><a href="/stte/utica-comets-11346.html">Utica Comets</a></div>
-<div class="ti"><a href="/stte/san-antonio-rampage-7852.html">San Antonio Rampage</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

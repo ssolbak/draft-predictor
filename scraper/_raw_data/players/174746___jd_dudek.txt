@@ -296,18 +296,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007066.html">New Jersey Devils</a><div
 <td>-2</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-2"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081622020.html">Worcester Railers</a></td>
-<td class="pdl l">ECHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=174746','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed J.D. Dudek stats!</a>
- | <a href="viewastext.php?6fb849a5=3ff7c941&amp;pid=174746" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?1c11716c=51b06630&amp;pid=174746" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -326,18 +320,16 @@ Drafted by <a href="/ihdb/draft/teams/dr00007066.html">New Jersey Devils</a><div
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">J.D. Dudek played in five leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/413.html">United States Premier Hockey League-Premier</a></div>
+<div style="margin-bottom:10px">J.D. Dudek played in four leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/413.html">United States Premier Hockey League-Premier</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/328.html">Hockey East - Div. 1</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
-<div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the six teams that J.D. Dudek played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/nashua-islander-hockey-club-11412.html">Nashua Islander Hockey Club</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the five teams that J.D. Dudek played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/nashua-islander-hockey-club-11412.html">Nashua Islander Hockey Club</a></div>
 <div class="ti"><a href="/stte/chicago-steel-5233.html">Chicago Steel</a></div>
 <div class="ti"><a href="/stte/dubuque-fighting-saints-10346.html">Dubuque Fighting Saints</a></div>
 <div class="ti"><a href="/stte/boston-college-4920.html">Boston College</a></div>
 <div class="ti"><a href="/stte/binghamton-devils-12223.html">Binghamton Devils</a></div>
-<div class="ti"><a href="/stte/worcester-railers-12224.html">Worcester Railers</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

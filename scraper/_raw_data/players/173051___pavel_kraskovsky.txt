@@ -293,10 +293,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050262020.html">Yaroslavl Lokomotiv</a></td>
 <td class="pdl l">KHL</td>
-<td class="pdgp">9</td>
-<td>1</td>
+<td class="pdgp">4</td>
+<td>0</td>
 <td>2</td>
-<td>3</td>
+<td>2</td>
 <td>2</td>
 <td>2</td>
 <td></td><td></td><td></td><td></td><td></td>
@@ -306,7 +306,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=173051','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Pavel Kraskovsky stats!</a>
- | <a href="viewastext.php?2fd0a7c7=7b3cade8&amp;pid=173051" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?035e2cab=caa36db2&amp;pid=173051" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

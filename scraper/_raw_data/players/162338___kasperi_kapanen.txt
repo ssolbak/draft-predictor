@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Kasperi Kapanen Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Kasperi Kapanen, a hockey player from Kuopio, Finland born Jul 23 1996 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Kasperi Kapanen, a hockey player from Kuopio, Finland born Jul 23 1996 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic162338 = new ImageCollection(['/ihdb/photos/kasperi-kapanen-2020-38.jpg','/ihdb/photos/kasperi-kapanen-2019-38.jpg','/ihdb/photos/kasperi-kapanen-2018-38.jpg','/ihdb/photos/kasperi-kapanen-2017-38.jpg','/ihdb/photos/kasperi-kapanen-2016-38.jpg','/ihdb/photos/kasperi-kapanen-2015-50.jpg']);
+var ic162338 = new ImageCollection(['/ihdb/photos/kasperi-kapanen-2019-38.jpg','/ihdb/photos/kasperi-kapanen-2018-38.jpg','/ihdb/photos/kasperi-kapanen-2017-38.jpg','/ihdb/photos/kasperi-kapanen-2016-38.jpg','/ihdb/photos/kasperi-kapanen-2015-50.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Kasperi Kapanen</h1>
 <div class="v1-1">
 Right Wing -- shoots R<br />
-<span class="bdate">Born Jul 23 1996 -- </span><span class="hometown" itemprop="homeLocation">Kuopio, Finland</span> <br />[23 yrs. ago] <br />Height 6.01 -- Weight 194<span class="vitals_metric"> [185 cm/88 kg]</span><br />
+<span class="bdate">Born Jul 23 1996 -- </span><span class="hometown" itemprop="homeLocation">Kuopio, Finland</span> <br />[23 yrs. ago] <br />Height 6.01 -- Weight 192<span class="vitals_metric"> [185 cm/87 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <span id="div162338"><span id="but162338" class="trades sprite" onclick="sc('deals',162338)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Kasperi Kapanen hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic162338.next(this)" src="/ihdb/photos/kasperi-kapanen-2020-38.jpg" />
+<img itemprop="image" alt="Kasperi Kapanen hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic162338.next(this)" src="/ihdb/photos/kasperi-kapanen-2019-38.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content162338">
@@ -238,7 +238,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <td>14</td>
 <td>10</td>
 <td>-8</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0012252015.html">KalPa Kuopio</a></td>
@@ -294,7 +294,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <td>0</td>
 <td>2</td>
 <td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0039912017.html">Toronto Marlies</a></td>
@@ -335,7 +335,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <td>24</td>
 <td>12</td>
 <td>8</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000382018.html">Toronto Maple Leafs</a></td>
@@ -367,23 +367,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <td>2</td>
 <td>2</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000382020.html">Toronto Maple Leafs</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">4</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>-4</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>137</td>
+<td>133</td>
 <td>28</td>
 <td>26</td>
 <td>54</td>
@@ -398,7 +387,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=162338','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Kasperi Kapanen stats!</a>
- | <a href="viewastext.php?ae721c43=d0f1f7a5&amp;pid=162338" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?f11dfe94=8be7b2a0&amp;pid=162338" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

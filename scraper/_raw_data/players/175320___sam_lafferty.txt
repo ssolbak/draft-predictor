@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Sam Lafferty Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Sam Lafferty, a hockey player from Hollidaysburg, PA born Mar 6 1995 who was active from 2014 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Sam Lafferty, a hockey player from Hollidaysburg, PA born Mar 6 1995 who was active from 2014 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -278,50 +278,18 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <td>1</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0019802020.html">Wilkes-Barre/Scranton Penguin*</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000502020.html">Pittsburgh Penguins</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
-<tr class="c_sec_foot">
-<td></td><td class="l">NHL Totals</td>
-<td></td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td></td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=175320','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Sam Lafferty stats!</a>
- | <a href="viewastext.php?c4ee73c3=048104d8&amp;pid=175320" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?0d2df4bf=c497e042&amp;pid=175320" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
 
 <div class="tablebg desktop st">
-<div>* No longer on active roster.</div> </div>
+</div>
 </div>
 <div class="sponsor" id="300_160_300" >
 <div id='right_rectangle'>
@@ -340,13 +308,11 @@ Drafted by <a href="/ihdb/draft/teams/dr00007475.html">Pittsburgh Penguins</a><d
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Sam Lafferty played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/327.html">ECAC - Div. 1</a></div>
+<div style="margin-bottom:10px">Sam Lafferty played in two leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/327.html">ECAC - Div. 1</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
-<div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the three teams that Sam Lafferty played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/brown-university-5039.html">Brown University</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the two teams that Sam Lafferty played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/brown-university-5039.html">Brown University</a></div>
 <div class="ti"><a href="/stte/wilkes-barre-scranton-penguins-8979.html">Wilkes-Barre/Scranton Penguins</a></div>
-<div class="ti"><a href="/stte/pittsburgh-penguins-7475.html">Pittsburgh Penguins</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

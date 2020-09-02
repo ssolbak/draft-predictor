@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Ben Harpur Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Ben Harpur, a hockey player from Hamilton, ONT born Jan 12 1995 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Ben Harpur, a hockey player from Hamilton, ONT born Jan 12 1995 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic145050 = new ImageCollection(['/ihdb/photos/ben-harpur-2020-38.jpg','/ihdb/photos/ben-harpur-2019-54.jpg','/ihdb/photos/ben-harpur-2018-54.jpg','/ihdb/photos/ben-harpur-2017-54.jpg','/ihdb/photos/ben-harpur-2016-54.jpg','/ihdb/photos/ben-harpur-2015-54.jpg','/ihdb/photos/ben-harpur-2014-54.jpg']);
+var ic145050 = new ImageCollection(['/ihdb/photos/ben-harpur-2019-54.jpg','/ihdb/photos/ben-harpur-2018-54.jpg','/ihdb/photos/ben-harpur-2017-54.jpg','/ihdb/photos/ben-harpur-2016-54.jpg','/ihdb/photos/ben-harpur-2015-54.jpg','/ihdb/photos/ben-harpur-2014-54.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Ben Harpur</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Jan 12 1995 -- </span><span class="hometown" itemprop="homeLocation">Hamilton, ONT</span> <br />[24 yrs. ago] <br />Height 6.06 -- Weight 231<span class="vitals_metric"> [198 cm/105 kg]</span><br />
+<span class="bdate">Born Jan 12 1995 -- </span><span class="hometown" itemprop="homeLocation">Hamilton, ONT</span> <br />[24 yrs. ago] <br />Height 6.06 -- Weight 222<span class="vitals_metric"> [198 cm/101 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <span id="div145050"><span id="but145050" class="trades sprite" onclick="sc('deals',145050)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Ben Harpur hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic145050.next(this)" src="/ihdb/photos/ben-harpur-2020-38.jpg" />
+<img itemprop="image" alt="Ben Harpur hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic145050.next(this)" src="/ihdb/photos/ben-harpur-2019-54.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content145050">
@@ -223,7 +223,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>4</td>
 <td>22</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008372013.html">Guelph Storm</a></td>
@@ -264,7 +264,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>20</td>
 <td>40</td>
 <td>10</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008352015.html">Barrie Colts</a></td>
@@ -289,7 +289,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>6</td>
 <td>34</td>
 <td>-9</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0067282016.html">Evansville Icemen</a></td>
@@ -300,7 +300,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000542016.html">Ottawa Senators</a></td>
@@ -311,7 +311,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>1</td>
 <td>2</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0030012017.html">Binghamton Senators</a></td>
@@ -321,7 +321,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>25</td>
 <td>27</td>
 <td>81</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000542017.html">Ottawa Senators</a></td>
@@ -347,7 +347,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>11</td>
 <td>31</td>
 <td>-7</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000542018.html">Ottawa Senators</a></td>
@@ -358,7 +358,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>1</td>
 <td>21</td>
 <td>-21</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000542019.html">Ottawa Senators</a></td>
@@ -369,18 +369,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <td>5</td>
 <td>56</td>
 <td>-13</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0039912020.html">Toronto Marlies</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 </tbody>
 <tfoot>
@@ -402,7 +391,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145050','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ben Harpur stats!</a>
- | <a href="viewastext.php?e1b327b1=721d3258&amp;pid=145050" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?aefb28e4=cef28ad1&amp;pid=145050" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -435,13 +424,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Ben Harpur played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/guelph-storm-5953.html">Guelph Storm</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Ben Harpur played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/guelph-storm-5953.html">Guelph Storm</a></div>
 <div class="ti"><a href="/stte/barrie-colts-4779.html">Barrie Colts</a></div>
 <div class="ti"><a href="/stte/binghamton-senators-4872.html">Binghamton Senators</a></div>
 <div class="ti"><a href="/stte/evansville-icemen-11030.html">Evansville Icemen</a></div>
 <div class="ti"><a href="/stte/ottawa-senators-7328.html">Ottawa Senators</a></div>
 <div class="ti"><a href="/stte/belleville-senators-12221.html">Belleville Senators</a></div>
-<div class="ti"><a href="/stte/toronto-marlies-8496.html">Toronto Marlies</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

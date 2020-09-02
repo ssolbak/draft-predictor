@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Fredrik Bergvik Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Fredrik Bergvik, a hockey player from Stockholm, Sweden born Feb 14 1995 who was active from 2013 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Fredrik Bergvik, a hockey player from Stockholm, Sweden born Feb 14 1995 who was active from 2013 to 2016." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -305,30 +305,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 <td>0.849</td>
 <td></td><td></td><td></td>
 </tr>
-<tr class="ENONEL-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076132020.html">Sodertalje SK</a></td>
-<td class="pdl l">Swe-1</td>
-<td>2</td>
-<td>0</td>
-<td>0</td>
-<td>117</td>
-<td>5</td>
-<td>0</td>
-<td>0</td>
-<td>2.57</td>
-<td>0</td>
-<td>2</td>
-<td>0</td>
-<td>43</td>
-<td>0.896</td>
-<td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=168010','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Fredrik Bergvik stats!</a>
- | <a href="viewastext.php?9c013750=d87cbe14&amp;pid=168010" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?48a7fb83=476a45ad&amp;pid=168010" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -379,11 +361,10 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 <div style="margin-bottom:10px">Fredrik Bergvik played in two leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/239.html">Swedish Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/238.html">Sweden 1st Division</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Fredrik Bergvik played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/frolunda-hc-8780.html">Frolunda HC</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Fredrik Bergvik played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/frolunda-hc-8780.html">Frolunda HC</a></div>
 <div class="ti"><a href="/stte/karlskrona-hk-11218.html">Karlskrona HK</a></div>
 <div class="ti"><a href="/stte/oskarshamn-ik-7308.html">Oskarshamn IK</a></div>
 <div class="ti"><a href="/stte/mora-ik-6961.html">Mora IK</a></div>
-<div class="ti"><a href="/stte/sodertalje-sk-8051.html">Sodertalje SK</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

@@ -292,7 +292,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=161720','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jake Jackson stats!</a>
- | <a href="viewastext.php?d92ca086=a30c2693&amp;pid=161720" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?5ba9ce95=7f0679ec&amp;pid=161720" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

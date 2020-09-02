@@ -165,7 +165,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Liam Coughlin</h1>
 <div class="v1-1">
 Foward<br />
-<span class="bdate">Born Sep 19 1994 -- </span><span class="hometown" itemprop="homeLocation">South Boston, MA</span> <br />[25 yrs. ago] <br />Height 6.03 -- Weight 201<span class="vitals_metric"> [191 cm/91 kg]</span><br />
+<span class="bdate">Born Sep 19 1994 -- </span><span class="hometown" itemprop="homeLocation">South Boston, MA</span> <br />[24 yrs. ago] <br />Height 6.03 -- Weight 201<span class="vitals_metric"> [191 cm/91 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -288,7 +288,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005632.html">Edmonton Oilers</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=169294','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Liam Coughlin stats!</a>
- | <a href="viewastext.php?1c0b235b=d3292369&amp;pid=169294" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d2f36e37=828259e2&amp;pid=169294" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Saku Maenalanen Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Saku Maenalanen, a hockey player from Kemi, Finland born May 29 1994 who was active from 2013 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Saku Maenalanen, a hockey player from Kemi, Finland born May 29 1994 who was active from 2013 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -342,17 +342,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <td>1</td>
 <td>6</td>
 </tr>
-<tr class="EUROEL-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0072842020.html">Jokerit Helsinki</a></td>
-<td class="pdl l">KHL</td>
-<td class="pdgp">3</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>4</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -373,7 +362,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=164088','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Saku Maenalanen stats!</a>
- | <a href="viewastext.php?ca09dc72=7af50005&amp;pid=164088" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?01ee9436=44a79ede&amp;pid=164088" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -427,19 +416,17 @@ Drafted by <a href="/ihdb/draft/teams/dr00007024.html">Nashville Predators</a><d
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Saku Maenalanen played in five leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/84.html">Finland SM-liiga</a></div>
+<div style="margin-bottom:10px">Saku Maenalanen played in four leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/84.html">Finland SM-liiga</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/348.html">Finland - Mestis League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
-<div class="ti" ><a href="/ihdb/stats/leagues/280.html">Kontinental Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Saku Maenalanen played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/karpat-6318.html">Karpat</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Saku Maenalanen played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/karpat-6318.html">Karpat</a></div>
 <div class="ti"><a href="/stte/jokipojat-joensuu-10466.html">Jokipojat Joensuu</a></div>
 <div class="ti"><a href="/stte/hokki-kajanni-10470.html">Hokki Kajanni</a></div>
 <div class="ti"><a href="/stte/pelicans-7383.html">Pelicans</a></div>
 <div class="ti"><a href="/stte/charlotte-checkers-10349.html">Charlotte Checkers</a></div>
 <div class="ti"><a href="/stte/carolina-hurricanes-5154.html">Carolina Hurricanes</a></div>
-<div class="ti"><a href="/stte/jokerit-helsinki-11521.html">Jokerit Helsinki</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

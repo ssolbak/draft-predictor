@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>William Carrier Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of William Carrier, a hockey player from Montreal, PQ born Dec 20 1994 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of William Carrier, a hockey player from Montreal, PQ born Dec 20 1994 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic129676 = new ImageCollection(['/ihdb/photos/william-carrier-2020-7776.jpg','/ihdb/photos/william-carrier-2019-7776.jpg','/ihdb/photos/william-carrier-2018-7776.jpg','/ihdb/photos/william-carrier-2017-33.jpg','/ihdb/photos/william-carrier-2016-33.jpg','/ihdb/photos/william-carrier-2015-33.jpg']);
+var ic129676 = new ImageCollection(['/ihdb/photos/william-carrier-2019-7776.jpg','/ihdb/photos/william-carrier-2018-7776.jpg','/ihdb/photos/william-carrier-2017-33.jpg','/ihdb/photos/william-carrier-2016-33.jpg','/ihdb/photos/william-carrier-2015-33.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <span id="div129676"><span id="but129676" class="trades sprite" onclick="sc('deals',129676)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="William Carrier hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic129676.next(this)" src="/ihdb/photos/william-carrier-2020-7776.jpg" />
+<img itemprop="image" alt="William Carrier hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic129676.next(this)" src="/ihdb/photos/william-carrier-2019-7776.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content129676">
@@ -253,7 +253,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <td>42</td>
 <td>41</td>
 <td>-14</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0013302014.html">Cape Breton Screaming Eagles</a></td>
@@ -264,7 +264,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <td>41</td>
 <td>42</td>
 <td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0010222014.html">Drummondville Voltigeurs</a></td>
@@ -290,7 +290,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <td>21</td>
 <td>38</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000032016.html">Rochester Americans</a></td>
@@ -301,7 +301,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <td>30</td>
 <td>48</td>
 <td>14</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000032017.html">Rochester Americans</a></td>
@@ -312,7 +312,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <td>5</td>
 <td>6</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000332017.html">Buffalo Sabres</a></td>
@@ -323,7 +323,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <td>8</td>
 <td>21</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0077762018.html">Vegas Golden Knights</a></td>
@@ -355,26 +355,15 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 <td>0</td>
 <td>6</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0077762020.html">Vegas Golden Knights</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>134</td>
-<td>15</td>
+<td>132</td>
+<td>14</td>
 <td>6</td>
-<td>21</td>
+<td>20</td>
 <td>69</td>
 <td></td>
 <td>17</td>
@@ -386,7 +375,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008187.html">St. Louis Blues</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=129676','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed William Carrier stats!</a>
- | <a href="viewastext.php?6078d994=b6dbfcde&amp;pid=129676" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?bbc0bb70=ce2eb2e7&amp;pid=129676" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

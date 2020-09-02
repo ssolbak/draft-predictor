@@ -353,7 +353,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007328.html">Ottawa Senators</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=130990','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Quentin Shore stats!</a>
- | <a href="viewastext.php?c256a69d=ab197f65&amp;pid=130990" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?939b8578=d877492a&amp;pid=130990" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

@@ -327,28 +327,27 @@ Drafted by <a href="/ihdb/draft/teams/dr00007877.html">San Jose Sharks</a><div>-
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050172020.html">Kazan Ak-Bars</a></td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050172020.html">Kazan Ak-Bars*</a></td>
 <td class="pdl l">KHL</td>
-<td class="pdgp">7</td>
-<td>4</td>
+<td class="pdgp">2</td>
 <td>1</td>
-<td>5</td>
-<td>27</td>
-<td>5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>0</td><td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=132508','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Emil Galimov stats!</a>
- | <a href="viewastext.php?1707d1d1=263232b7&amp;pid=132508" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?f9a99fe3=1a8cb9cf&amp;pid=132508" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
 
 <div class="tablebg desktop st">
-</div>
+<div>* No longer on active roster.</div> </div>
 </div>
 <div class="sponsor" id="300_160_300" >
 <div id='right_rectangle'>

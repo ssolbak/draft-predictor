@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic134066 = new ImageCollection(['/ihdb/photos/morgan-klimchuk-1934-5432.jpg','/ihdb/photos/morgan-klimchuk-2019-43.jpg','/ihdb/photos/morgan-klimchuk-2018-43.jpg','/ihdb/photos/morgan-klimchuk-2017-43.jpg','/ihdb/photos/morgan-klimchuk-2016-43.jpg','/ihdb/photos/morgan-klimchuk-2015-43.jpg','/ihdb/photos/morgan-klimchuk-2014-43.jpg']);
+var ic134066 = new ImageCollection(['/ihdb/photos/morgan-klimchuk-2019-43.jpg','/ihdb/photos/morgan-klimchuk-2018-43.jpg','/ihdb/photos/morgan-klimchuk-2017-43.jpg','/ihdb/photos/morgan-klimchuk-2016-43.jpg','/ihdb/photos/morgan-klimchuk-2015-43.jpg','/ihdb/photos/morgan-klimchuk-2014-43.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 <span id="div134066"><span id="but134066" class="trades sprite" onclick="sc('deals',134066)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Morgan Klimchuk hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic134066.next(this)" src="/ihdb/photos/morgan-klimchuk-1934-5432.jpg" />
+<img itemprop="image" alt="Morgan Klimchuk hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic134066.next(this)" src="/ihdb/photos/morgan-klimchuk-2019-43.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content134066">
@@ -382,12 +382,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 <td>3</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081582020.html">Belleville Senators</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -404,7 +398,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005090.html">Calgary Flames</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=134066','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Morgan Klimchuk stats!</a>
- | <a href="viewastext.php?9a0d2c26=4f7257d2&amp;pid=134066" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?fbad0f94=05ce0031&amp;pid=134066" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

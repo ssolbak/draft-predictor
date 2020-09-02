@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Lucas Wallmark Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Lucas Wallmark, a hockey player from Umea, Sweden born Sep 5 1995 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Lucas Wallmark, a hockey player from Umea, Sweden born Sep 5 1995 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -356,26 +356,16 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 <td>5</td>
 <td>6</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0009792020.html">Carolina Hurricanes</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">4</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>2</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>104</td>
-<td>12</td>
+<td>100</td>
+<td>11</td>
 <td>20</td>
-<td>32</td>
-<td>42</td>
+<td>31</td>
+<td>40</td>
 <td></td>
 <td>15</td>
 <td>1</td>
@@ -386,7 +376,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005154.html">Carolina Hurricanes</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=164511','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Lucas Wallmark stats!</a>
- | <a href="viewastext.php?1991ad01=1a6afae8&amp;pid=164511" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?95cbcb77=dfef5ba6&amp;pid=164511" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Dominik Kubalik Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Dominik Kubalik, a hockey player from Plzen, Czech Rep. born Aug 21 1995 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Dominik Kubalik, a hockey player from Plzen, Czech Rep. born Aug 21 1995 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -165,7 +165,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Dominik Kubalik</h1>
 <div class="v1-1">
 Left Wing -- shoots L<br />
-<span class="bdate">Born Aug 21 1995 -- </span><span class="hometown" itemprop="homeLocation">Plzen, Czech Rep.</span> <br />[24 yrs. ago] <br />Height 6.02 -- Weight 179<span class="vitals_metric"> [188 cm/81 kg]</span><br />
+<span class="bdate">Born Aug 21 1995 -- </span><span class="hometown" itemprop="homeLocation">Plzen, Czech Rep.</span> <br />[24 yrs. ago] <br />Height 6.01 -- Weight 185<span class="vitals_metric"> [185 cm/84 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -218,7 +218,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>1</td>
 <td>0</td>
 <td>-2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008182013.html">Sudbury Wolves</a></td>
@@ -243,7 +243,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>10</td>
 <td>23</td>
 <td>35</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0008122014.html">Kitchener Rangers</a></td>
@@ -254,7 +254,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>6</td>
 <td>11</td>
 <td>-16</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0025492015.html">Plzen HC</a></td>
@@ -310,7 +310,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>24</td>
 <td>2</td>
 <td>8</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0011802018.html">Ambri-Piotta</a></td>
@@ -342,33 +342,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>6</td>
 <td>6</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000352020.html">Chicago Blackhawks</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
-<tr class="c_sec_foot">
-<td></td><td class="l">NHL Totals</td>
-<td></td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td></td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=148645','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Dominik Kubalik stats!</a>
- | <a href="viewastext.php?a6b693cf=55504a78&amp;pid=148645" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?01c802ba=277bccf0&amp;pid=148645" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -430,16 +409,14 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Dominik Kubalik played in four leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/66.html">Czech Republic League</a></div>
+<div style="margin-bottom:10px">Dominik Kubalik played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/66.html">Czech Republic League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/167.html">Ontario Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/241.html">Switzerland National League A</a></div>
-<div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Dominik Kubalik played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/plzen-hc-7485.html">Plzen HC</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Dominik Kubalik played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/plzen-hc-7485.html">Plzen HC</a></div>
 <div class="ti"><a href="/stte/sudbury-wolves-8313.html">Sudbury Wolves</a></div>
 <div class="ti"><a href="/stte/kitchener-rangers-6416.html">Kitchener Rangers</a></div>
 <div class="ti"><a href="/stte/ambri-piotta-4630.html">Ambri-Piotta</a></div>
-<div class="ti"><a href="/stte/chicago-blackhawks-5218.html">Chicago Blackhawks</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

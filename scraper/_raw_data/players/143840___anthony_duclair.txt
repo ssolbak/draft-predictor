@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Anthony Duclair Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Anthony Duclair, a hockey player from Pointe-Claire, PQ born Aug 26 1995 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Anthony Duclair, a hockey player from Pointe-Claire, PQ born Aug 26 1995 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic143840 = new ImageCollection(['/ihdb/photos/anthony-duclair-1934-5432.jpg','/ihdb/photos/anthony-duclair-2019-54.jpg','/ihdb/photos/anthony-duclair-2019-2330.jpg','/ihdb/photos/anthony-duclair-2018-7166.jpg','/ihdb/photos/anthony-duclair-2017-7166.jpg','/ihdb/photos/anthony-duclair-2016-7166.jpg','/ihdb/photos/anthony-duclair-2015-48.jpg']);
+var ic143840 = new ImageCollection(['/ihdb/photos/anthony-duclair-2019-54.jpg','/ihdb/photos/anthony-duclair-2019-2330.jpg','/ihdb/photos/anthony-duclair-2018-7166.jpg','/ihdb/photos/anthony-duclair-2017-7166.jpg','/ihdb/photos/anthony-duclair-2016-7166.jpg','/ihdb/photos/anthony-duclair-2015-48.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Anthony Duclair</h1>
 <div class="v1-1">
 Left Wing -- shoots L<br />
-<span class="bdate">Born Aug 26 1995 -- </span><span class="hometown" itemprop="homeLocation">Pointe-Claire, PQ</span> <br />[24 yrs. ago] <br />Height 5.11 -- Weight 198<span class="vitals_metric"> [180 cm/90 kg]</span><br />
+<span class="bdate">Born Aug 26 1995 -- </span><span class="hometown" itemprop="homeLocation">Pointe-Claire, PQ</span> <br />[24 yrs. ago] <br />Height 5.11 -- Weight 191<span class="vitals_metric"> [180 cm/87 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <span id="div143840"><span id="but143840" class="trades sprite" onclick="sc('deals',143840)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Anthony Duclair hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic143840.next(this)" src="/ihdb/photos/anthony-duclair-1934-5432.jpg" />
+<img itemprop="image" alt="Anthony Duclair hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic143840.next(this)" src="/ihdb/photos/anthony-duclair-2019-54.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content143840">
@@ -253,7 +253,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>99</td>
 <td>56</td>
 <td>19</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0051802015.html">Quebec Remparts</a></td>
@@ -279,7 +279,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>7</td>
 <td>4</td>
 <td>4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0071662016.html">Arizona Coyotes</a></td>
@@ -290,7 +290,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>44</td>
 <td>49</td>
 <td>12</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0071662017.html">Arizona Coyotes</a></td>
@@ -301,7 +301,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>15</td>
 <td>14</td>
 <td>-7</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076012017.html">Tucson Roadrunners</a></td>
@@ -312,7 +312,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>8</td>
 <td>4</td>
 <td>-11</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0071662018.html">Arizona Coyotes</a></td>
@@ -323,7 +323,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>15</td>
 <td>10</td>
 <td>-5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000352018.html">Chicago Blackhawks</a></td>
@@ -333,7 +333,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>6</td>
 <td>8</td>
 <td>6</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023302019.html">Columbus Blue Jackets</a></td>
@@ -344,7 +344,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>19</td>
 <td>12</td>
 <td>-3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000542019.html">Ottawa Senators</a></td>
@@ -355,24 +355,14 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>14</td>
 <td>2</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000542020.html">Ottawa Senators</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>289</td>
+<td>287</td>
 <td>56</td>
 <td>66</td>
 <td>122</td>
@@ -383,7 +373,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=143840','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Anthony Duclair stats!</a>
- | <a href="viewastext.php?ccba1da8=3deb90ee&amp;pid=143840" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?ee3db0fd=9fdde2c7&amp;pid=143840" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

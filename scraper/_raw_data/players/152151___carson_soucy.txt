@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Carson Soucy Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Carson Soucy, a hockey player from Viking, ALTA born Jul 27 1994 who was active from 2011 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Carson Soucy, a hockey player from Viking, ALTA born Jul 27 1994 who was active from 2011 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic152151 = new ImageCollection(['/ihdb/photos/carson-soucy-2019-2331.jpg','/ihdb/photos/carson-soucy-2018-2331.jpg']);
+var ic152151 = new ImageCollection(['/ihdb/photos/carson-soucy-2018-2331.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Carson Soucy</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Jul 27 1994 -- </span><span class="hometown" itemprop="homeLocation">Viking, ALTA</span> <br />[25 yrs. ago] <br />Height 6.05 -- Weight 210<span class="vitals_metric"> [196 cm/95 kg]</span><br />
+<span class="bdate">Born Jul 27 1994 -- </span><span class="hometown" itemprop="homeLocation">Viking, ALTA</span> <br />[25 yrs. ago] <br />Height 6.05 -- Weight 208<span class="vitals_metric"> [196 cm/94 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=152151" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Carson Soucy hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic152151.next(this)" src="/ihdb/photos/carson-soucy-2019-2331.jpg" />
+<img itemprop="image" alt="Carson Soucy hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic152151.next(this)" src="/ihdb/photos/carson-soucy-2018-2331.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content152151">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>0</td>
 <td>4</td>
 <td>&nbsp;</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="CANJRA-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0041262013.html">Spruce Grove Saints</a></td>
@@ -292,7 +292,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>0</td>
 <td>2</td>
 <td>2</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070402018.html">Iowa Wild</a></td>
@@ -303,7 +303,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>15</td>
 <td>55</td>
 <td>12</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023312018.html">Minnesota Wild</a></td>
@@ -335,22 +335,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>2</td>
 <td>6</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023312020.html">Minnesota Wild</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>4</td>
+<td>3</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -365,7 +355,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=152151','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Carson Soucy stats!</a>
- | <a href="viewastext.php?2dad8002=eaf8a890&amp;pid=152151" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?4969a85b=e5615ace&amp;pid=152151" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -395,7 +385,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Similar Players</h4>
 <div style="margin-bottom:10px">Not the Carson Soucy you're looking for? We have one other player with a similar name.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=191913">Carson Sass</a></div>
-<div class="in1 ti" style="margin-bottom:5px"> (b.1999) (WHL, SJHL) [2015-2020]</div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1999) (WHL, SJHL) [2015-2019]</div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
 <div style="margin-bottom:10px">Carson Soucy played in four leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/3.html">Alberta Junior Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/404.html">National Collegiate Hockey Conf. - Div. 1</a></div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Nicolas Aube-Kubel Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Nicolas Aube-Kubel, a hockey player from Slave Lake, ALTA born May 10 1996 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Nicolas Aube-Kubel, a hockey player from Slave Lake, ALTA born May 10 1996 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Nicolas Aube-Kubel</h1>
 <div class="v1-1">
 Right Wing -- shoots R<br />
-<span class="bdate">Born May 10 1996 -- </span><span class="hometown" itemprop="homeLocation">Slave Lake, ALTA</span> <br />[23 yrs. ago] <br />Height 5.11 -- Weight 204<span class="vitals_metric"> [180 cm/93 kg]</span><br />
+<span class="bdate">Born May 10 1996 -- </span><span class="hometown" itemprop="homeLocation">Slave Lake, ALTA</span> <br />[23 yrs. ago] <br />Height 5.11 -- Weight 187<span class="vitals_metric"> [180 cm/85 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -282,7 +282,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <td>3</td>
 <td>6</td>
 <td>3</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073022017.html">Lehigh Valley Phantoms</a></td>
@@ -336,17 +336,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 <td>1</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073022020.html">Lehigh Valley Phantoms</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -363,7 +352,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007439.html">Philadelphia Flyers</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160327','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Nicolas Aube-Kubel stats!</a>
- | <a href="viewastext.php?a3973860=9ed9ef0c&amp;pid=160327" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?4ff0709d=f261cba2&amp;pid=160327" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

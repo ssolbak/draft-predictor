@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">David Pope</h1>
 <div class="v1-1">
 Left Wing -- shoots L<br />
-<span class="bdate">Born Sep 27 1994 -- </span><span class="hometown" itemprop="homeLocation">Edmonton, ALTA</span> <br />[25 yrs. ago] <br />Height 6.03 -- Weight 205<span class="vitals_metric"> [191 cm/93 kg]</span><br />
+<span class="bdate">Born Sep 27 1994 -- </span><span class="hometown" itemprop="homeLocation">Edmonton, ALTA</span> <br />[24 yrs. ago] <br />Height 6.03 -- Weight 200<span class="vitals_metric"> [191 cm/91 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -221,7 +221,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>7</td>
 <td>12</td>
 <td>&nbsp;</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="CANJRA-1"><td class="pds l">2011-12</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0045942012.html">Westside Warriors</a></td>
@@ -232,7 +232,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>18</td>
 <td>19</td>
 <td>&nbsp;</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="CANJRA-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0067532013.html">West Kelowna Warriors</a></td>
@@ -317,7 +317,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>3</td>
 <td>12</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0054292019.html">Toledo Walleye</a></td>
@@ -334,18 +334,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005492.html">Detroit Red Wings</a><div
 <td>13</td>
 <td>6</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0026752020.html">Grand Rapids Griffins</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=153004','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed David Pope stats!</a>
- | <a href="viewastext.php?0e17eba8=92aede2b&amp;pid=153004" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?b29a0d6a=58da9cf6&amp;pid=153004" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

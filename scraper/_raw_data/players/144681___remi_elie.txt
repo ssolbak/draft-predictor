@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic144681 = new ImageCollection(['/ihdb/photos/remi-elie-2020-33.jpg','/ihdb/photos/remi-elie-2019-33.jpg','/ihdb/photos/remi-elie-2019-233.jpg','/ihdb/photos/remi-elie-2018-233.jpg','/ihdb/photos/remi-elie-2017-233.jpg','/ihdb/photos/remi-elie-2016-233.jpg','/ihdb/photos/remi-elie-2015-233.jpg']);
+var ic144681 = new ImageCollection(['/ihdb/photos/remi-elie-2019-33.jpg','/ihdb/photos/remi-elie-2019-233.jpg','/ihdb/photos/remi-elie-2018-233.jpg','/ihdb/photos/remi-elie-2017-233.jpg','/ihdb/photos/remi-elie-2016-233.jpg','/ihdb/photos/remi-elie-2015-233.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005404.html">Dallas Stars</a><div>-
 <span id="div144681"><span id="but144681" class="trades sprite" onclick="sc('deals',144681)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Remi Elie hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic144681.next(this)" src="/ihdb/photos/remi-elie-2020-33.jpg" />
+<img itemprop="image" alt="Remi Elie hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic144681.next(this)" src="/ihdb/photos/remi-elie-2019-33.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content144681">
@@ -381,12 +381,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00005404.html">Dallas Stars</a><div>-
 <td>0</td>
 <td>0</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000032020.html">Rochester Americans</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -403,7 +397,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005404.html">Dallas Stars</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=144681','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Remi Elie stats!</a>
- | <a href="viewastext.php?84a53862=15d45804&amp;pid=144681" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?3a054248=a0abfdf4&amp;pid=144681" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

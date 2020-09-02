@@ -333,23 +333,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <td>-2</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070402020.html">Iowa Wild</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=139624','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Keaton Thompson stats!</a>
- | <a href="viewastext.php?2cec17df=74f8150b&amp;pid=139624" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?e659866d=d44baedd&amp;pid=139624" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -379,12 +368,11 @@ Drafted by <a href="/ihdb/draft/teams/dr00004643.html">Anaheim Ducks</a><div>-
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/70.html">ECHL</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Keaton Thompson played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/fargo-force-9322.html">Fargo Force</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Keaton Thompson played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/fargo-force-9322.html">Fargo Force</a></div>
 <div class="ti"><a href="/stte/u.s.-national-development-team-9725.html">U.S. National Development Team</a></div>
 <div class="ti"><a href="/stte/u.-of-north-dakota-8646.html">U. of North Dakota</a></div>
 <div class="ti"><a href="/stte/san-diego-gulls-11619.html">San Diego Gulls</a></div>
 <div class="ti"><a href="/stte/utah-grizzlies-8722.html">Utah Grizzlies</a></div>
-<div class="ti"><a href="/stte/iowa-wild-11345.html">Iowa Wild</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

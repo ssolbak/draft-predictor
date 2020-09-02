@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Adrian Kempe Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Adrian Kempe, a hockey player from Kramfors, Sweden born Sep 13 1996 who was active from 2013 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Adrian Kempe, a hockey player from Kramfors, Sweden born Sep 13 1996 who was active from 2013 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -316,26 +316,15 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 <td>-10</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000402020.html">Los Angeles Kings</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>189</td>
+<td>187</td>
 <td>30</td>
-<td>42</td>
-<td>72</td>
+<td>41</td>
+<td>71</td>
 <td>105</td>
 <td></td>
 <td>4</td>
@@ -347,7 +336,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006664.html">Los Angeles Kings</a><div
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=172743','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Adrian Kempe stats!</a>
- | <a href="viewastext.php?1259bfd8=35457ddd&amp;pid=172743" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?7144fa8a=15fee3fc&amp;pid=172743" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->

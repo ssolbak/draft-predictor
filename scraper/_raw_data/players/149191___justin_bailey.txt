@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic149191 = new ImageCollection(['/ihdb/photos/justin-bailey-2020-33.jpg','/ihdb/photos/justin-bailey-2019-33.jpg','/ihdb/photos/justin-bailey-2018-33.jpg','/ihdb/photos/justin-bailey-2017-33.jpg','/ihdb/photos/justin-bailey-2016-33.jpg','/ihdb/photos/justin-bailey-2015-33.jpg','/ihdb/photos/justin-bailey-2014-33.jpg']);
+var ic149191 = new ImageCollection(['/ihdb/photos/justin-bailey-2019-33.jpg','/ihdb/photos/justin-bailey-2018-33.jpg','/ihdb/photos/justin-bailey-2017-33.jpg','/ihdb/photos/justin-bailey-2016-33.jpg','/ihdb/photos/justin-bailey-2015-33.jpg','/ihdb/photos/justin-bailey-2014-33.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <span id="div149191"><span id="but149191" class="trades sprite" onclick="sc('deals',149191)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Justin Bailey hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic149191.next(this)" src="/ihdb/photos/justin-bailey-2020-33.jpg" />
+<img itemprop="image" alt="Justin Bailey hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic149191.next(this)" src="/ihdb/photos/justin-bailey-2019-33.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content149191">
@@ -376,12 +376,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>2</td>
 <td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070412020.html">Utica Comets</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -398,7 +392,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=149191','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Justin Bailey stats!</a>
- | <a href="viewastext.php?04641f0c=7549464d&amp;pid=149191" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?e2af9621=8a894e11&amp;pid=149191" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -443,14 +437,13 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the eight teams that Justin Bailey played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/indiana-ice-6168.html">Indiana Ice</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Justin Bailey played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/indiana-ice-6168.html">Indiana Ice</a></div>
 <div class="ti"><a href="/stte/kitchener-rangers-6416.html">Kitchener Rangers</a></div>
 <div class="ti"><a href="/stte/soo-greyhounds-7929.html">Soo Greyhounds</a></div>
 <div class="ti"><a href="/stte/rochester-americans-7733.html">Rochester Americans</a></div>
 <div class="ti"><a href="/stte/buffalo-sabres-5054.html">Buffalo Sabres</a></div>
 <div class="ti"><a href="/stte/lehigh-valley-phantoms-11538.html">Lehigh Valley Phantoms</a></div>
 <div class="ti"><a href="/stte/philadelphia-flyers-7439.html">Philadelphia Flyers</a></div>
-<div class="ti"><a href="/stte/utica-comets-11346.html">Utica Comets</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

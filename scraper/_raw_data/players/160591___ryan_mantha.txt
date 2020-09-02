@@ -315,24 +315,18 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>8</td>
 <td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000412020.html">Edmonton Oilers*</a></td>
-<td class="pdl l">NHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160591','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Ryan Mantha stats!</a>
- | <a href="viewastext.php?6e5b4846=9585d857&amp;pid=160591" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?67d66bf6=0cc78a79&amp;pid=160591" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
 
 <div class="tablebg desktop st">
-<div>* No longer on active roster.</div> </div>
+</div>
 </div>
 <div class="sponsor" id="300_160_300" >
 <div id='right_rectangle'>
@@ -351,16 +345,14 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Ryan Mantha played in four leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
+<div style="margin-bottom:10px">Ryan Mantha played in three leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/251.html">United States Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/167.html">Ontario Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
-<div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Ryan Mantha played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/sioux-city-musketeers-8024.html">Sioux City Musketeers</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the four teams that Ryan Mantha played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/sioux-city-musketeers-8024.html">Sioux City Musketeers</a></div>
 <div class="ti"><a href="/stte/indiana-ice-6168.html">Indiana Ice</a></div>
 <div class="ti"><a href="/stte/niagara-icedogs-7121.html">Niagara IceDogs</a></div>
 <div class="ti"><a href="/stte/bakersfield-condors-11616.html">Bakersfield Condors</a></div>
-<div class="ti"><a href="/stte/edmonton-oilers-5632.html">Edmonton Oilers</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

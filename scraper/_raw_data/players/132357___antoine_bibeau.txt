@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Antoine Bibeau Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Antoine Bibeau, a hockey player from Victoriaville, PQ born May 1 1994 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Antoine Bibeau, a hockey player from Victoriaville, PQ born May 1 1994 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Antoine Bibeau</h1>
 <div class="v1-1">
 Goalie -- shoots L<br />
-<span class="bdate">Born May 1 1994 -- </span><span class="hometown" itemprop="homeLocation">Victoriaville, PQ</span> <br />[25 yrs. ago] <br />Height 6.03 -- Weight 205<span class="vitals_metric"> [191 cm/93 kg]</span><br />
+<span class="bdate">Born May 1 1994 -- </span><span class="hometown" itemprop="homeLocation">Victoriaville, PQ</span> <br />[25 yrs. ago] <br />Height 6.03 -- Weight 207<span class="vitals_metric"> [191 cm/94 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -237,7 +237,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>0</td>
 <td>53</td>
 <td>0.914</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2011-12</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0032472012.html">Prince Edward Island Rocket</a></td>
@@ -255,7 +255,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>1</td>
 <td>579</td>
 <td>0.868</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw wr"><a href="/ihdb/stats/leagues/seasons/teams/0032472013.html">Prince Edward Island Rocket</a></td>
@@ -293,7 +293,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>5</td>
 <td>799</td>
 <td>0.911</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0010322014.html">Val d'Or Foreurs</a></td>
@@ -391,7 +391,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>0</td>
 <td>51</td>
 <td>0.927</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073922018.html">San Jose Barracuda</a></td>
@@ -433,24 +433,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <td>0</td>
 <td>0</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0084052020.html">Colorado Eagles</a></td>
-<td class="pdl l">AHL</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>60</td>
-<td>5</td>
-<td>0</td>
-<td>0</td>
-<td>5.03</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>19</td>
-<td>0.792</td>
-<td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -476,7 +458,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=132357','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Antoine Bibeau stats!</a>
- | <a href="viewastext.php?34f02d9f=07fa0723&amp;pid=132357" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?eedc9e1d=2e7c5208&amp;pid=132357" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>
@@ -505,14 +487,13 @@ Drafted by <a href="/ihdb/draft/teams/dr00008490.html">Toronto Maple Leafs</a><d
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the eight teams that Antoine Bibeau played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/lewiston-maineiacs-6580.html">Lewiston MAINEiacs</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the seven teams that Antoine Bibeau played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/lewiston-maineiacs-6580.html">Lewiston MAINEiacs</a></div>
 <div class="ti"><a href="/stte/prince-edward-island-rocket-7551.html">Prince Edward Island Rocket</a></div>
 <div class="ti"><a href="/stte/charlottetown-islanders-11381.html">Charlottetown Islanders</a></div>
 <div class="ti"><a href="/stte/val-d%27or-foreurs-8739.html">Val d'Or Foreurs</a></div>
 <div class="ti"><a href="/stte/toronto-marlies-8496.html">Toronto Marlies</a></div>
 <div class="ti"><a href="/stte/toronto-maple-leafs-8490.html">Toronto Maple Leafs</a></div>
 <div class="ti"><a href="/stte/san-jose-barracuda-11620.html">San Jose Barracuda</a></div>
-<div class="ti"><a href="/stte/colorado-eagles-12422.html">Colorado Eagles</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

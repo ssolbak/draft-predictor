@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Josh Morrissey Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Josh Morrissey, a hockey player from Calgary, ALTA born Mar 28 1995 who was active from 2010 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Josh Morrissey, a hockey player from Calgary, ALTA born Mar 28 1995 who was active from 2010 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic136966 = new ImageCollection(['/ihdb/photos/josh-morrissey-2020-6378.jpg','/ihdb/photos/josh-morrissey-2018-6378.jpg','/ihdb/photos/josh-morrissey-2017-6378.jpg','/ihdb/photos/josh-morrissey-2016-6378.jpg','/ihdb/photos/josh-morrissey-2015-6378.jpg','/ihdb/photos/josh-morrissey-2014-6378.jpg']);
+var ic136966 = new ImageCollection(['/ihdb/photos/josh-morrissey-2018-6378.jpg','/ihdb/photos/josh-morrissey-2017-6378.jpg','/ihdb/photos/josh-morrissey-2016-6378.jpg','/ihdb/photos/josh-morrissey-2015-6378.jpg','/ihdb/photos/josh-morrissey-2014-6378.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <a href="/ihdb/cards/carddisplay.php?pid=136966" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Josh Morrissey hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic136966.next(this)" src="/ihdb/photos/josh-morrissey-2020-6378.jpg" />
+<img itemprop="image" alt="Josh Morrissey hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic136966.next(this)" src="/ihdb/photos/josh-morrissey-2018-6378.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content136966">
@@ -368,27 +368,16 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <td>1</td>
 <td>0</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0063782020.html">Winnipeg Jets</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>225</td>
+<td>223</td>
 <td>19</td>
-<td>59</td>
-<td>78</td>
-<td>101</td>
+<td>58</td>
+<td>77</td>
+<td>99</td>
 <td></td>
 <td>22</td>
 <td>1</td>
@@ -399,7 +388,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=136966','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Josh Morrissey stats!</a>
- | <a href="viewastext.php?69cfd157=12bd02a7&amp;pid=136966" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?045817ef=1ae57268&amp;pid=136966" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -466,7 +455,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00010675.html">Winnipeg Jets</a><div>-
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Similar Players</h4>
 <div style="margin-bottom:10px">Not the Josh Morrissey you're looking for? We have four other players with similar names.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=81036">Josh Meyers</a></div>
-<div class="in1 ti" style="margin-bottom:5px"> (b.1985) (ECHL, AHL, DEL) [2003-2015]</div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1985) (AHL, ECHL, DEL) [2003-2015]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=109412">Josh Meyers</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (b.1984) (NCHA, AWHL, NAHL) [2002-2009]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=109994">Josh Myers</a></div>

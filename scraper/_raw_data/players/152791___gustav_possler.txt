@@ -165,7 +165,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Gustav Possler</h1>
 <div class="v1-1">
 Right Wing -- shoots L<br />
-<span class="bdate">Born Nov 11 1994 -- </span><span class="hometown" itemprop="homeLocation">Sodertalje, Sweden</span> <br />[24 yrs. ago] <br />Height 5.11 -- Weight 190<span class="vitals_metric"> [180 cm/86 kg]</span><br />
+<span class="bdate">Born Nov 11 1994 -- </span><span class="hometown" itemprop="homeLocation">Sodertalje, Sweden</span> <br />[24 yrs. ago] <br />Height 5.11 -- Weight 185<span class="vitals_metric"> [180 cm/84 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -219,6 +219,17 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>1</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
+<tr class="EUROEL-1"><td class="pds l">2012-13</td>
+<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0014322013.html">MODO Hockey Ornskoldsvik</a></td>
+<td class="pdl l">SEL</td>
+<td class="pdgp">7</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
+</tr>
 <tr class="ENONEL-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0035772013.html">Mora IK</a></td>
 <td class="pdl l">Swe-1</td>
@@ -230,17 +241,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>-1</td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
-<tr class="EUROEL-1"><td class="pds l">2012-13</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0014322013.html">MODO Hockey Ornskoldsvik</a></td>
-<td class="pdl l">SEL</td>
-<td class="pdgp">7</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>2</td>
-<td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 <tr class="EUROEL-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070542014.html">MODO Hockey Ornskoldsvik</a></td>
 <td class="pdl l">SweHL</td>
@@ -250,7 +250,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>15</td>
 <td>4</td>
 <td>8</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070542015.html">MODO Hockey Ornskoldsvik</a></td>
@@ -260,7 +260,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>12</td>
 <td>21</td>
 <td>8</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070542016.html">MODO Hockey Ornskoldsvik</a></td>
@@ -271,7 +271,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>24</td>
 <td>6</td>
 <td>-8</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0072872017.html">Djurgardens IF</a></td>
@@ -312,12 +312,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 <td>9</td>
 <td>6</td>
 <td>4</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2019-20</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0072872020.html">Djurgardens IF</a></td>
 <td class="pdl l">SweHL</td>
-<td class="pdgp">3</td>
+<td class="pdgp">1</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -330,7 +330,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005054.html">Buffalo Sabres</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=152791','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Gustav Possler stats!</a>
- | <a href="viewastext.php?3bd7be35=e5d47d88&amp;pid=152791" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?138c7c9c=66c3302c&amp;pid=152791" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Brian Pinho Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Brian Pinho, a hockey player from North Andover, MA born May 11 1995 who was active from 2013 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Brian Pinho, a hockey player from North Andover, MA born May 11 1995 who was active from 2013 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -165,7 +165,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Brian Pinho</h1>
 <div class="v1-1">
 Center -- shoots R<br />
-<span class="bdate">Born May 11 1995 -- </span><span class="hometown" itemprop="homeLocation">North Andover, MA</span> <br />[24 yrs. ago] <br />Height 6.01 -- Weight 195<span class="vitals_metric"> [185 cm/88 kg]</span><br />
+<span class="bdate">Born May 11 1995 -- </span><span class="hometown" itemprop="homeLocation">North Andover, MA</span> <br />[24 yrs. ago] <br />Height 6.01 -- Weight 186<span class="vitals_metric"> [185 cm/84 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -281,23 +281,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00008871.html">Washington Capitals</a><d
 <td>2</td>
 <td>0</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000092020.html">Hershey Bears</a></td>
-<td class="pdl l">AHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=168019','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Brian Pinho stats!</a>
- | <a href="viewastext.php?87618f43=cc18aaff&amp;pid=168019" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d89fcce3=0e799684&amp;pid=168019" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

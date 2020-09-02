@@ -340,12 +340,6 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 <td>0</td>
 <td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000322020.html">Boston Bruins*</a></td>
-<td class="pdl l">NHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
@@ -362,7 +356,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=168020','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Anton Blidh stats!</a>
- | <a href="viewastext.php?27821f84=82338550&amp;pid=168020" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?e63d5743=20768a0b&amp;pid=168020" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -397,7 +391,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 </div>
 
 <div class="tablebg desktop st">
-<div>* No longer on active roster.</div> </div>
+</div>
 </div>
 <div class="sponsor" id="300_160_300" >
 <div id='right_rectangle'>
@@ -423,7 +417,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00004919.html">Boston Bruins</a><div>-
 <div style="margin-bottom:10px">Not the Anton Blidh you're looking for? We have two other players with similar names.</div><div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=193979">Antoine Pilotte</a></div>
 <div class="in1 ti" style="margin-bottom:5px"> (QJHL, QJAAAHL) [2015-2017]</div>
 <div class="ti"><a href="/ihdb/stats/pdisplay.php?pid=162178">Antoine Pouliot</a></div>
-<div class="in1 ti" style="margin-bottom:5px"> (b.1996) (QMJHL, OUAA, QJHL) [2012-2020]</div>
+<div class="in1 ti" style="margin-bottom:5px"> (b.1996) (QMJHL, OUAA, QJHL) [2012-2019]</div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
 <div style="margin-bottom:10px">Anton Blidh played in four leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/239.html">Swedish Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/238.html">Sweden 1st Division</a></div>

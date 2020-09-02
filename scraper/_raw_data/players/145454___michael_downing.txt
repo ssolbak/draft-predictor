@@ -362,7 +362,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=145454','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Michael Downing stats!</a>
- | <a href="viewastext.php?13694d3f=042242fe&amp;pid=145454" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?00b34c5d=d93be70a&amp;pid=145454" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

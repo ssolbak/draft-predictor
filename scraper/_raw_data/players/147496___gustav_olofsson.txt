@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic147496 = new ImageCollection(['/ihdb/photos/gustav-olofsson-2019-2331.jpg','/ihdb/photos/gustav-olofsson-2018-2331.jpg','/ihdb/photos/gustav-olofsson-2017-2331.jpg','/ihdb/photos/gustav-olofsson-2016-2331.jpg','/ihdb/photos/gustav-olofsson-2015-2331.jpg']);
+var ic147496 = new ImageCollection(['/ihdb/photos/gustav-olofsson-2018-2331.jpg','/ihdb/photos/gustav-olofsson-2017-2331.jpg','/ihdb/photos/gustav-olofsson-2016-2331.jpg','/ihdb/photos/gustav-olofsson-2015-2331.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -166,7 +166,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Gustav Olofsson</h1>
 <div class="v1-1">
 Defense -- shoots L<br />
-<span class="bdate">Born Dec 1 1994 -- </span><span class="hometown" itemprop="homeLocation">Boras, Sweden</span> <br />[24 yrs. ago] <br />Height 6.02 -- Weight 200<span class="vitals_metric"> [188 cm/91 kg]</span><br />
+<span class="bdate">Born Dec 1 1994 -- </span><span class="hometown" itemprop="homeLocation">Boras, Sweden</span> <br />[24 yrs. ago] <br />Height 6.03 -- Weight 194<span class="vitals_metric"> [191 cm/88 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -179,7 +179,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <span id="div147496"><span id="but147496" class="trades sprite" onclick="sc('deals',147496)"></span></span>
 </div>
 <div class="v2">
-<img itemprop="image" alt="Gustav Olofsson hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic147496.next(this)" src="/ihdb/photos/gustav-olofsson-2019-2331.jpg" />
+<img itemprop="image" alt="Gustav Olofsson hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic147496.next(this)" src="/ihdb/photos/gustav-olofsson-2018-2331.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content147496">
@@ -223,7 +223,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>1</td>
 <td>0</td>
 <td>1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="USJRA-1"><td class="pds l">2012-13</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0017912013.html">Green Bay Gamblers</a></td>
@@ -260,7 +260,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>1</td>
 <td>2</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070402015.html">Iowa Wild</a></td>
@@ -270,7 +270,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070402016.html">Iowa Wild</a></td>
@@ -281,7 +281,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>17</td>
 <td>12</td>
 <td>-11</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023312016.html">Minnesota Wild</a></td>
@@ -291,7 +291,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070402017.html">Iowa Wild</a></td>
@@ -302,7 +302,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>24</td>
 <td>32</td>
 <td>-5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023312017.html">Minnesota Wild</a></td>
@@ -313,7 +313,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>3</td>
 <td>2</td>
 <td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJOR-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0023312018.html">Minnesota Wild</a></td>
@@ -323,7 +323,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>8</td>
 <td>8</td>
 <td>14</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081592019.html">Laval Rocket</a></td>
@@ -333,19 +333,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <td>1</td>
 <td>1</td>
 <td>0</td>
-<td>0</td><td></td><td></td><td></td><td></td><td></td>
-</tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0000452020.html">Montreal Canadiens*</a></td>
-<td class="pdl l">NHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0081592020.html">Laval Rocket</a></td>
-<td class="pdl l">AHL</td>
-<td class="c" colspan="6">Statistics Unavailable</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>0</td><td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 </tbody>
 <tfoot>
@@ -363,7 +351,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=147496','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Gustav Olofsson stats!</a>
- | <a href="viewastext.php?0782c067=47dbaf80&amp;pid=147496" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?d2f06315=74be01ae&amp;pid=147496" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -398,7 +386,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 </div>
 
 <div class="tablebg desktop st">
-<div>* No longer on active roster.</div> </div>
+</div>
 </div>
 <div class="sponsor" id="300_160_300" >
 <div id='right_rectangle'>
@@ -426,12 +414,11 @@ Drafted by <a href="/ihdb/draft/teams/dr00006879.html">Minnesota Wild</a><div>-
 <div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
 <div class="ti" ><a href="/ihdb/stats/leagues/141.html">National Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the six teams that Gustav Olofsson played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/green-bay-gamblers-5919.html">Green Bay Gamblers</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the five teams that Gustav Olofsson played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/green-bay-gamblers-5919.html">Green Bay Gamblers</a></div>
 <div class="ti"><a href="/stte/colorado-college-5308.html">Colorado College</a></div>
 <div class="ti"><a href="/stte/iowa-wild-11345.html">Iowa Wild</a></div>
 <div class="ti"><a href="/stte/minnesota-wild-6879.html">Minnesota Wild</a></div>
 <div class="ti"><a href="/stte/laval-rocket-12222.html">Laval Rocket</a></div>
-<div class="ti"><a href="/stte/montreal-canadiens-6929.html">Montreal Canadiens</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {

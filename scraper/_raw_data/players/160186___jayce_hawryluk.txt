@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Jayce Hawryluk Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Jayce Hawryluk, a hockey player from Yorkton, SASK born Jan 1 1996 who was active from 2012 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Jayce Hawryluk, a hockey player from Yorkton, SASK born Jan 1 1996 who was active from 2012 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -142,7 +142,7 @@ function ImageCollection(images) {
     img.src = images[this.i];
   }
 }
-var ic160186 = new ImageCollection(['/ihdb/photos/jayce-hawryluk-2020-234.jpg','/ihdb/photos/jayce-hawryluk-2019-7600.jpg','/ihdb/photos/jayce-hawryluk-2019-234.jpg','/ihdb/photos/jayce-hawryluk-2018-234.jpg','/ihdb/photos/jayce-hawryluk-2017-234.jpg','/ihdb/photos/jayce-hawryluk-2015-234.jpg']);
+var ic160186 = new ImageCollection(['/ihdb/photos/jayce-hawryluk-2019-7600.jpg','/ihdb/photos/jayce-hawryluk-2019-234.jpg','/ihdb/photos/jayce-hawryluk-2018-234.jpg','/ihdb/photos/jayce-hawryluk-2017-234.jpg','/ihdb/photos/jayce-hawryluk-2015-234.jpg']);
 //-->
 </script>
 <script type="text/javascript">
@@ -165,8 +165,8 @@ if (screen.width >= 1270) {
 <div class="v1">
 <h1 itemprop="name" class="title">Jayce Hawryluk</h1>
 <div class="v1-1">
-Center -- shoots R<br />
-<span class="bdate">Born Jan 1 1996 -- </span><span class="hometown" itemprop="homeLocation">Yorkton, SASK</span> <br />[23 yrs. ago] <br />Height 5.11 -- Weight 196<span class="vitals_metric"> [180 cm/89 kg]</span><br />
+Right Wing -- shoots R<br />
+<span class="bdate">Born Jan 1 1996 -- </span><span class="hometown" itemprop="homeLocation">Yorkton, SASK</span> <br />[23 yrs. ago] <br />Height 5.11 -- Weight 185<span class="vitals_metric"> [180 cm/84 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -178,7 +178,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <a href="/ihdb/cards/carddisplay.php?pid=160186" class="button sprite">&nbsp;</a> 
 </div>
 <div class="v2">
-<img itemprop="image" alt="Jayce Hawryluk hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160186.next(this)" src="/ihdb/photos/jayce-hawryluk-2020-234.jpg" />
+<img itemprop="image" alt="Jayce Hawryluk hockey player photo" style="border:2px outset; float:right; margin-top:5px; height:200px" onclick="ic160186.next(this)" src="/ihdb/photos/jayce-hawryluk-2019-7600.jpg" />
 &nbsp;
 </div>
 <div class="vtr" style="clear:left" id="content160186">
@@ -222,7 +222,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>43</td>
 <td>46</td>
 <td>-18</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MAJJUN-1"><td class="pds l">2013-14</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0009932014.html">Brandon Wheat Kings</a></td>
@@ -278,7 +278,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>26</td>
 <td>47</td>
 <td>5</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076002018.html">Springfield Thunderbirds</a></td>
@@ -289,7 +289,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>36</td>
 <td>82</td>
 <td>-13</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-2"><td class="pds l">2017-18</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0073962018.html">Manchester Monarchs</a></td>
@@ -300,7 +300,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>2</td>
 <td>6</td>
 <td>-6</td>
-<td></td><td></td><td></td><td></td><td></td>
+<td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
 <tr class="MINPRO-1"><td class="pds l">2018-19</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0076002019.html">Springfield Thunderbirds</a></td>
@@ -324,34 +324,23 @@ Drafted by <a href="/ihdb/draft/teams/dr00005763.html">Florida Panthers</a><div>
 <td>-8</td>
 <td>--</td><td>--</td><td>--</td><td>--</td><td>--</td>
 </tr>
-<tr class="MAJOR-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0002342020.html">Florida Panthers</a></td>
-<td class="pdl l">NHL</td>
-<td class="pdgp">2</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2</td>
-<td>-1</td>
-<td></td><td></td><td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 <tr class="c_sec_foot">
 <td></td><td class="l">NHL Totals</td>
 <td></td>
-<td>44</td>
+<td>42</td>
 <td>7</td>
 <td>5</td>
 <td>12</td>
-<td>18</td>
+<td>16</td>
 <td></td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=160186','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Jayce Hawryluk stats!</a>
- | <a href="viewastext.php?c3266bd1=ff00943a&amp;pid=160186" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?19fbe553=79c53c4b&amp;pid=160186" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div></div>

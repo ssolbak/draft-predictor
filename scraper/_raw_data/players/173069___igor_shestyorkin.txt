@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Igor Shestyorkin Hockey Stats and Profile at hockeydb.com</title>
-<meta charset="UTF-8"><meta name="description" content="Statistics of Igor Shestyorkin, a hockey player from Moscow, Russia born Dec 30 1995 who was active from 2013 to 2020." />
+<meta charset="UTF-8"><meta name="description" content="Statistics of Igor Shestyorkin, a hockey player from Moscow, Russia born Dec 30 1995 who was active from 2013 to 2019." />
 <meta name = "format-detection" content = "telephone=no" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
@@ -165,7 +165,7 @@ if (screen.width >= 1270) {
 <h1 itemprop="name" class="title">Igor Shestyorkin</h1>
 <div class="v1-1">
 Goalie<br />
-<span class="bdate">Born Dec 30 1995 -- </span><span class="hometown" itemprop="homeLocation">Moscow, Russia</span> <br />[23 yrs. ago] <br />Height 6.02 -- Weight 182<span class="vitals_metric"> [188 cm/83 kg]</span><br />
+<span class="bdate">Born Dec 30 1995 -- </span><span class="hometown" itemprop="homeLocation">Moscow, Russia</span> <br />[23 yrs. ago] <br />Height 6.01 -- Weight 187<span class="vitals_metric"> [185 cm/85 kg]</span><br />
 </div>
 </div>
 <div class="vd">
@@ -231,7 +231,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>2</td>
 <td>187</td>
 <td>0.903</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2014-15</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050332015.html">St. Petersburg SKA</a></td>
@@ -249,7 +249,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>3</td>
 <td>100</td>
 <td>0.917</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2015-16</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050332016.html">St. Petersburg SKA</a></td>
@@ -267,7 +267,7 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>0</td>
 <td>187</td>
 <td>0.912</td>
-<td></td><td></td><td></td>
+<td>-</td><td>-</td><td>-</td>
 </tr>
 <tr class="EUROEL-1"><td class="pds l">2016-17</td>
 <td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0050332017.html">St. Petersburg SKA</a></td>
@@ -329,30 +329,12 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 <td>0</td>
 <td>25</td>
 </tr>
-<tr class="MINPRO-1"><td class="pds l">2019-20</td>
-<td class="pdt l hhw "><a href="/ihdb/stats/leagues/seasons/teams/0070852020.html">Hartford Wolf Pack</a></td>
-<td class="pdl l">AHL</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>60</td>
-<td>3</td>
-<td>0</td>
-<td>0</td>
-<td>3.00</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>26</td>
-<td>0.897</td>
-<td></td><td></td><td></td>
-</tr>
 </tbody>
 <tfoot>
 </tfoot>
 </table>
 <p class="desktop"><a href="" onclick="window.open('embed.php?pid=173069','','toolbar=0,menubar=0,resizable=0,width=450,height=225,top=400,left=400'); return false;">Embed Igor Shestyorkin stats!</a>
- | <a href="viewastext.php?aeb77551=427232b4&amp;pid=173069" rel="nofollow">View as text</a></p>
+ | <a href="viewastext.php?b7533737=deea275f&amp;pid=173069" rel="nofollow">View as text</a></p>
    <div id="bottom_leaderboard">
    <script async type="text/javascript" src="/proxy/ad_proxy_bottom.js"></script>
    </div><!-- Start of tournament section -->
@@ -399,19 +381,17 @@ Drafted by <a href="/ihdb/draft/teams/dr00007089.html">New York Rangers</a><div>
 </div>
 <div id="contracts" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:10px; color:#900">Contract Status</h3>
-<div class="capline"><a rel="sponsor" target="_blank" href="https://www.puckpedia.com/player/i/6148">Cap Hit of $925,000 to 2020-21 (RFA)</a>
+<div class="capline"><a target="_blank" href="https://www.puckpedia.com/player/i/6148">Cap Hit of $925,000 to 2020-21 (RFA)</a>
 </div>
 <div style="margin-top: 10px;" class="ti">Contract info provided by <a target="_blank" href="https://www.puckpedia.com/player/i/6148"><img style="margin-left:10px; vertical-align:middle; width:128px; height: 35px;" src="/images/pp.jpg" /></a></div>
 </div>
 <div id="related" class="tablebg">
 <h3 style="margin-top:0px; margin-bottom:0px; color:#900">Related Information</h3>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">League Information</h4>
-<div style="margin-bottom:10px">Igor Shestyorkin played in two leagues over the course of his career. Learn more about them from these League History pages.</div><div class="ti" ><a href="/ihdb/stats/leagues/280.html">Kontinental Hockey League</a></div>
-<div class="ti" ><a href="/ihdb/stats/leagues/112.html">American Hockey League</a></div>
+<div style="margin-bottom:10px">Igor Shestyorkin played in one league over the course of his career. Learn more about the league from its League History page.</div><div class="ti" ><a href="/ihdb/stats/leagues/280.html">Kontinental Hockey League</a></div>
 <h4 style="margin-top:20px; margin-bottom:5px; border: solid black; border-width: 1px 0px; padding:5px 0px; color:#900">Team Information</h4>
-<div style="margin-bottom:10px">If you would like to know more about any of the three teams that Igor Shestyorkin played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/moscow-spartak-9305.html">Moscow Spartak</a></div>
+<div style="margin-bottom:10px">If you would like to know more about any of the two teams that Igor Shestyorkin played for during his career, visit these Team History pages.</div><div class="ti"><a href="/stte/moscow-spartak-9305.html">Moscow Spartak</a></div>
 <div class="ti"><a href="/stte/st.-petersburg-ska-9304.html">St. Petersburg SKA</a></div>
-<div class="ti"><a href="/stte/hartford-wolf-pack-11373.html">Hartford Wolf Pack</a></div>
 </div>
 <script type="text/javascript">
 if (screen.width >= 1270) {
