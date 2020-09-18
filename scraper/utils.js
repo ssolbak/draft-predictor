@@ -4,6 +4,7 @@ exports.pad = (num, digits) => {
     return num.toString().padStart(digits, "0");
 };
 
+// assumes hockeydb
 exports.getTeamFileFor = (team_id, team_name) => {
 
     let team_key = team_name.toLowerCase()
