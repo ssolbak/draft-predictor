@@ -5,7 +5,7 @@ const download_data = require('./download_data');
 const argv = require('yargs')
     .usage('Usage: $0 [options]')
     .hide('version')
-    .option('year', {alias: 'y', type: 'number', describe: 'year to run for'})
+    .option('year', {alias: 'y', type: 'number', default: 2016, describe: 'year to run for'})
     .option('all', {alias: 'a', type: 'boolean', default: true, describe: 'all includes the league info'})
     // .check((argv) => {
     //     if (argv.collection || argv.group) return true;

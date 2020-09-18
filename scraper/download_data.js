@@ -25,15 +25,6 @@ module.exports = (years, options, done) => {
 
     async.series([
         (cb) => {
-
-            if(!options.all) return cb();
-
-            // let start = years[0];
-            // years.unshift(start-1);
-            // years.unshift(start-2);
-            // years.unshift(start-3);
-            // years.unshift(start-4);
-
             hbd.downloadLeagues({years}, cb)
         },
         (cb) => {
