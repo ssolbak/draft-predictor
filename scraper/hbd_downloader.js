@@ -11,7 +11,7 @@ const utils = require('./utils');
 const FileDownloader = require('./file_downloader');
 const downloader = new FileDownloader({
     host: 'www.hockeydb.com',
-    scrape_delay_in_seconds: 1500,
+    scrape_delay_in_seconds: 1200,
     bot_delay_in_seconds: 1500
 });
 

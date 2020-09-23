@@ -25,15 +25,15 @@ async.series([
         //     context.players[match[1]] = {
         //         id: parseInt(match[1]),
         //         key: match[2],
-        //         file_name : path.join(__dirname, '/_href_raw/players') + file
+        //         file_name : path.join(__dirname, '/_raw_data/players') + file
         //     };
         //
         // });
 
-        context.players['mcdavco01'] = {
-            id: 'mcdavco01',
-            key: 'mcdavco01',
-            file_name: path.join(__dirname, '/_href_raw/players', 'mcdavco01.txt')
+        context.players['73288'] = {
+            id: 73288,
+            key: 'sidney_crosby',
+            file_name: path.join(__dirname, '/_raw_data/players', '73288___sidney_crosby.txt')
         };
 
         return cb();
@@ -58,39 +58,24 @@ async.series([
 
                 player.stats = [];
 
-                // <h1 itemprop="name">
-                //     <span>Connor McDavid</span>
-                // </h1>
-
                 async.waterfall(
                     [
                         (cb) => {
                             console.log("Get Player Name");
-                            getRegexVal(player, 'name', /<h1 itemprop="name">[\s]*<span>([^<]+)<\/span>[\s]*<\/h1>/, contents, cb);
+                            getRegexVal(player, 'name', /<h1 itemprop="name" class="title">([^<]+)<\/h1>/, contents, cb);
                         },
                         (cb) => {
-                            console.log("Get Player Position");
-                            getRegexVal(player, 'position', /<strong>Position<\/strong>: ([A-Z]*)&nbsp;/, contents, cb);
-                        },
-                        (cb) => {
-                            console.log("Get Birthdate");
-                            getRegexVal(player, 'birthdate', /<span itemprop="birthDate" id="necro-birth" data-birth="(1997-01-13)">/, contents, cb);
-                        },
-                        (cb) => {
-                            console.log("Get draft info");
+                            console.log("Get draft year");
+                            getRegexVal(player, 'draft_year', /<a href="\/ihdb\/draft\/nhl([0-9]+)e.html"/, contents, (err) => {
 
-                            let pattern = /<strong>Draft<\/strong>: <a href="\/teams\/([A-Z]{2,3})\/draft\.html">[^<]*<\/a>\, ([0-9]{1,2})[a-z]{2} round \(([0-9]{1,3})[a-z]{2}\&nbsp;overall\)\, <a href="\/draft\/NHL_([0-9]{4})_entry.html">/g
+                                if (err) {
+                                    // hack, fix this
+                                    console.error(err, "defaulting to 2017-18");
+                                    player.draft_year = "2017-18";
+                                }
 
-                            let matches = pattern.exec(contents);
-
-                            if (!matches || matches.length < 5) return done("could not determine draft info for " + player.key);
-
-                            player.draft_team = matches[1].toLowerCase();
-                            player.draft_round = parseInt(matches[2]);
-                            player.draft_overall = parseInt(matches[3]);
-                            player.draft_year = parseInt(matches[4]);
-
-                            return cb("asdfasdfa");
+                                return cb();
+                            });
                         },
                         (cb) => {
 
