@@ -4,10 +4,26 @@ const _ = require("lodash");
 const async = require("async");
 const fs = require('fs');
 const path = require('path');
+const cheerio = require('cheerio');
+const constants = require('./constants');
 const utils = require('./utils');
 const web_util = require('./web_util');
 
 let context = {players: {}};
+
+const formatters = {
+    numeric : (x) => parseInt(x),
+    text : (x) => x,
+    year : (x) => x.substr(0, 4)
+};
+
+const get_text = (node) => {
+    if(node.children && node.children.length === 1) {
+        return get_text(node.children[0]);
+    } else {
+        return node.data;
+    }
+};
 
 async.series([
     (cb) => {
@@ -58,9 +74,7 @@ async.series([
 
                 player.stats = [];
 
-                // <h1 itemprop="name">
-                //     <span>Connor McDavid</span>
-                // </h1>
+                const $ = cheerio.load(contents);
 
                 async.waterfall(
                     [
@@ -85,51 +99,76 @@ async.series([
 
                             if (!matches || matches.length < 5) return done("could not determine draft info for " + player.key);
 
+                            player.url = `https://www.hockey-reference.com/players/${player.key[0]}/${player.key}.html`;
                             player.draft_team = matches[1].toLowerCase();
                             player.draft_round = parseInt(matches[2]);
                             player.draft_overall = parseInt(matches[3]);
                             player.draft_year = parseInt(matches[4]);
 
-                            return cb("asdfasdfa");
+                            console.log(JSON.stringify(player, null, 2));
+                            return cb();
                         },
                         (cb) => {
 
-                            let statsPattern = /<td[^>]*>([0-9]{4}-[0-9]+)<\/td>\s.*<a href="([^"]*)">([^<]+)<\/a><\/td>\s<td[^>]*>([^<]*)<\/td>\s<td[^>]*>([0-9]*)<\/td>\s<td>([0-9]*)<\/td>\s<td>([0-9]*)<\/td>\s/g;
+                            const nhl_stats_schema = {
+                                year_key: { index: 0, formatter: formatters.text },
+                                year: { index: 0, formatter: formatters.year },
+                                team_name: { index: 2, formatter: formatters.text },
+                                games_played: { index: 4, formatter: formatters.numeric },
+                                goals: { index: 5, formatter: formatters.numeric },
+                                assists: { index: 6, formatter: formatters.numeric },
+                                points: { index: 7, formatter: formatters.numeric }
+                            };
 
-                            let matches;
-                            while ((matches = statsPattern.exec(contents)) !== null) {
+                            let $nhl_stats = $('#stats_basic_plus_nhl');
+                            let $seasons = $nhl_stats.find('tbody tr');
 
-                                if (!matches || matches.length < 8) {
-                                    return cb("could not get player stats");
-                                }
-
-                                console.log("Get player stats", matches[1]);
-
-                                let stat = {
-                                    year_key: matches[1],
-                                    year: matches[1].substring(0, 4),
-                                    team_url: matches[2],
-                                    team_name: matches[3],
-                                    team_league: matches[4],
-                                    games_played: parseInt(matches[5]),
-                                    goals: parseInt(matches[6]),
-                                    assists: parseInt(matches[7]),
-                                    points: parseInt(matches[6]) + parseInt(matches[7])
-                                };
-
-                                let match = /\/ihdb\/stats\/leagues\/seasons\/teams\/([0-9]+).html/.exec(stat.team_url);
-
-                                if (!match || match.length < 2) {
-                                    return cb("could not get key for team season: " + JSON.stringify(stat));
-                                }
-
-                                let key = match[1];
-                                let team_id = key.substring(0, key.length - 4); // should have a bunch of leading zeros
-                                stat.team_id = parseInt(team_id);
+                            _.each($seasons, (x) => {
+                                let stat = { team_league : 'NHL' };
+                                _.each(_.keys(nhl_stats_schema), field => {
+                                    let col = nhl_stats_schema[field];
+                                    let val = get_text(x.children[col.index]);
+                                    stat[field] = col.formatter(val);
+                                });
                                 player.stats.push(stat);
-                            }
+                            });
 
-                            return cb();
+                            console.log("nhl stats", JSON.stringify(player.stats, null, 2));
+
+                            const other_stats_schema = {
+                                year_key: { index: 0, formatter: formatters.text },
+                                year: { index: 0, formatter: formatters.year },
+                                team_name: { index: 2, formatter: formatters.text },
+                                team_league: { index: 3, formatter: formatters.text },
+                                games_played: { index: 4, formatter: formatters.numeric },
+                                goals: { index: 5, formatter: formatters.numeric },
+                                assists: { index: 6, formatter: formatters.numeric },
+                                points: { index: 7, formatter: formatters.numeric }
+                            };
+
+                            // this is a hack because I think its invalid HTML and cheerio pukes
+                            let start = contents.indexOf("<table class=\"row_summable sortable stats_table\" id=\"stats_basic_minus_other\"");
+                            let sub_contents = contents.substr(start);
+                            let end = sub_contents.indexOf('</table>');
+                            let table_contents = sub_contents.substr(0, end + 8);
+
+                            let $other_stats = cheerio.load(table_contents);
+                            let $other_seasons = $other_stats('#stats_basic_minus_other tbody tr');
+
+                            _.each($other_seasons, (x) => {
+                                console.log('other season');
+                                let stat = { };
+                                _.each(_.keys(other_stats_schema), field => {
+                                    let col = other_stats_schema[field];
+                                    let val = get_text(x.children[col.index]);
+                                    stat[field] = col.formatter(val);
+                                });
+                                player.stats.push(stat);
+                            });
+
+                            console.log("other stats", JSON.stringify(player.stats.filter(x => x.team_league !== 'NHL'), null, 2));
+
+                            return cb("asdfasdfasd");
                         },
                         (cb) => {
                             console.log("getTeamGGG");
