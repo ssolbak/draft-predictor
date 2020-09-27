@@ -158,7 +158,7 @@ exports.get_team_goals_per_game = (player, done) => {
     });
 };
 
-exports.calculate_by_draft_year = (player, done) => {
+exports.aggregate_by_draft_year = (player, done) => {
 
     let currentYear = player.draft_year - 2;
 

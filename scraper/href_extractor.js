@@ -10,6 +10,8 @@ const stringify = require('csv-stringify');
 const constants = require('./constants');
 const team_stats = require('./team_stats');
 
+const MS_IN_A_DAY = 1000 * 60 * 60 * 24;
+
 let context = { players: {} };
 
 const formatters = {
@@ -122,19 +124,22 @@ async.series([
                 async.waterfall(
                     [
                         (cb) => {
-                            console.log('Get Player Name');
                             getRegexVal(player, 'name', /<h1 itemprop="name">[\s]*<span>([^<]+)<\/span>[\s]*<\/h1>/, contents, cb);
                         },
                         (cb) => {
-                            console.log('Get Player Position');
                             getRegexVal(player, 'position', /<strong>Position<\/strong>: ([A-Z]*)&nbsp;/, contents, cb);
                         },
                         (cb) => {
-                            console.log('Get Birthdate');
-                            getRegexVal(player, 'birthdate', /<span itemprop="birthDate" id="necro-birth" data-birth="([0-9]{4}-[0-9]{2}-[0-9]{2})">/, contents, cb);
+                            getRegexVal(player, 'birthdate', /<span itemprop="birthDate" id="necro-birth" data-birth="([0-9]{4}-[0-9]{2}-[0-9]{2})">/, contents, (err) => {
+                                if(err) return cb(err);
+                                let year = parseInt(player.birthdate.substr(0,4));
+                                let month = parseInt(player.birthdate.substr(5, 2));
+                                let day = parseInt(player.birthdate.substr(8,2));
+                                player.birthdate = new Date(year, month-1, day);
+                                return cb();
+                            });
                         },
                         (cb) => {
-                            console.log('Get draft info');
 
                             let pattern = /<strong>Draft<\/strong>: <a href="\/teams\/([A-Z]{2,3})\/draft\.html">[^<]*<\/a>\, ([0-9]{1,2})[a-z]{2} round \(([0-9]{1,3})[a-z]{2}\&nbsp;overall\)\, <a href="\/draft\/NHL_([0-9]{4})_entry.html">/g;
 
@@ -142,14 +147,18 @@ async.series([
 
                             if(!matches || matches.length < 5) return cb('could not determine draft info for ' + player.key);
 
-                            player.is_defence = !!~['d','ld','rd'].indexOf(player.position.toLowerCase());
+                            player.is_defence = !!~['d', 'ld', 'rd'].indexOf(player.position.toLowerCase());
                             player.url = `https://www.hockey-reference.com/players/${player.key[0]}/${player.key}.html`;
                             player.draft_team = matches[1].toLowerCase();
                             player.draft_round = parseInt(matches[2]);
                             player.draft_overall = parseInt(matches[3]);
                             player.draft_year = parseInt(matches[4]);
+                            player.draft_date = new Date(player.draft_year, 6, 1);
+                            player.draft_age_in_days = (player.draft_date - player.birthdate)/(MS_IN_A_DAY);
+                            console.log("draft_age_in_days", player.draft_date, player.birthdate, player.draft_age_in_days, player.draft_age_in_days/365);
+                            player.draft_is_overage = player.draft_age_in_days > (18*365*MS_IN_A_DAY);
 
-                            console.log(JSON.stringify(player, null, 2));
+                            // console.log(JSON.stringify(player, null, 2));
                             return cb();
                         },
                         (cb) => {
@@ -226,31 +235,94 @@ async.series([
 
                         },
                         (cb) => {
-                            console.log('get_team_goals_per_game');
+                            // console.log('get_team_goals_per_game');
                             team_stats.get_team_goals_per_game(player, (err) => {
                                 return cb(err);
                             });
                         },
                         (cb) => {
-                            console.log('calculate_by_draft_year');
-                            team_stats.calculate_by_draft_year(player, (err) => {
-                                console.log(JSON.stringify(player, null, 2));
+                            // console.log('aggregate_by_draft_year');
+                            team_stats.aggregate_by_draft_year(player, (err) => {
                                 return cb(err);
                             });
                         },
                         (cb) => {
-                            console.log('calculate_impact');
+                            // console.log('calculate_impact');
                             let nhl_stats = _.filter(player.stats, x => x.team_league === 'NHL' && x.games_played > 50);
-                            let sorted = _.sortBy(nhl_stats, x => x.points/x.games_played).reverse();
+                            let sorted = _.sortBy(nhl_stats, x => x.points / x.games_played).reverse();
                             let best_3_years = _.take(sorted, 3);
-                            player.ppg_impact = _.meanBy(best_3_years, x => x.points/x.games_played);
+                            player.ppg_impact = _.meanBy(best_3_years, x => x.points / x.games_played);
                             console.log('ppg_impact', player.ppg_impact);
-                            console.log(JSON.stringify(player, null, 2));
+                            return cb();
+                        },
+                        (cb) => {
+                            // console.log(JSON.stringify(player, null, 2));
+                            console.log('build csv info');
+                            let csv_info = _.extend({}, player);
+
+                            let keys = ['draft-1', 'draft', 'draft1', 'draft2', 'draft3', 'draft4', 'draft5'];
+                            _.each(keys, key => {
+                               if(_.has(player, key)){
+                                   let stats = null;
+                                   if(player[key].length > 1){
+                                       let all_stats = player[key];
+                                       let leagues = _.uniq(_.map(all_stats, 'team_league'));
+                                       let total = {
+                                           points_adjusted: 0,
+                                           games_played: 0,
+                                           points: 0,
+                                           goals: 0,
+                                           assists: 0
+                                       };
+                                       _.each(all_stats, x => {
+                                          total.points_adjusted += x.points_adjusted;
+                                          total.games_played += x.games_played;
+                                          total.points += x.points;
+                                          total.goals += x.goals;
+                                          total.assists += x.assists;
+                                       });
+                                       stats = _.extend({
+                                           year_start: player[key][0].year_start,
+                                           year_end: player[key][0].year_end,
+                                           team_league: leagues.length > 1 ? 'multi' : leagues[0],
+                                           points_adjusted: player[key].points_adjusted,
+                                       }, total);
+                                   } else if(player[key].length === 1) {
+                                       stats = {
+                                           year_start: player[key][0].year_start,
+                                           year_end: player[key][0].year_end,
+                                           team_league: player[key][0].team_league,
+                                           points_adjusted: player[key][0].points_adjusted,
+                                           games_played: player[key][0].games_played,
+                                           points: player[key][0].points,
+                                           goals: player[key][0].goals,
+                                           assists: player[key][0].assists
+                                       }
+                                   }
+
+                                   if(stats){
+                                       _.each(_.keys(stats), field => {
+                                           csv_info[`${key}-${field}`] = stats[field];
+                                       });
+                                   } else {
+                                       console.log("no stats", key);
+                                   }
+                               }
+                            });
+
+                            delete csv_info.file_name;
+                            delete csv_info.id;
+                            delete csv_info.key;
+                            delete csv_info.stats;
+                            delete csv_info.url;
+                            _.each(keys, x => delete csv_info[x]);
+
+                            player.csv_info = csv_info;
                             return cb();
                         }
                     ],
                     function(err) {
-                        return cb(err, player);
+                        return cb(err);
                     });
             });
 
@@ -263,15 +335,24 @@ async.series([
         return process.exit(1);
     }
 
-    //todo write to csv
-    // stringify([player], (err, txt) => {
-    //     if(err) return cb(err);
-    //     console.log(txt);
-    //     return cb('asdfasdfasd');
+    let csv_info = _.map(context.players, 'csv_info');
+    // let headers = _.keys(csv_info);
+    // let rows = [headers];
+    // _.each(csv_info, item => {
+    //     rows.push(item);
     // });
 
-    console.log('Done');
-    return process.exit(0);
+    console.log(_.keys(csv_info[0]).join(','));
+
+    stringify(csv_info, (err, txt) => {
+        if(err) {
+            console.log('CSV ERROR:', err);
+            return process.exit(1);
+        }
+        console.log(txt);
+        console.log('Done');
+        return process.exit(0);
+    });
 
 });
 
