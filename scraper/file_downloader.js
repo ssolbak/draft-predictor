@@ -5,7 +5,7 @@ const fs = require("fs");
 const path = require("path");
 const http = require("http");
 const https = require("https");
-const web_util = require("./web_util");
+const utils = require("./utils");
 
 let request_count = 1;
 
@@ -29,7 +29,7 @@ class FileDownloader {
 
         if (!options.force && fs.existsSync(filePath)) {
             console.log("file name", filePath, "exists, loading");
-            return web_util.readFile(filePath, _.extend({url}, options), done);
+            return utils.readFile(filePath, _.extend({url}, options), done);
         } else {
 
             console.log(request_count++, "downloading", url, "to file", filePath);
@@ -47,7 +47,6 @@ class FileDownloader {
                     'Referer': 'https://www.google.com/'
                 }
             };
-
 
             let content = "";
 
@@ -74,7 +73,7 @@ class FileDownloader {
                             console.log(`Bot detection page ${options.retry_count} on url ${url}`);
                             console.log("waiting.....");
                             setTimeout(() => {
-                                return this.downloadFile(url, options, done);
+                                return this.download(url, options, done);
                             }, (this.settings.bot_delay_in_seconds * 1000));
                         } else {
                             //wait a few seconds to reduce chance of being bot detected...
@@ -95,23 +94,17 @@ class FileDownloader {
 
 module.exports = FileDownloader;
 
-exports.downloadFile = (url, options, done) => {
-
-
-
-};
-
-exports.readFile = (filePath, options, done) => {
-    fs.readFile(filePath, "utf-8", (err, contents) => {
-        if (err) return done(err);
-        if (!!~contents.indexOf("404 Not Found")) {
-            console.log("===================404 file found. Re-downloading...");
-            return this.downloadFile(options.url, _.extend({force: true}, options), done);
-        }
-        if (!!~contents.indexOf("Please complete this test to move on")) {
-            console.log("===================Bot detection. Please wait...");
-            return this.downloadFile(options.url, _.extend({force: true}, options), done);
-        }
-        return done(err, {file_name: filePath, content: contents});
-    });
-};
+// exports.readFile = (filePath, options, done) => {
+//     fs.readFile(filePath, "utf-8", (err, contents) => {
+//         if (err) return done(err);
+//         if (!!~contents.indexOf("404 Not Found")) {
+//             console.log("===================404 file found. Re-downloading...");
+//             return this.downloadFile(options.url, _.extend({force: true}, options), done);
+//         }
+//         if (!!~contents.indexOf("Please complete this test to move on")) {
+//             console.log("===================Bot detection. Please wait...");
+//             return this.downloadFile(options.url, _.extend({force: true}, options), done);
+//         }
+//         return done(err, {file_name: filePath, content: contents});
+//     });
+// };

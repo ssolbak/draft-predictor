@@ -1,7 +1,5 @@
 'use strict';
 
-const BASE_FOLDER = "_hbd_raw";
-
 const _ = require('lodash');
 const async = require('async');
 const fs = require('fs');
@@ -14,6 +12,8 @@ const downloader = new FileDownloader({
     scrape_delay_in_seconds: 1200,
     bot_delay_in_seconds: 1500
 });
+
+const BASE_FOLDER = constants.sources.hdb.base_folder;
 
 class HbdDownloader {
 
@@ -210,6 +210,28 @@ class HbdDownloader {
         return url_map;
 
     }
+
+    getTeamDataForStat(stat, url, done){
+
+        if(!stat.year_end) return done('getTeamDataForStat: Missing year_end');
+        if(!stat.team_id) return done('getTeamDataForStat: Missing team_id');
+        if(!stat.team_league) return done('getTeamDataForStat: Missing team_league');
+
+        let fileName = utils.getTeamFileFor(stat.team_id, stat.team_name);
+        let filePath = path.join(__dirname, BASE_FOLDER, "teams", stat.team_league.toLowerCase(), (stat.year_end -1).toString(), fileName);
+
+        let options = {
+            folder: `${BASE_FOLDER}/${stat.team_league.toLowerCase()}/${stat.year}`,
+            name: fileName,
+            url: url
+        };
+
+        if (fs.existsSync(filePath)) {
+            return utils.readFile(filePath, options, done);
+        } else {
+            downloader.download(url, options, done);
+        }
+    };
 
 }
 

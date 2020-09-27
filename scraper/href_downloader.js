@@ -1,15 +1,17 @@
 'use strict';
 
-const BASE_FOLDER = "_href_raw";
 
 const _ = require('lodash');
 const async = require('async');
+const constants = require('./constants');
 const FileDownloader = require('./file_downloader');
 const downloader = new FileDownloader({
     host: 'www.hockey-reference.com',
     scrape_delay_in_seconds: 2,
     bot_delay_in_seconds: 2
 });
+
+const BASE_FOLDER = constants.sources.href.base_folder;
 
 class HbdDownloader {
 
