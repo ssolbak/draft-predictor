@@ -50,6 +50,11 @@ if (argv.year) {
 console.log("years", years);
 console.log("options", JSON.stringify(import_options, null, 2));
 
+process.on('uncaughtException', (err) => {
+   console.log("Error:", err);
+   return process.exit(1);
+});
+
 async.series([
     (cb) => {
         download_data(years, import_options, cb);

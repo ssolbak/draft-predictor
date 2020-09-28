@@ -44,7 +44,7 @@ async.series([
         let players = _.values(context.players);
         async.eachSeries(players, (player, cb) => {
 
-            console.log(player.file_name);
+            console.log(player.key);
             fs.readFile(player.file_name, "utf-8", (err, contents) => {
 
                 if (err) return cb(err);
@@ -58,15 +58,20 @@ async.series([
                 }
 
                 player.stats = [];
+                let shortout = cb;
 
                 async.waterfall(
                     [
                         (cb) => {
-                            console.log("Get Player Name");
-                            getRegexVal(player, 'name', /<h1 itemprop="name" class="title">([^<]+)<\/h1>/, contents, cb);
+                            getRegexVal(player, 'name', /<h1 itemprop="name" class="title">([^<]+)<\/h1>/, contents, (err) =>{
+                                if (err) {
+                                    console.log(err);
+                                    return shortout();// player doesnt matter
+                                }
+                                return cb();
+                            });
                         },
                         (cb) => {
-                            console.log("Get draft year");
                             getRegexVal(player, 'draft_year', /<a href="\/ihdb\/draft\/nhl([0-9]+)e.html"/, contents, (err) => {
 
                                 if (err) {
@@ -118,12 +123,10 @@ async.series([
                             return cb();
                         },
                         (cb) => {
-                            console.log("getTeamGGG");
-                            team_stats.getTeamGGG(player, cb);
+                            team_stats.get_team_goals_per_game(player, cb);
                         },
                         (cb) => {
-                            console.log("calculateIPPInfo");
-                            team_stats.calculateIPPInfo(player, cb);
+                            team_stats.aggregate_by_draft_year(player, cb);
                         }
                     ],
                     function (err) {

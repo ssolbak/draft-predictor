@@ -93,7 +93,7 @@ async.series([
         let players = _.values(context.players);
         async.eachSeries(players, (player, cb) => {
 
-            console.log(player.file_name);
+            console.log(player.key);
             fs.readFile(player.file_name, 'utf-8', (err, contents) => {
 
                 if(err) return cb(err);
@@ -110,14 +110,29 @@ async.series([
                 player.url = `https://www.hockey-reference.com/players/${player.key[0]}/${player.key}.html`;
 
                 const $ = cheerio.load(contents);
+                let shortout = cb;
 
                 async.waterfall(
                     [
                         (cb) => {
-                            getRegexVal(player, 'name', /<h1 itemprop="name">[\s]*<span>([^<]+)<\/span>[\s]*<\/h1>/, contents, cb);
+                            getRegexVal(player, 'name', /<h1 itemprop="name">[\s]*<span>([^<]+)<\/span>[\s]*<\/h1>/, contents, (err) => {
+                                if (err) {
+                                    console.log(err);
+                                    return shortout();// player doesnt matter
+                                }
+                                return cb();
+                            });
                         },
                         (cb) => {
-                            getRegexVal(player, 'position', /<strong>Position<\/strong>: ([A-Z]{1,2})/, contents, cb);
+                            getRegexVal(player, 'position', /<strong>Position<\/strong>: ([A-Z]{1,2})/, contents, (err) => {
+                                if (err) {
+                                    // hack, fix this
+                                    console.error(err, "defaulting to 2017-18");
+                                    player.draft_year = "2017-18";
+                                }
+
+                                return cb();
+                            });
                         },
                         (cb) => {
                             getRegexVal(player, 'birthdate', /<span itemprop="birthDate" id="necro-birth" data-birth="([0-9]{4}-[0-9]{2}-[0-9]{2})">/, contents, (err) => {

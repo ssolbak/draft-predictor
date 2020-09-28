@@ -1,3 +1,4 @@
+
  <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
@@ -8,9 +9,7 @@
 <link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
 <link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
 
-<script src="/js/all.js"></script>
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script defer src="/js/all.js"></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
@@ -24,6 +23,7 @@
 
 <script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
 <script>window.googletag = window.googletag || {cmd: []};</script>
+<script async='async' src="https://storage.googleapis.com/didna_hb/prebid/didna_prebid.js.gz"></script>
 <script async='async' src='https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js'></script>
 
 <script>
@@ -47,7 +47,7 @@
     googletag.enableServices();
   });
 </script>
-   <script type='text/javascript'> 
+   <script type='text/javascript'>
    <!--
       function tableToggle (tabID)
       {
@@ -67,13 +67,13 @@
                but.value = 'show details';
                ad.style.display = '';
             }
-          }    
+          }
         }
       }
     -->
    </script>
 
-   <script type='text/javascript'> 
+   <script type='text/javascript'>
    <!--
       function moreToggle (spanid)
       {
@@ -95,13 +95,18 @@
 <body itemscope itemtype="http://schema.org/WebPage">
 
 <div id="hdb_logo_div" style="float:left">
-   <a href="/">          
+   <a href="/">
    <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="hdb_logo_divv" style="float:left">
+   <a href="/">
+   <img id="hdb_logov" src="/images/hdb-vert-2.gif" alt="hockey DB" width="40px" style="border:0;" /></a>
 </div>
 
 <div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
    <div id='top_leaderboard'>
-   <script type="text/javascript" src="/proxy/ad_proxy.js"></script>
+   <script async type="text/javascript" src="/proxy/ad_proxy.js"></script>
        <script>
            googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
        </script>
@@ -138,7 +143,7 @@
 
 <div class="tablebgl" style="width:720px;">
 <h1 class="title">National Hockey League history and statistics</h1>
-<div class="breadcrumb"><a href="http://www.hockeydb.com/ihdb/stats/leagues.html">Leagues</a> -> NHL [1917-2020]</div>
+<div class="breadcrumb"><a href="https://www.hockeydb.com/ihdb/stats/leagues.html">Leagues</a> -> NHL [1917-2020]</div>
 <div id="league_history" class="tablebg1" style="margin-bottom:10px;"><div style="width:100%" class="team_section">
 <h2 class="team_header">NHL History</h2>
 <img style="float:right; border-style:thin; border-color:black; margin:10px; " src="/ihdb/logos/ll/tn_nhl_1967-68.gif" alt="1967-1968 NHL logo" />
@@ -251,8 +256,8 @@ In: <a target="_blank" href="/stte/montreal-maroons-6934.html">Montreal Maroons<
 <td><a href="/ihdb/stats/leagues/seasons/nhl19271925.html">1924-25</a></td>
 <td>6 Teams</td>
 <td>Montreal Canadiens</td>
-<td>Hamilton Tigers</td>
-<td>(1-0) Forfeit</td>
+<td>Toronto St. Pats</td>
+<td>(5-2) Total Goals</td>
 </tr>
 <tr class="vanish hilite" style="display:none">
 <td>
@@ -1175,9 +1180,16 @@ In: <a target="_blank" href="/stte/vegas-golden-knights-11894.html">Vegas Golden
 <td>Vegas Golden Knights</td>
 <td>(4-1) </td>
 </tr>
-<tr class="shade4"><td><a href="/ihdb/stats/leagues/seasons/nhl19272019.html">2018-19</a></td><td>31 Teams</td><td>St. Louis Blues</td>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/nhl19272019.html">2018-19</a></td>
+<td>31 Teams</td>
+<td>St. Louis Blues</td>
 <td>Boston Bruins</td>
-<td>(4-3)</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4"><td><a href="/ihdb/stats/leagues/seasons/nhl19272020.html">2019-20</a></td><td>31 Teams</td><td></td>
+<td></td>
+<td></td>
 </tr></tbody></table></div>
 <div style="width:100%; margin-top:10px;" class="team_section">
 <h2 class="team_header">Cities in NHL</h2>
@@ -1362,17 +1374,16 @@ In: <a target="_blank" href="/stte/vegas-golden-knights-11894.html">Vegas Golden
 
 
 <!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript" src="https://edge.quantserve.com/quant.js"></script>
 <script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
 <noscript>
-<a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+<a href="https://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="https://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 
 <!-- End Quantcast tag -->
 
-<script src='//storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+<script src='https://storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
 
 
 </body>
 </html>
-

@@ -121,15 +121,14 @@ class HbdDownloader {
 
     downloadLeagues({ years }, done) {
 
-        console.log("==========================");
+        console.log("====================================");
         console.log("downloading leagues");
-        console.log("==========================");
+        console.log("====================================");
 
         let leagues = ['NHL']; //_.keys(constants.leagues)
         async.eachSeries(leagues, (league, cb) => {
 
             let league_key = league.toLowerCase();
-            console.log("\ndownloading", league);
 
             let league_folder = `${BASE_FOLDER}/teams/${league_key}`;
             if(!fs.existsSync(path.join(__dirname, league_folder))) {
@@ -141,6 +140,7 @@ class HbdDownloader {
             }
 
             let url = `https://www.hockeydb.com/ihdb/stats/leagues/${constants.leagues[league].hockey_db_id}.html`;
+            console.log("\ndownloading league", league, url);
             downloader.download(url, { folder: league_folder, name: `_info.txt` }, (err, download) => {
 
                 if(err) return cb(err);
