@@ -5,7 +5,7 @@ const download_data = require('./download_data');
 const argv = require('yargs')
     .usage('Usage: $0 [options]')
     .hide('version')
-    .option('year', {alias: 'y', type: 'number', default: 2017, describe: 'year to run for'})
+    .option('year', {alias: 'y', type: 'number', describe: 'year to run for'})
     .option('all', {alias: 'a', type: 'boolean', default: true, describe: 'all includes the league info'})
     // .check((argv) => {
     //     if (argv.collection || argv.group) return true;
@@ -35,7 +35,7 @@ node app.js -y 2007 > ~/scraper-log.txt &
 const start_year = 2017;
 const end_year = 2019;
 
-let import_options = { all: argv.all };
+let import_options = { all: argv.all, skip_leagues: true };
 let years = [];
 
 if (argv.year) {

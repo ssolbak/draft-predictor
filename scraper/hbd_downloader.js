@@ -149,6 +149,8 @@ class HbdDownloader {
 
                 async.eachSeries(years, (year, cb) => {
 
+                    console.log("Year", year);
+
                     //ie no nhl season in 2004-05
                     if(!_.has(url_map, year)) return cb();
 
