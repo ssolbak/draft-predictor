@@ -7,8 +7,8 @@ const constants = require('./constants');
 const FileDownloader = require('./file_downloader');
 const downloader = new FileDownloader({
     host: 'www.hockey-reference.com',
-    scrape_delay_in_seconds: 2,
-    bot_delay_in_seconds: 2
+    scrape_delay_in_seconds: 10,
+    bot_delay_in_seconds: 300
 });
 
 const BASE_FOLDER = constants.sources.href.base_folder;

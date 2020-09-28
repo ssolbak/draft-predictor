@@ -24,6 +24,7 @@ module.exports = (years, options, done) => {
 
     async.series([
         (cb) => {
+            if(options.skip_leagues) return cb();
             hbd.downloadLeagues({years}, cb)
         },
         (cb) => {
