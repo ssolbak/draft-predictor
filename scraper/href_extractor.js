@@ -279,7 +279,7 @@ async.series([
                             });
 
                             let keys = ['draft-1', 'draft', 'draft1', 'draft2', 'draft3', 'draft4', 'draft5'];
-                            _.each(keys, key => {
+                            _.each(keys, (key, index) => {
                                 if(_.has(player, key)) {
                                     let stats = null;
                                     if(player[key].length > 1) {
@@ -316,13 +316,22 @@ async.series([
                                             goals: player[key][0].goals,
                                             assists: player[key][0].assists
                                         }
+                                    } else {
+                                        stats = {
+                                            year_start: player.draft_year - 2 + index,
+                                            year_end: player.draft_year - 1 + index,
+                                            team_league: 'n/a',
+                                            points_adjusted: 0,
+                                            games_played: 0,
+                                            points: 0,
+                                            goals: 0,
+                                            assists: 0
+                                        }
                                     }
 
-                                    if(stats) {
-                                        _.each(_.keys(stats), field => {
-                                            csv_info[`${key}-${field}`] = stats[field];
-                                        });
-                                    }
+                                    _.each(_.keys(stats), field => {
+                                        csv_info[`${key}-${field}`] = stats[field];
+                                    });
                                 }
                             });
 
@@ -358,15 +367,7 @@ async.series([
     let player_data = _.map(context.players, 'csv_info');
     let csv_options = {
         header: true,
-        headers: _.keys(player_data[0]),
-        // cast: {
-        //     boolean: (x) => {
-        //         return { value: x ? 'True' : 'False', quote: true };
-        //     },
-        //     date: (x) => {
-        //         return { value: x.toISOString().substring(0, 10), quote: true };
-        //     }
-        // },
+        headers: _.keys(player_data[0])
     };
 
     stringify(player_data, csv_options, (err, txt) => {
