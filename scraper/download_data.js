@@ -5,7 +5,6 @@ const async = require("async");
 const fs = require("fs");
 const path = require("path");
 const constants = require("./constants");
-const web_util = require("./web_util");
 const utils = require("./utils");
 
 const HrefDownloader = require('./href_downloader');

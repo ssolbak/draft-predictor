@@ -125,7 +125,8 @@ class HbdDownloader {
         console.log("downloading leagues");
         console.log("==========================");
 
-        async.eachSeries(_.keys(constants.leagues), (league, cb) => {
+        let leagues = ['NHL']; //_.keys(constants.leagues)
+        async.eachSeries(leagues, (league, cb) => {
 
             let league_key = league.toLowerCase();
             console.log("\ndownloading", league);
@@ -217,11 +218,12 @@ class HbdDownloader {
         if(!stat.team_id) return done('getTeamDataForStat: Missing team_id');
         if(!stat.team_league) return done('getTeamDataForStat: Missing team_league');
 
-        let fileName = utils.getTeamFileFor(stat.team_id, stat.team_name);
-        let filePath = path.join(__dirname, BASE_FOLDER, "teams", stat.team_league.toLowerCase(), (stat.year_end -1).toString(), fileName);
+        const year = stat.year_end-1;
+        const fileName = utils.getTeamFileFor(stat.team_id, stat.team_name);
+        const filePath = path.join(__dirname, BASE_FOLDER, "teams", stat.team_league.toLowerCase(), year.toString(), fileName);
 
         let options = {
-            folder: `${BASE_FOLDER}/${stat.team_league.toLowerCase()}/${stat.year}`,
+            folder: `${BASE_FOLDER}/teams/${stat.team_league.toLowerCase()}/${year}`,
             name: fileName,
             url: url
         };
@@ -229,7 +231,8 @@ class HbdDownloader {
         if (fs.existsSync(filePath)) {
             return utils.readFile(filePath, options, done);
         } else {
-            downloader.download(url, options, done);
+            throw new Exception('adfadsfasdfsad');
+            // downloader.download(url, options, done);
         }
     };
 

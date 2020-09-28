@@ -54,12 +54,16 @@ const get_hdb_team_data_for = (year_end, league, team_name) => {
         return process.exit(1);
     }
 
-    if(candidates.length > 1){
+    let res = null;
+    if(candidates.length > 1) {
         console.log(`There are multiple matches for ${year} ${league} ${team_name} - ${JSON.stringify(candidates)}`);
-        return _.maxBy(candidates, x => x.matches.length).file.team_id;
+        let res = _.maxBy(candidates, x => x.matches.length).file;
+        return { team_name: res.team_name.replace('_', ' '), team_id: res.team_id };
+    } else {
+        res = candidates[0].file;
     }
 
-    return candidates[0].file.team_id;
+    return { team_name: res.team_name.replace('_', ' '), team_id: res.team_id };
 };
 
 //this uses hdb data
@@ -68,11 +72,13 @@ exports.get_team_goals_per_game = (player, done) => {
     // for now till we have all the data
     let stats = _.filter(player.stats, x => x.year_end < 2017);
 
-    async.each(stats, function(stat, cb) {
+    async.eachSeries(stats, function(stat, cb) {
 
         if(!stat.team_id) {
             if(!stat.team_name) return done(`get_team_goals_per_game - Missing field: team_name ${JSON.stringify(stat)}`);
-            stat.team_id = get_hdb_team_data_for(stat.year_end, stat.team_league, stat.team_name);
+            let result = get_hdb_team_data_for(stat.year_end, stat.team_league, stat.team_name);
+            stat.team_id = result.team_id;
+            stat.team_name = result.team_name;
             stat.team_url = `https://www.hockeydb.com/ihdb/stats/leagues/seasons/teams/${stat.team_id}${stat.year_end}.html`;
             // console.log(`${stat.team_name} ${stat.year} mapped to ${stat.team_url}`);
         }

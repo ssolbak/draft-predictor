@@ -33,7 +33,6 @@ class FileDownloader {
         } else {
 
             console.log(request_count++, "downloading", url, "to file", filePath);
-
             const proto = !!~url.indexOf('https') ? https : http;
 
             const request_options = {

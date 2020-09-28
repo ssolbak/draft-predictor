@@ -32,8 +32,8 @@ node app.js -y 2007 > ~/scraper-log.txt &
 
  */
 
-const start_year = 2005;
-const end_year = 2015;
+const start_year = 2017;
+const end_year = 2019;
 
 let import_options = { all: argv.all };
 let years = [];
