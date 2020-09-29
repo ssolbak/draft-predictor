@@ -21,7 +21,7 @@ sudo yum install git -y
 git config --global core.editor "nano"
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 . ~/.nvm/nvm.sh
-nvm install 10.15.3
+nvm install 10.19.0
 git clone https://github.com/ssolbak/draft-predictor.git
 cd draft-predictor/scraper
 npm install
@@ -32,7 +32,7 @@ node app.js -y 2007 > ~/scraper-log.txt &
 
  */
 
-const start_year = 2017;
+const start_year = 2016;
 const end_year = 2019;
 
 let import_options = { all: argv.all, skip_leagues: true };
