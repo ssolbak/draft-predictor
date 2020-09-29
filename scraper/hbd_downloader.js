@@ -125,7 +125,7 @@ class HbdDownloader {
         console.log("downloading leagues");
         console.log("====================================");
 
-        let leagues = ['NHL']; //_.keys(constants.leagues)
+        let leagues = ['OHL']; //_.keys(constants.leagues)
         async.eachSeries(leagues, (league, cb) => {
 
             let league_key = league.toLowerCase();

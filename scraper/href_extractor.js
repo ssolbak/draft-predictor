@@ -23,8 +23,10 @@ const formatters = {
         const teams = {
             ana : 'Anaheim Ducks',
             ari : 'Arizona Coyotes',
+            atl : 'Atlanta Thrashers', // folded
             bos: 'Boston Bruins',
             buf: 'Buffalo Sabres',
+            car: 'Carolina Hurricanes',
             cbj: 'Columbus Blue Jackets',
             cgy: 'Calgary Flames',
             chi: 'Chicago Blackhawks',
@@ -37,6 +39,7 @@ const formatters = {
             lak : 'Los Angeles Kings',
             min : 'Minnesota Wild',
             mon : 'Montreal Canadians',
+            mtl : 'Montreal Canadians',
             njd : 'New Jersey Devils',
             nsh : 'Nashville Predators',
             nyi : 'New York Islanders',
@@ -47,6 +50,8 @@ const formatters = {
             pit : 'Pittsburgh Penguins',
             sjs : 'San Jose Sharks',
             stl : 'St Louis Blues',
+            tbl : 'Tampa Bay Lightning',
+            tor : 'Toronto Maple Leafs',
             van : 'Vancouver Canucks',
             veg : 'Vegas Golden Knights',
             wpg : 'Winnipeg Jets',
@@ -150,6 +155,21 @@ async.series([
                         },
                         (cb) => {
 
+                            let matches = /\(([0-9]{3})cm,&nbsp;([0-9]{2,3}kg)\)/g.exec(contents);
+
+                            if(!matches || matches.length < 3) {
+                                console.log('could not determine height/weight for ' + player.key);
+                                return cb();
+                            }
+
+                            player.height = parseInt(matches[1]);
+                            player.weight = parseInt(matches[2]);
+
+                            return cb();
+
+                        },
+                        (cb) => {
+
                             let pattern = /<strong>Draft<\/strong>: <a href="\/teams\/([A-Z]{2,3})\/draft\.html">[^<]*<\/a>\, ([0-9]{1,2})[a-z]{2} round \(([0-9]{1,3})[a-z]{2}\&nbsp;overall\)\, <a href="\/draft\/NHL_([0-9]{4})_entry.html">/g;
 
                             let matches = pattern.exec(contents);
@@ -173,6 +193,7 @@ async.series([
 
                             // console.log(JSON.stringify(player, null, 2));
                             return cb();
+
                         },
                         (cb) => {
 
@@ -245,14 +266,12 @@ async.series([
                             return cb();
 
                         },
-                        // (cb) => {
-                        //     // console.log('get_team_goals_per_game');
-                        //     team_stats.get_team_goals_per_game(player, (err) => {
-                        //         return cb(err);
-                        //     });
-                        // },
                         (cb) => {
-                            // console.log('aggregate_by_draft_year');
+                            team_stats.get_team_goals_per_game(player, (err) => {
+                                return cb(err);
+                            });
+                        },
+                        (cb) => {
                             team_stats.aggregate_by_draft_year(player, (err) => {
                                 return cb(err);
                             });

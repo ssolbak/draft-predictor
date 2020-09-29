@@ -51,13 +51,13 @@ const get_hdb_team_data_for = (year_end, league, team_name) => {
 
     if(!candidates.length) {
         console.log(`Could not find match for ${year} ${league} ${team_name}`);
-        return process.exit(1);
+        return null;
     }
 
     let res = null;
     if(candidates.length > 1) {
-        console.log(`There are multiple matches for ${year} ${league} ${team_name} - ${JSON.stringify(candidates)}`);
         let res = _.maxBy(candidates, x => x.matches.length).file;
+        console.log(`There are multiple matches for ${year} ${league} ${team_name}. Picked ${res.team_name} - ${JSON.stringify(candidates)}`);
         return { team_name: res.team_name.replace('_', ' '), team_id: res.team_id };
     } else {
         res = candidates[0].file;
@@ -70,13 +70,15 @@ const get_hdb_team_data_for = (year_end, league, team_name) => {
 exports.get_team_goals_per_game = (player, done) => {
 
     // for now till we have all the data
-    let stats = _.filter(player.stats, x => x.year_end < 2017);
+    let stats = _.filter(player.stats, x => x.year_end <= 2017);
 
     async.eachSeries(stats, function(stat, cb) {
 
+        if(stat.team_key === 'TOT' || stat.team_key === '2 Teams' || stat.team_key === '3 Teams') return cb();
         if(!stat.team_id) {
             if(!stat.team_name) return done(`get_team_goals_per_game - Missing field: team_name ${JSON.stringify(stat)}`);
             let result = get_hdb_team_data_for(stat.year_end, stat.team_league, stat.team_name);
+            if(!result) return cb();
             stat.team_id = result.team_id;
             stat.team_name = result.team_name;
             stat.team_url = `https://www.hockeydb.com/ihdb/stats/leagues/seasons/teams/${stat.team_id}${stat.year_end}.html`;
@@ -97,38 +99,43 @@ exports.get_team_goals_per_game = (player, done) => {
             let content = result.content;
 
             let p = /<td[^>]*>Totals<\/td>\s<td><\/td>\s<td>([0-9]+)<\/td>\s<td>([0-9]+)<\/td>\s<td>([0-9]+)<\/td>\s<td>([0-9]+)<\/td>/;
-
             let match = p.exec(content);
-
-            if(!match || match.length < 5) {
-
-                // sometimes site doesnt have totals....
-                let playerTeam = /<td>([0-9]+)<\/td>\s?<td>([0-9]+)<\/td>\s?<td>([0-9]+)<\/td>\s?<td>([0-9]+)<\/td>\s?<td>([0-9]+)<\/td>\s?/g;
-
-                stat.team_goals = 0;
-                stat.team_assists = 0;
-                stat.team_points = 0;
-                stat.team_pims = 0;
-
-                let matches;
-                while((matches = playerTeam.exec(content)) !== null) {
-                    if(matches && matches.length > 4) {
-                        stat.team_goals += parseInt(matches[2]);
-                        stat.team_assists += parseInt(matches[3]);
-                        stat.team_points += parseInt(matches[4]);
-                        stat.team_pims += parseInt(matches[5]);
-                    }
-                }
-
-                if(stat.team_goals === 0) {
-                    return done(player.name + ' - could not get team stats from ' + stat.team_url);
-                }
-
-            } else {
+            if(match && match.length === 5) {
                 stat.team_goals = parseInt(match[1]);
                 stat.team_assists = parseInt(match[2]);
                 stat.team_points = parseInt(match[3]);
                 stat.team_pims = parseInt(match[4]);
+            } else {
+                let p2 = /<td[^>]*>Totals<\/td>\s<td>([0-9]+)<\/td>\s<td>([0-9]+)<\/td>\s<td>([0-9]+)<\/td>\s<td>([0-9]+)<\/td>/;
+                match = p2.exec(content);
+                if(match && match.length === 5) {
+                    stat.team_goals = parseInt(match[1]);
+                    stat.team_assists = parseInt(match[2]);
+                    stat.team_points = parseInt(match[3]);
+                    stat.team_pims = parseInt(match[4]);
+                } else {
+                    // sometimes site doesnt have totals....
+                    let playerTeam = /<td[^>]*>([0-9]+)<\/td>\s?<td[^>]*>([0-9]+)<\/td>\s?<td[^>]*>([0-9]+)<\/td>\s?<td[^>]*>([0-9]+)<\/td>\s?<td[^>]*>([0-9]+)<\/td>\s?/g;
+
+                    stat.team_goals = 0;
+                    stat.team_assists = 0;
+                    stat.team_points = 0;
+                    stat.team_pims = 0;
+
+                    let matches;
+                    while((matches = playerTeam.exec(content)) !== null) {
+                        if(matches && matches.length > 4) {
+                            stat.team_goals += parseInt(matches[2]);
+                            stat.team_assists += parseInt(matches[3]);
+                            stat.team_points += parseInt(matches[4]);
+                            stat.team_pims += parseInt(matches[5]);
+                        }
+                    }
+
+                    if(stat.team_goals === 0) {
+                        return done(player.name + ' - could not get team stats from ' + stat.team_url);
+                    }
+                }
             }
 
             let league_info = constants.leagues[stat.team_league.toUpperCase()];

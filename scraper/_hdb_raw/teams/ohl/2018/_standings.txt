@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>2018-19 Ontario Hockey League [OHL] standings at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="The standings of the teams in the Ontario Hockey League for the 2018-19 season" />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
+
+<script defer src="/js/all.js"></script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
+</script>
+
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>window.googletag = window.googletag || {cmd: []};</script>
+<script async='async' src="https://storage.googleapis.com/didna_hb/prebid/didna_prebid.js.gz"></script>
+<script async='async' src='https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js'></script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    var map300t = googletag.sizeMapping()
+      .addSize([1180, 0], [300, 600])
+      .addSize([760, 0], [160, 600])
+      .addSize([300, 0], [300, 250])
+      .addSize([0, 0], [])
+        .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [[728, 90], [320, 50]], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .setTargeting('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_300x600_1', [[300, 600], [160, 600], [300, 250]], 'tall_rectangle')
+    	.defineSizeMapping(map300t)
+    	.setTargeting('sizeMap', map300t)
+    	.addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="hdb_logo_divv" style="float:left">
+   <a href="/">          
+   <img id="hdb_logov" src="/images/hdb-vert-2.gif" alt="hockey DB" width="40px" style="border:0;" /></a>
+</div>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script async type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+<div class="multitable1" style="clear:both; min-width:800px; float:left">
+<div class="tablebg" style="width:96%">
+<h1 class="title">2018-19 Ontario Hockey League Standings</h1>
+<div class="breadcrumb"><a href="https://www.hockeydb.com/ihdb/stats/leagues.html">Leagues</a> -> <a href="https://www.hockeydb.com/ihdb/stats/leagues/167.html">OHL</a> -> 2018-19 -> standings</div>
+<div class="ti in1">
+Jump:
+<a href="ohl19892018.html">2017-18</a>,<a href="ohl19892020.html">2019-20</a></div>
+<table class="sortable autostripe">
+<thead>
+<tr>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th><th class="hilite c ol">
+<a href="/ihdb/stats/playoffdisplay.php?league=ohl1989&amp;season=2019&amp;leaguenm=OHL">Playoff Results
+</a>
+</th>
+<th class="hilite c ol">
+<a href="/ihdb/stats/top_league.php?lid=ohl1989&amp;sid=2019&amp;leaguenm=OHL">League Leaders
+</a>
+</th>
+</tr>
+<tr class="hideme">
+<td style="text-align:left" class="c_sec_head">Central</td>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+</tr>
+<tr>
+<th class="l c_sort_head">Team</th>
+<th class="c_sort_head">GP</th>
+<th class="c_sort_head">W</th>
+<th class="c_sort_head">L</th>
+<th class="c_sort_head">OTL</th>
+<th class="c_sort_head">SOL</th>
+<th class="c_sort_head">Pts</th>
+<th class="c_sort_head">GF</th>
+<th class="c_sort_head">GA</th>
+<th class="c_sort_head">PIM</th>
+<th class="c_sort_head">Att.</th>
+<th class="l c_sort_head">Coach</th>
+<th class="l c_sort_head">Playoff Results</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="teams/0047142019.html">Niagara IceDogs</a></td>
+<td>68</td>
+<td>44</td>
+<td>17</td>
+<td>7</td>
+<td>0</td>
+<td>95</td>
+<td>326</td>
+<td>209</td>
+<td>769</td>
+<td>5,035</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=89175">Billy Burke</a></td>
+<td style="text-align:left">Lost in round 2</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0008182019.html">Sudbury Wolves</a></td>
+<td>68</td>
+<td>43</td>
+<td>20</td>
+<td>3</td>
+<td>2</td>
+<td>91</td>
+<td>254</td>
+<td>206</td>
+<td>930</td>
+<td>3,109</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=5203">Cory Stillman</a></td>
+<td style="text-align:left">Lost in round 2</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0067362019.html">Mississauga Steelheads</a></td>
+<td>68</td>
+<td>32</td>
+<td>29</td>
+<td>5</td>
+<td>2</td>
+<td>71</td>
+<td>239</td>
+<td>250</td>
+<td>739</td>
+<td>2,517</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=4560">James Richmond</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0070392019.html">North Bay Battalion</a></td>
+<td>68</td>
+<td>30</td>
+<td>33</td>
+<td>3</td>
+<td>2</td>
+<td>65</td>
+<td>230</td>
+<td>281</td>
+<td>814</td>
+<td>2,350</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=60365">Stan Butler</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0008352019.html">Barrie Colts</a></td>
+<td>68</td>
+<td>26</td>
+<td>38</td>
+<td>3</td>
+<td>1</td>
+<td>56</td>
+<td>221</td>
+<td>245</td>
+<td>885</td>
+<td>3,463</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=2199">Dale Hawerchuk</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+<tr class="hidden">
+<th>&nbsp;</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<td style="text-align:left" class="c_sec_head">East</td>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+</tr>
+<tr>
+<td style="text-align:left"><a href="teams/0008102019.html">Ottawa 67's</a></td>
+<td>68</td>
+<td>50</td>
+<td>12</td>
+<td>4</td>
+<td>2</td>
+<td>106</td>
+<td>296</td>
+<td>183</td>
+<td>894</td>
+<td>3,742</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=82671">Andre Tourigny</a></td>
+<td style="text-align:left">Lost in Finals</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0008072019.html">Oshawa Generals</a></td>
+<td>68</td>
+<td>44</td>
+<td>20</td>
+<td>4</td>
+<td>0</td>
+<td>92</td>
+<td>288</td>
+<td>216</td>
+<td>774</td>
+<td>5,043</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=5628">Greg Walters</a></td>
+<td style="text-align:left">Lost in round 3</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0008062019.html">Peterborough Petes</a></td>
+<td>68</td>
+<td>33</td>
+<td>31</td>
+<td>2</td>
+<td>2</td>
+<td>70</td>
+<td>234</td>
+<td>256</td>
+<td>771</td>
+<td>2,929</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=7120">Rob Wilson</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0074342019.html">Hamilton Bulldogs</a></td>
+<td>68</td>
+<td>29</td>
+<td>34</td>
+<td>3</td>
+<td>2</td>
+<td>63</td>
+<td>241</td>
+<td>283</td>
+<td>743</td>
+<td>4,090</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=3460">David Matsos</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0008382019.html">Kingston Frontenacs</a></td>
+<td>68</td>
+<td>14</td>
+<td>52</td>
+<td>1</td>
+<td>1</td>
+<td>30</td>
+<td>144</td>
+<td>307</td>
+<td>810</td>
+<td>3,128</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=31189">Kurtis Foster</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+<tr class="hidden">
+<th>&nbsp;</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<td style="text-align:left" class="c_sec_head">Midwest</td>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+</tr>
+<tr>
+<td style="text-align:left"><a href="teams/0008142019.html">London Knights</a></td>
+<td>68</td>
+<td>46</td>
+<td>15</td>
+<td>6</td>
+<td>1</td>
+<td>99</td>
+<td>299</td>
+<td>211</td>
+<td>867</td>
+<td>8,997</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=2419">Dale Hunter</a></td>
+<td style="text-align:left">Lost in round 2</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0008372019.html">Guelph Storm</a></td>
+<td>68</td>
+<td>40</td>
+<td>18</td>
+<td>6</td>
+<td>4</td>
+<td>90</td>
+<td>308</td>
+<td>230</td>
+<td>674</td>
+<td>4,137</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=680">George Burnett</a></td>
+<td style="text-align:left"><b>Won Championship</b></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0008122019.html">Kitchener Rangers</a></td>
+<td>68</td>
+<td>34</td>
+<td>30</td>
+<td>3</td>
+<td>1</td>
+<td>72</td>
+<td>251</td>
+<td>267</td>
+<td>616</td>
+<td>6,859</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=17664">Jay McKee</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0025502019.html">Owen Sound Attack</a></td>
+<td>68</td>
+<td>31</td>
+<td>31</td>
+<td>4</td>
+<td>2</td>
+<td>68</td>
+<td>224</td>
+<td>274</td>
+<td>718</td>
+<td>2,994</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=1908">Todd Gill</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0008792019.html">Erie Otters</a></td>
+<td>68</td>
+<td>26</td>
+<td>38</td>
+<td>3</td>
+<td>1</td>
+<td>56</td>
+<td>230</td>
+<td>300</td>
+<td>593</td>
+<td>3,193</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=42511">Chris Hartsburg</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+<tr class="hidden">
+<th>&nbsp;</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<td style="text-align:left" class="c_sec_head">West</td>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+</tr>
+<tr>
+<td style="text-align:left"><a href="teams/0008192019.html">Soo Greyhounds</a></td>
+<td>68</td>
+<td>44</td>
+<td>16</td>
+<td>7</td>
+<td>1</td>
+<td>96</td>
+<td>292</td>
+<td>224</td>
+<td>759</td>
+<td>4,062</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=31790">John Dean</a></td>
+<td style="text-align:left">Lost in round 2</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0030122019.html">Saginaw Spirit</a></td>
+<td>68</td>
+<td>45</td>
+<td>17</td>
+<td>3</td>
+<td>3</td>
+<td>96</td>
+<td>294</td>
+<td>218</td>
+<td>592</td>
+<td>3,413</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=121370">Chris Lazary</a></td>
+<td style="text-align:left">Lost in round 3</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0008402019.html">Sarnia Sting</a></td>
+<td>68</td>
+<td>28</td>
+<td>33</td>
+<td>5</td>
+<td>2</td>
+<td>63</td>
+<td>271</td>
+<td>300</td>
+<td>848</td>
+<td>3,236</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=2191">Derian Hatcher</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0008412019.html">Windsor Spitfires</a></td>
+<td>68</td>
+<td>25</td>
+<td>33</td>
+<td>5</td>
+<td>5</td>
+<td>60</td>
+<td>216</td>
+<td>257</td>
+<td>609</td>
+<td>4,146</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=24125">Trevor Letowski</a></td>
+<td style="text-align:left">Lost in round 1</td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0074352019.html">Flint Firebirds</a></td>
+<td>68</td>
+<td>16</td>
+<td>46</td>
+<td>6</td>
+<td>0</td>
+<td>38</td>
+<td>212</td>
+<td>350</td>
+<td>672</td>
+<td>2,443</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=96884">Eric Wellwood</a></td>
+<td style="text-align:left"><b style="color:red">Out of Playoffs</b></td>
+</tr>
+
+</tbody>
+</table>
+</div>
+<div class="tablebg" style="width: 96%; clear:left;">
+<div class="team_section" id="logo_section" style="">
+<div class="team_header">Program Covers</div>
+<div class="ti" style="float:right; margin-right:8px; margin-top:-23px;"><a href="/ihdb/gallery/program_gallery.php?order=season&amp;start=0&amp;filter=league&amp;value=ohl1989">Enter Gallery</a></div>
+<div style="float: left; text-align: center; margin: 10px 20px; clear:left;"><div class="logo_content">
+<img alt="Ottawa 67's Game Program" src="https://www.hockeydb.com/ihdb/stats/program_img.php?if=ottawa_67's-2019-ohl.jpg" />
+<div>Ottawa 67's</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sponsor" style="margin-left:10px">
+<div id='tall_rectangle'>
+<script type="text/javascript" src="/proxy/ad_proxy_300t_160_300.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('tall_rectangle'); });
+</script>
+</div>
+</div>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2019 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="https://www.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='//storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>
