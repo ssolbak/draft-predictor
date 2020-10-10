@@ -1,0 +1,1080 @@
+ <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Western Hockey League [1968-2020] history and statistics at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="History and season records of the Western Hockey League [1968-2020]" />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
+
+<script defer src="/js/all.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
+</script>
+
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>window.googletag = window.googletag || {cmd: []};</script>
+<script async='async' src="https://storage.googleapis.com/didna_hb/prebid/didna_prebid.js.gz"></script>
+<script async='async' src='https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js'></script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [[728, 90], [320, 50]], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .setTargeting('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_160x600_1', [160, 600], 'right_skyscraper')
+     .addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+   <script type='text/javascript'> 
+   <!--
+      function tableToggle (tabID)
+      {
+        var tbl = document.getElementById(tabID);
+        var but = document.getElementById('thebutton');
+        var ad = document.getElementById('ad');
+
+        for (var j = 0; j < tbl.rows.length; j++) {
+          var rowA = tbl.rows[j];
+          if (rowA.className.match(/vanish/)) {
+            if (rowA.style.display == 'none') {
+               but.value = 'hide details';
+               ad.style.display = 'none';
+               rowA.style.display = '';}
+            else {
+               rowA.style.display = 'none';
+               but.value = 'show details';
+               ad.style.display = '';
+            }
+          }    
+        }
+      }
+    -->
+   </script>
+
+   <script type='text/javascript'> 
+   <!--
+      function moreToggle (spanid)
+      {
+         var morespan = document.getElementById(spanid);
+         var expand = document.getElementById('expand');
+
+        if (morespan.style.display == 'none') {
+           expand.outerHTML = '';
+           morespan.style.display = '';}
+        else {
+           morespan.style.display = 'none';
+        }
+      }
+    -->
+   </script>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="hdb_logo_divv" style="float:left">
+   <a href="/">          
+   <img id="hdb_logov" src="/images/hdb-vert-2.gif" alt="hockey DB" width="40px" style="border:0;" /></a>
+</div>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script async type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+<div class="tablebgl" style="width:720px;">
+<h1 class="title">Western Hockey League [1968-2020] history and statistics</h1>
+<div class="breadcrumb"><a href="https://www.hockeydb.com/ihdb/stats/leagues.html">Leagues</a> -> WHL [1968-2020]</div>
+<div id="league_history" class="tablebg1" style="margin-bottom:10px;"><div style="width:100%" class="team_section">
+<h2 class="team_header">WHL History</h2>
+<img style="float:right; border-style:thin; border-color:black; margin:10px; " src="/ihdb/logos/ll/tn_whl_2012-13.gif" alt="2012-2013 WHL logo" />
+<div style="padding:10px;">The Western Hockey League is a Major Junior hockey league that has operated from 1968 to 2020.</div>
+</div></div>
+<div style="width:100%; margin-top:10px;" class="team_section">
+<h2 class="team_header">WHL Seasons</h2>
+<input style="margin-bottom:7px;" id="thebutton" type="button" value="show details" onclick=" tableToggle('thisone');" /><table style="width:100%" id="thisone"><tbody><tr>
+<td style="font-weight:bold" class="norow" colspan="5">Canadian Major Junior Hockey League</td>
+</tr>
+<tr class="c_sec_head">
+<td class="cn">Year</td>
+<td class="cn">Teams</td>
+<td class="cn">Champion</td>
+<td class="cn">Runner-Up</td>
+<td class="cn">Result</td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/estevan-bruins-5701.html">Estevan Bruins</a><br />
+In: <a target="_blank" href="/stte/calgary-buffaloes-5082.html">Calgary Buffaloes</a><br />
+In: <a target="_blank" href="/stte/edmonton-oil-kings-5628.html">Edmonton Oil Kings</a><br />
+In: <a target="_blank" href="/stte/moose-jaw-canucks-6950.html">Moose Jaw Canucks</a><br />
+In: <a target="_blank" href="/stte/regina-pats-7654.html">Regina Pats</a><br />
+In: <a target="_blank" href="/stte/saskatoon-blades-7897.html">Saskatoon Blades</a><br />
+In: <a target="_blank" href="/stte/weyburn-red-wings-8948.html">Weyburn Red Wings</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/cmjhl19671967.html">1966-67</a></td>
+<td>7 Teams</td>
+<td>Moose Jaw Canucks</td>
+<td>Regina Pats</td>
+<td>(4-1) </td>
+</tr>
+<tr>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-weight:bold" class="norow" colspan="5">Western Canada Junior Hockey League</td>
+</tr>
+<tr class="c_sec_head">
+<td class="cn">Year</td>
+<td class="cn">Teams</td>
+<td class="cn">Champion</td>
+<td class="cn">Runner-Up</td>
+<td class="cn">Result</td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/calgary-buffaloes-5082.html">Calgary Buffaloes</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/swift-current-broncos-8343.html">Swift Current Broncos</a><br />
+In: <a target="_blank" href="/stte/brandon-wheat-kings-4970.html">Brandon Wheat Kings</a><br />
+In: <a target="_blank" href="/stte/calgary-centennials-5086.html">Calgary Centennials</a><br />
+In: <a target="_blank" href="/stte/flin-flon-bombers-5750.html">Flin Flon Bombers</a><br />
+In: <a target="_blank" href="/stte/winnipeg-jets-9022.html">Winnipeg Jets</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/wcjhl19681968.html">1967-68</a></td>
+<td>11 Teams</td>
+<td>Estevan Bruins</td>
+<td>Flin Flon Bombers</td>
+<td>(4-0) </td>
+</tr>
+<tr>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-weight:bold" class="norow" colspan="5">Western Canada Hockey League</td>
+</tr>
+<tr class="c_sec_head">
+<td class="cn">Year</td>
+<td class="cn">Teams</td>
+<td class="cn">Champion</td>
+<td class="cn">Runner-Up</td>
+<td class="cn">Result</td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/moose-jaw-canucks-6950.html">Moose Jaw Canucks</a><br />
+Out: <a target="_blank" href="/stte/regina-pats-7654.html">Regina Pats</a><br />
+Out: <a target="_blank" href="/stte/weyburn-red-wings-8948.html">Weyburn Red Wings</a><br />
+</td>
+<td>
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/wchl19681969.html">1968-69</a></td>
+<td>8 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/wchl19681970.html">1969-70</a></td>
+<td>8 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/medicine-hat-tigers-6774.html">Medicine Hat Tigers</a><br />
+In: <a target="_blank" href="/stte/regina-pats-7654.html">Regina Pats</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/wchl19681971.html">1970-71</a></td>
+<td>10 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/estevan-bruins-5701.html">Estevan Bruins</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/victoria-cougars-8817.html">Victoria Cougars</a><br />
+In: <a target="_blank" href="/stte/new-westminster-bruins-7074.html">New Westminster Bruins</a><br />
+In: <a target="_blank" href="/stte/vancouver-nats-8769.html">Vancouver Nats</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/wchl19681972.html">1971-72</a></td>
+<td>12 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/wchl19681973.html">1972-73</a></td>
+<td>12 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/vancouver-nats-8769.html">Vancouver Nats</a><br />
+Out: <a target="_blank" href="/stte/winnipeg-jets-9022.html">Winnipeg Jets</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/kamloops-chiefs-6282.html">Kamloops Chiefs</a><br />
+In: <a target="_blank" href="/stte/winnipeg-clubs-9019.html">Winnipeg Clubs</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/wchl19681974.html">1973-74</a></td>
+<td>12 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/swift-current-broncos-8343.html">Swift Current Broncos</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/lethbridge-broncos-6570.html">Lethbridge Broncos</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/wchl19681975.html">1974-75</a></td>
+<td>12 Teams</td>
+<td>New Westminster Bruins</td>
+<td>Saskatoon Blades</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/wchl19681976.html">1975-76</a></td>
+<td>12 Teams</td>
+<td>New Westminster Bruins</td>
+<td>Saskatoon Blades</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/edmonton-oil-kings-5628.html">Edmonton Oil Kings</a><br />
+Out: <a target="_blank" href="/stte/winnipeg-clubs-9019.html">Winnipeg Clubs</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/portland-winterhawks-7537.html">Portland Winter Hawks</a><br />
+In: <a target="_blank" href="/stte/winnipeg-monarchs-9031.html">Winnipeg Monarchs</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/wchl19681977.html">1976-77</a></td>
+<td>12 Teams</td>
+<td>New Westminster Bruins</td>
+<td>Brandon Wheat Kings</td>
+<td>(4-1) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/calgary-centennials-5086.html">Calgary Centennials</a><br />
+Out: <a target="_blank" href="/stte/kamloops-chiefs-6282.html">Kamloops Chiefs</a><br />
+Out: <a target="_blank" href="/stte/winnipeg-monarchs-9031.html">Winnipeg Monarchs</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/billings-bighorns-4863.html">Billings Bighorns</a><br />
+In: <a target="_blank" href="/stte/seattle-breakers-7955.html">Seattle Breakers</a><br />
+In: <a target="_blank" href="/stte/calgary-wranglers-5111.html">Calgary Wranglers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/wchl19681978.html">1977-78</a></td>
+<td>12 Teams</td>
+<td>New Westminster Bruins</td>
+<td>Billings Bighorns</td>
+<td>(4-0) </td>
+</tr>
+<tr>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+<td class="norow">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-weight:bold" class="norow" colspan="5">Western Hockey League</td>
+</tr>
+<tr class="c_sec_head">
+<td class="cn">Year</td>
+<td class="cn">Teams</td>
+<td class="cn">Champion</td>
+<td class="cn">Runner-Up</td>
+<td class="cn">Result</td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/flin-flon-bombers-5750.html">Flin Flon Bombers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/edmonton-oil-kings-5629.html">Edmonton Oil Kings</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791979.html">1978-79</a></td>
+<td>12 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/edmonton-oil-kings-5629.html">Edmonton Oil Kings</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/great-falls-americans-5912.html">Great Falls Americans</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791980.html">1979-80</a></td>
+<td>12 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/great-falls-americans-5912.html">Great Falls Americans</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/winnipeg-warriors-9040.html">Winnipeg Warriors</a><br />
+In: <a target="_blank" href="/stte/spokane-flyers-8108.html">Spokane Flyers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791981.html">1980-81</a></td>
+<td>13 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/new-westminster-bruins-7074.html">New Westminster Bruins</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/kamloops-junior-oilers-6286.html">Kamloops Junior Oilers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791982.html">1981-82</a></td>
+<td>13 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/billings-bighorns-4863.html">Billings Bighorns</a><br />
+Out: <a target="_blank" href="/stte/spokane-flyers-8108.html">Spokane Flyers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/nanaimo-islanders-7016.html">Nanaimo Islanders</a><br />
+In: <a target="_blank" href="/stte/kelowna-wings-6342.html">Kelowna Wings</a><br />
+In: <a target="_blank" href="/stte/prince-albert-raiders-7549.html">Prince Albert Raiders</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791983.html">1982-83</a></td>
+<td>14 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/nanaimo-islanders-7016.html">Nanaimo Islanders</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/new-westminster-bruins-10011.html">New Westminster Bruins</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791984.html">1983-84</a></td>
+<td>14 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/winnipeg-warriors-9040.html">Winnipeg Warriors</a><br />
+Out: <a target="_blank" href="/stte/kamloops-junior-oilers-6286.html">Kamloops Junior Oilers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/moose-jaw-warriors-6958.html">Moose Jaw Warriors</a><br />
+In: <a target="_blank" href="/stte/kamloops-blazers-6279.html">Kamloops Blazers</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791985.html">1984-85</a></td>
+<td>14 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/kelowna-wings-6342.html">Kelowna Wings</a><br />
+Out: <a target="_blank" href="/stte/seattle-breakers-7955.html">Seattle Breakers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/spokane-chiefs-8102.html">Spokane Chiefs</a><br />
+In: <a target="_blank" href="/stte/seattle-thunderbirds-7964.html">Seattle Thunderbirds</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791986.html">1985-86</a></td>
+<td>14 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/lethbridge-broncos-6570.html">Lethbridge Broncos</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/swift-current-broncos-8346.html">Swift Current Broncos</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791987.html">1986-87</a></td>
+<td>14 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/calgary-wranglers-5111.html">Calgary Wranglers</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/lethbridge-hurricanes-6571.html">Lethbridge Hurricanes</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791988.html">1987-88</a></td>
+<td>14 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/new-westminster-bruins-10011.html">New Westminster Bruins</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/tri-city-americans-8541.html">Tri-City Americans</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791989.html">1988-89</a></td>
+<td>14 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791990.html">1989-90</a></td>
+<td>14 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791991.html">1990-91</a></td>
+<td>14 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/tacoma-rockets-8380.html">Tacoma Rockets</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791992.html">1991-92</a></td>
+<td>15 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/red-deer-rebels-7627.html">Red Deer Rebels</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791993.html">1992-93</a></td>
+<td>16 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791994.html">1993-94</a></td>
+<td>16 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/victoria-cougars-8817.html">Victoria Cougars</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/prince-george-cougars-7553.html">Prince George Cougars</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791995.html">1994-95</a></td>
+<td>16 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/tacoma-rockets-8380.html">Tacoma Rockets</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/kelowna-rockets-6340.html">Kelowna Rockets</a><br />
+In: <a target="_blank" href="/stte/calgary-hitmen-5091.html">Calgary Hitmen</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791996.html">1995-96</a></td>
+<td>17 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/edmonton-ice-5616.html">Edmonton Ice</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791997.html">1996-97</a></td>
+<td>18 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791998.html">1997-98</a></td>
+<td>18 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/edmonton-ice-5616.html">Edmonton Ice</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/kootenay-ice-6454.html">Kootenay Ice</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19791999.html">1998-99</a></td>
+<td>18 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792000.html">1999-00</a></td>
+<td>18 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792001.html">2000-01</a></td>
+<td>18 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/vancouver-giants-8759.html">Vancouver Giants</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792002.html">2001-02</a></td>
+<td>19 Teams</td>
+<td></td>
+<td></td>
+<td> </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792003.html">2002-03</a></td>
+<td>19 Teams</td>
+<td>Kelowna Rockets</td>
+<td>Red Deer Rebels</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/everett-silvertips-5710.html">Everett Silvertips</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792004.html">2003-04</a></td>
+<td>20 Teams</td>
+<td>Medicine Hat Tigers</td>
+<td>Everett Silvertips</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792005.html">2004-05</a></td>
+<td>20 Teams</td>
+<td>Kelowna Rockets</td>
+<td>Brandon Wheat Kings</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792006.html">2005-06</a></td>
+<td>20 Teams</td>
+<td>Vancouver Giants</td>
+<td>Moose Jaw Warriors</td>
+<td>(4-0) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/chilliwack-bruins-5244.html">Chilliwack Bruins</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792007.html">2006-07</a></td>
+<td>21 Teams</td>
+<td>Medicine Hat Tigers</td>
+<td>Vancouver Giants</td>
+<td>(4-3) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+</td>
+<td>
+In: <a target="_blank" href="/stte/edmonton-oil-kings-5630.html">Edmonton Oil Kings</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792008.html">2007-08</a></td>
+<td>22 Teams</td>
+<td>Spokane Chiefs</td>
+<td>Lethbridge Hurricanes</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792009.html">2008-09</a></td>
+<td>22 Teams</td>
+<td>Kelowna Rockets</td>
+<td>Calgary Hitmen</td>
+<td>(4-2) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/portland-winterhawks-7537.html">Portland Winter Hawks</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/portland-winterhawks-7537.html">Portland Winterhawks</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792010.html">2009-10</a></td>
+<td>22 Teams</td>
+<td>Calgary Hitmen</td>
+<td>Tri-City Americans</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792011.html">2010-11</a></td>
+<td>22 Teams</td>
+<td>Kootenay Ice</td>
+<td>Portland Winterhawks</td>
+<td>(4-1) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>
+Out: <a target="_blank" href="/stte/chilliwack-bruins-5244.html">Chilliwack Bruins</a><br />
+</td>
+<td>
+In: <a target="_blank" href="/stte/victoria-royals-10729.html">Victoria Royals</a><br />
+</td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792012.html">2011-12</a></td>
+<td>22 Teams</td>
+<td>Edmonton Oil Kings</td>
+<td>Portland Winterhawks</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792013.html">2012-13</a></td>
+<td>22 Teams</td>
+<td>Portland Winterhawks</td>
+<td>Edmonton Oil Kings</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792014.html">2013-14</a></td>
+<td>22 Teams</td>
+<td>Edmonton Oil Kings</td>
+<td>Portland Winterhawks</td>
+<td>(4-3) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792015.html">2014-15</a></td>
+<td>22 Teams</td>
+<td>Kelowna Rockets</td>
+<td>Brandon Wheat Kings</td>
+<td>(4-0) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792016.html">2015-16</a></td>
+<td>22 Teams</td>
+<td>Brandon Wheat Kings</td>
+<td>Seattle Thunderbirds</td>
+<td>(4-1) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792017.html">2016-17</a></td>
+<td>22 Teams</td>
+<td>Seattle Thunderbirds</td>
+<td>Regina Pats</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792018.html">2017-18</a></td>
+<td>22 Teams</td>
+<td>Swift Current Broncos</td>
+<td>Everett Silvertips</td>
+<td>(4-2) </td>
+</tr>
+<tr class="shade4">
+<td><a href="/ihdb/stats/leagues/seasons/whl19792019.html">2018-19</a></td>
+<td>22 Teams</td>
+<td>Prince Albert Raiders</td>
+<td>Vancouver Giants</td>
+<td>(4-3) </td>
+</tr>
+<tr class="vanish hilite" style="display:none">
+<td>Out: <a target="_blank" href="/stte/kootenay-ice-6454.html">Kootenay Ice</a><br />
+</td><td>In: <a target="_blank" href="/stte/winnipeg-ice-12613.html">Winnipeg Ice</a><br />
+</td></tr><tr class="shade4"><td><a href="/ihdb/stats/leagues/seasons/whl19792020.html">2019-20</a></td><td>22 Teams</td><td></td>
+<td></td>
+<td></td>
+</tr></tbody></table></div>
+<div style="width:100%; margin-top:10px;" class="team_section">
+<h2 class="team_header">Cities in WHL</h2>
+<div style="padding:5px">
+<div style="float:left; padding:0px 8px 8px 3px; margin:0px 10px 5px 3px; width:47%">
+<div>Billings, MT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/billings-bighorns-4863.html">Bighorns</a> [1977-1982]</div>
+<div>Brandon, MAN</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/brandon-wheat-kings-4970.html">Wheat Kings</a> [1967-2020]</div>
+<div>Calgary, ALTA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/calgary-buffaloes-5082.html">Buffaloes</a> [1966-1967]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/calgary-centennials-5086.html">Centennials</a> [1967-1977]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/calgary-wranglers-5111.html">Wranglers</a> [1977-1987]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/calgary-hitmen-5091.html">Hitmen</a> [1995-2020]</div>
+<div>Chilliwack, BC</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/chilliwack-bruins-5244.html">Bruins</a> [2006-2011]</div>
+<div>Cranbrook, BC</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kootenay-ice-6454.html">Kootenay Ice</a> [1998-2019]</div>
+<div>Edmonton, ALTA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/edmonton-oil-kings-5628.html">Oil Kings</a> [1966-1976]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/edmonton-oil-kings-5629.html">Oil Kings</a> [1978-1979]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/edmonton-ice-5616.html">Ice</a> [1996-1998]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/edmonton-oil-kings-5630.html">Oil Kings</a> [2007-2020]</div>
+<div>Estevan, SASK</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/estevan-bruins-5701.html">Bruins</a> [1966-1971]</div>
+<div>Everett, WA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/everett-silvertips-5710.html">Silvertips</a> [2003-2020]</div>
+<div>Flin Flon, MAN</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/flin-flon-bombers-5750.html">Bombers</a> [1967-1978]</div>
+<div>Great Falls, MT</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/great-falls-americans-5912.html">Americans</a> [1979-1980]</div>
+<div>Kamloops, BC</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kamloops-chiefs-6282.html">Chiefs</a> [1973-1977]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kamloops-junior-oilers-6286.html">Junior Oilers</a> [1981-1984]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kamloops-blazers-6279.html">Blazers</a> [1984-2020]</div>
+<div>Kelowna, BC</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kelowna-wings-6342.html">Wings</a> [1982-1985]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/kelowna-rockets-6340.html">Rockets</a> [1995-2020]</div>
+<div>Kennewick, WA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/tri-city-americans-8541.html">Tri-City Americans</a> [1988-2020]</div>
+<div>Lethbridge, ALTA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/lethbridge-broncos-6570.html">Broncos</a> [1974-1986]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/lethbridge-hurricanes-6571.html">Hurricanes</a> [1987-2020]</div>
+<div>Medicine Hat, ALTA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/medicine-hat-tigers-6774.html">Tigers</a> [1970-2020]</div>
+<div>Moose Jaw, SASK</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/moose-jaw-canucks-6950.html">Canucks</a> [1966-1968]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/moose-jaw-warriors-6958.html">Warriors</a> [1984-2020]</div>
+</div><div style="float:left; padding:0px 8px 8px 3px; margin:0px 10px 5px 3px; width:45%">
+<div>Nanaimo, BC</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/nanaimo-islanders-7016.html">Islanders</a> [1982-1983]</div>
+<div>New Westminster, BC</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/new-westminster-bruins-7074.html">Bruins</a> [1971-1981]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/new-westminster-bruins-10011.html">Bruins</a> [1983-1988]</div>
+<div>Portland, OR</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/portland-winterhawks-7537.html">Winter Hawks</a> [1976-2020]</div>
+<div>Prince Albert, SASK</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/prince-albert-raiders-7549.html">Raiders</a> [1982-2020]</div>
+<div>Prince George, BC</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/prince-george-cougars-7553.html">Cougars</a> [1994-2020]</div>
+<div>Red Deer, ALTA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/red-deer-rebels-7627.html">Rebels</a> [1992-2020]</div>
+<div>Regina, SASK</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/regina-pats-7654.html">Pats</a> [1966-2020]</div>
+<div>Saskatoon, SASK</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/saskatoon-blades-7897.html">Blades</a> [1966-2020]</div>
+<div>Seattle, WA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/seattle-breakers-7955.html">Breakers</a> [1977-1985]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/seattle-thunderbirds-7964.html">Thunderbirds</a> [1985-2020]</div>
+<div>Spokane, WA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/spokane-flyers-8108.html">Flyers</a> [1980-1982]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/spokane-chiefs-8102.html">Chiefs</a> [1985-2020]</div>
+<div>Swift Current, SASK</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/swift-current-broncos-8343.html">Broncos</a> [1967-1974]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/swift-current-broncos-8346.html">Broncos</a> [1986-2020]</div>
+<div>Tacoma, WA</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/tacoma-rockets-8380.html">Rockets</a> [1991-1995]</div>
+<div>Vancouver, BC</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/vancouver-nats-8769.html">Nats</a> [1971-1973]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/vancouver-giants-8759.html">Giants</a> [2001-2020]</div>
+<div>Victoria, BC</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/victoria-cougars-8817.html">Cougars</a> [1971-1994]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/victoria-royals-10729.html">Royals</a> [2011-2020]</div>
+<div>Weyburn, SASK</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/weyburn-red-wings-8948.html">Red Wings</a> [1966-1968]</div>
+<div>Winnipeg, MAN</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/winnipeg-jets-9022.html">Jets</a> [1967-1973]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/winnipeg-clubs-9019.html">Clubs</a> [1973-1976]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/winnipeg-monarchs-9031.html">Monarchs</a> [1976-1977]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/winnipeg-warriors-9040.html">Warriors</a> [1980-1984]</div>
+<div class="in1">
+<a style="font-weight:normal" href="/stte/winnipeg-ice-12613.html">Ice</a> [2019-2020]</div>
+</div></div></div>
+<div style="width:50%; margin-top:10px;" class="team_section">
+<h2 class="team_header">WHL Yearly Team Attendance</h2>
+<div style="padding:5px">
+<div style="clear:both"></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2020">2019-20</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2015">2014-15</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2010">2009-10</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2005">2004-05</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2000">1999-00</a></div>
+<div style="clear:both"></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2019">2018-19</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2014">2013-14</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2009">2008-09</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2004">2003-04</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=1999">1998-99</a></div>
+<div style="clear:both"></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2018">2017-18</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2013">2012-13</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2008">2007-08</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2003">2002-03</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=1992">1991-92</a></div>
+<div style="clear:both"></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2017">2016-17</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2012">2011-12</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2007">2006-07</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2002">2001-02</a></div>
+<div style="clear:both"></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2016">2015-16</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2011">2010-11</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2006">2005-06</a></div>
+<div style="float:left; margin:0px 7px 7px 0px;"><a href="/nhl-attendance/att_graph_season.php?lid=WHL1979&amp;sid=2001">2000-01</a></div>
+</div>
+</div>
+</div>
+<div id="ad" class="sponsor">
+<div id='right_skyscraper'>
+<script type="text/javascript" src="/proxy/ad_proxy_160.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('right_skyscraper'); });
+</script>
+</div>
+</div>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2019 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="https://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="https://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="https://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='https://storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>
+

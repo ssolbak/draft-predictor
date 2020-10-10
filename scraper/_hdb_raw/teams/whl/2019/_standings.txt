@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>2019-20 Western Hockey League [WHL] standings at hockeydb.com</title>
+<meta charset="UTF-8"><meta name="description" content="The standings of the teams in the Western Hockey League for the 2019-20 season" />
+<meta name = "format-detection" content = "telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="StyleSheet" href="/styles/standard.css" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/styles/standard-print.css" type="text/css" media="print" />
+
+<script defer src="/js/all.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-197752-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-197752-1');
+</script>
+
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>window.googletag = window.googletag || {cmd: []};</script>
+<script async='async' src="https://storage.googleapis.com/didna_hb/prebid/didna_prebid.js.gz"></script>
+<script async='async' src='https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js'></script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
+      .addSize([761, 0], [728, 90])
+      .addSize([320, 0], [320, 50])
+      .addSize([0, 0], [])
+        .build();
+    var map300t = googletag.sizeMapping()
+      .addSize([1180, 0], [300, 600])
+      .addSize([760, 0], [160, 600])
+      .addSize([300, 0], [300, 250])
+      .addSize([0, 0], [])
+        .build();
+    googletag.defineSlot('/170737076/hdb_728x90_1', [[728, 90], [320, 50]], 'top_leaderboard')
+    .defineSizeMapping(topAd)
+    .setTargeting('sizeMap', topAd)
+    .addService(googletag.pubads());
+    googletag.defineSlot('/170737076/hdb_300x600_1', [[300, 600], [160, 600], [300, 250]], 'tall_rectangle')
+    	.defineSizeMapping(map300t)
+    	.setTargeting('sizeMap', map300t)
+    	.addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="hdb_logo_div" style="float:left">
+   <a href="/">          
+   <img id="hdb_logo" src="/images/logo.gif" alt="hockey DB" width="237" height="100" style="border:0;" /></a>
+</div>
+
+<div id="hdb_logo_divv" style="float:left">
+   <a href="/">          
+   <img id="hdb_logov" src="/images/hdb-vert-2.gif" alt="hockey DB" width="40px" style="border:0;" /></a>
+</div>
+
+<div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
+   <div id='top_leaderboard'>
+   <script async type="text/javascript" src="/proxy/ad_proxy.js"></script>
+       <script>
+           googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
+       </script>
+   </div>
+</div>
+
+  <div id="headerbar" style="clear:both; width:965px">
+     <a href="/">
+       <img src="/images/menu_home.gif" alt="home" width="59" height="48" style="border:0;" id="menu_home" /></a>
+     <a href="/ihdb/stats/leagues.html">
+       <img src="/images/menu_league.gif" alt="search by league" width="126" height="48" style="border:0;" id="menu_league" /></a>
+     <a href="/ihdb/stats/teams.html">
+       <img src="/images/menu_team.gif" alt="team" width="116" height="48" style="border:0;" id="menu_team" /></a>
+     <a href="/vb/">
+       <img src="/images/menu_forums.gif" alt="forums" width="73" height="48" style="border:0;" id="menu_forums" /></a>
+     <a href="/scoreboard">
+       <img src="/images/menu_mr.gif" alt="morning report" width="112" height="48" style="border:0;" id="menu_mr" /></a>
+     <a href="/feedback.html" >
+       <img src="/images/menu_contact.gif" alt="contact us" width="93" height="48" style="border:0;" id="menu_contact" /></a>
+   </div>
+
+<div id="hb_black">
+<div id="hb_image">
+  <img src="/images/hdr_hockeyDB.gif" alt="home" />
+</div>
+
+<div id="hb_red">
+    <form name="player" method="get" action="/ihdb/stats/find_player.php">
+      <div id="hb_form1"><input autocorrect="off" type="text" name="full_name" class="inp2" id="hb_search_resp"/></div>
+      <div id="hb_form2"><input name="imageField" type="image" alt="search for player" src="/images/btn_player-search.gif" /></div>
+    </form>
+</div>
+</div>
+
+<div class="multitable1" style="clear:both; min-width:800px; float:left">
+<div class="tablebg" style="width:96%">
+<h1 class="title">2019-20 Western Hockey League Standings</h1>
+<div class="breadcrumb"><a href="https://www.hockeydb.com/ihdb/stats/leagues.html">Leagues</a> -> <a href="https://www.hockeydb.com/ihdb/stats/leagues/257.html">WHL</a> -> 2019-20 -> standings</div>
+<div class="ti in1">
+Jump:
+<a href="whl19792019.html">2018-19</a></div>
+<table class="sortable autostripe">
+<thead>
+<tr>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th><th class="norow"></th><th class="hilite c ol">
+<a href="/ihdb/stats/top_league.php?lid=whl1979&amp;sid=2020&amp;leaguenm=WHL">League Leaders
+</a>
+</th>
+</tr>
+<tr class="hideme">
+<td style="text-align:left" class="c_sec_head">B.C. Division</td>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+</tr>
+<tr>
+<th class="l c_sort_head">Team</th>
+<th class="c_sort_head">GP</th>
+<th class="c_sort_head">W</th>
+<th class="c_sort_head">L</th>
+<th class="c_sort_head">OTL</th>
+<th class="c_sort_head">SOL</th>
+<th class="c_sort_head">Pts</th>
+<th class="c_sort_head">GF</th>
+<th class="c_sort_head">GA</th>
+<th class="c_sort_head">PIM</th>
+<th class="c_sort_head">Att.</th>
+<th class="l c_sort_head">Coach</th>
+<th class="l c_sort_head">Playoff Results</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="teams/0009952020.html">Kamloops Blazers</a></td>
+<td>63</td>
+<td>41</td>
+<td>18</td>
+<td>3</td>
+<td>1</td>
+<td>86</td>
+<td>271</td>
+<td>166</td>
+<td>786</td>
+<td>4,179</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=1032">Shaun Clouston</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0064312020.html">Victoria Royals</a></td>
+<td>64</td>
+<td>32</td>
+<td>24</td>
+<td>6</td>
+<td>2</td>
+<td>72</td>
+<td>176</td>
+<td>190</td>
+<td>732</td>
+<td>4,638</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=211119">Dan Price</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0028072020.html">Vancouver Giants</a></td>
+<td>62</td>
+<td>32</td>
+<td>24</td>
+<td>4</td>
+<td>2</td>
+<td>70</td>
+<td>189</td>
+<td>166</td>
+<td>712</td>
+<td>3,920</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=34467">Mike Dyck</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0009962020.html">Kelowna Rockets</a></td>
+<td>63</td>
+<td>29</td>
+<td>28</td>
+<td>3</td>
+<td>3</td>
+<td>64</td>
+<td>181</td>
+<td>208</td>
+<td>831</td>
+<td>5,137</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=1735">Adam Foote</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0010022020.html">Prince George Cougars</a></td>
+<td>62</td>
+<td>20</td>
+<td>34</td>
+<td>4</td>
+<td>4</td>
+<td>48</td>
+<td>144</td>
+<td>205</td>
+<td>591</td>
+<td>2,433</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=2928">Mark Lamb</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr class="hidden">
+<th>&nbsp;</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<td style="text-align:left" class="c_sec_head">Central Division</td>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+</tr>
+<tr>
+<td style="text-align:left"><a href="teams/0047162020.html">Edmonton Oil Kings</a></td>
+<td>64</td>
+<td>42</td>
+<td>12</td>
+<td>6</td>
+<td>4</td>
+<td>94</td>
+<td>239</td>
+<td>167</td>
+<td>690</td>
+<td>7,009</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=2998">Brad Lauer</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0009982020.html">Medicine Hat Tigers</a></td>
+<td>63</td>
+<td>41</td>
+<td>19</td>
+<td>2</td>
+<td>1</td>
+<td>85</td>
+<td>265</td>
+<td>182</td>
+<td>595</td>
+<td>2,947</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=39968">Willie Desjardins</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0009972020.html">Lethbridge Hurricanes</a></td>
+<td>63</td>
+<td>37</td>
+<td>19</td>
+<td>2</td>
+<td>5</td>
+<td>81</td>
+<td>249</td>
+<td>193</td>
+<td>694</td>
+<td>3,970</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=78357">Brent Kisio</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0009942020.html">Calgary Hitmen</a></td>
+<td>64</td>
+<td>35</td>
+<td>24</td>
+<td>4</td>
+<td>1</td>
+<td>75</td>
+<td>219</td>
+<td>201</td>
+<td>840</td>
+<td>6,742</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=18520">Steve Hamilton</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0010032020.html">Red Deer Rebels</a></td>
+<td>63</td>
+<td>24</td>
+<td>33</td>
+<td>3</td>
+<td>3</td>
+<td>54</td>
+<td>181</td>
+<td>250</td>
+<td>845</td>
+<td>3,964</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=5260">Brent Sutter</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0010082020.html">Swift Current Broncos</a></td>
+<td>63</td>
+<td>10</td>
+<td>48</td>
+<td>2</td>
+<td>3</td>
+<td>25</td>
+<td>129</td>
+<td>298</td>
+<td>581</td>
+<td>1,954</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=152305">Dean Brockman</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr class="hidden">
+<th>&nbsp;</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<td style="text-align:left" class="c_sec_head">East Division</td>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+</tr>
+<tr>
+<td style="text-align:left"><a href="teams/0010012020.html">Prince Albert Raiders</a></td>
+<td>64</td>
+<td>36</td>
+<td>18</td>
+<td>6</td>
+<td>4</td>
+<td>82</td>
+<td>210</td>
+<td>160</td>
+<td>603</td>
+<td>2,642</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=2081">Marc Habscheid</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0086712020.html">Winnipeg Ice</a></td>
+<td>63</td>
+<td>38</td>
+<td>24</td>
+<td>1</td>
+<td>0</td>
+<td>77</td>
+<td>231</td>
+<td>207</td>
+<td>559</td>
+<td>1,503</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=4181">James Patrick</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0009932020.html">Brandon Wheat Kings</a></td>
+<td>63</td>
+<td>35</td>
+<td>22</td>
+<td>4</td>
+<td>2</td>
+<td>76</td>
+<td>227</td>
+<td>173</td>
+<td>776</td>
+<td>3,490</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=3217">Dave Lowry</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0010052020.html">Saskatoon Blades</a></td>
+<td>63</td>
+<td>34</td>
+<td>24</td>
+<td>2</td>
+<td>3</td>
+<td>73</td>
+<td>211</td>
+<td>197</td>
+<td>695</td>
+<td>3,605</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=55405">Mitch Love</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0010042020.html">Regina Pats</a></td>
+<td>63</td>
+<td>21</td>
+<td>34</td>
+<td>6</td>
+<td>2</td>
+<td>50</td>
+<td>183</td>
+<td>258</td>
+<td>816</td>
+<td>4,711</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=5228">David Struch</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0009992020.html">Moose Jaw Warriors</a></td>
+<td>62</td>
+<td>14</td>
+<td>44</td>
+<td>4</td>
+<td>0</td>
+<td>32</td>
+<td>146</td>
+<td>291</td>
+<td>600</td>
+<td>2,981</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=2422">Tim Hunter</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr class="hidden">
+<th>&nbsp;</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>0</th>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
+<tr class="hideme">
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+<th class="norow">&nbsp;</th>
+</tr>
+<tr class="hideme">
+<td style="text-align:left" class="c_sec_head">U.S. Division</td>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+<th class="norow"></th>
+</tr>
+<tr>
+<td style="text-align:left"><a href="teams/0054022020.html">Portland Winterhawks</a></td>
+<td>63</td>
+<td>45</td>
+<td>11</td>
+<td>3</td>
+<td>4</td>
+<td>97</td>
+<td>270</td>
+<td>164</td>
+<td>724</td>
+<td>5,540</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=29039">Mike Johnston</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0032842020.html">Everett Silvertips</a></td>
+<td>63</td>
+<td>46</td>
+<td>13</td>
+<td>3</td>
+<td>1</td>
+<td>96</td>
+<td>228</td>
+<td>142</td>
+<td>712</td>
+<td>5,730</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=33799">Dennis Williams</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0010072020.html">Spokane Chiefs</a></td>
+<td>64</td>
+<td>41</td>
+<td>18</td>
+<td>4</td>
+<td>1</td>
+<td>87</td>
+<td>258</td>
+<td>179</td>
+<td>583</td>
+<td>5,709</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=5593">Emanuel Viveiros</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0010062020.html">Seattle Thunderbirds</a></td>
+<td>63</td>
+<td>24</td>
+<td>32</td>
+<td>4</td>
+<td>3</td>
+<td>55</td>
+<td>175</td>
+<td>240</td>
+<td>889</td>
+<td>4,736</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=22587">Matt O'Dette</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+<tr>
+<td style="text-align:left"><a href="teams/0010092020.html">Tri-City Americans</a></td>
+<td>63</td>
+<td>17</td>
+<td>40</td>
+<td>4</td>
+<td>2</td>
+<td>40</td>
+<td>157</td>
+<td>302</td>
+<td>844</td>
+<td>3,729</td>
+<td style="text-align:left"><a target="_players" href="/ihdb/stats/pdisplay.php?encode=TRUE&amp;pid=645">Kelly Buchberger</a></td>
+<td style="text-align:left"></td>
+</tr>
+
+</tbody>
+</table>
+<br />
+<table style="width:800px;">
+<tr><td>Notes:</td><td style="white-space: normal; text-align:left">
+         Final games of season and playoffs not played due to
+         COVID-19 pandemic.
+      </td></tr>
+</table>
+</div>
+</div>
+<div class="sponsor" style="margin-left:10px">
+<div id='tall_rectangle'>
+<script type="text/javascript" src="/proxy/ad_proxy_300t_160_300.js"></script>
+<script>
+   googletag.cmd.push(function() { googletag.display('tall_rectangle'); });
+</script>
+</div>
+</div>
+  <div id="footer_bar">
+     <div id="footer_cell">
+        <a href="/" class="revlink">Home</a> | <a href="/advertise.html" class="revlink">Advertise</a> | <a href="/feedback.html" class="revlink">Feedback</a> | <a href="/copyright.html" class="revlink">Usage</a> | <a href="/privacy.html" class="revlink">Privacy</a> | <a href="/faq.html" class="revlink">FAQ</a> | <a href="/links.html" class="revlink">Links</a> | <a href="/credits.html" class="revlink">Credits</a> | <a href="/help.html" class="revlink">Help!</a>
+     </div>
+     <div id="bottom_cell">
+        <div style="float:left"><a href="/"><img src="/images/logo_small.gif" alt="hockeyDB.com" width="115" height="38" style="border:0;" /></a> &nbsp; &nbsp; Copyright 1998-2019 hockeyDB.com. All rights reserved.</div>
+     </div>
+  </div>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="https://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
+<noscript>
+<a href="https://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="https://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+
+<!-- End Quantcast tag -->
+
+<script src='https://storage.googleapis.com/didna-files/didna-pixel-hdb.js'></script>
+
+
+</body>
+</html>

@@ -4,13 +4,13 @@ const _ = require("lodash");
 const async = require("async");
 const fs = require("fs");
 const path = require("path");
-const constants = require("./constants");
-const utils = require("./utils");
+const constants = require("./common/constants");
+const utils = require("./common/utils");
 
-const HrefDownloader = require('./href_downloader');
+const HrefDownloader = require('./downloaders/href_downloader');
 const href = new HrefDownloader();
 
-const HbdDownloader = require('./hbd_downloader');
+const HbdDownloader = require('./downloaders/hbd_downloader');
 const hbd = new HbdDownloader();
 
 module.exports = (years, options, done) => {

@@ -4,9 +4,9 @@ const _ = require('lodash');
 const async = require('async');
 const fs = require('fs');
 const path = require('path');
-const constants = require('./constants');
+const constants = require('./common/constants');
 
-const HbdDownloader = require('./hbd_downloader');
+const HbdDownloader = require('./downloaders/hbd_downloader');
 const downloader = new HbdDownloader();
 
 const team_data = {};

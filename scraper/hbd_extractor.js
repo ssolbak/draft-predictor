@@ -5,7 +5,7 @@ const async = require("async");
 const fs = require('fs');
 const path = require('path');
 const team_stats = require('./team_stats');
-const utils = require('./utils');
+const utils = require('./common/utils');
 const web_util = require('./web_util');
 
 let context = {players: {}};
