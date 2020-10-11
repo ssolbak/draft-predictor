@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="csrf-token" content="H3pO9TnlHRsvtcVUiFlJsx7y2uB5hl5y3oND97DE">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <script type="text/javascript">
+        var baseUrl = 'https://www.eliteprospects.com';
+    </script>
+                        <script>
+    var atsScript = document.createElement('script');
+    atsScript.onload = function() {
+        window.ats.start({
+            "placementID": 1331,
+            "storageType": "localStorage",
+            "detectionType": "scrape",
+            "cssSelectors": [
+                "input[type=text]",
+                "input[type=email]"
+            ],
+            "logging": "error"
+        });
+    };
+    atsScript.src = 'https://ats.rlcdn.com/ats.js';
+    document.body.appendChild(atsScript);
+</script>
+<script type="application/javascript" src="https://ced.sascdn.com/tag/3746/smart.js"></script>
+<script type="text/javascript" src="//tagmanager.smartadserver.com/3746/350175/smart.prebid.js"></script>
+<script type="application/javascript">
+    var sas = sas || {};
+    sas.cmd = sas.cmd || [];
+    sas.cmd.push(function() {
+        sas.setup({ networkid: 3746, domain: "https://www14.smartadserver.com", async: true, renderMode: 2 });
+    });
+    sas.cmd.push(function() {
+        sas.call("onecall", {
+            siteId: 350175,
+            pageId: 1228534,
+            formats: [
+                { id: 90446, tagId: 'Skyscraper' },
+                { id: 90442, tagId: 'Small_Square' },
+                { id: 90443, tagId: 'Wide_Skyscraper' },
+                { id: 90448, tagId: 'Leaderboard' },
+                { id: 90447, tagId: 'Wide_Leaderboard' },
+                { id: 90446, tagId: "Skyscraper" },
+                { id: 90442, tagId: "Small_Square"},
+                { id: 90443, tagId: "Wide_Skyscraper" },
+                { id: 90449, tagId: "Mobile_Leaderboard" },
+                { id: 90448, tagId: "Leaderboard"},
+                { id: 90447, tagId: "Wide_Leaderboard" },
+                { id: 92615, tagId: "Mobile1" },
+                { id: 92616, tagId: "Mobile2" },
+                { id: 92617, tagId: "Mobile3" },
+                { id: 93691, tagId: "Parallax" },
+                { id: 93492, tagId: "StickyAd" },
+                { id: 91953, tagId: "Universal"}
+            ],
+            target: ''
+        });
+    });
+</script>                    <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-WCNPX59');</script>
+        <!-- End Google Tag Manager -->
+            <title>Miikka Salomäki - Elite Prospects</title>
+            <meta name="description" content="Eliteprospects.com hockey player profile of Miikka Salomäki, 1993-03-09 Raahe, FIN Finland. Most recently in the AHL with Colorado Eagles. Complete player biography and stats."/>
+                <meta name="keywords" content="miikka salomäki, player, hockey"/>
+                <meta property="og:title" content="Miikka Salomäki at eliteprospects.com"/>
+                <meta property="og:description" content="Eliteprospects.com hockey player profile of Miikka Salomäki, 1993-03-09 Raahe, FIN Finland. Most recently in the AHL with Colorado Eagles. Complete player biography and stats."/>
+                <meta property="og:type" content="athlete"/>
+                <meta property="og:image" content="https://files.eliteprospects.com/layout/players/salomaki_2018-11-02.jpg"/>
+            <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://static.eliteprospects.com/images/favicon/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://static.eliteprospects.com/images/favicon/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://static.eliteprospects.com/images/favicon/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://static.eliteprospects.com/images/favicon/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://static.eliteprospects.com/images/favicon/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://static.eliteprospects.com/images/favicon/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://static.eliteprospects.com/images/favicon/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://static.eliteprospects.com/images/favicon/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="https://static.eliteprospects.com/images/favicon/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="https://static.eliteprospects.com/images/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://static.eliteprospects.com/images/favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://static.eliteprospects.com/images/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="https://static.eliteprospects.com/images/favicon/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="https://static.eliteprospects.com/images/favicon/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="https://static.eliteprospects.com/images/favicon/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="https://static.eliteprospects.com/images/favicon/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="https://static.eliteprospects.com/images/favicon/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="https://static.eliteprospects.com/images/favicon/mstile-310x310.png" />    <meta name="theme-color" content="#0b3548">
+    <meta name="msapplication-navbutton-color" content="#0b3548">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#4285f4">
+    <base href="https://www.eliteprospects.com">
+        <link rel="manifest" href="https://static.eliteprospects.com/manifest.json?v=2468">
+            <link href="https://static.eliteprospects.com/css/bootstrap.min.css?v=2468" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/custom_style.css?v=2468" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/bootstrap-select.css?v=2468" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.3.2/rangeslider.min.css" integrity="sha256-F8gzbY2A1VTf49iOrc8Lst/UvcUtoFr3myix0WMiNqA=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/roundSlider/1.3.2/roundslider.min.css" integrity="sha256-Wneaso/SLW7HI/mW+HYAoQSSF9f/71Cdalqk5UiD3Fs=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css" integrity="sha256-auPoJwk/+RK6KSkib92Dkq1Y5hEkZvKtvSwucs15Skg=" crossorigin="anonymous" />
+        <link href="https://static.eliteprospects.com/css/prem.css?v=2468" rel="stylesheet">
+        <link href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.1/cropper.min.css" integrity="sha256-SyWqODkStAbrafgJ9K8twjULP7yL6yTRZKoFGjDYybI=" crossorigin="anonymous" />
+        <link href="https://static.eliteprospects.com/css/font-awesome.css?v=2468" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/responsive.css?v=2468" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/fix.css?v=2468" rel="stylesheet">
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css">
+        <link rel="stylesheet" href="https://unpkg.com/vue-multiselect@2.1.0/dist/vue-multiselect.min.css">
+        <link href="https://static.eliteprospects.com/css/app-3.0.css?v=2468" rel="stylesheet" type="text/css">
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript">
+        const frequencyWallSettingsForCurrentPage = {
+            countPageView: false,
+            loggedIn: false,
+            reached: false
+        };
+    </script>
+    <script src="https://static.eliteprospects.com/js/page-views-limit.js?v=2468"></script>
+                    <!-- Header Tag Code -->
+                <script data-cfasync='false' type='text/javascript'>/*<![CDATA[*/(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: "3.0", q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); var b=c.createElement(s); b.src=u; b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//d2na2p72vtqyok.cloudfront.net/client-embed/cd65ebe7-b051-422b-a193-8cb3796914c4.js');/*]]>*/</script>
+                <!-- End Header Tag Code -->
+                                                    <script type="text/javascript">!(function(o,n,t){t=o.createElement(n),o=o.getElementsByTagName(n)[0],t.async=1,t.src="https://pamelarandom.com/v2/0/bgv_icUzzwqZZCJnhIf3rvuj-gKqRQFgr-V_-fi_nGT9QNHfFBesCydAKzOX3oT_q6z",o.parentNode.insertBefore(t,o)})(document,"script"),(function(o,n){o[n]=o[n]||function(){(o[n].q=o[n].q||[]).push(arguments)}})(window,"admiral");!(function(n,e,r,t){function o(){if((function o(t){try{return(t=localStorage.getItem("v4ac1eiZr0"))&&0<t.split(",")[4]}catch(n){}return!1})()){var t=n[e].pubads();typeof t.setTargeting===r&&t.setTargeting("admiral-engaged","true")}}(t=n[e]=n[e]||{}).cmd=t.cmd||[],typeof t.pubads===r?o():typeof t.cmd.unshift===r?t.cmd.unshift(o):t.cmd.push(o)})(window,"googletag","function");</script>                            <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">stLight.options({publisher: "263b63f4-b290-4c41-be78-9bdb52f95f91", shorten: false, doNotHash: false, doNotCopy: false, popup: true, hashAddressBar: false});</script>
+</head>
+<body style=" background: #F7F9FC;" class="player desktop country-ca">
+    <script>
+    var dataLayer = window.dataLayer || [];
+    var generalDl = {
+        event: 'esmg_datalayer',
+        location: 'CA',
+        displayAds: 'true',
+            }
+</script>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCNPX59" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+            <header class="ep-header">
+    <div class="ep-header__top-bar">
+        <div class="ep-container ep-container--header-top-bar">
+            <a class="ep-header__top-bar-link" href="https://jobs.eliteprospects.com" title="EP Jobs" target="_blank" rel="noopener">
+                Jobs
+            </a> |
+            <a class="ep-header__top-bar-link" href="https://www.eprinkside.com" title="EP Rinkside" target="_blank" rel="noopener">
+                EP Rinkside
+            </a>
+        </div>
+    </div>
+    <div class="ep-header__menu-bar">
+        <div class="ep-container ep-container--header-menu-bar">
+            <a class="ep-header__site-logo" href="https://www.eliteprospects.com" title="Eliteprospects.com">
+                <img src="https://static.eliteprospects.com/images/ep-logo.png" srcset="https://static.eliteprospects.com/images/ep-logo.svg">
+            </a>
+            <div class="ep-header__menu">
+                <div class="ep-header__menu-item ep-header__menu-item--heading">
+                    PRIMARY MENU
+                </div>
+                <a class="ep-header__menu-item" href="https://www.eliteprospects.com/stats" title="Stats">
+                    Stats
+                </a>
+                <a class="ep-header__menu-item" href="https://www.eliteprospects.com/teams" title="Teams">
+                    Teams
+                </a>
+                <a class="ep-header__menu-item" href="https://www.eliteprospects.com/leagues" title="Leagues">
+                    Leagues
+                </a>
+                <a class="ep-header__menu-item" href="https://www.eliteprospects.com/nations" title="Nations">
+                    Nations
+                </a>
+                <a class="ep-header__menu-item" href="https://www.eliteprospects.com/awards" title="Awards">
+                    Awards
+                </a>
+                <a class="ep-header__menu-item" href="https://www.eliteprospects.com/free-agent-pool/nhl" title="Free Agents">
+                    Free Agents
+                </a>
+                <a class="ep-header__menu-item" href="https://www.eliteprospects.com/draft-center/2021" title="Draft Center">
+                    Draft Center
+                </a>
+                <a class="ep-header__menu-item" href="https://www.eliteprospects.com/draft/nhl-entry-draft" title="Drafts">
+                    Drafts
+                </a>
+                <div data-menu-collapser="#sidebar-menu-container" class="ep-header__menu-item ep-header__menu-item--heading">
+    SIDEBAR MENU
+    <i class="fa fa-angle-right"></i>
+</div>
+<div id="sidebar-menu-container" class="hidden">
+        <a data-menu-collapser="#free-agent-frenzy-container" class="ep-header__menu-item ep-header__menu-item--only-mobile" href="#" title="Free Agent Frenzy">
+        Free Agent Frenzy
+        <i class="fa fa-angle-right"></i>
+    </a>
+    <ul id="free-agent-frenzy-container" class="ep-header__menu-list hidden">
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/shl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/1.png">
+                    </i>
+                    <span>SHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/hockeyallsvenskan">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/1.png">
+                    </i>
+                    <span>HockeyAllsvenskan</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/hockeyettan">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/1.png">
+                    </i>
+                    <span>HockeyEttan</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/j20-nationell">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/1.png">
+                    </i>
+                    <span>J20 Nationell</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/liiga">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/2.png">
+                    </i>
+                    <span>Liiga </span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/mestis">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/2.png">
+                    </i>
+                    <span>Mestis </span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/khl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/9.png">
+                    </i>
+                    <span>KHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/czech">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/8.png">
+                    </i>
+                    <span>Extraliga</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/slovakia">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/4.png">
+                    </i>
+                    <span>Extraliga</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/nla">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/10.png">
+                    </i>
+                    <span>NLA </span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/nlb">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/10.png">
+                    </i>
+                    <span>NLB </span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/del">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/21.png">
+                    </i>
+                    <span>DEL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/del2">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/21.png">
+                    </i>
+                    <span>DEL2</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/germany3">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/21.png">
+                    </i>
+                    <span>Oberliga</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/denmark">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/7.png">
+                    </i>
+                    <span>Metal Ligaen</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/norway">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/5.png">
+                    </i>
+                    <span>Get Ligaen</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/icehl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/12.png">
+                    </i>
+                    <span>ICEHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/alpshl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/273.png">
+                    </i>
+                    <span>AlpsHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/eihl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/15.png">
+                    </i>
+                    <span>EIHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/ligue-magnus">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/14.png">
+                    </i>
+                    <span>Ligue Magnus</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/italy">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/19.png">
+                    </i>
+                    <span>Serie A</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/nhl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/16.png">
+                    </i>
+                    <span>NHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/ahl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/16.png">
+                    </i>
+                    <span>AHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/echl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/6.png">
+                    </i>
+                    <span>ECHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/sphl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/6.png">
+                    </i>
+                    <span>SPHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/ncaa">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/6.png">
+                    </i>
+                    <span>NCAA</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/ncaa-iii">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/6.png">
+                    </i>
+                    <span>NCAA III</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/lnah">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/3.png">
+                    </i>
+                    <span>LNAH</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/usports">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/3.png">
+                    </i>
+                    <span>USports</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/wc">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/31.png">
+                    </i>
+                    <span>WC</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/free-agent-pool/champions-hl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/31.png">
+                    </i>
+                    <span>Champions HL</span></a>
+            </li>
+            </ul>
+    <a data-menu-collapser="#pop-leagues-container" class="ep-header__menu-item ep-header__menu-item--only-mobile" href="#" title="Popular League Pages">
+        Popular League Pages
+        <i class="fa fa-angle-right"></i>
+    </a>
+    <ul id="pop-leagues-container" class="ep-header__menu-list hidden">
+                    <li>
+                <a href="https://www.eliteprospects.com/league/nhl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/16.png">
+                    </i>
+                    <span class="txt-normal">NHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/league/ahl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/16.png">
+                    </i>
+                    <span class="txt-normal">AHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/league/echl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/16.png">
+                    </i>
+                    <span class="txt-normal">ECHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/league/sphl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/6.png">
+                    </i>
+                    <span class="txt-normal">SPHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/league/ncaa">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/6.png">
+                    </i>
+                    <span class="txt-normal">NCAA</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/league/whl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/3.png">
+                    </i>
+                    <span class="txt-normal">WHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/league/ohl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/3.png">
+                    </i>
+                    <span class="txt-normal">OHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/league/qmjhl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/3.png">
+                    </i>
+                    <span class="txt-normal">QMJHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/league/ushl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/6.png">
+                    </i>
+                    <span class="txt-normal">USHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/league/nahl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/6.png">
+                    </i>
+                    <span class="txt-normal">NAHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/league/khl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/9.png">
+                    </i>
+                    <span class="txt-normal">KHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/league/shl">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/1.png">
+                    </i>
+                    <span class="txt-normal">SHL</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/league/liiga">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/2.png">
+                    </i>
+                    <span class="txt-normal">Liiga</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/league/nla">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/10.png">
+                    </i>
+                    <span class="txt-normal">NLA</span></a>
+            </li>
+                    <li>
+                <a href="https://www.eliteprospects.com/league/czech">
+                    <i>
+                        <img src="//files.eliteprospects.com/layout/flags_s/8.png">
+                    </i>
+                    <span class="txt-normal">Extraliga</span></a>
+            </li>
+            </ul>
+            <a data-menu-collapser="#NHL-roster-container" class="ep-header__menu-item ep-header__menu-item--only-mobile" href="#" title="NHL Rosters">
+            NHL Rosters
+            <i class="fa fa-angle-right"></i>
+        </a>
+        <ul id="NHL-roster-container" class="ep-header__menu-list hidden">
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/1580/anaheim-ducks">Anaheim Ducks</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/72/arizona-coyotes">Arizona Coyotes</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/52/boston-bruins">Boston Bruins</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/53/buffalo-sabres">Buffalo Sabres</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/54/calgary-flames">Calgary Flames</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/55/carolina-hurricanes">Carolina Hurricanes</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/56/chicago-blackhawks">Chicago Blackhawks</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/57/colorado-avalanche">Colorado Avalanche</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/58/columbus-blue-jackets">Columbus Blue Jackets</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/59/dallas-stars">Dallas Stars</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/60/detroit-red-wings">Detroit Red Wings</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/61/edmonton-oilers">Edmonton Oilers</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/62/florida-panthers">Florida Panthers</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/79/los-angeles-kings">Los Angeles Kings</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/63/minnesota-wild">Minnesota Wild</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/64/montreal-canadiens">Montréal Canadiens</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/65/nashville-predators">Nashville Predators</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/66/new-jersey-devils">New Jersey Devils</a>
+                </li>
+                            <li>
+                    <a href="https://www.eliteprospects.com/team/67/new-york-islanders">New York Islande

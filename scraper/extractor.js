@@ -12,7 +12,7 @@ process.on('uncaughtException', (err) => {
 });
 
 const extractor = require(`./extractors/ep`);
-const base_dir = `/${ep_raw}/players`;
+const base_dir = `/_ep_raw/players`;
 
 let context = { players: {} };
 

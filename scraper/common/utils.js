@@ -30,3 +30,16 @@ exports.getText = (node) => {
         return node.data;
     }
 };
+
+exports.getRegexVal = (player, key, pattern, text, done) => {
+
+    let matches = pattern.exec(text);
+
+    if(!matches || matches.length < 2) return done('could not determine ' + key);
+
+    let val = matches[1] && matches[1].trim();
+    console.log(key, val);
+    player[key] = val;
+
+    return done(null);
+}

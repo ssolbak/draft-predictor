@@ -4,7 +4,7 @@ const _ = require("lodash");
 const async = require("async");
 const fs = require('fs');
 const path = require('path');
-const team_stats = require('../team_stats');
+const team_stats = require('../team_stats/team_stats');
 const utils = require('../common/utils');
 
 let context = {players: {}};
@@ -62,7 +62,7 @@ async.series([
                 async.waterfall(
                     [
                         (cb) => {
-                            getRegexVal(player, 'name', /<h1 itemprop="name" class="title">([^<]+)<\/h1>/, contents, (err) =>{
+                            utils.getRegexVal(player, 'name', /<h1 itemprop="name" class="title">([^<]+)<\/h1>/, contents, (err) =>{
                                 if (err) {
                                     console.log(err);
                                     return shortout();// player doesnt matter
@@ -71,7 +71,7 @@ async.series([
                             });
                         },
                         (cb) => {
-                            getRegexVal(player, 'draft_year', /<a href="\/ihdb\/draft\/nhl([0-9]+)e.html"/, contents, (err) => {
+                            utils.getRegexVal(player, 'draft_year', /<a href="\/ihdb\/draft\/nhl([0-9]+)e.html"/, contents, (err) => {
 
                                 if (err) {
                                     // hack, fix this
@@ -150,15 +150,3 @@ async.series([
     return process.exit(0);
 
 });
-
-function getRegexVal(player, key, pattern, text, done) {
-
-    let matches = pattern.exec(text);
-
-    if (!matches || matches.length < 2) return done("could not determine " + key);
-
-    console.log(key, matches[1]);
-    player[key] = matches[1];
-
-    return done(null);
-}
