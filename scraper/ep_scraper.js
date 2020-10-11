@@ -34,7 +34,7 @@ const argv = require('yargs')
     .argv;
 
 const start_year = 2005;
-const end_year = 2005;
+const end_year = 2015;
 
 let import_options = { all: argv.all, skip_leagues: true };
 let years = [];

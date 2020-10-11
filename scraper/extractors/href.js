@@ -8,19 +8,10 @@ const cheerio = require('cheerio');
 
 const constants = require('./common/constants');
 const formatters = require('./common/formatters');
+const utils = require('./common/utils');
 const team_stats = require('./team_stats');
 
 const MS_IN_A_DAY = 1000 * 60 * 60 * 24;
-
-let context = { players: {} };
-
-const get_text = (node) => {
-    if(node.children && node.children.length === 1) {
-        return get_text(node.children[0]);
-    } else {
-        return node.data;
-    }
-};
 
 exports.get_player_info = (player, done) => {
 
@@ -142,7 +133,7 @@ exports.get_player_info = (player, done) => {
                         let stat = { team_league: 'NHL' };
                         _.each(_.keys(nhl_stats_schema), field => {
                             let col = nhl_stats_schema[field];
-                            let val = get_text(x.children[col.index]);
+                            let val = utils.getText(x.children[col.index]);
                             stat[field] = col.formatter(val);
                         });
                         stat.points_adjusted = stat.points;
@@ -175,7 +166,7 @@ exports.get_player_info = (player, done) => {
                         let stat = {};
                         _.each(_.keys(other_stats_schema), field => {
                             let col = other_stats_schema[field];
-                            let val = get_text(x.children[col.index]);
+                            let val = utils.getText(x.children[col.index]);
                             stat[field] = col.formatter(val);
                         });
 
@@ -301,7 +292,7 @@ exports.get_player_info = (player, done) => {
                     console.log(`Error on player ${player.key} ${player.url} ${player.file_name}`);
                     console.log(`Details: ${err}`);
                 }
-                return done(err);
+                return done(err, player);
             });
     });
 }

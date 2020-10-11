@@ -21,13 +21,13 @@ module.exports = (years, options, done) => {
     //options.force = true;
 
     async.series([
-        (cb) => {
-            ep.downloadLeagues({
-                years,
-                //leagues : _.keys(constants.leagues);
-                leagues : ['ohl']
-            }, options, cb)
-        },
+        // (cb) => {
+        //     ep.downloadLeagues({
+        //         years,
+        //         leagues : _.keys(constants.leagues)
+        //         // leagues : ['ohl']
+        //     }, options, cb)
+        // },
         (cb) => {
             async.eachSeries(years, (year, cb) => {
                 ep.download_draft(year, (err, players) => {

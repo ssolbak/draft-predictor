@@ -12,7 +12,7 @@ const FileDownloader = require('../common/file_downloader');
 
 const downloader = new FileDownloader({
     host: 'www.eliteprospects.com',
-    scrape_delay_in_seconds: 2,
+    scrape_delay_in_seconds: 5,
     bot_delay_in_seconds: 300
 });
 
@@ -42,7 +42,13 @@ class EpDownloader {
             let players = [];
             let content = download.content;
 
-            let re = /td class="overall sorted">([^<]*)<\/td>[\s]*<td class="team">[\s]*<a href="https:\/\/www.eliteprospects.com\/team\/([0-9]+)\/([^\/]+)">([^<]*)<\/a>[\s]*<\/td>[\s]*<td class="player">[\s]*<i>[\s]*<img[^>]*>[\s]*<\/i>[\s]*<span[^>]*>[\s]*<a href="https:\/\/www.eliteprospects.com\/player\/([0-9]+)\/([^\/]+)">([^<]*)<\/a>/g;
+            let is_v2 = /<td class="team-logo">[\s]*<a[^>]*><img[^>]*><\/a>[\s]*<\/td>/g.test(content);
+
+            // the 2nd version has and extra team-logo column
+            let version1 = /td class="overall sorted">([^<]*)<\/td>[\s]*<td class="team">[\s]*<a href="https:\/\/www.eliteprospects.com\/team\/([0-9]+)\/([^\/]+)">([^<]*)<\/a>[\s]*<\/td>[\s]*<td class="player">[\s]*<i>[\s]*<img[^>]*>[\s]*<\/i>[\s]*<span[^>]*>[\s]*<a href="https:\/\/www.eliteprospects.com\/player\/([0-9]+)\/([^\/]+)">([^<]*)<\/a>/g;
+            let version2 = /td class="overall sorted">([^<]*)<\/td>[\s]*<td class="team-logo">[\s]*<a[^>]*><img[^>]*><\/a>[\s]*<\/td>[\s]*<td class="team">[\s]*<a href="https:\/\/www.eliteprospects.com\/team\/([0-9]+)\/([^\/]+)">([^<]*)<\/a>[\s]*<\/td>[\s]*<td class="player">[\s]*<i>[\s]*<img[^>]*>[\s]*<\/i>[\s]*<span[^>]*>[\s]*<a href="https:\/\/www.eliteprospects.com\/player\/([0-9]+)\/([^\/]+)">([^<]*)<\/a>/g;
+
+            let re = is_v2 ? version2 : version1;
 
             let matches;
             while(matches = re.exec(content)) {

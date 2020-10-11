@@ -1,3 +1,5 @@
+'use strict';
+
 const _ = require("lodash");
 const async = require("async");
 const download_data = require('./download_data');
