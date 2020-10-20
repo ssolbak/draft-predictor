@@ -78,6 +78,7 @@ async.series([
             return process.exit(1);
         }
 
+        console.log('writing file', path.join(__dirname, '/_data/players.csv'));
         fs.writeFileSync(path.join(__dirname, '/_data/players.csv'), txt);
 
         console.log('Done');

@@ -25,9 +25,9 @@ exports.readFile = (filePath, options, done) => {
 
 exports.getText = (node) => {
     if(node.children && node.children.length === 1) {
-        return getText(node.children[0]);
+        return this.getText(node.children[0]);
     } else {
-        return node.data;
+        return (node.data && node.data.trim()) || '';
     }
 };
 

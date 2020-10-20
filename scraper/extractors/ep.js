@@ -9,7 +9,7 @@ const cheerio = require('cheerio');
 const constants = require('../common/constants');
 const formatters = require('../common/formatters');
 const utils = require('../common/utils');
-const team_stats = require('../team_stats/hbd');
+const team_stats = require('../team_stats/ep');
 const csv_formatter = require('./csv_formatter');
 
 const MS_IN_A_DAY = 1000 * 60 * 60 * 24;
@@ -29,16 +29,11 @@ exports.get_player_info = (player, done) => {
         }
 
         player.stats = [];
-        player.url = `https://www.eliteprospects.com/player/${player.player_id}/${player.key}`;
+        player.url = `https://www.eliteprospects.com/player/${player.id}/${player.key}`;
         console.log(player.url);
 
         const $ = cheerio.load(contents);
         let shortout = done;
-
-        // <div class="ep-entity-header__name">
-        //     <img class="ep-entity-header__flag" src="//files.eliteprospects.com/layout/flagsmedium/3.png" alt="Canada">
-        //         Sidney Crosby
-        // </div>
 
         async.series(
             [
@@ -131,66 +126,49 @@ exports.get_player_info = (player, done) => {
                 (cb) => {
 
                     console.log(JSON.stringify(player, null, 2));
-                    return cb();
-                    const nhl_stats_schema = {
+                    console.log('\ngetting nhl stats');
+                    const player_stats_schema = {
                         year_key: { index: 0, formatter: formatters.text },
                         year_start: { index: 0, formatter: formatters.year_start },
                         year_end: { index: 0, formatter: formatters.year_end },
-                        team_key: { index: 2, formatter: formatters.text },
-                        team_name: { index: 2, formatter: formatters.team_name },
-                        games_played: { index: 4, formatter: formatters.numeric },
-                        goals: { index: 5, formatter: formatters.numeric },
-                        assists: { index: 6, formatter: formatters.numeric },
-                        points: { index: 7, formatter: formatters.numeric }
+                        team_key: { index: 1, formatter: _.noop },
+                        team_league: { index: 2, formatter: formatters.text },
+                        games_played: { index: 3, formatter: formatters.numeric },
+                        goals: { index: 4, formatter: formatters.numeric },
+                        assists: { index: 5, formatter: formatters.numeric },
+                        points: { index: 6, formatter: formatters.numeric }
                     };
 
-                    let $nhl_stats = $('#stats_basic_plus_nhl');
-                    let $seasons = $nhl_stats.find('tbody tr');
+                    let $player_stats = $('#league-stats table.player-stats');
+                    let $seasons = $player_stats.find('tbody tr');
 
                     _.each($seasons, (x) => {
-                        let stat = { team_league: 'NHL' };
-                        _.each(_.keys(nhl_stats_schema), field => {
-                            let col = nhl_stats_schema[field];
-                            let val = get_text(x.children[col.index]);
-                            stat[field] = col.formatter(val);
+                        let stat = {};
+                        let children = _.filter(x.children, x => x.type === 'tag');
+                        _.each(_.keys(player_stats_schema), field => {
+                            let col = player_stats_schema[field];
+                            if(field === 'team_key') {
+                                let td = children[col.index];
+                                let anchor = $(td).find('span a')[0];
+                                stat.team_url = anchor.attribs.href;
+                                let matches = /https:\/\/www.eliteprospects.com\/team\/([0-9]*)\/([^\/]*)\/([0-9]{4}-[0-9]{4})/i.exec(stat.team_url);
+                                if(!matches || matches.length < 3) {
+                                    return cb(`Could not extract team info from ${stat.team_url}`);
+                                }
+                                stat.team_id = parseInt(matches[1]);
+                                stat.team_key = matches[2].trim();
+                                stat.team_name = utils.getText(anchor);
+                            } else if( field === 'team_league') {
+                                let td = children[col.index];
+                                let anchor = _.find(td.children, x => x.type === 'tag');
+                                let val = utils.getText(anchor);
+                                stat[field] = col.formatter(val);
+                            } else {
+                                let val = utils.getText(children[col.index]);
+                                stat[field] = col.formatter(val);
+                            }
                         });
                         stat.points_adjusted = stat.points;
-                        player.stats.push(stat);
-                    });
-
-                    const other_stats_schema = {
-                        year_key: { index: 0, formatter: formatters.text },
-                        year_start: { index: 0, formatter: formatters.year_start },
-                        year_end: { index: 0, formatter: formatters.year_end },
-                        team_key: { index: 2, formatter: formatters.text },
-                        team_name: { index: 2, formatter: formatters.text },
-                        team_league: { index: 3, formatter: formatters.text },
-                        games_played: { index: 4, formatter: formatters.numeric },
-                        goals: { index: 5, formatter: formatters.numeric },
-                        assists: { index: 6, formatter: formatters.numeric },
-                        points: { index: 7, formatter: formatters.numeric }
-                    };
-
-                    // this is a hack because I think its invalid HTML and cheerio pukes
-                    let start = contents.indexOf('<table class="row_summable sortable stats_table" id="stats_basic_minus_other"');
-                    let sub_contents = contents.substr(start);
-                    let end = sub_contents.indexOf('</table>');
-                    let table_contents = sub_contents.substr(0, end + 8);
-
-                    let $other_stats = cheerio.load(table_contents);
-                    let $other_seasons = $other_stats('#stats_basic_minus_other tbody tr');
-
-                    _.each($other_seasons, (x) => {
-                        let stat = {};
-                        _.each(_.keys(other_stats_schema), field => {
-                            let col = other_stats_schema[field];
-                            let val = get_text(x.children[col.index]);
-                            stat[field] = col.formatter(val);
-                        });
-
-                        let league_info = constants.leagues[stat.team_league.toUpperCase()];
-                        if(league_info) stat.points_adjusted = stat.points * league_info.get_nhle_for(stat.year_end);
-
                         player.stats.push(stat);
                     });
 

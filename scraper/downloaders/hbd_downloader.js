@@ -221,7 +221,7 @@ class HbdDownloader {
         if(!stat.team_league) return done('getTeamDataForStat: Missing team_league');
 
         const year = stat.year_end-1;
-        const fileName = utils.getTeamFileFor(stat.team_id, stat.team_name);
+        const fileName = constants.sources.hdb.get_team_filename(stat.team_id, stat.team_name);
         const filePath = path.join(__dirname, BASE_FOLDER, "teams", stat.team_league.toLowerCase(), year.toString(), fileName);
 
         let options = {
