@@ -95,22 +95,19 @@ exports.get_team_goals_per_game = (player, done) => {
                 return cb(`could not get team data for page for ${player.name} ${stat.year_key} ${stat.team_url}`);
             }
 
-            let content = result.content;
-
-            // need to include the plus/minus column to prevent matches below
-            let playerTeam = /<td class="gp">\s*([0-9]+)\s*<\/td>\s*<td class="g">\s*([0-9]+)\s*<\/td>\s*<td class="a">\s*([0-9]+)\s*<\/td>\s*<td class="tp sorted">\s*([0-9]+)\s*<\/td>\s*<td class="pim">\s*([0-9]+)\s*<\/td>\s*<td class="pm">\s*([0-9]+)\s*<\/td>/g;
-
             stat.team_goals = 0;
             stat.team_assists = 0;
             stat.team_points = 0;
             stat.team_pims = 0;
 
+            let content = result.content;
+
+            // need to include the plus/minus column to prevent matches below
+            let playerTeam = /<td class="gp">\s*([0-9]+)\s*<\/td>\s*<td class="g">\s*([0-9]+)\s*<\/td>\s*<td class="a">\s*([0-9]+)\s*<\/td>\s*<td class="tp sorted">\s*([0-9]+)\s*<\/td>\s*<td class="pim">\s*([0-9]+)\s*<\/td>\s*<td class="pm">\s*([-0-9]+)\s*<\/td>/g;
+
             let matches;
             while((matches = playerTeam.exec(content)) !== null) {
                 if(matches && matches.length > 4) {
-                    if(stat.year_start === 2003) {
-                        console.log("match", parseInt(matches[1]), parseInt(matches[2]));
-                    }
                     stat.team_goals += parseInt(matches[2]);
                     stat.team_assists += parseInt(matches[3]);
                     stat.team_points += parseInt(matches[4]);
@@ -121,8 +118,6 @@ exports.get_team_goals_per_game = (player, done) => {
             if(stat.team_goals === 0) {
                 return done(player.name + ' - could not get team stats from ' + stat.team_url);
             }
-
-            console.log('stat.team_goals', stat.team_goals, 'in', `${stat.year_start}-${stat.year_end}`);
 
             let league_info = constants.leagues[stat.team_league.toUpperCase()];
             // in 2020 the season was cut short

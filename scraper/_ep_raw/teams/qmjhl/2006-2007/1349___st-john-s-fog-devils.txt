@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="csrf-token" content="ST4bMJfsyodbDg4zdfnLj4DJnQtd4KuDQ4dpLHlv">
+        <meta name="csrf-token" content="NzuswGG45smg1pILcaTbbnlO4oxb0PcW6h39AbG8">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <script type="text/javascript">
         var baseUrl = 'https://www.eliteprospects.com';
@@ -143,7 +143,7 @@
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
                 <form id="logout-form" action="https://www.eliteprospects.com/logout" method="POST" style="display: none;">
-    <input type="hidden" name="_token" value="ST4bMJfsyodbDg4zdfnLj4DJnQtd4KuDQ4dpLHlv">
+    <input type="hidden" name="_token" value="NzuswGG45smg1pILcaTbbnlO4oxb0PcW6h39AbG8">
 </form>
 <div id="dialog" title="Information">
     <p></p>
@@ -1057,12 +1057,12 @@
         </div>
     </div>
     <div class="pull-left">
-        <span> Database: <strong>806 157</strong> players </span>
+        <span> Database: <strong>806 251</strong> players </span>
     </div>
     <div class="pull-left">
         <span>
-            <span class="txt-normal"> Last added:</span> <i> <img src="//files.eliteprospects.com/layout/flags_s/3.png"/> </i>
-            <a class="txt-blue" id="lastAddedPlayer" href="https://www.eliteprospects.com/player/806160/alex-olivier-st-louis">Alex-Olivier St-Louis</a>
+            <span class="txt-normal"> Last added:</span> <i> <img src="//files.eliteprospects.com/layout/flags_s/6.png"/> </i>
+            <a class="txt-blue" id="lastAddedPlayer" href="https://www.eliteprospects.com/player/806255/ryan-smith">Ryan Smith</a>
         </span>
     </div>
 </div>
@@ -1091,11 +1091,11 @@
                             <option value="OHL" >OHL</option>
                             <option value="QMJHL" >QMJHL</option>
                             <option value="IceHL" >IceHL</option>
-                            <option value="DEL" selected>DEL</option>
+                            <option value="DEL" >DEL</option>
                             <option value="Norway" >Norway</option>
                             <option value="France" >France</option>
                             <option value="Denmark" >Denmark</option>
-                            <option value="NCAA" >NCAA</option>
+                            <option value="NCAA" selected>NCAA</option>
                             <option value="USHL" >USHL</option>
                             <option value="Slovakia" >Slovakia</option>
                     </select>
@@ -1115,8 +1115,8 @@
             <tbody>
                                     <tr>
                         <td class="position"> 1. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/43477/phil-hungerecker">Phil Hungerecker</a></span></td>
+                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/6.png"> </i>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/318345/grant-silianoff">Grant Silianoff</a></span></td>
                         <td class="gp"> -</td>
                         <td class="g"> -</td>
                         <td class="a"> -</td>
@@ -1124,8 +1124,8 @@
                     </tr>
                                     <tr>
                         <td class="position"> 2. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/95495/andreas-eder">Andreas Eder</a></span></td>
+                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/6.png"> </i>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/364864/jordan-tonelli">Jordan Tonelli</a></span></td>
                         <td class="gp"> -</td>
                         <td class="g"> -</td>
                         <td class="a"> -</td>
@@ -1133,8 +1133,8 @@
                     </tr>
                                     <tr>
                         <td class="position"> 3. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/148127/samuel-soramies">Samuel Soramies</a></span></td>
+                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/6.png"> </i>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/355842/corey-clifton">Corey Clifton</a></span></td>
                         <td class="gp"> -</td>
                         <td class="g"> -</td>
                         <td class="a"> -</td>
@@ -1142,17 +1142,17 @@
                     </tr>
                                     <tr>
                         <td class="position"> 4. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/50851/dustin-strahlmeier">Dustin Strahlmeier</a></span></td>
+                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/6.png"> </i>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/386329/sean-farrell">Sean Farrell</a></span></td>
                         <td class="gp"> -</td>
-                        <td class="g"> </td>
-                        <td class="a"> </td>
-                        <td class="tp sorted"> </td>
+                        <td class="g"> -</td>
+                        <td class="a"> -</td>
+                        <td class="tp sorted"> -</td>
                     </tr>
                                     <tr>
                         <td class="position"> 5. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/71959/janik-moser">Janik Möser</a></span></td>
+                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/6.png"> </i>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/388989/jimmy-dowd">Jimmy Dowd</a></span></td>
                         <td class="gp"> -</td>
                         <td class="g"> -</td>
                         <td class="a"> -</td>
@@ -1161,7 +1161,7 @@
                             </tbody>
         </table>
     </div>
-    <a href="https://www.eliteprospects.com/league/del/stats/2020-2021" class="btn green-sm" id="ScoringLeaders"> Show More </a>
+    <a href="https://www.eliteprospects.com/league/ncaa/stats/2020-2021" class="btn green-sm" id="ScoringLeaders"> Show More </a>
 </div></div>
 
     <div class="sidebar-ads">
@@ -1424,7 +1424,7 @@
                     <a href="https://twitter.com/share" class="twitter-share-button" data-via="eliteprospects">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>                </div>
                 <div class="number-of-views">
-                    Views: <a href="https://www.eliteprospects.com/search/team?q=*&amp;view=views">14 551</a>
+                    Views: <a href="https://www.eliteprospects.com/search/team?q=*&amp;view=views">14 553</a>
                 </div>
             </div>
 
@@ -2782,7 +2782,7 @@
                                     KHL
                                 </span>
                             </td>
-                            <td class="gp"> 11 </td>
+                            <td class="gp"> 12 </td>
                             <td class="g"> 4 </td>
                             <td class="a"> 3 </td>
                             <td class="tp sorted"> 7 </td>

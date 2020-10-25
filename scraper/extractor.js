@@ -18,23 +18,6 @@ let context = { players: {} };
 
 async.series([
     (cb) => {
-        // let files = fs.readdirSync(path.join(__dirname, base_dir));
-
-        // _.each(files, (file) => {
-        //
-        //     let match = /([0-9]+)___([^/.]+).txt/g.exec(file);
-        //
-        //     if(!(match && match.length === 3)){
-        //         console.log("COULD NOT MATCH", file, match && match.length);
-        //     }
-        //
-        //     context.players[match[1]] = {
-        //         id: parseInt(match[1]),
-        //         key: match[2],
-        //         file_name : path.join(__dirname, '/_raw_data/players') + file
-        //     };
-        //
-        // });
 
         const add_player = (id, key) => {
             context.players[id.toString()] = {
@@ -44,9 +27,22 @@ async.series([
             };
         };
 
-        add_player(6146, 'sidney-crosby');
+        // _.each(fs.readdirSync(path.join(__dirname, base_dir)), (file) => {
+        //
+        //     let item = file.replace('.txt', '');
+        //     let items = _.compact(item.split('___'));
+        //
+        //     if(items.length !== 2) {
+        //         console.log("COULD NOT MATCH", file);
+        //     }
+        //
+        //     add_player(items[0], items[1]);
+        // });
+
+        // add_player(6146, 'sidney-crosby');
         // add_player(77237, 'nikita-kucherov');
         // add_player(8792, 'jonathan-toews');
+        add_player(4407, 'mario-kempe');
 
         return cb();
     },
@@ -71,7 +67,8 @@ async.series([
         return process.exit(1);
     }
 
-    let player_data = _.map(context.players, 'csv_info');
+    // there will be some players with no csv info (drafted before 2005, issues)
+    let player_data = _.compact(_.map(context.players, 'csv_info'));
     let csv_options = {
         header: true,
         headers: _.keys(player_data[0])

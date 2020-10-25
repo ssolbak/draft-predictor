@@ -2,6 +2,7 @@
 
 const _ = require('lodash');
 const fs = require('fs');
+const constants = require('./constants');
 
 exports.pad = (num, digits) => {
     return num.toString().padStart(digits, "0");
@@ -36,27 +37,35 @@ exports.getRegexVal = (player, key, pattern, text, done) => {
 
     let matches = pattern.exec(text);
 
-    if(!matches || matches.length < 2) return done('could not determine ' + key);
+    if(!matches || matches.length < 2) {
+        return done('could not determine ' + key);
+    }
 
     let val = matches[1] && matches[1].trim();
-    console.log(key, val);
+    // console.log(key, val);
     player[key] = val;
 
-    return done(null);
+    return done(null, val);
+};
+
+exports.year_key = (start, end) => {
+    return `${start}-${end}`;
 };
 
 exports.aggregate_by_draft_year = (player, done) => {
 
     let currentYear = player.draft_year - 2;
 
-    let keys = ['draft-1', 'draft', 'draft1', 'draft2', 'draft3', 'draft4', 'draft5'];
+    const keys = ['draft-1', 'draft', 'draft1', 'draft2', 'draft3', 'draft4', 'draft5'];
+    const supported_leagues = _.keys(constants.leagues);
 
     for(let i = 0; i < keys.length; i++) {
 
         let key = keys[i];
         let year = currentYear + '-' + (currentYear + 1).toString().substring(2);
-
-        let stats = _.filter(player.stats, (x) => x.year_key === year);
+        let stats = _.filter(player.stats, (x) => {
+            return x.year_key === year && !!~supported_leagues.indexOf(x.team_league.toUpperCase());
+        });
 
         if(stats && stats.length) {
             player[key] = stats;

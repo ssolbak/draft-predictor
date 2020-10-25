@@ -25,29 +25,30 @@ module.exports = (years, options, done) => {
             if(options.skip_leagues) return cb();
             ep.downloadLeagues({
                 years,
-                leagues : _.keys(constants.leagues)
+                // leagues : _.keys(constants.leagues)
+                leagues: ['qmjhl']
             }, options, cb)
         },
-        (cb) => {
-            async.eachSeries(years, (year, cb) => {
-                ep.download_draft(year, (err, players) => {
-                    if(err) return cb(err);
-                    if(!(players && players.length)) {
-                        return cb(`${year} could not find any players in the draft!!`);
-                    }
-                    console.log(`${players.length} number of players for ${year}`);
-                    state.players = state.players.concat(players);
-                    return cb();
-                });
-            }, (err) => {
-                if(err) return cb(err);
-                state.players = _.uniqBy(state.players,'player_id');
-                return cb();
-            })
-        },
-        (cb) => {
-            ep.download(state.players, cb);
-        }
+        // (cb) => {
+        //     async.eachSeries(years, (year, cb) => {
+        //         ep.download_draft(year, (err, players) => {
+        //             if(err) return cb(err);
+        //             if(!(players && players.length)) {
+        //                 return cb(`${year} could not find any players in the draft!!`);
+        //             }
+        //             console.log(`${players.length} number of players for ${year}`);
+        //             state.players = state.players.concat(players);
+        //             return cb();
+        //         });
+        //     }, (err) => {
+        //         if(err) return cb(err);
+        //         state.players = _.uniqBy(state.players,'player_id');
+        //         return cb();
+        //     })
+        // },
+        // (cb) => {
+        //     ep.download(state.players, cb);
+        // }
     ], done);
 
 };

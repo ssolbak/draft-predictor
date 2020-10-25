@@ -90,8 +90,9 @@ module.exports = {
                 let team_key = team_name.toLowerCase()
                                          .replace(/ /g, "-")
                                         .replace(/\//g, "-")
+                                        .replace(/'/g, "-")
                                         .replace(/é/g, 'e')
-                                        .replace(/[,.']+/g, "");
+                                        .replace(/[,.]+/g, "");
                 return `${team_id}___${team_key}.txt`;
             }
         }

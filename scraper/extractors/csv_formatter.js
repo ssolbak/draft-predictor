@@ -1,20 +1,23 @@
 'use strict';
 
 const _ = require('lodash');
+const utils = require('../common/utils');
 
 exports.format = (player, done) => {
 
     let csv_info = _.extend({}, player, {
-        birthdate : player.birthdate.toISOString().substring(0, 10),
-        is_defence : player.is_defence ? 'True' : 'False',
-        draft_is_overage : player.draft_is_overage ? 'True' : 'False',
-        draft_date : player.draft_date.toISOString().substring(0, 10)
+        birthdate: player.birthdate.toISOString().substring(0, 10),
+        is_defence: player.is_defence ? 'True' : 'False',
+        draft_is_overage: player.draft_is_overage ? 'True' : 'False',
+        draft_date: player.draft_date.toISOString().substring(0, 10)
     });
 
-    let keys = ['draft-1', 'draft', 'draft1', 'draft2', 'draft3', 'draft4', 'draft5'];
+    const keys = ['draft-1', 'draft', 'draft1', 'draft2', 'draft3', 'draft4', 'draft5'];
+
     _.each(keys, (key, index) => {
         if(_.has(player, key)) {
             let stats = null;
+            // console.log(key, player[key]);
             if(player[key].length > 1) {
                 let all_stats = player[key];
                 let leagues = _.uniq(_.map(all_stats, 'team_league'));
@@ -33,18 +36,16 @@ exports.format = (player, done) => {
                     total.points += x.points;
                     total.goals += x.goals;
                     total.assists += x.assists;
-                    total.ipp += (x.ipp/total_gp);
+                    total.ipp += (x.ipp / total_gp);
                 });
                 stats = _.extend({
-                    year_start: player[key][0].year_start,
-                    year_end: player[key][0].year_end,
+                    year: player[key][0].year_key,
                     team_league: leagues.length > 1 ? 'multi' : leagues[0],
                     points_adjusted: player[key].points_adjusted,
                 }, total);
             } else if(player[key].length === 1) {
                 stats = {
-                    year_start: player[key][0].year_start,
-                    year_end: player[key][0].year_end,
+                    year: player[key][0].year_key,
                     team_league: player[key][0].team_league,
                     points_adjusted: player[key][0].points_adjusted,
                     games_played: player[key][0].games_played,
@@ -52,11 +53,10 @@ exports.format = (player, done) => {
                     goals: player[key][0].goals,
                     assists: player[key][0].assists,
                     ipp: player[key][0].ipp
-                }
+                };
             } else {
                 stats = {
-                    year_start: player.draft_year - 2 + index,
-                    year_end: player.draft_year - 1 + index,
+                    year: utils.year_key(player.draft_year - 2 + index, player.draft_year - 1 + index),
                     team_league: 'n/a',
                     points_adjusted: 0,
                     games_played: 0,
@@ -64,7 +64,7 @@ exports.format = (player, done) => {
                     goals: 0,
                     assists: 0,
                     ipp: 0
-                }
+                };
             }
 
             _.each(_.keys(stats), field => {
@@ -83,5 +83,4 @@ exports.format = (player, done) => {
     player.csv_info = csv_info;
 
     return done();
-
 };

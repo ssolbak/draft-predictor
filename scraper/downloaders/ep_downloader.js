@@ -224,7 +224,7 @@ class EpDownloader {
         if (fs.existsSync(filePath)) {
             return utils.readFile(filePath, options, done);
         } else {
-            console.log('Downloading: could not find file', filePath);
+            console.log('Downloading: could not find file', filePath, stat.team_name);
             return process.exit(1);
             // downloader.download(url, options, (err, result) => {
             //     return done(err, result);
