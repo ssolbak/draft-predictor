@@ -214,13 +214,13 @@ class HbdDownloader {
 
     }
 
-    getTeamDataForStat(stat, url, done){
+    getTeamDataForStat(stat, url, done) {
 
         if(!stat.year_end) return done('getTeamDataForStat: Missing year_end');
         if(!stat.team_id) return done('getTeamDataForStat: Missing team_id');
         if(!stat.team_league) return done('getTeamDataForStat: Missing team_league');
 
-        const year = stat.year_end-1;
+        const year = stat.year_end - 1;
         const fileName = constants.sources.hdb.get_team_filename(stat.team_id, stat.team_name);
         const filePath = path.join(__dirname, BASE_FOLDER, "teams", stat.team_league.toLowerCase(), year.toString(), fileName);
 
@@ -230,7 +230,7 @@ class HbdDownloader {
             url: url
         };
 
-        if (fs.existsSync(filePath)) {
+        if(fs.existsSync(filePath)) {
             return utils.readFile(filePath, options, done);
         } else {
             throw new Exception('adfadsfasdfsad');

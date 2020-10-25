@@ -185,7 +185,7 @@ exports.get_player_info = (player, done) => {
                     });
                 },
                 (cb) => {
-                    team_stats.aggregate_by_draft_year(player, (err) => {
+                    utils.aggregate_by_draft_year(player, (err) => {
                         return cb(err);
                     });
                 },

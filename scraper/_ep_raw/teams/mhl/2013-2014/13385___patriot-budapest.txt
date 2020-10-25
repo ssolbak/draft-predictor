@@ -3,10 +3,15 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="csrf-token" content="IxQVEljAUa0f3P3y4s6Ha7J7ChCwWY4bHBhB0WJo">
+        <meta name="csrf-token" content="GoxYYgHY6ZthnLk6SMPsBz9Nw4ShwlFQor2JVV8N">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <script type="text/javascript">
         var baseUrl = 'https://www.eliteprospects.com';
+        var dataLayer = [{
+            event: 'esmg_datalayer',
+            location: 'CA',
+            displayAds: 'true',
+                    }]
     </script>
                         <script>
     var atsScript = document.createElement('script');
@@ -97,21 +102,21 @@
     <meta name="msapplication-navbutton-color" content="#0b3548">
     <meta name="apple-mobile-web-app-status-bar-style" content="#4285f4">
     <base href="https://www.eliteprospects.com">
-        <link rel="manifest" href="https://static.eliteprospects.com/manifest.json?v=2468">
-            <link href="https://static.eliteprospects.com/css/bootstrap.min.css?v=2468" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/custom_style.css?v=2468" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/bootstrap-select.css?v=2468" rel="stylesheet">
+        <link rel="manifest" href="https://static.eliteprospects.com/manifest.json?v=2488">
+            <link href="https://static.eliteprospects.com/css/bootstrap.min.css?v=2488" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/custom_style.css?v=2488" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/bootstrap-select.css?v=2488" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.3.2/rangeslider.min.css" integrity="sha256-F8gzbY2A1VTf49iOrc8Lst/UvcUtoFr3myix0WMiNqA=" crossorigin="anonymous" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/roundSlider/1.3.2/roundslider.min.css" integrity="sha256-Wneaso/SLW7HI/mW+HYAoQSSF9f/71Cdalqk5UiD3Fs=" crossorigin="anonymous" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css" integrity="sha256-auPoJwk/+RK6KSkib92Dkq1Y5hEkZvKtvSwucs15Skg=" crossorigin="anonymous" />
-        <link href="https://static.eliteprospects.com/css/prem.css?v=2468" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/prem.css?v=2488" rel="stylesheet">
         <link href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.1/cropper.min.css" integrity="sha256-SyWqODkStAbrafgJ9K8twjULP7yL6yTRZKoFGjDYybI=" crossorigin="anonymous" />
-        <link href="https://static.eliteprospects.com/css/font-awesome.css?v=2468" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/responsive.css?v=2468" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/fix.css?v=2468" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/font-awesome.css?v=2488" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/responsive.css?v=2488" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/fix.css?v=2488" rel="stylesheet">
             <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -125,7 +130,7 @@
             reached: false
         };
     </script>
-    <script src="https://static.eliteprospects.com/js/page-views-limit.js?v=2468"></script>
+    <script src="https://static.eliteprospects.com/js/page-views-limit.js?v=2488"></script>
                     <!-- Header Tag Code -->
                 <script data-cfasync='false' type='text/javascript'>/*<![CDATA[*/(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: "3.0", q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); var b=c.createElement(s); b.src=u; b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//d2na2p72vtqyok.cloudfront.net/client-embed/cd65ebe7-b051-422b-a193-8cb3796914c4.js');/*]]>*/</script>
                 <!-- End Header Tag Code -->
@@ -133,20 +138,12 @@
     <script type="text/javascript">stLight.options({publisher: "263b63f4-b290-4c41-be78-9bdb52f95f91", shorten: false, doNotHash: false, doNotCopy: false, popup: true, hashAddressBar: false});</script>
 </head>
 <body class="team desktop country-ca">
-<script>
-    var dataLayer = window.dataLayer || [];
-    var generalDl = {
-        event: 'esmg_datalayer',
-        location: 'CA',
-        displayAds: 'true',
-            }
-</script>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCNPX59"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
                 <form id="logout-form" action="https://www.eliteprospects.com/logout" method="POST" style="display: none;">
-    <input type="hidden" name="_token" value="IxQVEljAUa0f3P3y4s6Ha7J7ChCwWY4bHBhB0WJo">
+    <input type="hidden" name="_token" value="GoxYYgHY6ZthnLk6SMPsBz9Nw4ShwlFQor2JVV8N">
 </form>
 <div id="dialog" title="Information">
     <p></p>
@@ -269,18 +266,18 @@
                     <span>Extraliga</span></a>
             </li>
                     <li>
-                <a href="https://www.eliteprospects.com/free-agent-pool/nla">
+                <a href="https://www.eliteprospects.com/free-agent-pool/nl">
                     <i>
                         <img src="//files.eliteprospects.com/layout/flags_s/10.png">
                     </i>
-                    <span>NLA </span></a>
+                    <span>NL </span></a>
             </li>
                     <li>
-                <a href="https://www.eliteprospects.com/free-agent-pool/nlb">
+                <a href="https://www.eliteprospects.com/free-agent-pool/sl">
                     <i>
                         <img src="//files.eliteprospects.com/layout/flags_s/10.png">
                     </i>
-                    <span>NLB </span></a>
+                    <span>SL </span></a>
             </li>
                     <li>
                 <a href="https://www.eliteprospects.com/free-agent-pool/del">
@@ -520,11 +517,11 @@
                     <span class="txt-normal">Liiga</span></a>
             </li>
                     <li>
-                <a href="https://www.eliteprospects.com/league/nla">
+                <a href="https://www.eliteprospects.com/league/nl">
                     <i>
                         <img src="//files.eliteprospects.com/layout/flags_s/10.png">
                     </i>
-                    <span class="txt-normal">NLA</span></a>
+                    <span class="txt-normal">NL</span></a>
             </li>
                     <li>
                 <a href="https://www.eliteprospects.com/league/czech">
@@ -1060,12 +1057,12 @@
         </div>
     </div>
     <div class="pull-left">
-        <span> Database: <strong>802 189</strong> players </span>
+        <span> Database: <strong>806 172</strong> players </span>
     </div>
     <div class="pull-left">
         <span>
             <span class="txt-normal"> Last added:</span> <i> <img src="//files.eliteprospects.com/layout/flags_s/1.png"/> </i>
-            <a class="txt-blue" id="lastAddedPlayer" href="https://www.eliteprospects.com/player/802191/elias-klintheim">Elias Klintheim</a>
+            <a class="txt-blue" id="lastAddedPlayer" href="https://www.eliteprospects.com/player/806176/axel-odelstierna">Axel Odelstierna</a>
         </span>
     </div>
 </div>
@@ -1084,10 +1081,10 @@
                             <option value="NHL" >NHL</option>
                             <option value="SHL" >SHL</option>
                             <option value="KHL" >KHL</option>
-                            <option value="Liiga" selected>Liiga</option>
+                            <option value="Liiga" >Liiga</option>
                             <option value="AHL" >AHL</option>
                             <option value="HockeyAllsvenskan" >HockeyAllsvenskan</option>
-                            <option value="NLA" >NLA</option>
+                            <option value="NL" >NL</option>
                             <option value="Czech" >Czech</option>
                             <option value="ECHL" >ECHL</option>
                             <option value="WHL" >WHL</option>
@@ -1096,7 +1093,7 @@
                             <option value="IceHL" >IceHL</option>
                             <option value="DEL" >DEL</option>
                             <option value="Norway" >Norway</option>
-                            <option value="France" >France</option>
+                            <option value="France" selected>France</option>
                             <option value="Denmark" >Denmark</option>
                             <option value="NCAA" >NCAA</option>
                             <option value="USHL" >USHL</option>
@@ -1116,55 +1113,10 @@
                 </tr>
             </thead>
             <tbody>
-                                    <tr>
-                        <td class="position"> 1. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/2.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/152117/jesse-puljujarvi">Jesse Puljujärvi</a></span></td>
-                        <td class="gp"> 4</td>
-                        <td class="g"> 5</td>
-                        <td class="a"> 2</td>
-                        <td class="tp sorted"> 7</td>
-                    </tr>
-                                    <tr>
-                        <td class="position"> 2. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/2.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/7526/mika-pyorala">Mika Pyörälä</a></span></td>
-                        <td class="gp"> 4</td>
-                        <td class="g"> 2</td>
-                        <td class="a"> 5</td>
-                        <td class="tp sorted"> 7</td>
-                    </tr>
-                                    <tr>
-                        <td class="position"> 3. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/1.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/313359/emil-bemstrom">Emil Bemström</a></span></td>
-                        <td class="gp"> 5</td>
-                        <td class="g"> 4</td>
-                        <td class="a"> 2</td>
-                        <td class="tp sorted"> 6</td>
-                    </tr>
-                                    <tr>
-                        <td class="position"> 4. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/2.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/15136/jere-sallinen">Jere Sallinen</a></span></td>
-                        <td class="gp"> 5</td>
-                        <td class="g"> 4</td>
-                        <td class="a"> 2</td>
-                        <td class="tp sorted"> 6</td>
-                    </tr>
-                                    <tr>
-                        <td class="position"> 5. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/6.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/153872/josh-kestner">Josh Kestner</a></span></td>
-                        <td class="gp"> 4</td>
-                        <td class="g"> 3</td>
-                        <td class="a"> 3</td>
-                        <td class="tp sorted"> 6</td>
-                    </tr>
                             </tbody>
         </table>
     </div>
-    <a href="https://www.eliteprospects.com/league/liiga/stats/2020-2021" class="btn green-sm" id="ScoringLeaders"> Show More </a>
+    <a href="https://www.eliteprospects.com/league/france/stats/2020-2021" class="btn green-sm" id="ScoringLeaders"> Show More </a>
 </div></div>
 
     <div class="sidebar-ads">
@@ -1189,8 +1141,8 @@
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/khl">KHL</a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/8.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/czech">Extraliga</a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/4.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/slovakia">Extraliga</a></span></li>
-                        <li><i> <img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/nla">NLA </a></span></li>
-                        <li><i> <img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/nlb">NLB </a></span></li>
+                        <li><i> <img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/nl">NL </a></span></li>
+                        <li><i> <img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/sl">SL </a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/del">DEL</a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/del2">DEL2</a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/germany3">Oberliga</a></span></li>
@@ -1237,7 +1189,7 @@
                             <li><i><img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/khl">KHL</a></span></li>
                             <li><i><img src="//files.eliteprospects.com/layout/flags_s/1.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/shl">SHL</a></span></li>
                             <li><i><img src="//files.eliteprospects.com/layout/flags_s/2.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/liiga">Liiga</a></span></li>
-                            <li><i><img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/nla">NLA</a></span></li>
+                            <li><i><img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/nl">NL</a></span></li>
                             <li><i><img src="//files.eliteprospects.com/layout/flags_s/8.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/czech">Extraliga</a></span></li>
                     </ul>
     </div>
@@ -1427,7 +1379,7 @@
                     <a href="https://twitter.com/share" class="twitter-share-button" data-via="eliteprospects">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>                </div>
                 <div class="number-of-views">
-                    Views: <a href="https://www.eliteprospects.com/search/team?q=*&amp;view=views">13 577</a>
+                    Views: <a href="https://www.eliteprospects.com/search/team?q=*&amp;view=views">13 591</a>
                 </div>
             </div>
 
@@ -1485,138 +1437,92 @@
         <br>
                 <div id="players">
             <a name="players"></a>
-                            <!-- roster-and-facts -->
+                            <!-- player-stats -->
 <nav class="ep-tabs ep-tabs-2">
     <ul>
-        <li><a href="https://www.eliteprospects.com/team/13385/patriot-budapest/2013-2014#players" class="btn selected"
+        <li><a href="https://www.eliteprospects.com/team/13385/patriot-budapest/2013-2014#players" class="btn "
                             onclick="return changeTeamPlayersTab(this, 13385, '2013-2014', 'roster-and-facts');"
                             >ROSTER</a></li>
-        <li><a href="https://www.eliteprospects.com/team/13385/patriot-budapest/2013-2014?tab=stats#players" class="btn "
+        <li><a href="https://www.eliteprospects.com/team/13385/patriot-budapest/2013-2014?tab=stats#players" class="btn selected"
                             onclick="return changeTeamPlayersTab(this, 13385, '2013-2014', 'player-stats');"
                             >STATS</a></li>
             </ul>
 </nav>
-    <div id="roster">
-        <div class="expandable-table-wrapper">
-    <div class="SectionTitle"> 2013-2014 Roster </div>
-            <div class="col-mrg-15">
-                            <a href="https://www.eliteprospects.com/team/13385/patriot-budapest/2012-2013" class="previous" data-season="2012-2013" onclick="return changeTeamRosterSeason(this, 13385);">
-                    <i class="fa fa-caret-left fa-2x" style="float: left"></i>
-                </a>
-                                        <a href="https://www.eliteprospects.com/team/13385/patriot-budapest/2014-2015" class="next" data-season="2014-2015" onclick="return changeTeamRosterSeason(this, 13385);">
-                    <i class="fa fa-caret-right fa-2x" style="float: right"></i>
-                </a>
-                        <div>
-                <select class="selectpicker" onchange="changeTeamRosterSeason(this, 13385);">
-                    <option value="">Past Rosters</option>
-                                            <option value="https://www.eliteprospects.com/team/13385/patriot-budapest/2012-2013"  > 2012-2013 </option>
-                                    </select>
+    <div class="expandable-table-wrapper">
+        <div class="SectionTitle"> 2013-2014 Skater Stats </div>
+                    <div class="col-mrg-15">
+                                    <a href="https://www.eliteprospects.com/team/13385/patriot-budapest/2012-2013?tab=stats" class="previous" data-season="2012-2013" onclick="return changeTeamPlayerStatsSeason(this, 13385);">
+                        <i class="fa fa-caret-left fa-2x" style="float: left"></i>
+                    </a>
+                                                    <a href="https://www.eliteprospects.com/team/13385/patriot-budapest/2014-2015?tab=stats" class="next" data-season="2014-2015" onclick="return changeTeamPlayerStatsSeason(this, 13385);">
+                        <i class="fa fa-caret-right fa-2x" style="float: right"></i>
+                    </a>
+                                <div>
+                    <select class="selectpicker" onchange="changeTeamPlayerStatsSeason(this, 13385);">
+                        <option value="">Past Statistics</option>
+                                                    <option value="https://www.eliteprospects.com/team/13385/patriot-budapest/2012-2013?tab=stats"  > 2012-2013 </option>
+                                            </select>
+                </div>
             </div>
+                <div class="col-mrg-15">
+            <select class="selectpicker" onchange="filterTeamPlayerStatsByPosition(this, 13385, '2013-2014');">
+                <option value="" data-href="https://www.eliteprospects.com/team/13385/patriot-budapest/2013-2014?tab=stats#stats">All Positions</option>
+                                    <option value="d" data-href="https://www.eliteprospects.com/team/13385/patriot-budapest/2013-2014?tab=stats&amp;position=d#stats"" >Defensemen</option>
+                                    <option value="f" data-href="https://www.eliteprospects.com/team/13385/patriot-budapest/2013-2014?tab=stats&amp;position=f#stats"" >Forwards</option>
+                                    <option value="c" data-href="https://www.eliteprospects.com/team/13385/patriot-budapest/2013-2014?tab=stats&amp;position=c#stats"" >C</option>
+                                    <option value="lw" data-href="https://www.eliteprospects.com/team/13385/patriot-budapest/2013-2014?tab=stats&amp;position=lw#stats"" >LW</option>
+                                    <option value="rw" data-href="https://www.eliteprospects.com/team/13385/patriot-budapest/2013-2014?tab=stats&amp;position=rw#stats"" >RW</option>
+                            </select>
         </div>
         <div class="table-wizard">
-        <table class="table table-striped table-sortable roster" data-sort-url="https://www.eliteprospects.com/team/13385/patriot-budapest/2013-2014" data-sort-ajax-container="#roster" data-sort-ajax-url="https://www.eliteprospects.com/ajax/team.roster?teamId=13385&amp;season=2013-2014">
-            <thead style="background-color: #fff">
-                <tr style="background-color: #fff">
-                    <th class="pronunciation"></th>
-                    <th class="jersey" data-sort="jersey" colspan='1'>#</th>
-                    <th class="nation" data-sort="nation" colspan='1'>N</th>
-                    <th class="player sorted" data-sort="" colspan='1'>Player<i class="fa fa-caret-down"></i></th>
-                    <th class="age" data-sort="age" colspan='1'>A</th>
-                    <th class="" data-sort="date-of-birth" colspan='1'>Born</th>
-                                            <th class="birthplace" data-sort="birthplace" colspan='1'>Birthplace</th>
-                                        <th class="height" data-sort="height" colspan='1'>HT</th>
-                    <th class="weight" data-sort="weight" colspan='1'>WT</th>
-                    <th class="shoots" data-sort="shoots" colspan='1'>S</th>
-                                                        </tr>
-            </thead>
-            <tbody>
-                            </tbody>
-            <tfoot>
-                <tr>
-                    <td colspan="10">
-                                                                    </td>
-                </tr>
-            </tfoot>
-        </table>
-        <div class="table-notes clearfix">
-                    </div>
-    </div>
-</div>    </div>
-
-    <div class="divider"></div>
-    <div class="articles-widget clearfix">
-            <div class="article">
-                <a target="_blank" href="https://www.eprinkside.com/2020/10/8/grading-every-teams-performance-at-the-2020-nhl-entry-draft">
-                    <img src="https://cdn.eprinkside.com/2020/10/07214906/image-1-150x150.png" />
-                </a>
-                <div class="article-content-text">
-                    <div class="date-and-categories">
-                        <span class="date">Thursday, 05:00</span>
-                        <div class="categories">
-                                                                                                <a href="https://www.eprinkside.com/nhl-entry-draft-2020">NHL Entry Draft 2020</a>
-                                                                                    </div>
-                    </div>
-                    <a target="_blank" href="https://www.eprinkside.com/2020/10/8/grading-every-teams-performance-at-the-2020-nhl-entry-draft">
-                        <h4>Grading Every Team’s Performance at the 2020 NHL Entry Draft</h4>
-                        <div class="excerpt">
-                            It only took about eight hours on top of yesterday&#8217;s three-or-so, but we finally, almost mercifully, rea...
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="articles">
-                <div class="news-from-title">
-                    <a target="_blank" href="https://www.eprinkside.com">More News from eprinkside.com</a>
-                </div>
-                <ul>
-                                                                                                                    <li>
-                                <a target="_blank" href="https://www.eprinkside.com/2020/10/7/the-best-and-worst-picks-from-the-first-round-of-the-2020-nhl-entry-draft">
-                                    The Best and Worst Picks From the First-Round of the 2020 NH...
-                                </a>
-                            </li>
-                                                                                                <li>
-                                <a target="_blank" href="https://www.eprinkside.com/2020/10/6/after-a-tough-draft-year-its-no-longer-a-matter-of-when-but-if-for-justin-barron">
-                                    After a Tough Draft-Year, it’s no Longer a Matter of ‘When’...
-                                </a>
-                            </li>
-                                                                                                <li>
-                                <a target="_blank" href="https://www.eprinkside.com/2020/10/6/mocking-the-first-3-rounds-92-picks-of-the-2020-nhl-entry-draft">
-                                    Mocking the First 3 Rounds, 92 Picks of the 2020 NHL Entry D...
-                                </a>
-                            </li>
-                                                                                                <li>
-                                <a target="_blank" href="https://www.eprinkside.com/2020/10/6/ranking-the-nhls-15-best-goaltending-prospects">
-                                    Ranking the NHL’s 15 Best Goaltending Prospects
-                                </a>
-                            </li>
-                                                            </ul>
-            </div>
+            <table class="table table-striped table-sortable skater-stats highlight-stats" data-sort-url="https://www.eliteprospects.com/team/13385/patriot-budapest/2013-2014?tab=stats" data-sort-ajax-container="#players" data-sort-ajax-url="https://www.eliteprospects.com/ajax/team.player-stats?teamId=13385&amp;season=2013-2014&amp;position=">
+                <thead style="background-color: #fff">
+                    <tr style="background-color: #fff">
+                        <th class="position">#</th>
+                        <th class="player" data-sort="player" colspan='1'>Player</th>
+                        <th class="gp" data-sort="gp" colspan='1'>GP</th>
+                        <th class="g" data-sort="g" colspan='1'>G</th>
+                        <th class="a" data-sort="a" colspan='1'>A</th>
+                        <th class="tp sorted" data-sort="tp" colspan='1'>TP<i class="fa fa-caret-down"></i></th>
+                        <th class="pim" data-sort="pim" colspan='1'>PIM</th>
+                        <th class="pm" data-sort="pm" colspan='1'>+/-</th>
+                        <th class="separator">&nbsp;</th>
+                        <th class="playoffs gp" data-sort="playoffs-gp" colspan='1'>GP</th>
+                        <th class="playoffs g" data-sort="playoffs-g" colspan='1'>G</th>
+                        <th class="playoffs a" data-sort="playoffs-a" colspan='1'>A</th>
+                        <th class="playoffs tp" data-sort="playoffs-tp" colspan='1'>TP</th>
+                        <th class="playoffs pim" data-sort="playoffs-pim" colspan='1'>PIM</th>
+                        <th class="playoffs pm" data-sort="playoffs-pm" colspan='1'>+/-</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!--0-->
+                                    </tbody>
+            </table>
         </div>
-        <div class="divider"></div>
+    </div>
 
-    
-    <div class="divider"></div>
-
-    <div class="nation-inner clearfix">
-        <div class="row">
-            <div class="col-24 col-sm-12 mb-4 mb-sm-0 nat-inn-lft team-facts">
-                <div class="SectionTitle">
-                    Team Facts
-                </div>
-                <div class="facts">
-                    <ul class="list-unstyled">
-                                                                                            </ul>
-                </div>
-            </div>
-
-            <div class="col-24 col-sm-12 nat-inn-rtl team-captains">
-                <div class="SectionTitle">Team Captains</div>
-                <div class="facts">
-                    <ul class="list-unstyled">
-                                            </ul>
-                </div>
-                <a href="https://www.eliteprospects.com/team/13385/patriot-budapest/captaincy-history" class="btn green-sm"> Team captaincy history </a>
-                            </div>
+    <div class="expandable-table-wrapper">
+        <div class="SectionTitle"> 2013-2014 Goaltending Stats </div>
+        <div class="table-wizard">
+            <table class="table table-striped table-sortable goalie-stats highlight-stats" data-sort-url="https://www.eliteprospects.com/team/13385/patriot-budapest/2013-2014?tab=stats" data-sort-ajax-container="#players" data-sort-parameter="sort-goalie-stats" data-sort-ajax-url="https://www.eliteprospects.com/ajax/team.player-stats?teamId=13385&amp;season=2013-2014&amp;position=">
+                <thead style="background-color: #fff">
+                    <tr style="background-color: #fff">
+                        <th class="position">#</th>
+                        <th class="player" data-sort="player" colspan='1'>Player</th>
+                        <th class="gp" data-sort="gp" colspan='1'>GP</th>
+                        <th class="gaa" data-sort="gaa" colspan='1'>GAA</th>
+                        <th class="svp sorted" data-sort="svp" colspan='1'>SV%<i class="fa fa-caret-down"></i></th>
+                        <th class="separator">&nbsp;</th>
+                        <th class="playoffs gp" data-sort="playoffs-gp" colspan='1'>GP</th>
+                        <th class="playoffs gaa" data-sort="playoffs-gaa" colspan='1'>GAA</th>
+                        <th class="playoffs svp" data-sort="playoffs-svp" colspan='1'>SV%</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!--0-->
+                                    </tbody>
+            </table>
         </div>
     </div>
                     </div>
@@ -1951,10 +1857,10 @@
                                     VHL
                                 </span>
                             </td>
-                            <td class="gp"> 10 </td>
+                            <td class="gp"> 15 </td>
                             <td class="g"> 2 </td>
-                            <td class="a"> 7 </td>
-                            <td class="tp sorted"> 9 </td>
+                            <td class="a"> 13 </td>
+                            <td class="tp sorted"> 15 </td>
                             <td class="pim"> 8 </td>
                         </tr>
                                             <tr>
@@ -1982,6 +1888,28 @@
                                             <tr>
                             <td class="position"> 3. </td>
                             <td class="player">
+                                <i> <img src="//files.eliteprospects.com/layout/flags_s/22.png"> </i>
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/30194/benjamin-nemes"> Benjámin Nemes (F)</a>
+                                </span>
+                            </td>
+                            <td class="season"> 2020-2021 </td>
+                            <td class="team"> UTE </td>
+                            <td class="league">
+                                <i><img src="//files.eliteprospects.com/layout/flags_s/22.png"></i>
+                                <span class="txt-normal">
+                                    Erste Liga
+                                </span>
+                            </td>
+                            <td class="gp"> 5 </td>
+                            <td class="g"> 0 </td>
+                            <td class="a"> 2 </td>
+                            <td class="tp sorted"> 2 </td>
+                            <td class="pim"> - </td>
+                        </tr>
+                                            <tr>
+                            <td class="position"> 4. </td>
+                            <td class="player">
                                 <i> <img src="//files.eliteprospects.com/layout/flags_s/8.png"> </i>
                                 <span class="txt-blue">
                                     <a href="https://www.eliteprospects.com/player/147246/ondrej-nedved"> Ondrej Nedved (D)</a>
@@ -2002,7 +1930,7 @@
                             <td class="pim"> 2 </td>
                         </tr>
                                             <tr>
-                            <td class="position"> 4. </td>
+                            <td class="position"> 5. </td>
                             <td class="player">
                                 <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
                                 <span class="txt-blue">
@@ -2024,7 +1952,7 @@
                             <td class="pim"> 0 </td>
                         </tr>
                                             <tr>
-                            <td class="position"> 5. </td>
+                            <td class="position"> 6. </td>
                             <td class="player">
                                 <i> <img src="//files.eliteprospects.com/layout/flags_s/22.png"> </i>
                                 <span class="txt-blue">
@@ -2039,14 +1967,14 @@
                                     Slovakia
                                 </span>
                             </td>
-                            <td class="gp"> 1 </td>
+                            <td class="gp"> 4 </td>
                             <td class="g"> 0 </td>
                             <td class="a"> 0 </td>
                             <td class="tp sorted"> 0 </td>
                             <td class="pim"> 0 </td>
                         </tr>
                                             <tr>
-                            <td class="position"> 6. </td>
+                            <td class="position"> 7. </td>
                             <td class="player">
                                 <i> <img src="//files.eliteprospects.com/layout/flags_s/4.png"> </i>
                                 <span class="txt-blue">
@@ -2061,14 +1989,14 @@
                                     ICEHL
                                 </span>
                             </td>
-                            <td class="gp"> 3 </td>
+                            <td class="gp"> 5 </td>
                             <td class="g"> 0 </td>
                             <td class="a"> 0 </td>
                             <td class="tp sorted"> 0 </td>
                             <td class="pim"> 2 </td>
                         </tr>
                                             <tr>
-                            <td class="position"> 7. </td>
+                            <td class="position"> 8. </td>
                             <td class="player">
                                 <i> <img src="//files.eliteprospects.com/layout/flags_s/4.png"> </i>
                                 <span class="txt-blue">
@@ -2081,28 +2009,6 @@
                                 <i><img src="//files.eliteprospects.com/layout/flags_s/4.png"></i>
                                 <span class="txt-normal">
                                     Slovakia2
-                                </span>
-                            </td>
-                            <td class="gp"> - </td>
-                            <td class="g"> - </td>
-                            <td class="a"> - </td>
-                            <td class="tp sorted"> - </td>
-                            <td class="pim"> - </td>
-                        </tr>
-                                            <tr>
-                            <td class="position"> 8. </td>
-                            <td class="player">
-                                <i> <img src="//files.eliteprospects.com/layout/flags_s/22.png"> </i>
-                                <span class="txt-blue">
-                                    <a href="https://www.eliteprospects.com/player/30194/benjamin-nemes"> Benjámin Nemes (F)</a>
-                                </span>
-                            </td>
-                            <td class="season"> 2020-2021 </td>
-                            <td class="team"> UTE </td>
-                            <td class="league">
-                                <i><img src="//files.eliteprospects.com/layout/flags_s/22.png"></i>
-                                <span class="txt-normal">
-                                    Erste Liga
                                 </span>
                             </td>
                             <td class="gp"> - </td>
@@ -3269,7 +3175,7 @@
                             <a href="/league/liiga">Liiga</a>
                         </li>
                         <li>
-                            <a href="/league/nla">NLA</a>
+                            <a href="/league/nl">NL</a>
                         </li>
                     </ul>
                 </div>
@@ -3362,18 +3268,18 @@
             </div>
         </div>
     </footer>
-<script src="https://static.eliteprospects.com/js/jquery.min.js?v=2468"></script>
-            <script type="text/javascript" src="https://static.eliteprospects.com/js/na-ads.js?v=2468"></script>
-    <script src="https://static.eliteprospects.com/js/bootstrap.min.js?v=2468"></script>
-<script src="https://static.eliteprospects.com/js/bootstrap-select.js?v=2468"></script>
+<script src="https://static.eliteprospects.com/js/jquery.min.js?v=2488"></script>
+            <script type="text/javascript" src="https://static.eliteprospects.com/js/na-ads.js?v=2488"></script>
+    <script src="https://static.eliteprospects.com/js/bootstrap.min.js?v=2488"></script>
+<script src="https://static.eliteprospects.com/js/bootstrap-select.js?v=2488"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.3.2/rangeslider.min.js" integrity="sha256-vFhEtGnaQ2xB+yjBTSXxssthNcfdbzu+lmLYhCdp2Cc=" crossorigin="anonymous"></script>
-<script src="https://static.eliteprospects.com/js/jquery.toast.min.js?v=2468"></script>
+<script src="https://static.eliteprospects.com/js/jquery.toast.min.js?v=2488"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox.min.js" integrity="sha256-DiHJ7hbvMejsMyP76bpVWacb5HSHQ2sQlrJV8n7KEvA=" crossorigin="anonymous"></script>
                     <script src="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.1/cropper.min.js" integrity="sha256-+PQmsBomnsT/06XEdk7ibt/9We4DX+VKzJsw/+DCzc0=" crossorigin="anonymous"></script>
-<script src="https://static.eliteprospects.com/js/premium.js?v=2468"></script>
-<script src="https://static.eliteprospects.com/js/script.js?v=2468"></script>
-<script src="https://static.eliteprospects.com/js/app.js?v=2468"></script>
+<script src="https://static.eliteprospects.com/js/premium.js?v=2488"></script>
+<script src="https://static.eliteprospects.com/js/script.js?v=2488"></script>
+<script src="https://static.eliteprospects.com/js/app.js?v=2488"></script>
 <!-- Adform Tracking Code BEGIN -->
     <script type="text/javascript">
         window._adftrack = Array.isArray(window._adftrack) ? window._adftrack : (window._adftrack ? [window._adftrack] : []);
@@ -3405,7 +3311,7 @@
 <script>
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', function() {
-            navigator.serviceWorker.register('https://static.eliteprospects.com/sw.js?v=2468').then(function(registration) {
+            navigator.serviceWorker.register('https://static.eliteprospects.com/sw.js?v=2488').then(function(registration) {
                 // Registration was successful
                 console.log('ServiceWorker registration successful with scope: ', registration.scope);
             }, function(err) {

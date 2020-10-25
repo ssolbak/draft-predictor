@@ -185,13 +185,12 @@ class EpDownloader {
                 team_name: matches[3]
             };
 
-            stat.url = `https://www.eliteprospects.com/team/${stat.team_id}/${stat.team_slug}/${season_key}`;
+            stat.url = `https://www.eliteprospects.com/team/${stat.team_id}/${stat.team_slug}/${season_key}?tab=stats`;
 
             _.each(stats, (x, i) => {
                 stat[x] = parseInt(matches[4+i])
             });
 
-            // console.log(JSON.stringify(stat));
             teams.push(stat);
         }
 
@@ -205,6 +204,33 @@ class EpDownloader {
             downloader.download(team.url, { folder: league_year_folder, name: file_name }, cb);
         }, done);
     }
+
+    getTeamDataForStat(stat, url, done){
+
+        if(!stat.year_end) return done('getTeamDataForStat: Missing year_end');
+        if(!stat.team_id) return done('getTeamDataForStat: Missing team_id');
+        if(!stat.team_league) return done('getTeamDataForStat: Missing team_league');
+
+        const fileName = constants.sources.ep.get_team_filename(stat.team_id, stat.team_name);
+        const year_key = `${stat.year_start}-${stat.year_end}`;
+        const filePath = path.join(__dirname, `../${BASE_FOLDER}/teams`, stat.team_league.toLowerCase(), year_key, fileName);
+
+        let options = {
+            folder: `${BASE_FOLDER}/teams/${stat.team_league.toLowerCase()}/${year_key}`,
+            name: fileName,
+            url: url
+        };
+
+        if (fs.existsSync(filePath)) {
+            return utils.readFile(filePath, options, done);
+        } else {
+            console.log('Downloading: could not find file', filePath);
+            return process.exit(1);
+            // downloader.download(url, options, (err, result) => {
+            //     return done(err, result);
+            // });
+        }
+    };
 
 }
 

@@ -3,10 +3,15 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="csrf-token" content="xiYDbpqrjxjSX7VOTnemIpdzrccRat6urcA1tjxD">
+        <meta name="csrf-token" content="FGouyyywLwiXylaHB89kXhr7bgPWYG5tFqkhN2pS">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <script type="text/javascript">
         var baseUrl = 'https://www.eliteprospects.com';
+        var dataLayer = [{
+            event: 'esmg_datalayer',
+            location: 'CA',
+            displayAds: 'true',
+                    }]
     </script>
                         <script>
     var atsScript = document.createElement('script');
@@ -97,21 +102,21 @@
     <meta name="msapplication-navbutton-color" content="#0b3548">
     <meta name="apple-mobile-web-app-status-bar-style" content="#4285f4">
     <base href="https://www.eliteprospects.com">
-        <link rel="manifest" href="https://static.eliteprospects.com/manifest.json?v=2468">
-            <link href="https://static.eliteprospects.com/css/bootstrap.min.css?v=2468" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/custom_style.css?v=2468" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/bootstrap-select.css?v=2468" rel="stylesheet">
+        <link rel="manifest" href="https://static.eliteprospects.com/manifest.json?v=2488">
+            <link href="https://static.eliteprospects.com/css/bootstrap.min.css?v=2488" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/custom_style.css?v=2488" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/bootstrap-select.css?v=2488" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.3.2/rangeslider.min.css" integrity="sha256-F8gzbY2A1VTf49iOrc8Lst/UvcUtoFr3myix0WMiNqA=" crossorigin="anonymous" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/roundSlider/1.3.2/roundslider.min.css" integrity="sha256-Wneaso/SLW7HI/mW+HYAoQSSF9f/71Cdalqk5UiD3Fs=" crossorigin="anonymous" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css" integrity="sha256-auPoJwk/+RK6KSkib92Dkq1Y5hEkZvKtvSwucs15Skg=" crossorigin="anonymous" />
-        <link href="https://static.eliteprospects.com/css/prem.css?v=2468" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/prem.css?v=2488" rel="stylesheet">
         <link href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.1/cropper.min.css" integrity="sha256-SyWqODkStAbrafgJ9K8twjULP7yL6yTRZKoFGjDYybI=" crossorigin="anonymous" />
-        <link href="https://static.eliteprospects.com/css/font-awesome.css?v=2468" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/responsive.css?v=2468" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/fix.css?v=2468" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/font-awesome.css?v=2488" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/responsive.css?v=2488" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/fix.css?v=2488" rel="stylesheet">
             <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -125,7 +130,7 @@
             reached: false
         };
     </script>
-    <script src="https://static.eliteprospects.com/js/page-views-limit.js?v=2468"></script>
+    <script src="https://static.eliteprospects.com/js/page-views-limit.js?v=2488"></script>
                     <!-- Header Tag Code -->
                 <script data-cfasync='false' type='text/javascript'>/*<![CDATA[*/(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: "3.0", q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); var b=c.createElement(s); b.src=u; b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//d2na2p72vtqyok.cloudfront.net/client-embed/cd65ebe7-b051-422b-a193-8cb3796914c4.js');/*]]>*/</script>
                 <!-- End Header Tag Code -->
@@ -133,20 +138,12 @@
     <script type="text/javascript">stLight.options({publisher: "263b63f4-b290-4c41-be78-9bdb52f95f91", shorten: false, doNotHash: false, doNotCopy: false, popup: true, hashAddressBar: false});</script>
 </head>
 <body class="team desktop country-ca">
-<script>
-    var dataLayer = window.dataLayer || [];
-    var generalDl = {
-        event: 'esmg_datalayer',
-        location: 'CA',
-        displayAds: 'true',
-            }
-</script>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCNPX59"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
                 <form id="logout-form" action="https://www.eliteprospects.com/logout" method="POST" style="display: none;">
-    <input type="hidden" name="_token" value="xiYDbpqrjxjSX7VOTnemIpdzrccRat6urcA1tjxD">
+    <input type="hidden" name="_token" value="FGouyyywLwiXylaHB89kXhr7bgPWYG5tFqkhN2pS">
 </form>
 <div id="dialog" title="Information">
     <p></p>
@@ -269,18 +266,18 @@
                     <span>Extraliga</span></a>
             </li>
                     <li>
-                <a href="https://www.eliteprospects.com/free-agent-pool/nla">
+                <a href="https://www.eliteprospects.com/free-agent-pool/nl">
                     <i>
                         <img src="//files.eliteprospects.com/layout/flags_s/10.png">
                     </i>
-                    <span>NLA </span></a>
+                    <span>NL </span></a>
             </li>
                     <li>
-                <a href="https://www.eliteprospects.com/free-agent-pool/nlb">
+                <a href="https://www.eliteprospects.com/free-agent-pool/sl">
                     <i>
                         <img src="//files.eliteprospects.com/layout/flags_s/10.png">
                     </i>
-                    <span>NLB </span></a>
+                    <span>SL </span></a>
             </li>
                     <li>
                 <a href="https://www.eliteprospects.com/free-agent-pool/del">
@@ -520,11 +517,11 @@
                     <span class="txt-normal">Liiga</span></a>
             </li>
                     <li>
-                <a href="https://www.eliteprospects.com/league/nla">
+                <a href="https://www.eliteprospects.com/league/nl">
                     <i>
                         <img src="//files.eliteprospects.com/layout/flags_s/10.png">
                     </i>
-                    <span class="txt-normal">NLA</span></a>
+                    <span class="txt-normal">NL</span></a>
             </li>
                     <li>
                 <a href="https://www.eliteprospects.com/league/czech">
@@ -1060,12 +1057,12 @@
         </div>
     </div>
     <div class="pull-left">
-        <span> Database: <strong>802 125</strong> players </span>
+        <span> Database: <strong>806 130</strong> players </span>
     </div>
     <div class="pull-left">
         <span>
-            <span class="txt-normal"> Last added:</span> <i> <img src="//files.eliteprospects.com/layout/flags_s/1.png"/> </i>
-            <a class="txt-blue" id="lastAddedPlayer" href="https://www.eliteprospects.com/player/802128/bertil-johansson">Bertil Johansson</a>
+            <span class="txt-normal"> Last added:</span> <i> <img src="//files.eliteprospects.com/layout/flags_s/4.png"/> </i>
+            <a class="txt-blue" id="lastAddedPlayer" href="https://www.eliteprospects.com/player/806133/alex-korytak">Alex Korytak</a>
         </span>
     </div>
 </div>
@@ -1087,10 +1084,10 @@
                             <option value="Liiga" >Liiga</option>
                             <option value="AHL" >AHL</option>
                             <option value="HockeyAllsvenskan" >HockeyAllsvenskan</option>
-                            <option value="NLA" >NLA</option>
+                            <option value="NL" >NL</option>
                             <option value="Czech" >Czech</option>
                             <option value="ECHL" >ECHL</option>
-                            <option value="WHL" selected>WHL</option>
+                            <option value="WHL" >WHL</option>
                             <option value="OHL" >OHL</option>
                             <option value="QMJHL" >QMJHL</option>
                             <option value="IceHL" >IceHL</option>
@@ -1100,7 +1097,7 @@
                             <option value="Denmark" >Denmark</option>
                             <option value="NCAA" >NCAA</option>
                             <option value="USHL" >USHL</option>
-                            <option value="Slovakia" >Slovakia</option>
+                            <option value="Slovakia" selected>Slovakia</option>
                     </select>
     </div>
     <div class="table-wizard">
@@ -1118,53 +1115,53 @@
             <tbody>
                                     <tr>
                         <td class="position"> 1. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/295910/mitchell-prowse">Mitchell Prowse</a></span></td>
-                        <td class="gp"> -</td>
-                        <td class="g"> -</td>
-                        <td class="a"> -</td>
-                        <td class="tp sorted"> -</td>
+                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/4.png"> </i>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/122242/rastislav-gaspar">Rastislav Gaspar</a></span></td>
+                        <td class="gp"> 4</td>
+                        <td class="g"> 4</td>
+                        <td class="a"> 5</td>
+                        <td class="tp sorted"> 9</td>
                     </tr>
                                     <tr>
                         <td class="position"> 2. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/23.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/532628/vladislav-shilo">Vladislav Shilo</a></span></td>
-                        <td class="gp"> -</td>
-                        <td class="g"> -</td>
-                        <td class="a"> -</td>
-                        <td class="tp sorted"> -</td>
+                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> </i>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/78111/allan-mcpherson">Allan McPherson</a></span></td>
+                        <td class="gp"> 4</td>
+                        <td class="g"> 2</td>
+                        <td class="a"> 6</td>
+                        <td class="tp sorted"> 8</td>
                     </tr>
                                     <tr>
                         <td class="position"> 3. </td>
                         <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/4.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/477207/marko-stacha">Marko Stacha</a></span></td>
-                        <td class="gp"> -</td>
-                        <td class="g"> -</td>
-                        <td class="a"> -</td>
-                        <td class="tp sorted"> -</td>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/19367/radovan-pulis">Radovan Pulis</a></span></td>
+                        <td class="gp"> 6</td>
+                        <td class="g"> 5</td>
+                        <td class="a"> 2</td>
+                        <td class="tp sorted"> 7</td>
                     </tr>
                                     <tr>
                         <td class="position"> 4. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/23.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/644123/vladislav-demidovich">Vladislav Demidovich</a></span></td>
-                        <td class="gp"> -</td>
-                        <td class="g"> -</td>
-                        <td class="a"> -</td>
-                        <td class="tp sorted"> -</td>
+                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/2.png"> </i>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/38071/mikko-nuutinen">Mikko Nuutinen</a></span></td>
+                        <td class="gp"> 6</td>
+                        <td class="g"> 3</td>
+                        <td class="a"> 4</td>
+                        <td class="tp sorted"> 7</td>
                     </tr>
                                     <tr>
                         <td class="position"> 5. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/699444/yaroslav-busygin">Yaroslav Busygin</a></span></td>
-                        <td class="gp"> -</td>
-                        <td class="g"> -</td>
-                        <td class="a"> -</td>
-                        <td class="tp sorted"> -</td>
+                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/8.png"> </i>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/35859/petr-obdrzalek">Petr Obdrzalek</a></span></td>
+                        <td class="gp"> 3</td>
+                        <td class="g"> 3</td>
+                        <td class="a"> 3</td>
+                        <td class="tp sorted"> 6</td>
                     </tr>
                             </tbody>
         </table>
     </div>
-    <a href="https://www.eliteprospects.com/league/whl/stats/2020-2021" class="btn green-sm" id="ScoringLeaders"> Show More </a>
+    <a href="https://www.eliteprospects.com/league/slovakia/stats/2020-2021" class="btn green-sm" id="ScoringLeaders"> Show More </a>
 </div></div>
 
     <div class="sidebar-ads">
@@ -1189,8 +1186,8 @@
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/khl">KHL</a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/8.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/czech">Extraliga</a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/4.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/slovakia">Extraliga</a></span></li>
-                        <li><i> <img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/nla">NLA </a></span></li>
-                        <li><i> <img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/nlb">NLB </a></span></li>
+                        <li><i> <img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/nl">NL </a></span></li>
+                        <li><i> <img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/sl">SL </a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/del">DEL</a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/del2">DEL2</a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/germany3">Oberliga</a></span></li>
@@ -1237,7 +1234,7 @@
                             <li><i><img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/khl">KHL</a></span></li>
                             <li><i><img src="//files.eliteprospects.com/layout/flags_s/1.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/shl">SHL</a></span></li>
                             <li><i><img src="//files.eliteprospects.com/layout/flags_s/2.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/liiga">Liiga</a></span></li>
-                            <li><i><img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/nla">NLA</a></span></li>
+                            <li><i><img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/nl">NL</a></span></li>
                             <li><i><img src="//files.eliteprospects.com/layout/flags_s/8.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/czech">Extraliga</a></span></li>
                     </ul>
     </div>
@@ -1427,7 +1424,7 @@
                     <a href="https://twitter.com/share" class="twitter-share-button" data-via="eliteprospects">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>                </div>
                 <div class="number-of-views">
-                    Views: <a href="https://www.eliteprospects.com/search/team?q=*&amp;view=views">67 287</a>
+                    Views: <a href="https://www.eliteprospects.com/search/team?q=*&amp;view=views">67 403</a>
                 </div>
             </div>
 
@@ -1488,1142 +1485,922 @@
         <br>
                 <div id="players">
             <a name="players"></a>
-                            <!-- roster-and-facts -->
+                            <!-- player-stats -->
 <nav class="ep-tabs ep-tabs-2">
     <ul>
-        <li><a href="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008#players" class="btn selected"
+        <li><a href="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008#players" class="btn "
                             onclick="return changeTeamPlayersTab(this, 867, '2007-2008', 'roster-and-facts');"
                             >ROSTER</a></li>
-        <li><a href="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008?tab=stats#players" class="btn "
+        <li><a href="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008?tab=stats#players" class="btn selected"
                             onclick="return changeTeamPlayersTab(this, 867, '2007-2008', 'player-stats');"
                             >STATS</a></li>
             </ul>
 </nav>
-    <div id="roster">
-        <div class="expandable-table-wrapper">
-    <div class="SectionTitle"> 2007-2008 Roster </div>
-            <div class="col-mrg-15">
-                            <a href="https://www.eliteprospects.com/team/867/brampton-battalion/2006-2007" class="previous" data-season="2006-2007" onclick="return changeTeamRosterSeason(this, 867);">
-                    <i class="fa fa-caret-left fa-2x" style="float: left"></i>
-                </a>
-                                        <a href="https://www.eliteprospects.com/team/867/brampton-battalion/2008-2009" class="next" data-season="2008-2009" onclick="return changeTeamRosterSeason(this, 867);">
-                    <i class="fa fa-caret-right fa-2x" style="float: right"></i>
-                </a>
-                        <div>
-                <select class="selectpicker" onchange="changeTeamRosterSeason(this, 867);">
-                    <option value="">Past Rosters</option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2012-2013"  > 2012-2013 </option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2011-2012"  > 2011-2012 </option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2010-2011"  > 2010-2011 </option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2009-2010"  > 2009-2010 </option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2008-2009"  > 2008-2009 </option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008" selected="selected" > 2007-2008 </option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2006-2007"  > 2006-2007 </option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2005-2006"  > 2005-2006 </option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2004-2005"  > 2004-2005 </option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2003-2004"  > 2003-2004 </option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2002-2003"  > 2002-2003 </option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2001-2002"  > 2001-2002 </option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2000-2001"  > 2000-2001 </option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/1999-2000"  > 1999-2000 </option>
-                                            <option value="https://www.eliteprospects.com/team/867/brampton-battalion/1998-1999"  > 1998-1999 </option>
-                                    </select>
+    <div class="expandable-table-wrapper">
+        <div class="SectionTitle"> 2007-2008 Skater Stats </div>
+                    <div class="col-mrg-15">
+                                    <a href="https://www.eliteprospects.com/team/867/brampton-battalion/2006-2007?tab=stats" class="previous" data-season="2006-2007" onclick="return changeTeamPlayerStatsSeason(this, 867);">
+                        <i class="fa fa-caret-left fa-2x" style="float: left"></i>
+                    </a>
+                                                    <a href="https://www.eliteprospects.com/team/867/brampton-battalion/2008-2009?tab=stats" class="next" data-season="2008-2009" onclick="return changeTeamPlayerStatsSeason(this, 867);">
+                        <i class="fa fa-caret-right fa-2x" style="float: right"></i>
+                    </a>
+                                <div>
+                    <select class="selectpicker" onchange="changeTeamPlayerStatsSeason(this, 867);">
+                        <option value="">Past Statistics</option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2012-2013?tab=stats"  > 2012-2013 </option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2011-2012?tab=stats"  > 2011-2012 </option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2010-2011?tab=stats"  > 2010-2011 </option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2009-2010?tab=stats"  > 2009-2010 </option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2008-2009?tab=stats"  > 2008-2009 </option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008?tab=stats" selected="selected" > 2007-2008 </option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2006-2007?tab=stats"  > 2006-2007 </option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2005-2006?tab=stats"  > 2005-2006 </option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2004-2005?tab=stats"  > 2004-2005 </option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2003-2004?tab=stats"  > 2003-2004 </option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2002-2003?tab=stats"  > 2002-2003 </option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2001-2002?tab=stats"  > 2001-2002 </option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/2000-2001?tab=stats"  > 2000-2001 </option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/1999-2000?tab=stats"  > 1999-2000 </option>
+                                                    <option value="https://www.eliteprospects.com/team/867/brampton-battalion/1998-1999?tab=stats"  > 1998-1999 </option>
+                                            </select>
+                </div>
             </div>
+                <div class="col-mrg-15">
+            <select class="selectpicker" onchange="filterTeamPlayerStatsByPosition(this, 867, '2007-2008');">
+                <option value="" data-href="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008?tab=stats#stats">All Positions</option>
+                                    <option value="d" data-href="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008?tab=stats&amp;position=d#stats"" >Defensemen</option>
+                                    <option value="f" data-href="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008?tab=stats&amp;position=f#stats"" >Forwards</option>
+                                    <option value="c" data-href="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008?tab=stats&amp;position=c#stats"" >C</option>
+                                    <option value="lw" data-href="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008?tab=stats&amp;position=lw#stats"" >LW</option>
+                                    <option value="rw" data-href="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008?tab=stats&amp;position=rw#stats"" >RW</option>
+                            </select>
         </div>
         <div class="table-wizard">
-        <table class="table table-striped table-sortable roster" data-sort-url="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008" data-sort-ajax-container="#roster" data-sort-ajax-url="https://www.eliteprospects.com/ajax/team.roster?teamId=867&amp;season=2007-2008">
-            <thead style="background-color: #fff">
-                <tr style="background-color: #fff">
-                    <th class="pronunciation"></th>
-                    <th class="jersey" data-sort="jersey" colspan='1'>#</th>
-                    <th class="nation" data-sort="nation" colspan='1'>N</th>
-                    <th class="player sorted" data-sort="" colspan='1'>Player<i class="fa fa-caret-down"></i></th>
-                    <th class="age" data-sort="age" colspan='1'>A</th>
-                    <th class="" data-sort="date-of-birth" colspan='1'>Born</th>
-                                            <th class="birthplace" data-sort="birthplace" colspan='1'>Birthplace</th>
-                                        <th class="height" data-sort="height" colspan='1'>HT</th>
-                    <th class="weight" data-sort="weight" colspan='1'>WT</th>
-                    <th class="shoots" data-sort="shoots" colspan='1'>S</th>
-                                                        </tr>
-            </thead>
-            <tbody>
-                                                            <tr class="title">
-                            <td colspan="10">GOALTENDERS</td>
-                        </tr>
-                        </tbody>
-                        <tbody>
-                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #1
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/11258/patrick-killeen">Patrick Killeen (G)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            30
-                                                    </td>
-                        <td class="date-of-birth" title="1990-04-15"> 1990 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Almonte%2C+ON%2C+CAN&amp;sort=name"> Almonte, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;4&quot; </td>
-                        <td class="weight">192</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-ep-blue pronunciation" aria-hidden="true"  title="How to pronounce Bryan Pitton"  data-container="body" data-toggle="popover" data-placement="top" data-content="You need to have a (free) account to play pronunciations. Sign up at the top of the website" ></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #31
-                                                    </td>
-                        <td class="nation">
-                                                                                                <div class="flags" onclick="$(this).toggleClass('expanded')">
-                                        <div class="flag-background">
-                                            <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                        </div>
-                                        <div class="secondary-flag">
-                                            <img class="flag" src="//files.eliteprospects.com/layout/flags_s/19.png">
-                                        </div>
-                                        <div class="flag-divider">
-                                            <div class="primary-flag">
-                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                            </div>
-                                        </div>
-                                    </div>
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/11255/bryan-pitton">Bryan Pitton (G)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            32
-                                                    </td>
-                        <td class="date-of-birth" title="1988-01-26"> 1988 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Brampton%2C+ON%2C+CAN&amp;sort=name"> Brampton, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;3&quot; </td>
-                        <td class="weight">205</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                            <tr class="title">
-                            <td colspan="10">DEFENSEMEN</td>
-                        </tr>
-                        </tbody>
-                        <tbody>
-                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #4
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/33871/ben-alavie">Ben Alavie (D)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            30
-                                                    </td>
-                        <td class="date-of-birth" title="1990-01-31"> 1990 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Richmond+Hill%2C+ON%2C+CAN&amp;sort=name"> Richmond Hill, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;1&quot; </td>
-                        <td class="weight">194</td>
-                        <td class="shoots">
-                                                            R
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #6
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/32717/brad-albert">Brad Albert (D)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            31
-                                                    </td>
-                        <td class="date-of-birth" title="1989-03-06"> 1989 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Nepean%2C+ON%2C+CAN&amp;sort=name"> Nepean, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;0&quot; </td>
-                        <td class="weight">205</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #25
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/37647/kevin-christmas">Kevin Christmas (D)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            31
-                                                    </td>
-                        <td class="date-of-birth" title="1989-06-28"> 1989 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Hamilton%2C+ON%2C+CAN&amp;sort=name"> Hamilton, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;2&quot; </td>
-                        <td class="weight">216</td>
-                        <td class="shoots">
-                                                            R
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #12
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/10676/john-de-gray">John de Gray (D)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            32
-                                                    </td>
-                        <td class="date-of-birth" title="1988-03-14"> 1988 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Markham%2C+ON%2C+CAN&amp;sort=name"> Markham, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;4&quot; </td>
-                        <td class="weight">216</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-ep-blue pronunciation" aria-hidden="true"  title="How to pronounce Alexander Eriksson"  data-container="body" data-toggle="popover" data-placement="top" data-content="You need to have a (free) account to play pronunciations. Sign up at the top of the website" ></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #7
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/1.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/4290/alexander-eriksson">Alexander Eriksson (D)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            31
-                                                    </td>
-                        <td class="date-of-birth" title="1989-03-21"> 1989 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=%C3%85n%C3%A4set%2C+SWE&amp;sort=name"> Ånäset, SWE </a>
-                            </td>
-                                                <td class="height">6&#039;1&quot; </td>
-                        <td class="weight">201</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #3
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/8.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/12575/jaroslav-hertl">Jaroslav Hertl (D)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            30
-                                                    </td>
-                        <td class="date-of-birth" title="1989-10-28"> 1989 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Praha%2C+CZE&amp;sort=name"> Praha, CZE </a>
-                            </td>
-                                                <td class="height">6&#039;4&quot; </td>
-                        <td class="weight">218</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #20
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/200007/adam-martin">Adam Martin (D)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            32
-                                                    </td>
-                        <td class="date-of-birth" title="1988-05-27"> 1988 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Mississauga%2C+ON%2C+CAN&amp;sort=name"> Mississauga, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;1&quot; </td>
-                        <td class="weight">185</td>
-                        <td class="shoots">
-                                                            -
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #2
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/23666/ken-peroff">Ken Peroff (D)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            31
-                                                    </td>
-                        <td class="date-of-birth" title="1989-09-22"> 1989 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Chisholm+Township%2C+ON%2C+CAN&amp;sort=name"> Chisholm Township, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;0&quot; </td>
-                        <td class="weight">194</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-ep-blue pronunciation" aria-hidden="true"  title="How to pronounce Bobby Sanguinetti"  data-container="body" data-toggle="popover" data-placement="top" data-content="You need to have a (free) account to play pronunciations. Sign up at the top of the website" ></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #24
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/6.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/11110/bobby-sanguinetti">Bobby Sanguinetti (D)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            32
-                                                    </td>
-                        <td class="date-of-birth" title="1988-02-29"> 1988 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Trenton%2C+NJ%2C+USA&amp;sort=name"> Trenton, NJ, USA </a>
-                            </td>
-                                                <td class="height">6&#039;3&quot; </td>
-                        <td class="weight">187</td>
-                        <td class="shoots">
-                                                            R
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #8
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/47833/zachary-shepley">Zachary Shepley (D)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            33
-                                                    </td>
-                        <td class="date-of-birth" title="1987-08-28"> 1987 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Oakville%2C+ON%2C+CAN&amp;sort=name"> Oakville, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;3&quot; </td>
-                        <td class="weight">194</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                            <tr class="title">
-                            <td colspan="10">FORWARDS</td>
-                        </tr>
-                        </tbody>
-                        <tbody>
-                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #27
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/37631/chris-beauchamp">Chris Beauchamp (C)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            29
-                                                    </td>
-                        <td class="date-of-birth" title="1991-01-02"> 1991 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Midland%2C+ON%2C+CAN&amp;sort=name"> Midland, ON, CAN </a>
-                            </td>
-                                                <td class="height">5&#039;11&quot; </td>
-                        <td class="weight">179</td>
-                        <td class="shoots">
-                                                            R
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #17
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/23665/jason-dale">Jason Dale (RW)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            31
-                                                    </td>
-                        <td class="date-of-birth" title="1988-12-31"> 1988 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Toronto%2C+ON%2C+CAN&amp;sort=name"> Toronto, ON, CAN </a>
-                            </td>
-                                                <td class="height">5&#039;11&quot; </td>
-                        <td class="weight">192</td>
-                        <td class="shoots">
-                                                            R
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #23
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/19070/kyle-decoste">Kyle DeCoste (RW)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            30
-                                                    </td>
-                        <td class="date-of-birth" title="1990-06-30"> 1990 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=London%2C+ON%2C+CAN&amp;sort=name"> London, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;1&quot; </td>
-                        <td class="weight">176</td>
-                        <td class="shoots">
-                                                            R
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-ep-blue pronunciation" aria-hidden="true"  title="How to pronounce Matt Duchene"  data-container="body" data-toggle="popover" data-placement="top" data-content="You need to have a (free) account to play pronunciations. Sign up at the top of the website" ></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #9
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/12571/matt-duchene">Matt Duchene (C)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            29
-                                                    </td>
-                        <td class="date-of-birth" title="1991-01-16"> 1991 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Haliburton%2C+ON%2C+CAN&amp;sort=name"> Haliburton, ON, CAN </a>
-                            </td>
-                                                <td class="height">5&#039;11&quot; </td>
-                        <td class="weight">194</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-ep-blue pronunciation" aria-hidden="true"  title="How to pronounce Cory Emmerton"  data-container="body" data-toggle="popover" data-placement="top" data-content="You need to have a (free) account to play pronunciations. Sign up at the top of the website" ></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #25
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/9348/cory-emmerton">Cory Emmerton (C)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            32
-                                                    </td>
-                        <td class="date-of-birth" title="1988-06-01"> 1988 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=St.+Thomas%2C+ON%2C+CAN&amp;sort=name"> St. Thomas, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;0&quot; </td>
-                        <td class="weight">192</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #19
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/11253/cody-hodgson">Cody Hodgson (C)</a>
-                                                                    &nbsp;&nbsp;<a href="https://www.eliteprospects.com/league/ohl/team-captaincy/2007-2008">&ldquo;C&rdquo;</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            30
-                                                    </td>
-                        <td class="date-of-birth" title="1990-02-18"> 1990 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Markham%2C+ON%2C+CAN&amp;sort=name"> Markham, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;0&quot; </td>
-                        <td class="weight">192</td>
-                        <td class="shoots">
-                                                            R
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-ep-blue pronunciation" aria-hidden="true"  title="How to pronounce John Hughes"  data-container="body" data-toggle="popover" data-placement="top" data-content="You need to have a (free) account to play pronunciations. Sign up at the top of the website" ></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #22
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/11254/john-hughes">John Hughes (C/RW)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            32
-                                                    </td>
-                        <td class="date-of-birth" title="1988-01-06"> 1988 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Whitby%2C+ON%2C+CAN&amp;sort=name"> Whitby, ON, CAN </a>
-                            </td>
-                                                <td class="height">5&#039;11&quot; </td>
-                        <td class="weight">165</td>
-                        <td class="shoots">
-                                                            R
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #19
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/15484/justin-levac">Justin Levac (LW)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            31
-                                                    </td>
-                        <td class="date-of-birth" title="1989-04-25"> 1989 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Garson%2C+ON%2C+CAN&amp;sort=name"> Garson, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;3&quot; </td>
-                        <td class="weight">216</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #21
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/14427/michael-lomas">Michael Lomas (LW)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            30
-                                                    </td>
-                        <td class="date-of-birth" title="1990-08-16"> 1990 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Burlington%2C+ON%2C+CAN&amp;sort=name"> Burlington, ON, CAN </a>
-                            </td>
-                                                <td class="height">5&#039;11&quot; </td>
-                        <td class="weight">205</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #15
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/6.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/12277/luke-lynes">Luke Lynes (C)</a>
-                                                                    &nbsp;&nbsp;<a href="https://www.eliteprospects.com/league/ohl/team-captaincy/2007-2008">&ldquo;A&rdquo;</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            32
-                                                    </td>
-                        <td class="date-of-birth" title="1987-11-28"> 1987 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Rochester+Hills%2C+MI%2C+USA&amp;sort=name"> Rochester Hills, MI, USA </a>
-                            </td>
-                                                <td class="height">6&#039;1&quot; </td>
-                        <td class="weight">216</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #16
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/69519/graham-mcnabb">Graham McNabb (LW)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            33
-                                                    </td>
-                        <td class="date-of-birth" title="1987-02-23"> 1987 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Minesing%2C+ON%2C+CAN&amp;sort=name"> Minesing, ON, CAN </a>
-                            </td>
-                                                <td class="height">5&#039;11&quot; </td>
-                        <td class="weight">181</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #20
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/20982/thomas-middup">Thomas Middup (RW)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            30
-                                                    </td>
-                        <td class="date-of-birth" title="1990-02-20"> 1990 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Richmond+Hill%2C+ON%2C+CAN&amp;sort=name"> Richmond Hill, ON, CAN </a>
-                            </td>
-                                                <td class="height">5&#039;10&quot; </td>
-                        <td class="weight">168</td>
-                        <td class="shoots">
-                                                            R
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #26
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/37696/kody-musselman">Kody Musselman (W/C/D)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            32
-                                                    </td>
-                        <td class="date-of-birth" title="1988-06-28"> 1988 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Whitby%2C+ON%2C+CAN&amp;sort=name"> Whitby, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;2&quot; </td>
-                        <td class="weight">198</td>
-                        <td class="shoots">
-                                                            R
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #10
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/36712/conor-o-donnell">Conor O&#039;Donnell (C/LW)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            30
-                                                    </td>
-                        <td class="date-of-birth" title="1989-11-17"> 1989 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Hamilton%2C+ON%2C+CAN&amp;sort=name"> Hamilton, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;0&quot; </td>
-                        <td class="weight">198</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #10
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/37624/josh-shalla">Josh Shalla (LW)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            29
-                                                    </td>
-                        <td class="date-of-birth" title="1991-09-25"> 1991 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Oshawa%2C+ON%2C+CAN&amp;sort=name"> Oshawa, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;1&quot; </td>
-                        <td class="weight">203</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #14
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/15482/thomas-stajan">Thomas Stajan (C)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            31
-                                                    </td>
-                        <td class="date-of-birth" title="1989-01-07"> 1989 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Mississauga%2C+ON%2C+CAN&amp;sort=name"> Mississauga, ON, CAN </a>
-                            </td>
-                                                <td class="height">5&#039;11&quot; </td>
-                        <td class="weight">174</td>
-                        <td class="shoots">
-                                                            R
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #11
-                                                    </td>
-                        <td class="nation">
-                                                                                                <div class="flags" onclick="$(this).toggleClass('expanded')">
-                                        <div class="flag-background">
-                                            <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                        </div>
-                                        <div class="secondary-flag">
-                                            <img class="flag" src="//files.eliteprospects.com/layout/flags_s/47.png">
-                                        </div>
-                                        <div class="flag-divider">
-                                            <div class="primary-flag">
-                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                            </div>
-                                        </div>
-                                    </div>
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/30927/scott-tanski">Scott Tanski (C/RW/D)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            30
-                                                    </td>
-                        <td class="date-of-birth" title="1990-04-19"> 1990 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Athabasca%2C+AB%2C+CAN&amp;sort=name"> Athabasca, AB, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;1&quot; </td>
-                        <td class="weight">194</td>
-                        <td class="shoots">
-                                                            R
-                                                    </td>
-                                                                    </tr>
-                                                        <tr>
-                        <td class="pronunciation">
-                                                            <i class="fa fa-lg fa-volume-up fa-disabled pronunciation" aria-hidden="true"  title="No pronunciation available"></i>
-                                                    </td>
-                        <td class="jersey">
-                                                            #28
-                                                    </td>
-                        <td class="nation">
-                                                                                                <img class="flag" src="//files.eliteprospects.com/layout/flags_s/3.png">
-                                                                                    </td>
-                        <td class="sorted" style="white-space: nowrap;">
-                            <span class="txt-blue">
-                                <a href="https://www.eliteprospects.com/player/37627/luke-van-moerkerke">Luke Van Moerkerke (LW)</a>
-                                                            </span>
-                                                                                                                </td>
-                        <td class="age">
-                                                            30
-                                                    </td>
-                        <td class="date-of-birth" title="1989-11-16"> 1989 </td>
-                                                    <td class="birthplace">
-                                <a href="https://www.eliteprospects.com/search/player?birthplace=Tillsonburg%2C+ON%2C+CAN&amp;sort=name"> Tillsonburg, ON, CAN </a>
-                            </td>
-                                                <td class="height">6&#039;3&quot; </td>
-                        <td class="weight">212</td>
-                        <td class="shoots">
-                                                            L
-                                                    </td>
-                                                                    </tr>
+            <table class="table table-striped table-sortable skater-stats highlight-stats" data-sort-url="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008?tab=stats" data-sort-ajax-container="#players" data-sort-ajax-url="https://www.eliteprospects.com/ajax/team.player-stats?teamId=867&amp;season=2007-2008&amp;position=">
+                <thead style="background-color: #fff">
+                    <tr style="background-color: #fff">
+                        <th class="position">#</th>
+                        <th class="player" data-sort="player" colspan='1'>Player</th>
+                        <th class="gp" data-sort="gp" colspan='1'>GP</th>
+                        <th class="g" data-sort="g" colspan='1'>G</th>
+                        <th class="a" data-sort="a" colspan='1'>A</th>
+                        <th class="tp sorted" data-sort="tp" colspan='1'>TP<i class="fa fa-caret-down"></i></th>
+                        <th class="pim" data-sort="pim" colspan='1'>PIM</th>
+                        <th class="pm" data-sort="pm" colspan='1'>+/-</th>
+                        <th class="separator">&nbsp;</th>
+                        <th class="playoffs gp" data-sort="playoffs-gp" colspan='1'>GP</th>
+                        <th class="playoffs g" data-sort="playoffs-g" colspan='1'>G</th>
+                        <th class="playoffs a" data-sort="playoffs-a" colspan='1'>A</th>
+                        <th class="playoffs tp" data-sort="playoffs-tp" colspan='1'>TP</th>
+                        <th class="playoffs pim" data-sort="playoffs-pim" colspan='1'>PIM</th>
+                        <th class="playoffs pm" data-sort="playoffs-pm" colspan='1'>+/-</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!--0-->
+                                                                        <tr class="title">
+                                <td class="position"> </td>
+                                <td class="player">
+                                    <i><img src="//files.eliteprospects.com/layout/flags_s/3.png"></i>
+                                    <span class="txt-blue">
+                                        <a href="https://www.eliteprospects.com/league/ohl/stats/2007-2008"> OHL </a>
+                                    </span>
+                                </td>
+                                <td class="gp"> </td>
+                                <td class="g"> </td>
+                                <td class="a"> </td>
+                                <td class="tp"> </td>
+                                <td class="pim"> </td>
+                                <td class="pm"> </td>
+                                <td class="separator"> </td>
+                                <td class="playoffs gp"> </td>
+                                <td class="playoffs g"> </td>
+                                <td class="playoffs a"> </td>
+                                <td class="playoffs tp"> </td>
+                                <td class="playoffs pim"> </td>
+                                <td class="playoffs pm"> </td>
+                            </tr>
                             </tbody>
-            <tfoot>
-                <tr>
-                    <td colspan="10">
-                                                    Position:
-                            G:<strong> 2</strong>, D:<strong> 9</strong>, F:<strong> 17</strong>                                                                            |
-                            Av Age:
-                            <strong>18.86 years</strong>
-                            |
-                            Av Ht:
-                            <strong>6&#039;1&quot;</strong>
-                            |
-                            Av Wt:
-                            <strong>197 lbs</strong>
-                            |
-                            <a href="https://www.eliteprospects.com/league//teams-physical-stats">
-                                Compare with other teams <i class="fa fa-angle-double-right"></i>
-                            </a>
-                                            </td>
-                </tr>
-            </tfoot>
-        </table>
-        <div class="table-notes clearfix">
-                    </div>
-    </div>
-</div>    </div>
-
-    <div class="divider"></div>
-        <div class="divider"></div>
-
-            <div class="divider"></div>
-        <div class="leg-home-inner">
-            <div class="list-as-columns">
-                <h4>Team Staff</h4>
-                <ul class="column-2">
-                                            <li>
-                            <span class="lbl"> Head Coach </span>
-                            <strong class="value"> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="https://www.eliteprospects.com/staff/1673/stan-butler"> Stan Butler </a> </strong>
-                        </li>
-                                            <li>
-                            <span class="lbl"> Asst. Coach </span>
-                            <strong class="value"> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="https://www.eliteprospects.com/staff/2195/kelly-harper"> Kelly Harper </a> </strong>
-                        </li>
-                                            <li>
-                            <span class="lbl"> Goaltending Coach </span>
-                            <strong class="value"> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="https://www.eliteprospects.com/staff/2194/mike-tamburro"> Mike Tamburro </a> </strong>
-                        </li>
-                                            <li>
-                            <span class="lbl"> Dir. of Scouting </span>
-                            <strong class="value"> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="https://www.eliteprospects.com/staff/22677/bob-wetick"> Bob Wetick </a> </strong>
-                        </li>
-                                            <li>
-                            <span class="lbl"> Scout </span>
-                            <strong class="value"> <img src="//files.eliteprospects.com/layout/flags_s/not-specified.png"> <a href="https://www.eliteprospects.com/staff/24888/steve-blinn"> Steve Blinn </a> </strong>
-                        </li>
-                                            <li>
-                            <span class="lbl"> Scout </span>
-                            <strong class="value"> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="https://www.eliteprospects.com/staff/24889/jason-day"> Jason Day </a> </strong>
-                        </li>
-                                            <li>
-                            <span class="lbl"> Scout </span>
-                            <strong class="value"> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="https://www.eliteprospects.com/staff/24811/dave-gray"> Dave Gray </a> </strong>
-                        </li>
-                                            <li>
-                            <span class="lbl"> Scout </span>
-                            <strong class="value"> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="https://www.eliteprospects.com/staff/24887/errol-hook"> Errol Hook </a> </strong>
-                        </li>
-                                    </ul>
-            </div>
+                            <tbody>
+                            <!--0-->
+                                                                        <tr>
+                            <td class="position">
+                                1.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/11254/john-hughes">John Hughes (C/RW)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 68 </td>
+                            <td class="g"> 28 </td>
+                            <td class="a"> 63 </td>
+                            <td class="tp sorted"> 91 </td>
+                            <td class="pim"> 42 </td>
+                            <td class="pm"> 2 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 1 </td>
+                            <td class="playoffs a"> 1 </td>
+                            <td class="playoffs tp"> 2 </td>
+                            <td class="playoffs pim"> 2 </td>
+                            <td class="playoffs pm"> -3 </td>
+                        </tr>
+                        <!--0-->
+                                                                                            <tr>
+                            <td class="position">
+                                2.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/11253/cody-hodgson">Cody Hodgson (C)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 68 </td>
+                            <td class="g"> 40 </td>
+                            <td class="a"> 45 </td>
+                            <td class="tp sorted"> 85 </td>
+                            <td class="pim"> 36 </td>
+                            <td class="pm"> 15 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 5 </td>
+                            <td class="playoffs a"> 0 </td>
+                            <td class="playoffs tp"> 5 </td>
+                            <td class="playoffs pim"> 2 </td>
+                            <td class="playoffs pm"> 2 </td>
+                        </tr>
+                        <!--1-->
+                                                                                            <tr>
+                            <td class="position">
+                                3.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/11110/bobby-sanguinetti">Bobby Sanguinetti (D)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 61 </td>
+                            <td class="g"> 29 </td>
+                            <td class="a"> 41 </td>
+                            <td class="tp sorted"> 70 </td>
+                            <td class="pim"> 38 </td>
+                            <td class="pm"> 10 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 1 </td>
+                            <td class="playoffs a"> 3 </td>
+                            <td class="playoffs tp"> 4 </td>
+                            <td class="playoffs pim"> 10 </td>
+                            <td class="playoffs pm"> 0 </td>
+                        </tr>
+                        <!--2-->
+                                                                                            <tr>
+                            <td class="position">
+                                4.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/12277/luke-lynes">Luke Lynes (C)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 68 </td>
+                            <td class="g"> 21 </td>
+                            <td class="a"> 43 </td>
+                            <td class="tp sorted"> 64 </td>
+                            <td class="pim"> 49 </td>
+                            <td class="pm"> 12 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 0 </td>
+                            <td class="playoffs a"> 2 </td>
+                            <td class="playoffs tp"> 2 </td>
+                            <td class="playoffs pim"> 4 </td>
+                            <td class="playoffs pm"> 0 </td>
+                        </tr>
+                        <!--3-->
+                                                                                            <tr>
+                            <td class="position">
+                                5.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/12571/matt-duchene">Matt Duchene (C)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 64 </td>
+                            <td class="g"> 30 </td>
+                            <td class="a"> 20 </td>
+                            <td class="tp sorted"> 50 </td>
+                            <td class="pim"> 22 </td>
+                            <td class="pm"> -2 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 1 </td>
+                            <td class="playoffs a"> 1 </td>
+                            <td class="playoffs tp"> 2 </td>
+                            <td class="playoffs pim"> 10 </td>
+                            <td class="playoffs pm"> -3 </td>
+                        </tr>
+                        <!--4-->
+                                                                                            <tr>
+                            <td class="position">
+                                6.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/69519/graham-mcnabb">Graham McNabb (LW)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 68 </td>
+                            <td class="g"> 20 </td>
+                            <td class="a"> 29 </td>
+                            <td class="tp sorted"> 49 </td>
+                            <td class="pim"> 32 </td>
+                            <td class="pm"> 14 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 0 </td>
+                            <td class="playoffs a"> 1 </td>
+                            <td class="playoffs tp"> 1 </td>
+                            <td class="playoffs pim"> 4 </td>
+                            <td class="playoffs pm"> -1 </td>
+                        </tr>
+                        <!--5-->
+                                                                                            <tr>
+                            <td class="position">
+                                7.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/15482/thomas-stajan">Thomas Stajan (C)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 60 </td>
+                            <td class="g"> 24 </td>
+                            <td class="a"> 19 </td>
+                            <td class="tp sorted"> 43 </td>
+                            <td class="pim"> 29 </td>
+                            <td class="pm"> 11 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 1 </td>
+                            <td class="playoffs a"> 0 </td>
+                            <td class="playoffs tp"> 1 </td>
+                            <td class="playoffs pim"> 0 </td>
+                            <td class="playoffs pm"> -2 </td>
+                        </tr>
+                        <!--6-->
+                                                                                            <tr>
+                            <td class="position">
+                                8.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/23665/jason-dale">Jason Dale (RW)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 66 </td>
+                            <td class="g"> 10 </td>
+                            <td class="a"> 24 </td>
+                            <td class="tp sorted"> 34 </td>
+                            <td class="pim"> 26 </td>
+                            <td class="pm"> 23 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 0 </td>
+                            <td class="playoffs a"> 1 </td>
+                            <td class="playoffs tp"> 1 </td>
+                            <td class="playoffs pim"> 2 </td>
+                            <td class="playoffs pm"> 1 </td>
+                        </tr>
+                        <!--7-->
+                                                                                            <tr>
+                            <td class="position">
+                                9.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/14427/michael-lomas">Michael Lomas (LW)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 62 </td>
+                            <td class="g"> 13 </td>
+                            <td class="a"> 20 </td>
+                            <td class="tp sorted"> 33 </td>
+                            <td class="pim"> 50 </td>
+                            <td class="pm"> -1 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> - </td>
+                            <td class="playoffs g">  </td>
+                            <td class="playoffs a">  </td>
+                            <td class="playoffs tp">  </td>
+                            <td class="playoffs pim">  </td>
+                            <td class="playoffs pm">  </td>
+                        </tr>
+                        <!--8-->
+                                                                                            <tr>
+                            <td class="position">
+                                10.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/9348/cory-emmerton">Cory Emmerton (C)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 30 </td>
+                            <td class="g"> 12 </td>
+                            <td class="a"> 18 </td>
+                            <td class="tp sorted"> 30 </td>
+                            <td class="pim"> 10 </td>
+                            <td class="pm"> 5 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 0 </td>
+                            <td class="playoffs a"> 2 </td>
+                            <td class="playoffs tp"> 2 </td>
+                            <td class="playoffs pim"> 2 </td>
+                            <td class="playoffs pm"> -1 </td>
+                        </tr>
+                        <!--9-->
+                                                                                                <tr class="space">
+                                <td class="position">&nbsp;</td>
+                                <td class="player">&nbsp;</td>
+                                <td class="gp">&nbsp;</td>
+                                <td class="g">&nbsp;</td>
+                                <td class="a">&nbsp;</td>
+                                <td class="tp sorted">&nbsp;</td>
+                                <td class="pim">&nbsp;</td>
+                                <td class="pm">&nbsp;</td>
+                                <td class="separator">&nbsp;</td>
+                                <td class="playoffs gp">&nbsp;</td>
+                                <td class="playoffs g">&nbsp;</td>
+                                <td class="playoffs a">&nbsp;</td>
+                                <td class="playoffs tp">&nbsp;</td>
+                                <td class="playoffs pim">&nbsp;</td>
+                                <td class="playoffs pm">&nbsp;</td>
+                            </tr>
+                            </tbody>
+                            <tbody>
+                                                <tr>
+                            <td class="position">
+                                11.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/19070/kyle-decoste">Kyle DeCoste (RW)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 66 </td>
+                            <td class="g"> 10 </td>
+                            <td class="a"> 12 </td>
+                            <td class="tp sorted"> 22 </td>
+                            <td class="pim"> 48 </td>
+                            <td class="pm"> -9 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 0 </td>
+                            <td class="playoffs a"> 0 </td>
+                            <td class="playoffs tp"> 0 </td>
+                            <td class="playoffs pim"> 2 </td>
+                            <td class="playoffs pm"> 0 </td>
+                        </tr>
+                        <!--10-->
+                                                                                            <tr>
+                            <td class="position">
+                                12.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/10676/john-de-gray">John de Gray (D)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 67 </td>
+                            <td class="g"> 4 </td>
+                            <td class="a"> 13 </td>
+                            <td class="tp sorted"> 17 </td>
+                            <td class="pim"> 140 </td>
+                            <td class="pm"> 8 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 0 </td>
+                            <td class="playoffs a"> 0 </td>
+                            <td class="playoffs tp"> 0 </td>
+                            <td class="playoffs pim"> 12 </td>
+                            <td class="playoffs pm"> 0 </td>
+                        </tr>
+                        <!--11-->
+                                                                                            <tr>
+                            <td class="position">
+                                13.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/15484/justin-levac">Justin Levac (LW)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 21 </td>
+                            <td class="g"> 2 </td>
+                            <td class="a"> 8 </td>
+                            <td class="tp sorted"> 10 </td>
+                            <td class="pim"> 13 </td>
+                            <td class="pm"> 0 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> - </td>
+                            <td class="playoffs g">  </td>
+                            <td class="playoffs a">  </td>
+                            <td class="playoffs tp">  </td>
+                            <td class="playoffs pim">  </td>
+                            <td class="playoffs pm">  </td>
+                        </tr>
+                        <!--12-->
+                                                                                            <tr>
+                            <td class="position">
+                                14.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/33871/ben-alavie">Ben Alavie (D)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 43 </td>
+                            <td class="g"> 1 </td>
+                            <td class="a"> 9 </td>
+                            <td class="tp sorted"> 10 </td>
+                            <td class="pim"> 20 </td>
+                            <td class="pm"> 6 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> - </td>
+                            <td class="playoffs g">  </td>
+                            <td class="playoffs a">  </td>
+                            <td class="playoffs tp">  </td>
+                            <td class="playoffs pim">  </td>
+                            <td class="playoffs pm">  </td>
+                        </tr>
+                        <!--13-->
+                                                                                            <tr>
+                            <td class="position">
+                                15.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/23666/ken-peroff">Ken Peroff (D)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 67 </td>
+                            <td class="g"> 1 </td>
+                            <td class="a"> 9 </td>
+                            <td class="tp sorted"> 10 </td>
+                            <td class="pim"> 50 </td>
+                            <td class="pm"> 11 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 0 </td>
+                            <td class="playoffs a"> 0 </td>
+                            <td class="playoffs tp"> 0 </td>
+                            <td class="playoffs pim"> 0 </td>
+                            <td class="playoffs pm"> 1 </td>
+                        </tr>
+                        <!--14-->
+                                                                                            <tr>
+                            <td class="position">
+                                16.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/37696/kody-musselman">Kody Musselman (W/C/D)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 39 </td>
+                            <td class="g"> 3 </td>
+                            <td class="a"> 5 </td>
+                            <td class="tp sorted"> 8 </td>
+                            <td class="pim"> 57 </td>
+                            <td class="pm"> -1 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 4 </td>
+                            <td class="playoffs g"> 0 </td>
+                            <td class="playoffs a"> 0 </td>
+                            <td class="playoffs tp"> 0 </td>
+                            <td class="playoffs pim"> 14 </td>
+                            <td class="playoffs pm"> -1 </td>
+                        </tr>
+                        <!--15-->
+                                                                                            <tr>
+                            <td class="position">
+                                17.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/32717/brad-albert">Brad Albert (D)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 45 </td>
+                            <td class="g"> 1 </td>
+                            <td class="a"> 6 </td>
+                            <td class="tp sorted"> 7 </td>
+                            <td class="pim"> 42 </td>
+                            <td class="pm"> 5 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 0 </td>
+                            <td class="playoffs a"> 0 </td>
+                            <td class="playoffs tp"> 0 </td>
+                            <td class="playoffs pim"> 6 </td>
+                            <td class="playoffs pm"> 0 </td>
+                        </tr>
+                        <!--16-->
+                                                                                            <tr>
+                            <td class="position">
+                                18.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/30927/scott-tanski">Scott Tanski (C/RW/D)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 35 </td>
+                            <td class="g"> 2 </td>
+                            <td class="a"> 4 </td>
+                            <td class="tp sorted"> 6 </td>
+                            <td class="pim"> 27 </td>
+                            <td class="pm"> -2 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 0 </td>
+                            <td class="playoffs a"> 0 </td>
+                            <td class="playoffs tp"> 0 </td>
+                            <td class="playoffs pim"> 2 </td>
+                            <td class="playoffs pm"> -2 </td>
+                        </tr>
+                        <!--17-->
+                                                                                            <tr>
+                            <td class="position">
+                                19.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/4290/alexander-eriksson">Alexander Eriksson (D)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 25 </td>
+                            <td class="g"> 1 </td>
+                            <td class="a"> 5 </td>
+                            <td class="tp sorted"> 6 </td>
+                            <td class="pim"> 33 </td>
+                            <td class="pm"> 1 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> - </td>
+                            <td class="playoffs g">  </td>
+                            <td class="playoffs a">  </td>
+                            <td class="playoffs tp">  </td>
+                            <td class="playoffs pim">  </td>
+                            <td class="playoffs pm">  </td>
+                        </tr>
+                        <!--18-->
+                                                                                            <tr>
+                            <td class="position">
+                                20.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/47833/zachary-shepley">Zachary Shepley (D)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 39 </td>
+                            <td class="g"> 0 </td>
+                            <td class="a"> 6 </td>
+                            <td class="tp sorted"> 6 </td>
+                            <td class="pim"> 50 </td>
+                            <td class="pm"> 11 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 0 </td>
+                            <td class="playoffs a"> 0 </td>
+                            <td class="playoffs tp"> 0 </td>
+                            <td class="playoffs pim"> 6 </td>
+                            <td class="playoffs pm"> -6 </td>
+                        </tr>
+                        <!--19-->
+                                                                                                <tr class="space">
+                                <td class="position">&nbsp;</td>
+                                <td class="player">&nbsp;</td>
+                                <td class="gp">&nbsp;</td>
+                                <td class="g">&nbsp;</td>
+                                <td class="a">&nbsp;</td>
+                                <td class="tp sorted">&nbsp;</td>
+                                <td class="pim">&nbsp;</td>
+                                <td class="pm">&nbsp;</td>
+                                <td class="separator">&nbsp;</td>
+                                <td class="playoffs gp">&nbsp;</td>
+                                <td class="playoffs g">&nbsp;</td>
+                                <td class="playoffs a">&nbsp;</td>
+                                <td class="playoffs tp">&nbsp;</td>
+                                <td class="playoffs pim">&nbsp;</td>
+                                <td class="playoffs pm">&nbsp;</td>
+                            </tr>
+                            </tbody>
+                            <tbody>
+                                                <tr>
+                            <td class="position">
+                                21.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/12575/jaroslav-hertl">Jaroslav Hertl (D)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 52 </td>
+                            <td class="g"> 0 </td>
+                            <td class="a"> 5 </td>
+                            <td class="tp sorted"> 5 </td>
+                            <td class="pim"> 36 </td>
+                            <td class="pm"> 4 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 0 </td>
+                            <td class="playoffs a"> 1 </td>
+                            <td class="playoffs tp"> 1 </td>
+                            <td class="playoffs pim"> 0 </td>
+                            <td class="playoffs pm"> -1 </td>
+                        </tr>
+                        <!--20-->
+                                                                                            <tr>
+                            <td class="position">
+                                22.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/37627/luke-van-moerkerke">Luke Van Moerkerke (LW)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 53 </td>
+                            <td class="g"> 2 </td>
+                            <td class="a"> 2 </td>
+                            <td class="tp sorted"> 4 </td>
+                            <td class="pim"> 79 </td>
+                            <td class="pm"> -6 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs g"> 0 </td>
+                            <td class="playoffs a"> 0 </td>
+                            <td class="playoffs tp"> 0 </td>
+                            <td class="playoffs pim"> 4 </td>
+                            <td class="playoffs pm"> -1 </td>
+                        </tr>
+                        <!--21-->
+                                                                                            <tr>
+                            <td class="position">
+                                23.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/36712/conor-o-donnell">Conor O&#039;Donnell (C/LW)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 22 </td>
+                            <td class="g"> 1 </td>
+                            <td class="a"> 2 </td>
+                            <td class="tp sorted"> 3 </td>
+                            <td class="pim"> 26 </td>
+                            <td class="pm"> 0 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> - </td>
+                            <td class="playoffs g">  </td>
+                            <td class="playoffs a">  </td>
+                            <td class="playoffs tp">  </td>
+                            <td class="playoffs pim">  </td>
+                            <td class="playoffs pm">  </td>
+                        </tr>
+                        <!--22-->
+                                                                                            <tr>
+                            <td class="position">
+                                24.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/20982/thomas-middup">Thomas Middup (RW)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 1 </td>
+                            <td class="g"> 0 </td>
+                            <td class="a"> 1 </td>
+                            <td class="tp sorted"> 1 </td>
+                            <td class="pim"> 0 </td>
+                            <td class="pm"> 0 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> - </td>
+                            <td class="playoffs g">  </td>
+                            <td class="playoffs a">  </td>
+                            <td class="playoffs tp">  </td>
+                            <td class="playoffs pim">  </td>
+                            <td class="playoffs pm">  </td>
+                        </tr>
+                        <!--23-->
+                                                                                            <tr>
+                            <td class="position">
+                                25.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/37631/chris-beauchamp">Chris Beauchamp (C)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 13 </td>
+                            <td class="g"> 0 </td>
+                            <td class="a"> 1 </td>
+                            <td class="tp sorted"> 1 </td>
+                            <td class="pim"> 2 </td>
+                            <td class="pm"> 1 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 1 </td>
+                            <td class="playoffs g"> 0 </td>
+                            <td class="playoffs a"> 0 </td>
+                            <td class="playoffs tp"> 0 </td>
+                            <td class="playoffs pim"> 0 </td>
+                            <td class="playoffs pm"> 0 </td>
+                        </tr>
+                        <!--24-->
+                                                                                            <tr>
+                            <td class="position">
+                                26.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/200007/adam-martin">Adam Martin (D)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 5 </td>
+                            <td class="g"> 0 </td>
+                            <td class="a"> 0 </td>
+                            <td class="tp sorted"> 0 </td>
+                            <td class="pim"> 5 </td>
+                            <td class="pm"> 0 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> - </td>
+                            <td class="playoffs g">  </td>
+                            <td class="playoffs a">  </td>
+                            <td class="playoffs tp">  </td>
+                            <td class="playoffs pim">  </td>
+                            <td class="playoffs pm">  </td>
+                        </tr>
+                        <!--25-->
+                                                                                            <tr>
+                            <td class="position">
+                                27.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/37624/josh-shalla">Josh Shalla (LW)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 6 </td>
+                            <td class="g"> 0 </td>
+                            <td class="a"> 0 </td>
+                            <td class="tp sorted"> 0 </td>
+                            <td class="pim"> 0 </td>
+                            <td class="pm"> -1 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> - </td>
+                            <td class="playoffs g">  </td>
+                            <td class="playoffs a">  </td>
+                            <td class="playoffs tp">  </td>
+                            <td class="playoffs pim">  </td>
+                            <td class="playoffs pm">  </td>
+                        </tr>
+                        <!--26-->
+                                                                                            <tr>
+                            <td class="position">
+                                28.
+                            </td>
+                            <td class="player"  style="white-space: nowrap;">
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/37647/kevin-christmas">Kevin Christmas (D)</a>
+                                </span>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 6 </td>
+                            <td class="g"> 0 </td>
+                            <td class="a"> 0 </td>
+                            <td class="tp sorted"> 0 </td>
+                            <td class="pim"> 7 </td>
+                            <td class="pm"> 0 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> - </td>
+                            <td class="playoffs g">  </td>
+                            <td class="playoffs a">  </td>
+                            <td class="playoffs tp">  </td>
+                            <td class="playoffs pim">  </td>
+                            <td class="playoffs pm">  </td>
+                        </tr>
+                        <!--27-->
+                                    </tbody>
+            </table>
         </div>
-    
-    <div class="divider"></div>
+    </div>
 
-    <div class="nation-inner clearfix">
-        <div class="row">
-            <div class="col-24 col-sm-12 mb-4 mb-sm-0 nat-inn-lft team-facts">
-                <div class="SectionTitle">
-                    Team Facts
-                </div>
-                <div class="facts">
-                    <ul class="list-unstyled">
-                                                    <li>
-                                <span class="lbl">Nationalities</span>
-                                <strong class="value">
-                                                                                                                    <i> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> </i>
-                                        <span class="txt-normal">26 players</span>
-                                                                                                                        <br>
-                                                                                <i> <img src="//files.eliteprospects.com/layout/flags_s/6.png"> </i>
-                                        <span class="txt-normal">2 players</span>
-                                                                                                                        <br>
-                                                                                <i> <img src="//files.eliteprospects.com/layout/flags_s/8.png"> </i>
-                                        <span class="txt-normal">1 player</span>
-                                                                                                                        <br>
-                                                                                <i> <img src="//files.eliteprospects.com/layout/flags_s/1.png"> </i>
-                                        <span class="txt-normal">1 player</span>
-                                                                    </strong>
-                            </li>
-                                                                            <li>
-                                <span class="lbl">Experience</span>
-                                <strong class="value">
-                                    <a href="https://www.eliteprospects.com/team/867/brampton-battalion/experience/2007-2008/team">Brampton Battalion</a>: 3 573 GP
-                                                                            <br>
-                                        <i> <img src="//files.eliteprospects.com/layout/flags_s/16.png"> </i>
-                                        <a class="txt-blue" href="https://www.eliteprospects.com/team/867/brampton-battalion/experience/2007-2008/all?league=nhl">NHL</a><span class="txt-normal">: 1 305 GP</span>
-                                                                            <br>
-                                        <i> <img src="//files.eliteprospects.com/layout/flags_s/31.png"> </i>
-                                        <a class="txt-blue" href="https://www.eliteprospects.com/team/867/brampton-battalion/experience/2007-2008/all?league=wc">WC</a><span class="txt-normal">: 60 GP</span>
-                                                                            <br>
-                                        <i> <img src="//files.eliteprospects.com/layout/flags_s/31.png"> </i>
-                                        <a class="txt-blue" href="https://www.eliteprospects.com/team/867/brampton-battalion/experience/2007-2008/all?league=og">OG</a><span class="txt-normal">: 9 GP</span>
-                                                                            <br>
-                                        <i> <img src="//files.eliteprospects.com/layout/flags_s/1.png"> </i>
-                                        <a class="txt-blue" href="https://www.eliteprospects.com/team/867/brampton-battalion/experience/2007-2008/all?league=shl">SHL</a><span class="txt-normal">: 19 GP</span>
-                                                                            <br>
-                                        <i> <img src="//files.eliteprospects.com/layout/flags_s/1.png"> </i>
-                                        <a class="txt-blue" href="https://www.eliteprospects.com/team/867/brampton-battalion/experience/2007-2008/all?league=hockeyallsvenskan">HockeyAllsvenskan</a><span class="txt-normal">: 27 GP</span>
-                                                                            <br>
-                                        <i> <img src="//files.eliteprospects.com/layout/flags_s/2.png"> </i>
-                                        <a class="txt-blue" href="https://www.eliteprospects.com/team/867/brampton-battalion/experience/2007-2008/all?league=liiga">Liiga</a><span class="txt-normal">: 7 GP</span>
-                                                                            <br>
-                                        <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
-                                        <a class="txt-blue" href="https://www.eliteprospects.com/team/867/brampton-battalion/experience/2007-2008/all?league=khl">KHL</a><span class="txt-normal">: 86 GP</span>
-                                                                            <br>
-                                        <i> <img src="//files.eliteprospects.com/layout/flags_s/8.png"> </i>
-                                        <a class="txt-blue" href="https://www.eliteprospects.com/team/867/brampton-battalion/experience/2007-2008/all?league=czech">Czech</a><span class="txt-normal">: 2 GP</span>
-                                                                            <br>
-                                        <i> <img src="//files.eliteprospects.com/layout/flags_s/16.png"> </i>
-                                        <a class="txt-blue" href="https://www.eliteprospects.com/team/867/brampton-battalion/experience/2007-2008/all?league=ahl">AHL</a><span class="txt-normal">: 1 060 GP</span>
-                                                                            <br>
-                                        <i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i>
-                                        <a class="txt-blue" href="https://www.eliteprospects.com/team/867/brampton-battalion/experience/2007-2008/all?league=del">DEL</a><span class="txt-normal">: 37 GP</span>
-                                                                    </strong>
-                            </li>
-                                                                            <li>
-                                <span class="lbl">Affiliated Team(s)</span>
-                                <strong class="value">
-                                                                                                                    <a href="https://www.eliteprospects.com/team/7675/brampton-admirals"> Brampton Admirals </a> (OJHL)
-                                                                                                                        <br>
-                                                                                <a href="https://www.eliteprospects.com/team/12596/brampton-bombers"> Brampton Bombers </a> (GOJHL)
-                                                                                                                        <br>
-                                                                                <a href="https://www.eliteprospects.com/team/7019/fergus-devils"> Fergus Devils </a> (Not Active (Canada))
-                                                                    </strong>
-                            </li>
-                                            </ul>
-                </div>
-            </div>
-
-            <div class="col-24 col-sm-12 nat-inn-rtl team-captains">
-                <div class="SectionTitle">Team Captains</div>
-                <div class="facts">
-                    <ul class="list-unstyled">
-                                                    <li>
-                                <span class="lbl"> &ldquo;C&rdquo; </span>
-                                <strong class="value">
-                                                                                                                    <i><img src="//files.eliteprospects.com/layout/flags_s/3.png" /></i>
-                                        <a href="https://www.eliteprospects.com/player/11253/cody-hodgson"> Cody Hodgson </a>
-                                                                    </strong>
-                            </li>
-                                                    <li>
-                                <span class="lbl"> &ldquo;A&rdquo; </span>
-                                <strong class="value">
-                                                                                                                    <i><img src="//files.eliteprospects.com/layout/flags_s/6.png" /></i>
-                                        <a href="https://www.eliteprospects.com/player/12277/luke-lynes"> Luke Lynes </a>
-                                                                    </strong>
-                            </li>
-                                            </ul>
-                </div>
-                <a href="https://www.eliteprospects.com/team/867/brampton-battalion/captaincy-history" class="btn green-sm"> Team captaincy history </a>
-                                    <div class="SectionTitle">
-    Arena Information
-</div>
-<div class="facts">
-    <ul class="list-unstyled">
-        <li>
-            <span class="lbl">Arena Name</span>
-            <strong class="value">
-                Powerade Centre
-                            </strong>
-        </li>
-        <li>
-            <span class="lbl">Location</span>
-            <strong class="value">Brampton, ON, CAN</strong>
-        </li>
-        <li>
-            <span class="lbl">Capacity</span>
-            <strong class="value">4 800</strong>
-        </li>
-        <li>
-            <span class="lbl">Construction Year</span>
-            <strong class="value">1998</strong>
-        </li>
-                <li class="img">
-                            <img src="//files.eliteprospects.com/layout/arenas/powerade_centre.jpg" title="Powerade Centre" >
-                    </li>
-    </ul>
-</div>                            </div>
+    <div class="expandable-table-wrapper">
+        <div class="SectionTitle"> 2007-2008 Goaltending Stats </div>
+        <div class="table-wizard">
+            <table class="table table-striped table-sortable goalie-stats highlight-stats" data-sort-url="https://www.eliteprospects.com/team/867/brampton-battalion/2007-2008?tab=stats" data-sort-ajax-container="#players" data-sort-parameter="sort-goalie-stats" data-sort-ajax-url="https://www.eliteprospects.com/ajax/team.player-stats?teamId=867&amp;season=2007-2008&amp;position=">
+                <thead style="background-color: #fff">
+                    <tr style="background-color: #fff">
+                        <th class="position">#</th>
+                        <th class="player" data-sort="player" colspan='1'>Player</th>
+                        <th class="gp" data-sort="gp" colspan='1'>GP</th>
+                        <th class="gaa" data-sort="gaa" colspan='1'>GAA</th>
+                        <th class="svp sorted" data-sort="svp" colspan='1'>SV%<i class="fa fa-caret-down"></i></th>
+                        <th class="separator">&nbsp;</th>
+                        <th class="playoffs gp" data-sort="playoffs-gp" colspan='1'>GP</th>
+                        <th class="playoffs gaa" data-sort="playoffs-gaa" colspan='1'>GAA</th>
+                        <th class="playoffs svp" data-sort="playoffs-svp" colspan='1'>SV%</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!--0-->
+                                                                        <tr class="title">
+                                <td class="position">&nbsp;</td>
+                                <td class="player">
+                                    <i><img src="//files.eliteprospects.com/layout/flags_s/3.png"></i>
+                                    <span class="txt-blue">
+                                        <a href="https://www.eliteprospects.com/league/ohl/stats/2007-2008"> OHL </a>
+                                    </span>
+                                </td>
+                                <td class="gp">&nbsp;</td>
+                                <td class="gaa">&nbsp;</td>
+                                <td class="svp">&nbsp;</td>
+                                <td class="separator">&nbsp;</td>
+                                <td class="playoffs gp">&nbsp;</td>
+                                <td class="playoffs gaa">&nbsp;</td>
+                                <td class="playoffs svp">&nbsp;</td>
+                            </tr>
+                            </tbody>
+                            <tbody>
+                            <!--0-->
+                                                <tr>
+                            <td class="position">
+                                1.
+                            </td>
+                            <td class="player" style="white-space: nowrap;">
+                                <a href="https://www.eliteprospects.com/player/11255/bryan-pitton"> Bryan Pitton </a>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 39 </td>
+                            <td class="gaa"> 2.54 </td>
+                            <td class="svp sorted"> .911 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 5 </td>
+                            <td class="playoffs gaa"> 1.80 </td>
+                            <td class="playoffs svp"> .938 </td>
+                        </tr>
+                        <!--0-->
+                                                                    <tr>
+                            <td class="position">
+                                2.
+                            </td>
+                            <td class="player" style="white-space: nowrap;">
+                                <a href="https://www.eliteprospects.com/player/11258/patrick-killeen"> Patrick Killeen </a>
+                                                                    &nbsp;<i class="fa fa-" title="" ></i>
+                                                            </td>
+                            <td class="gp"> 34 </td>
+                            <td class="gaa"> 2.76 </td>
+                            <td class="svp sorted"> .908 </td>
+                            <td class="separator"> | </td>
+                            <td class="playoffs gp"> 0 </td>
+                            <td class="playoffs gaa"> - </td>
+                            <td class="playoffs svp"> - </td>
+                        </tr>
+                        <!--1-->
+                                    </tbody>
+            </table>
         </div>
     </div>
                     </div>
@@ -3464,10 +3241,10 @@
                                     ICEHL
                                 </span>
                             </td>
-                            <td class="gp"> 3 </td>
+                            <td class="gp"> 7 </td>
                             <td class="g"> 0 </td>
-                            <td class="a"> 5 </td>
-                            <td class="tp sorted"> 5 </td>
+                            <td class="a"> 10 </td>
+                            <td class="tp sorted"> 10 </td>
                             <td class="pim"> 0 </td>
                         </tr>
                                             <tr>
@@ -3508,11 +3285,11 @@
                                     NL
                                 </span>
                             </td>
-                            <td class="gp"> 3 </td>
-                            <td class="g"> 1 </td>
+                            <td class="gp"> 8 </td>
+                            <td class="g"> 2 </td>
                             <td class="a"> 2 </td>
-                            <td class="tp sorted"> 3 </td>
-                            <td class="pim"> 2 </td>
+                            <td class="tp sorted"> 4 </td>
+                            <td class="pim"> 4 </td>
                         </tr>
                                             <tr>
                             <td class="position"> 4. </td>
@@ -3530,14 +3307,58 @@
                                     ICEHL
                                 </span>
                             </td>
-                            <td class="gp"> 4 </td>
+                            <td class="gp"> 5 </td>
                             <td class="g"> 0 </td>
-                            <td class="a"> 2 </td>
-                            <td class="tp sorted"> 2 </td>
+                            <td class="a"> 3 </td>
+                            <td class="tp sorted"> 3 </td>
                             <td class="pim"> 0 </td>
                         </tr>
                                             <tr>
                             <td class="position"> 5. </td>
+                            <td class="player">
+                                <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/16752/yevgeni-grachyov"> Yevgeni Grachyov (F)</a>
+                                </span>
+                            </td>
+                            <td class="season"> 2020-2021 </td>
+                            <td class="team"> Dinamo Riga </td>
+                            <td class="league">
+                                <i><img src="//files.eliteprospects.com/layout/flags_s/9.png"></i>
+                                <span class="txt-normal">
+                                    KHL
+                                </span>
+                            </td>
+                            <td class="gp"> 6 </td>
+                            <td class="g"> 1 </td>
+                            <td class="a"> 1 </td>
+                            <td class="tp sorted"> 2 </td>
+                            <td class="pim"> 2 </td>
+                        </tr>
+                                            <tr>
+                            <td class="position"> 6. </td>
+                            <td class="player">
+                                <i> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> </i>
+                                <span class="txt-blue">
+                                    <a href="https://www.eliteprospects.com/player/39557/domenic-alberga"> Domenic Alberga (F)</a>
+                                </span>
+                            </td>
+                            <td class="season"> 2020-2021 </td>
+                            <td class="team"> HC Bolzano </td>
+                            <td class="league">
+                                <i><img src="//files.eliteprospects.com/layout/flags_s/12.png"></i>
+                                <span class="txt-normal">
+                                    ICEHL
+                                </span>
+                            </td>
+                            <td class="gp"> 2 </td>
+                            <td class="g"> 1 </td>
+                            <td class="a"> 0 </td>
+                            <td class="tp sorted"> 1 </td>
+                            <td class="pim"> 2 </td>
+                        </tr>
+                                            <tr>
+                            <td class="position"> 7. </td>
                             <td class="player">
                                 <i> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> </i>
                                 <span class="txt-blue">
@@ -3556,50 +3377,6 @@
                             <td class="g"> 0 </td>
                             <td class="a"> 1 </td>
                             <td class="tp sorted"> 1 </td>
-                            <td class="pim"> 0 </td>
-                        </tr>
-                                            <tr>
-                            <td class="position"> 6. </td>
-                            <td class="player">
-                                <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
-                                <span class="txt-blue">
-                                    <a href="https://www.eliteprospects.com/player/16752/yevgeni-grachyov"> Yevgeni Grachyov (F)</a>
-                                </span>
-                            </td>
-                            <td class="season"> 2020-2021 </td>
-                            <td class="team"> Dinamo Riga </td>
-                            <td class="league">
-                                <i><img src="//files.eliteprospects.com/layout/flags_s/9.png"></i>
-                                <span class="txt-normal">
-                                    KHL
-                                </span>
-                            </td>
-                            <td class="gp"> 4 </td>
-                            <td class="g"> 0 </td>
-                            <td class="a"> 1 </td>
-                            <td class="tp sorted"> 1 </td>
-                            <td class="pim"> 2 </td>
-                        </tr>
-                                            <tr>
-                            <td class="position"> 7. </td>
-                            <td class="player">
-                                <i> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> </i>
-                                <span class="txt-blue">
-                                    <a href="https://www.eliteprospects.com/player/39557/domenic-alberga"> Domenic Alberga (F)</a>
-                                </span>
-                            </td>
-                            <td class="season"> 2020-2021 </td>
-                            <td class="team"> HC Bolzano </td>
-                            <td class="league">
-                                <i><img src="//files.eliteprospects.com/layout/flags_s/12.png"></i>
-                                <span class="txt-normal">
-                                    ICEHL
-                                </span>
-                            </td>
-                            <td class="gp"> 0 </td>
-                            <td class="g"> 0 </td>
-                            <td class="a"> 0 </td>
-                            <td class="tp sorted"> 0 </td>
                             <td class="pim"> 0 </td>
                         </tr>
                                             <tr>
@@ -3651,15 +3428,15 @@
                             <td class="player">
                                 <i> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> </i>
                                 <span class="txt-blue">
-                                    <a href="https://www.eliteprospects.com/player/3661/jason-spezza"> Jason Spezza (F)</a>
+                                    <a href="https://www.eliteprospects.com/player/143834/brandon-robinson"> Brandon Robinson (F)</a>
                                 </span>
                             </td>
                             <td class="season"> 2020-2021 </td>
-                            <td class="team"> Toronto Maple Leafs </td>
+                            <td class="team"> Univ. of Waterloo </td>
                             <td class="league">
-                                <i><img src="//files.eliteprospects.com/layout/flags_s/16.png"></i>
+                                <i><img src="//files.eliteprospects.com/layout/flags_s/3.png"></i>
                                 <span class="txt-normal">
-                                    NHL
+                                    USports
                                 </span>
                             </td>
                             <td class="gp"> - </td>
@@ -4901,7 +4678,7 @@
                             <a href="/league/liiga">Liiga</a>
                         </li>
                         <li>
-                            <a href="/league/nla">NLA</a>
+                            <a href="/league/nl">NL</a>
                         </li>
                     </ul>
                 </div>
@@ -4994,18 +4771,18 @@
             </div>
         </div>
     </footer>
-<script src="https://static.eliteprospects.com/js/jquery.min.js?v=2468"></script>
-            <script type="text/javascript" src="https://static.eliteprospects.com/js/na-ads.js?v=2468"></script>
-    <script src="https://static.eliteprospects.com/js/bootstrap.min.js?v=2468"></script>
-<script src="https://static.eliteprospects.com/js/bootstrap-select.js?v=2468"></script>
+<script src="https://static.eliteprospects.com/js/jquery.min.js?v=2488"></script>
+            <script type="text/javascript" src="https://static.eliteprospects.com/js/na-ads.js?v=2488"></script>
+    <script src="https://static.eliteprospects.com/js/bootstrap.min.js?v=2488"></script>
+<script src="https://static.eliteprospects.com/js/bootstrap-select.js?v=2488"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.3.2/rangeslider.min.js" integrity="sha256-vFhEtGnaQ2xB+yjBTSXxssthNcfdbzu+lmLYhCdp2Cc=" crossorigin="anonymous"></script>
-<script src="https://static.eliteprospects.com/js/jquery.toast.min.js?v=2468"></script>
+<script src="https://static.eliteprospects.com/js/jquery.toast.min.js?v=2488"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox.min.js" integrity="sha256-DiHJ7hbvMejsMyP76bpVWacb5HSHQ2sQlrJV8n7KEvA=" crossorigin="anonymous"></script>
                     <script src="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.1/cropper.min.js" integrity="sha256-+PQmsBomnsT/06XEdk7ibt/9We4DX+VKzJsw/+DCzc0=" crossorigin="anonymous"></script>
-<script src="https://static.eliteprospects.com/js/premium.js?v=2468"></script>
-<script src="https://static.eliteprospects.com/js/script.js?v=2468"></script>
-<script src="https://static.eliteprospects.com/js/app.js?v=2468"></script>
+<script src="https://static.eliteprospects.com/js/premium.js?v=2488"></script>
+<script src="https://static.eliteprospects.com/js/script.js?v=2488"></script>
+<script src="https://static.eliteprospects.com/js/app.js?v=2488"></script>
 <!-- Adform Tracking Code BEGIN -->
     <script type="text/javascript">
         window._adftrack = Array.isArray(window._adftrack) ? window._adftrack : (window._adftrack ? [window._adftrack] : []);
@@ -5037,7 +4814,7 @@
 <script>
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', function() {
-            navigator.serviceWorker.register('https://static.eliteprospects.com/sw.js?v=2468').then(function(registration) {
+            navigator.serviceWorker.register('https://static.eliteprospects.com/sw.js?v=2488').then(function(registration) {
                 // Registration was successful
                 console.log('ServiceWorker registration successful with scope: ', registration.scope);
             }, function(err) {

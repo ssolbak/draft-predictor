@@ -170,28 +170,3 @@ exports.get_team_goals_per_game = (player, done) => {
         return done(err);
     });
 };
-
-exports.aggregate_by_draft_year = (player, done) => {
-
-    let currentYear = player.draft_year - 2;
-
-    let keys = ['draft-1', 'draft', 'draft1', 'draft2', 'draft3', 'draft4', 'draft5'];
-
-    for(let i = 0; i < keys.length; i++) {
-
-        let key = keys[i];
-        let year = currentYear + '-' + (currentYear + 1).toString().substring(2);
-
-        let stats = _.filter(player.stats, (x) => x.year_key === year);
-
-        if(stats && stats.length) {
-            player[key] = stats;
-        } else {
-            player[key] = [];
-        }
-
-        currentYear++;
-    }
-
-    return done();
-};

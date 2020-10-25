@@ -26,9 +26,16 @@ module.exports = {
             hockey_db_id: 197,
             get_nhle_for : (year) => 0.25
         },
-        'H-EAST': {
-            name: 'H-EAST',
-            games_played: 38,
+        //HBD
+        // 'H-EAST': {
+        //     name: 'H-EAST',
+        //     games_played: 38,
+        //     hockey_db_id: 328,
+        //     get_nhle_for : (year) => 0.38
+        // },
+        'NCAA': {
+            name: 'NCAA',
+            games_played: 0, //varies per team
             hockey_db_id: 328,
             get_nhle_for : (year) => 0.38
         },
@@ -68,10 +75,9 @@ module.exports = {
             base_folder: '_hdb_raw',
             get_team_filename : (team_id, team_name) => {
                 let team_key = team_name.toLowerCase()
-                                         .replace(/ /g, "_")
-                                         .replace(/\//g, "-")
-                                         .replace(/[,.']+/g, "");
-
+                            .replace(/ /g, "_")
+                            .replace(/\//g, "-")
+                            .replace(/[,.']+/g, "");
                 return `${team_id}___${team_key}.txt`;
             }
         },
@@ -80,8 +86,13 @@ module.exports = {
         },
         ep: {
             base_folder: '_ep_raw',
-            get_team_filename : (team_id, team_slug) => {
-                return `${team_id}___${team_slug}.txt`;
+            get_team_filename : (team_id, team_name) => {
+                let team_key = team_name.toLowerCase()
+                                         .replace(/ /g, "-")
+                                        .replace(/\//g, "-")
+                                        .replace(/é/g, 'e')
+                                        .replace(/[,.']+/g, "");
+                return `${team_id}___${team_key}.txt`;
             }
         }
     }

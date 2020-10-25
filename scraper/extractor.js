@@ -36,11 +36,17 @@ async.series([
         //
         // });
 
-        context.players['6146'] = {
-            id: 6146,
-            key: 'sidney-crosby',
-            file_name: path.join(__dirname, base_dir, '6146___sidney-crosby.txt')
+        const add_player = (id, key) => {
+            context.players[id.toString()] = {
+                id: id,
+                key: key,
+                file_name: path.join(__dirname, base_dir, `${id}___${key}.txt`)
+            };
         };
+
+        add_player(6146, 'sidney-crosby');
+        // add_player(77237, 'nikita-kucherov');
+        // add_player(8792, 'jonathan-toews');
 
         return cb();
     },

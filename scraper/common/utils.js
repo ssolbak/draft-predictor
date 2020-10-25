@@ -1,5 +1,6 @@
 "use strict";
 
+const _ = require('lodash');
 const fs = require('fs');
 
 exports.pad = (num, digits) => {
@@ -42,4 +43,29 @@ exports.getRegexVal = (player, key, pattern, text, done) => {
     player[key] = val;
 
     return done(null);
-}
+};
+
+exports.aggregate_by_draft_year = (player, done) => {
+
+    let currentYear = player.draft_year - 2;
+
+    let keys = ['draft-1', 'draft', 'draft1', 'draft2', 'draft3', 'draft4', 'draft5'];
+
+    for(let i = 0; i < keys.length; i++) {
+
+        let key = keys[i];
+        let year = currentYear + '-' + (currentYear + 1).toString().substring(2);
+
+        let stats = _.filter(player.stats, (x) => x.year_key === year);
+
+        if(stats && stats.length) {
+            player[key] = stats;
+        } else {
+            player[key] = [];
+        }
+
+        currentYear++;
+    }
+
+    return done();
+};

@@ -3,10 +3,15 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="csrf-token" content="IY2SXOiI8EQ0zCPzCkKRWZzS1CElbXrRPfSVBWGb">
+        <meta name="csrf-token" content="e4uVm7aio7rBPwSWHwxSA5cAQFVxNJqedA57PnjR">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <script type="text/javascript">
         var baseUrl = 'https://www.eliteprospects.com';
+        var dataLayer = [{
+            event: 'esmg_datalayer',
+            location: 'CA',
+            displayAds: 'true',
+                    }]
     </script>
                         <script>
     var atsScript = document.createElement('script');
@@ -97,21 +102,21 @@
     <meta name="msapplication-navbutton-color" content="#0b3548">
     <meta name="apple-mobile-web-app-status-bar-style" content="#4285f4">
     <base href="https://www.eliteprospects.com">
-        <link rel="manifest" href="https://static.eliteprospects.com/manifest.json?v=2468">
-            <link href="https://static.eliteprospects.com/css/bootstrap.min.css?v=2468" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/custom_style.css?v=2468" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/bootstrap-select.css?v=2468" rel="stylesheet">
+        <link rel="manifest" href="https://static.eliteprospects.com/manifest.json?v=2488">
+            <link href="https://static.eliteprospects.com/css/bootstrap.min.css?v=2488" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/custom_style.css?v=2488" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/bootstrap-select.css?v=2488" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.3.2/rangeslider.min.css" integrity="sha256-F8gzbY2A1VTf49iOrc8Lst/UvcUtoFr3myix0WMiNqA=" crossorigin="anonymous" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/roundSlider/1.3.2/roundslider.min.css" integrity="sha256-Wneaso/SLW7HI/mW+HYAoQSSF9f/71Cdalqk5UiD3Fs=" crossorigin="anonymous" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css" integrity="sha256-auPoJwk/+RK6KSkib92Dkq1Y5hEkZvKtvSwucs15Skg=" crossorigin="anonymous" />
-        <link href="https://static.eliteprospects.com/css/prem.css?v=2468" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/prem.css?v=2488" rel="stylesheet">
         <link href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.1/cropper.min.css" integrity="sha256-SyWqODkStAbrafgJ9K8twjULP7yL6yTRZKoFGjDYybI=" crossorigin="anonymous" />
-        <link href="https://static.eliteprospects.com/css/font-awesome.css?v=2468" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/responsive.css?v=2468" rel="stylesheet">
-        <link href="https://static.eliteprospects.com/css/fix.css?v=2468" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/font-awesome.css?v=2488" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/responsive.css?v=2488" rel="stylesheet">
+        <link href="https://static.eliteprospects.com/css/fix.css?v=2488" rel="stylesheet">
             <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -125,7 +130,7 @@
             reached: false
         };
     </script>
-    <script src="https://static.eliteprospects.com/js/page-views-limit.js?v=2468"></script>
+    <script src="https://static.eliteprospects.com/js/page-views-limit.js?v=2488"></script>
                     <!-- Header Tag Code -->
                 <script data-cfasync='false' type='text/javascript'>/*<![CDATA[*/(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: "3.0", q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); var b=c.createElement(s); b.src=u; b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//d2na2p72vtqyok.cloudfront.net/client-embed/cd65ebe7-b051-422b-a193-8cb3796914c4.js');/*]]>*/</script>
                 <!-- End Header Tag Code -->
@@ -133,20 +138,12 @@
     <script type="text/javascript">stLight.options({publisher: "263b63f4-b290-4c41-be78-9bdb52f95f91", shorten: false, doNotHash: false, doNotCopy: false, popup: true, hashAddressBar: false});</script>
 </head>
 <body class="league desktop country-ca">
-<script>
-    var dataLayer = window.dataLayer || [];
-    var generalDl = {
-        event: 'esmg_datalayer',
-        location: 'CA',
-        displayAds: 'true',
-            }
-</script>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCNPX59"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
                 <form id="logout-form" action="https://www.eliteprospects.com/logout" method="POST" style="display: none;">
-    <input type="hidden" name="_token" value="IY2SXOiI8EQ0zCPzCkKRWZzS1CElbXrRPfSVBWGb">
+    <input type="hidden" name="_token" value="e4uVm7aio7rBPwSWHwxSA5cAQFVxNJqedA57PnjR">
 </form>
 <div id="dialog" title="Information">
     <p></p>
@@ -269,18 +266,18 @@
                     <span>Extraliga</span></a>
             </li>
                     <li>
-                <a href="https://www.eliteprospects.com/free-agent-pool/nla">
+                <a href="https://www.eliteprospects.com/free-agent-pool/nl">
                     <i>
                         <img src="//files.eliteprospects.com/layout/flags_s/10.png">
                     </i>
-                    <span>NLA </span></a>
+                    <span>NL </span></a>
             </li>
                     <li>
-                <a href="https://www.eliteprospects.com/free-agent-pool/nlb">
+                <a href="https://www.eliteprospects.com/free-agent-pool/sl">
                     <i>
                         <img src="//files.eliteprospects.com/layout/flags_s/10.png">
                     </i>
-                    <span>NLB </span></a>
+                    <span>SL </span></a>
             </li>
                     <li>
                 <a href="https://www.eliteprospects.com/free-agent-pool/del">
@@ -520,11 +517,11 @@
                     <span class="txt-normal">Liiga</span></a>
             </li>
                     <li>
-                <a href="https://www.eliteprospects.com/league/nla">
+                <a href="https://www.eliteprospects.com/league/nl">
                     <i>
                         <img src="//files.eliteprospects.com/layout/flags_s/10.png">
                     </i>
-                    <span class="txt-normal">NLA</span></a>
+                    <span class="txt-normal">NL</span></a>
             </li>
                     <li>
                 <a href="https://www.eliteprospects.com/league/czech">
@@ -1060,12 +1057,12 @@
         </div>
     </div>
     <div class="pull-left">
-        <span> Database: <strong>802 188</strong> players </span>
+        <span> Database: <strong>806 172</strong> players </span>
     </div>
     <div class="pull-left">
         <span>
-            <span class="txt-normal"> Last added:</span> <i> <img src="//files.eliteprospects.com/layout/flags_s/3.png"/> </i>
-            <a class="txt-blue" id="lastAddedPlayer" href="https://www.eliteprospects.com/player/802190/nathan-duguay">Nathan Duguay</a>
+            <span class="txt-normal"> Last added:</span> <i> <img src="//files.eliteprospects.com/layout/flags_s/1.png"/> </i>
+            <a class="txt-blue" id="lastAddedPlayer" href="https://www.eliteprospects.com/player/806176/axel-odelstierna">Axel Odelstierna</a>
         </span>
     </div>
 </div>
@@ -1084,12 +1081,12 @@
                             <option value="NHL" >NHL</option>
                             <option value="SHL" >SHL</option>
                             <option value="KHL" >KHL</option>
-                            <option value="Liiga" >Liiga</option>
+                            <option value="Liiga" selected>Liiga</option>
                             <option value="AHL" >AHL</option>
                             <option value="HockeyAllsvenskan" >HockeyAllsvenskan</option>
-                            <option value="NLA" >NLA</option>
+                            <option value="NL" >NL</option>
                             <option value="Czech" >Czech</option>
-                            <option value="ECHL" selected>ECHL</option>
+                            <option value="ECHL" >ECHL</option>
                             <option value="WHL" >WHL</option>
                             <option value="OHL" >OHL</option>
                             <option value="QMJHL" >QMJHL</option>
@@ -1118,53 +1115,53 @@
             <tbody>
                                     <tr>
                         <td class="position"> 1. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/6.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/14643/a.j.-jenks">A.J. Jenks</a></span></td>
-                        <td class="gp"> -</td>
-                        <td class="g"> -</td>
-                        <td class="a"> -</td>
-                        <td class="tp sorted"> -</td>
+                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/2.png"> </i>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/4281/petri-kontiola">Petri Kontiola</a></span></td>
+                        <td class="gp"> 9</td>
+                        <td class="g"> 1</td>
+                        <td class="a"> 11</td>
+                        <td class="tp sorted"> 12</td>
                     </tr>
                                     <tr>
                         <td class="position"> 2. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/6.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/63627/anthony-petruzzelli">Anthony Petruzzelli</a></span></td>
-                        <td class="gp"> -</td>
-                        <td class="g"> -</td>
-                        <td class="a"> -</td>
-                        <td class="tp sorted"> -</td>
+                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/2.png"> </i>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/50674/eetu-koivistoinen">Eetu Koivistoinen</a></span></td>
+                        <td class="gp"> 8</td>
+                        <td class="g"> 6</td>
+                        <td class="a"> 4</td>
+                        <td class="tp sorted"> 10</td>
                     </tr>
                                     <tr>
                         <td class="position"> 3. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/6.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/23667/shawn-szydlowski">Shawn Szydlowski</a></span></td>
-                        <td class="gp"> -</td>
-                        <td class="g"> -</td>
-                        <td class="a"> -</td>
-                        <td class="tp sorted"> -</td>
+                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/2.png"> </i>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/15136/jere-sallinen">Jere Sallinen</a></span></td>
+                        <td class="gp"> 9</td>
+                        <td class="g"> 5</td>
+                        <td class="a"> 5</td>
+                        <td class="tp sorted"> 10</td>
                     </tr>
                                     <tr>
                         <td class="position"> 4. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/146577/alex-tonge">Alex Tonge</a></span></td>
-                        <td class="gp"> -</td>
-                        <td class="g"> -</td>
-                        <td class="a"> -</td>
-                        <td class="tp sorted"> -</td>
+                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/2.png"> </i>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/57868/peter-tiivola">Peter Tiivola</a></span></td>
+                        <td class="gp"> 9</td>
+                        <td class="g"> 2</td>
+                        <td class="a"> 8</td>
+                        <td class="tp sorted"> 10</td>
                     </tr>
                                     <tr>
                         <td class="position"> 5. </td>
-                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/3.png"> </i>
-                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/54086/spencer-dorowicz">Spencer Dorowicz</a></span></td>
-                        <td class="gp"> -</td>
-                        <td class="g"> -</td>
-                        <td class="a"> -</td>
-                        <td class="tp sorted"> -</td>
+                        <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/2.png"> </i>
+                            <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/221525/juuso-valimaki">Juuso Välimäki</a></span></td>
+                        <td class="gp"> 9</td>
+                        <td class="g"> 2</td>
+                        <td class="a"> 8</td>
+                        <td class="tp sorted"> 10</td>
                     </tr>
                             </tbody>
         </table>
     </div>
-    <a href="https://www.eliteprospects.com/league/echl/stats/2020-2021" class="btn green-sm" id="ScoringLeaders"> Show More </a>
+    <a href="https://www.eliteprospects.com/league/liiga/stats/2020-2021" class="btn green-sm" id="ScoringLeaders"> Show More </a>
 </div></div>
 
     <div class="sidebar-ads">
@@ -1189,8 +1186,8 @@
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/khl">KHL</a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/8.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/czech">Extraliga</a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/4.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/slovakia">Extraliga</a></span></li>
-                        <li><i> <img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/nla">NLA </a></span></li>
-                        <li><i> <img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/nlb">NLB </a></span></li>
+                        <li><i> <img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/nl">NL </a></span></li>
+                        <li><i> <img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/sl">SL </a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/del">DEL</a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/del2">DEL2</a></span></li>
                         <li><i> <img src="//files.eliteprospects.com/layout/flags_s/21.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/free-agent-pool/germany3">Oberliga</a></span></li>
@@ -1237,7 +1234,7 @@
                             <li><i><img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/khl">KHL</a></span></li>
                             <li><i><img src="//files.eliteprospects.com/layout/flags_s/1.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/shl">SHL</a></span></li>
                             <li><i><img src="//files.eliteprospects.com/layout/flags_s/2.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/liiga">Liiga</a></span></li>
-                            <li><i><img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/nla">NLA</a></span></li>
+                            <li><i><img src="//files.eliteprospects.com/layout/flags_s/10.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/nl">NL</a></span></li>
                             <li><i><img src="//files.eliteprospects.com/layout/flags_s/8.png"> </i> <span class="txt-blue"><a href="https://www.eliteprospects.com/league/czech">Extraliga</a></span></li>
                     </ul>
     </div>
@@ -1674,20 +1671,20 @@
             <div class="divider"></div>
             <div class="articles-widget clearfix">
             <div class="article">
-                <a target="_blank" href="https://www.eprinkside.com/2020/10/6/mocking-the-first-3-rounds-92-picks-of-the-2020-nhl-entry-draft">
-                    <img src="https://cdn.eprinkside.com/2020/10/05221334/image-20-150x150.png" />
+                <a target="_blank" href="https://www.eprinkside.com/2020/10/15/scouts-roundtable-eliteprospects-least-favourite-picks-from-the-2020-nhl-draft">
+                    <img src="https://cdn.eprinkside.com/2020/10/14203136/image-22-150x150.png" />
                 </a>
                 <div class="article-content-text">
                     <div class="date-and-categories">
-                        <span class="date">Tuesday, 17:00</span>
+                        <span class="date">Oct 15th, 14:00</span>
                         <div class="categories">
                                                                                                 <a href="https://www.eprinkside.com/nhl-entry-draft-2020">NHL Entry Draft 2020</a>
                                                                                     </div>
                     </div>
-                    <a target="_blank" href="https://www.eprinkside.com/2020/10/6/mocking-the-first-3-rounds-92-picks-of-the-2020-nhl-entry-draft">
-                        <h4>Mocking the First 3 Rounds, 92 Picks of the 2020 NHL Entry Draft</h4>
+                    <a target="_blank" href="https://www.eprinkside.com/2020/10/15/scouts-roundtable-eliteprospects-least-favourite-picks-from-the-2020-nhl-draft">
+                        <h4>Scout’s Roundtable: EliteProspects’ Least Favourite Picks From the 2020 NHL Draft</h4>
                         <div class="excerpt">
-                            It&#8217;s the most wonderful time of the year. More than a year spent tracking the progress of hundreds of pl...
+                            No two draft picks are created equal. That’s as apparent in the immediate aftermath of any draft as it is five...
                         </div>
                     </a>
                 </div>
@@ -1698,6 +1695,11 @@
                 </div>
                 <ul>
                                                                                                                     <li>
+                                <a target="_blank" href="https://www.eprinkside.com/2020/10/6/mocking-the-first-3-rounds-92-picks-of-the-2020-nhl-entry-draft">
+                                    Mocking the First 3 Rounds, 92 Picks of the 2020 NHL Entry D...
+                                </a>
+                            </li>
+                                                                                                <li>
                                 <a target="_blank" href="https://www.eprinkside.com/2020/8/17/the-high-level-habits-that-drive-rodion-amirovs-value">
                                     The High-Level Habits That Drive Rodion Amirov’s Value
                                 </a>
@@ -1710,11 +1712,6 @@
                                                                                                 <li>
                                 <a target="_blank" href="https://www.eprinkside.com/2020/7/8/video-eliteprospects-scouts-meet-to-set-2020-nhl-entry-draft-ranking-version-4-0">
                                     VIDEO: EliteProspects Scouts Meet to set 2020 NHL Entry Draf...
-                                </a>
-                            </li>
-                                                                                                <li>
-                                <a target="_blank" href="https://www.eprinkside.com/2020/6/27/burke-chaos-reigns-in-phase-1-of-2020-nhl-draft-lottery">
-                                    BURKE: Chaos Reigns in Phase 1 of 2020 NHL Draft Lottery
                                 </a>
                             </li>
                                                             </ul>
@@ -2674,85 +2671,61 @@
         </thead>
         <tbody>
                             <tr class="title date-title">
-            <td colspan="5">2020-10-10</td>
+            <td colspan="5">2020-10-22</td>
         </tr>
-        <tr class="transfer confirmed even" data-url="https://www.eliteprospects.com/transfer/2020/10/10/rodion-poroshin-in-a-confirmed-transaction-to-mhk-spartak-moskva/434203">
+        <tr class="transfer confirmed even" data-url="https://www.eliteprospects.com/transfer/2020/10/22/yevgeni-pogonchenkov-in-a-confirmed-transaction-to-kristall-saratov/434815">
         <td class="date">
-            2020-10-10
+            2020-10-22
         </td>
                                         <td class="player">
                 <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
-                <span class="txt-blue"><a href="https://www.eliteprospects.com/player/396516/rodion-poroshin"> Rodion Poroshin (D) </a></span>
+                <span class="txt-blue"><a href="https://www.eliteprospects.com/player/358745/yevgeni-pogonchenkov"> Yevgeni Pogonchenkov (F) </a></span>
                             </td>
                                             <td class="from">
                                             <a href="https://www.eliteprospects.com/team/4535/mhk-krylia-sovetov-moskva"> MHK Krylia Sovetov Moskva </a>
                                     </td>
                                         <td class="to">
                                             <i class="fa fa-play" aria-hidden="true"></i>
-                                                                <a href="https://www.eliteprospects.com/team/4924/mhk-spartak-moskva"> MHK Spartak Moskva </a>
+                                                                <a href="https://www.eliteprospects.com/team/5514/kristall-saratov"> Kristall Saratov </a>
                                     </td>
                             <td class="source">
             <img class="transfer-details" src="https://static.eliteprospects.com/images/arrow-forward.png" />
-                                                            <a href="https://mhl.spartak.ru/news/transfers/kontrakt-rodiona-poroshina/" target="_blank"><i class="fa fa-link" aria-hidden="true" title="https://mhl.spartak.ru/news/transfers/kontrakt-rodiona-poroshina/"></i></a>
-                                                    <span class="st_twitter" st_url="https://www.eliteprospects.com/transfer/2020/10/10/rodion-poroshin-in-a-confirmed-transaction-to-mhk-spartak-moskva/434203 " st_title="Confirmed: Rodion Poroshin (D) From: MHK Krylia Sovetov Moskva To: MHK Spartak Moskva" st_via="ep_transfers"></span>            <span class="st_facebook" st_url="https://www.eliteprospects.com/transfer/2020/10/10/rodion-poroshin-in-a-confirmed-transaction-to-mhk-spartak-moskva/434203 " st_title="Confirmed: Rodion Poroshin (D) From: MHK Krylia Sovetov Moskva To: MHK Spartak Moskva" st_via="ep_transfers"></span>        </td>
+                                                            <a href="https://kristallsaratov.ru/news/izmeneniya-v-sostave-5.html" target="_blank"><i class="fa fa-link" aria-hidden="true" title="https://kristallsaratov.ru/news/izmeneniya-v-sostave-5.html"></i></a>
+                                                    <span class="st_twitter" st_url="https://www.eliteprospects.com/transfer/2020/10/22/yevgeni-pogonchenkov-in-a-confirmed-transaction-to-kristall-saratov/434815 " st_title="Confirmed: Yevgeni Pogonchenkov (F) From: MHK Krylia Sovetov Moskva To: Kristall Saratov" st_via="ep_transfers"></span>            <span class="st_facebook" st_url="https://www.eliteprospects.com/transfer/2020/10/22/yevgeni-pogonchenkov-in-a-confirmed-transaction-to-kristall-saratov/434815 " st_title="Confirmed: Yevgeni Pogonchenkov (F) From: MHK Krylia Sovetov Moskva To: Kristall Saratov" st_via="ep_transfers"></span>        </td>
     </tr>
             <tr class="title date-title">
-            <td colspan="5">2020-10-08</td>
+            <td colspan="5">2020-10-20</td>
         </tr>
-        <tr class="transfer confirmed odd" data-url="https://www.eliteprospects.com/transfer/2020/10/08/dmitri-dudkin-in-a-confirmed-transaction-to-ifj-ocskay-gabor-ja-u21/433974">
+        <tr class="transfer confirmed odd" data-url="https://www.eliteprospects.com/transfer/2020/10/20/alexei-kosterev-in-a-confirmed-transaction-leaving-akm-novomoskovsk/434736">
         <td class="date">
-            2020-10-08
+            2020-10-20
         </td>
                                         <td class="player">
-                <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
-                <span class="txt-blue"><a href="https://www.eliteprospects.com/player/514170/dmitri-dudkin"> Dmitri Dudkin (F) </a></span>
+                <i> <img src="//files.eliteprospects.com/layout/flags_s/23.png"> </i>
+                <span class="txt-blue"><a href="https://www.eliteprospects.com/player/516178/alexei-kosterev"> Alexei Kosterev (D) </a></span>
                             </td>
                                             <td class="from">
                                             <a href="https://www.eliteprospects.com/team/26578/akm-novomoskovsk"> AKM Novomoskovsk </a>
                                     </td>
                                         <td class="to">
                                             <i class="fa fa-play" aria-hidden="true"></i>
-                                                                <a href="https://www.eliteprospects.com/team/13681/ifj-ocskay-gabor-ja-u21"> Ifj Ocskay Gábor JA U21 </a>
+                                                                Unknown
                                     </td>
                             <td class="source">
             <img class="transfer-details" src="https://static.eliteprospects.com/images/arrow-forward.png" />
-                                                            <a href="https://www.jegkorongszovetseg.hu/event/game/56857" target="_blank"><i class="fa fa-link" aria-hidden="true" title="https://www.jegkorongszovetseg.hu/event/game/56857"></i></a>
-                                                    <span class="st_twitter" st_url="https://www.eliteprospects.com/transfer/2020/10/08/dmitri-dudkin-in-a-confirmed-transaction-to-ifj-ocskay-gabor-ja-u21/433974 " st_title="Confirmed: Dmitri Dudkin (F) From: AKM Novomoskovsk To: Ifj Ocskay Gábor JA U21" st_via="ep_transfers"></span>            <span class="st_facebook" st_url="https://www.eliteprospects.com/transfer/2020/10/08/dmitri-dudkin-in-a-confirmed-transaction-to-ifj-ocskay-gabor-ja-u21/433974 " st_title="Confirmed: Dmitri Dudkin (F) From: AKM Novomoskovsk To: Ifj Ocskay Gábor JA U21" st_via="ep_transfers"></span>        </td>
+                                                            <a href="https://akm-hockey.ru/news/aleksej-kosterev-pokinul-akademiyu-mihajlova/" target="_blank"><i class="fa fa-link" aria-hidden="true" title="https://akm-hockey.ru/news/aleksej-kosterev-pokinul-akademiyu-mihajlova/"></i></a>
+                                                    <span class="st_twitter" st_url="https://www.eliteprospects.com/transfer/2020/10/20/alexei-kosterev-in-a-confirmed-transaction-leaving-akm-novomoskovsk/434736 " st_title="Confirmed: Alexei Kosterev (D) From: AKM Novomoskovsk To: Unknown" st_via="ep_transfers"></span>            <span class="st_facebook" st_url="https://www.eliteprospects.com/transfer/2020/10/20/alexei-kosterev-in-a-confirmed-transaction-leaving-akm-novomoskovsk/434736 " st_title="Confirmed: Alexei Kosterev (D) From: AKM Novomoskovsk To: Unknown" st_via="ep_transfers"></span>        </td>
     </tr>
             <tr class="title date-title">
-            <td colspan="5">2020-10-06</td>
+            <td colspan="5">2020-10-19</td>
         </tr>
-        <tr class="transfer confirmed even" data-url="https://www.eliteprospects.com/transfer/2020/10/06/alexander-dobrovolsky-in-a-confirmed-transaction-to-omskie-yastreby/433766">
+        <tr class="transfer confirmed even" data-url="https://www.eliteprospects.com/transfer/2020/10/19/arseni-paramonov-in-a-confirmed-transaction-leaving-kapitan-stupino/434658">
         <td class="date">
-            2020-10-06
+            2020-10-19
         </td>
                                         <td class="player">
                 <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
-                <span class="txt-blue"><a href="https://www.eliteprospects.com/player/450510/alexander-dobrovolsky"> Alexander Dobrovolsky (F) </a></span>
-                            </td>
-                                            <td class="from">
-                                            <a href="https://www.eliteprospects.com/team/10064/mamonty-yugry"> Mamonty Yugry </a>
-                                    </td>
-                                        <td class="to">
-                                            <i class="fa fa-play" aria-hidden="true"></i>
-                                                                <a href="https://www.eliteprospects.com/team/4919/omskie-yastreby"> Omskie Yastreby </a>
-                                    </td>
-                            <td class="source">
-            <img class="transfer-details" src="https://static.eliteprospects.com/images/arrow-forward.png" />
-                            <i class="fa fa-info-circle fa-lg" title="Try-out"></i>
-                                                            <a href="https://www.instagram.com/p/CGAF0I9BKtu/" target="_blank"><i class="fa fa-link" aria-hidden="true" title="https://www.instagram.com/p/CGAF0I9BKtu/"></i></a>
-                                                    <span class="st_twitter" st_url="https://www.eliteprospects.com/transfer/2020/10/06/alexander-dobrovolsky-in-a-confirmed-transaction-to-omskie-yastreby/433766 " st_title="Confirmed: Alexander Dobrovolsky (F) From: Mamonty Yugry To: Omskie Yastreby" st_via="ep_transfers"></span>            <span class="st_facebook" st_url="https://www.eliteprospects.com/transfer/2020/10/06/alexander-dobrovolsky-in-a-confirmed-transaction-to-omskie-yastreby/433766 " st_title="Confirmed: Alexander Dobrovolsky (F) From: Mamonty Yugry To: Omskie Yastreby" st_via="ep_transfers"></span>        </td>
-    </tr>
-            <tr class="title date-title">
-            <td colspan="5">2020-10-04</td>
-        </tr>
-        <tr class="transfer confirmed odd" data-url="https://www.eliteprospects.com/transfer/2020/10/04/yaroslav-obryadin-in-a-confirmed-transaction-leaving-kapitan-stupino/433645">
-        <td class="date">
-            2020-10-04
-        </td>
-                                        <td class="player">
-                <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
-                <span class="txt-blue"><a href="https://www.eliteprospects.com/player/292118/yaroslav-obryadin"> Yaroslav Obryadin (D) </a></span>
+                <span class="txt-blue"><a href="https://www.eliteprospects.com/player/665899/arseni-paramonov"> Arseni Paramonov (D) </a></span>
                             </td>
                                             <td class="from">
                                             <a href="https://www.eliteprospects.com/team/1899/kapitan-stupino"> Kapitan Stupino </a>
@@ -2763,28 +2736,51 @@
                                     </td>
                             <td class="source">
             <img class="transfer-details" src="https://static.eliteprospects.com/images/arrow-forward.png" />
-                                                            <a href="https://vk.com/wall-35987445_10455" target="_blank"><i class="fa fa-link" aria-hidden="true" title="https://vk.com/wall-35987445_10455"></i></a>
-                                                    <span class="st_twitter" st_url="https://www.eliteprospects.com/transfer/2020/10/04/yaroslav-obryadin-in-a-confirmed-transaction-leaving-kapitan-stupino/433645 " st_title="Confirmed: Yaroslav Obryadin (D) From: Kapitan Stupino To: Unknown" st_via="ep_transfers"></span>            <span class="st_facebook" st_url="https://www.eliteprospects.com/transfer/2020/10/04/yaroslav-obryadin-in-a-confirmed-transaction-leaving-kapitan-stupino/433645 " st_title="Confirmed: Yaroslav Obryadin (D) From: Kapitan Stupino To: Unknown" st_via="ep_transfers"></span>        </td>
+                                                            <a href="https://vk.com/wall-35987445_10594" target="_blank"><i class="fa fa-link" aria-hidden="true" title="https://vk.com/wall-35987445_10594"></i></a>
+                                                    <span class="st_twitter" st_url="https://www.eliteprospects.com/transfer/2020/10/19/arseni-paramonov-in-a-confirmed-transaction-leaving-kapitan-stupino/434658 " st_title="Confirmed: Arseni Paramonov (D) From: Kapitan Stupino To: Unknown" st_via="ep_transfers"></span>            <span class="st_facebook" st_url="https://www.eliteprospects.com/transfer/2020/10/19/arseni-paramonov-in-a-confirmed-transaction-leaving-kapitan-stupino/434658 " st_title="Confirmed: Arseni Paramonov (D) From: Kapitan Stupino To: Unknown" st_via="ep_transfers"></span>        </td>
     </tr>
-        <tr class="transfer confirmed even" data-url="https://www.eliteprospects.com/transfer/2020/10/04/otar-sakhokiya-in-a-confirmed-transaction-to-hcik/433630">
+        <tr class="transfer confirmed odd" data-url="https://www.eliteprospects.com/transfer/2020/10/19/nikita-sakhno-in-a-confirmed-transaction-leaving-kapitan-stupino/434657">
         <td class="date">
-            2020-10-04
+            2020-10-19
         </td>
                                         <td class="player">
-                <i> <img src="//files.eliteprospects.com/layout/flags_s/13.png"> </i>
-                <span class="txt-blue"><a href="https://www.eliteprospects.com/player/353762/otar-sakhokiya"> Otar Sakhokiya (F) </a></span>
+                <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
+                <span class="txt-blue"><a href="https://www.eliteprospects.com/player/542350/nikita-sakhno"> Nikita Sakhno (F) </a></span>
                             </td>
                                             <td class="from">
-                                            <a href="https://www.eliteprospects.com/team/4925/ska-1946-st.-petersburg"> SKA-1946 St. Petersburg </a>
+                                            <a href="https://www.eliteprospects.com/team/1899/kapitan-stupino"> Kapitan Stupino </a>
                                     </td>
                                         <td class="to">
                                             <i class="fa fa-play" aria-hidden="true"></i>
-                                                                <a href="https://www.eliteprospects.com/team/6118/hcik"> HCIK </a>
+                                                                Unknown
                                     </td>
                             <td class="source">
             <img class="transfer-details" src="https://static.eliteprospects.com/images/arrow-forward.png" />
-                                                            <a href="http://www.palvelusivusto.fi/playertransfers/" target="_blank"><i class="fa fa-link" aria-hidden="true" title="http://www.palvelusivusto.fi/playertransfers/"></i></a>
-                                                    <span class="st_twitter" st_url="https://www.eliteprospects.com/transfer/2020/10/04/otar-sakhokiya-in-a-confirmed-transaction-to-hcik/433630 " st_title="Confirmed: Otar Sakhokiya (F) From: SKA-1946 St. Petersburg To: HCIK" st_via="ep_transfers"></span>            <span class="st_facebook" st_url="https://www.eliteprospects.com/transfer/2020/10/04/otar-sakhokiya-in-a-confirmed-transaction-to-hcik/433630 " st_title="Confirmed: Otar Sakhokiya (F) From: SKA-1946 St. Petersburg To: HCIK" st_via="ep_transfers"></span>        </td>
+                                                            <a href="https://vk.com/wall-35987445_10594" target="_blank"><i class="fa fa-link" aria-hidden="true" title="https://vk.com/wall-35987445_10594"></i></a>
+                                                    <span class="st_twitter" st_url="https://www.eliteprospects.com/transfer/2020/10/19/nikita-sakhno-in-a-confirmed-transaction-leaving-kapitan-stupino/434657 " st_title="Confirmed: Nikita Sakhno (F) From: Kapitan Stupino To: Unknown" st_via="ep_transfers"></span>            <span class="st_facebook" st_url="https://www.eliteprospects.com/transfer/2020/10/19/nikita-sakhno-in-a-confirmed-transaction-leaving-kapitan-stupino/434657 " st_title="Confirmed: Nikita Sakhno (F) From: Kapitan Stupino To: Unknown" st_via="ep_transfers"></span>        </td>
+    </tr>
+            <tr class="title date-title">
+            <td colspan="5">2020-10-16</td>
+        </tr>
+        <tr class="transfer confirmed even" data-url="https://www.eliteprospects.com/transfer/2020/10/16/alexander-pichugin-in-a-confirmed-transaction-to-akm-novomoskovsk/434568">
+        <td class="date">
+            2020-10-16
+        </td>
+                                        <td class="player">
+                <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
+                <span class="txt-blue"><a href="https://www.eliteprospects.com/player/588312/alexander-pichugin"> Alexander Pichugin (D) </a></span>
+                            </td>
+                                            <td class="from">
+                                            <a href="https://www.eliteprospects.com/team/17424/sakhalinskiye-akuly"> Sakhalinskiye Akuly </a>
+                                    </td>
+                                        <td class="to">
+                                            <i class="fa fa-play" aria-hidden="true"></i>
+                                                                <a href="https://www.eliteprospects.com/team/26578/akm-novomoskovsk"> AKM Novomoskovsk </a>
+                                    </td>
+                            <td class="source">
+            <img class="transfer-details" src="https://static.eliteprospects.com/images/arrow-forward.png" />
+                                                            <a href="https://www.instagram.com/p/CGaJPZdAWfW/" target="_blank"><i class="fa fa-link" aria-hidden="true" title="https://www.instagram.com/p/CGaJPZdAWfW/"></i></a>
+                                                    <span class="st_twitter" st_url="https://www.eliteprospects.com/transfer/2020/10/16/alexander-pichugin-in-a-confirmed-transaction-to-akm-novomoskovsk/434568 " st_title="Confirmed: Alexander Pichugin (D) From: Sakhalinskiye Akuly To: AKM Novomoskovsk" st_via="ep_transfers"></span>            <span class="st_facebook" st_url="https://www.eliteprospects.com/transfer/2020/10/16/alexander-pichugin-in-a-confirmed-transaction-to-akm-novomoskovsk/434568 " st_title="Confirmed: Alexander Pichugin (D) From: Sakhalinskiye Akuly To: AKM Novomoskovsk" st_via="ep_transfers"></span>        </td>
     </tr>
                     </tbody>
     </table>
@@ -2820,14 +2816,14 @@
                         <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/387184/yevgeni-volkov">Yevgeni Volkov (F)</a></span></td>
                 </tr>
                             <tr>
-                    <td class="team"> <a href="https://www.eliteprospects.com/team/7602/hk-riga"> HK Riga </a> </td>
-                    <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/11.png"> </i>
-                        <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/393477/ricards-grinbergs">Ricards Grinbergs (F)</a></span></td>
-                </tr>
-                            <tr>
                     <td class="team"> <a href="https://www.eliteprospects.com/team/8768/altay-ust-kamenogorsk"> Altay Ust-Kamenogorsk </a> </td>
                     <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
                         <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/450021/yegor-sofyin">Yegor Sofyin (F)</a></span></td>
+                </tr>
+                            <tr>
+                    <td class="team"> <a href="https://www.eliteprospects.com/team/4911/sibirskie-snaipery-novosibirsk"> Sibirskie Snaipery Novosibirsk </a> </td>
+                    <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
+                        <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/395624/vladimir-oparko">Vladimir Oparko (D)</a></span></td>
                 </tr>
                     </tbody>
     </table>
@@ -2851,9 +2847,14 @@
                         <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/514151/ruslan-abrosimov">Ruslan Abrosimov (F)</a></span></td>
                 </tr>
                             <tr>
+                    <td class="team"> <a href="https://www.eliteprospects.com/team/4926/almaz-cherepovets"> Almaz Cherepovets </a> </td>
+                    <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
+                        <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/514450/maxim-nevolin">Maxim Nevolin (F)</a></span></td>
+                </tr>
+                            <tr>
                     <td class="team"> <a href="https://www.eliteprospects.com/team/4927/loko-yaroslavl"> Loko Yaroslavl </a> </td>
                     <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
-                        <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/514152/ilya-nikolayev">Ilya Nikolayev (F)</a></span></td>
+                        <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/514149/stepan-nikulin">Stepan Nikulin (F)</a></span></td>
                 </tr>
                             <tr>
                     <td class="team"> <a href="https://www.eliteprospects.com/team/4927/loko-yaroslavl"> Loko Yaroslavl </a> </td>
@@ -2861,14 +2862,9 @@
                         <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/514146/ilya-chefanov">Ilya Chefanov (F)</a></span></td>
                 </tr>
                             <tr>
-                    <td class="team"> <a href="https://www.eliteprospects.com/team/1899/kapitan-stupino"> Kapitan Stupino </a> </td>
+                    <td class="team"> <a href="https://www.eliteprospects.com/team/4926/almaz-cherepovets"> Almaz Cherepovets </a> </td>
                     <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
-                        <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/512908/grigori-ponkratov">Grigori Ponkratov (F)</a></span></td>
-                </tr>
-                            <tr>
-                    <td class="team"> <a href="https://www.eliteprospects.com/team/4927/loko-yaroslavl"> Loko Yaroslavl </a> </td>
-                    <td class="player"><i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
-                        <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/514149/stepan-nikulin">Stepan Nikulin (F)</a></span></td>
+                        <span class="txt-blue"> <a href="https://www.eliteprospects.com/player/512838/daniil-belyalov">Daniil Belyalov (F)</a></span></td>
                 </tr>
                     </tbody>
     </table>
@@ -3084,124 +3080,14 @@
                                         KHL
                                     </span>
                                 </td>
-                                <td class="gp"> 14 </td>
-                                <td class="g"> 10 </td>
-                                <td class="a"> 6 </td>
-                                <td class="tp sorted"> 16 </td>
+                                <td class="gp"> 20 </td>
+                                <td class="g"> 12 </td>
+                                <td class="a"> 10 </td>
+                                <td class="tp sorted"> 22 </td>
                                 <td class="pim"> 25 </td>
                             </tr>
                                                     <tr>
                                 <td class="position"> 2. </td>
-                                <td>
-                                    <i> <img src="//files.eliteprospects.com/layout/flags_s/11.png"> </i>
-                                    <span class="txt-blue">
-                                        <a href="https://www.eliteprospects.com/player/50403/kirils-tambijevs">Kirils Tambijevs (F)</a>
-                                    </span>
-                                </td>
-                                <td class="season"> 2020-2021 </td>
-                                <td> Zemgale </td>
-                                <td>
-                                    <i><img src="//files.eliteprospects.com/layout/flags_s/11.png"></i>
-                                    <span class="txt-normal">
-                                        Latvia
-                                    </span>
-                                </td>
-                                <td class="gp"> 6 </td>
-                                <td class="g"> 7 </td>
-                                <td class="a"> 8 </td>
-                                <td class="tp sorted"> 15 </td>
-                                <td class="pim"> 2 </td>
-                            </tr>
-                                                    <tr>
-                                <td class="position"> 3. </td>
-                                <td>
-                                    <i> <img src="//files.eliteprospects.com/layout/flags_s/23.png"> </i>
-                                    <span class="txt-blue">
-                                        <a href="https://www.eliteprospects.com/player/17668/igor-revenko">Igor Revenko (F)</a>
-                                    </span>
-                                </td>
-                                <td class="season"> 2020-2021 </td>
-                                <td> HK Gomel </td>
-                                <td>
-                                    <i><img src="//files.eliteprospects.com/layout/flags_s/23.png"></i>
-                                    <span class="txt-normal">
-                                        Belarus
-                                    </span>
-                                </td>
-                                <td class="gp"> 11 </td>
-                                <td class="g"> 3 </td>
-                                <td class="a"> 12 </td>
-                                <td class="tp sorted"> 15 </td>
-                                <td class="pim"> 6 </td>
-                            </tr>
-                                                    <tr>
-                                <td class="position"> 4. </td>
-                                <td>
-                                    <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
-                                    <span class="txt-blue">
-                                        <a href="https://www.eliteprospects.com/player/108653/sergei-tolchinsky">Sergei Tolchinsky (F)</a>
-                                    </span>
-                                </td>
-                                <td class="season"> 2020-2021 </td>
-                                <td> Avangard Omsk </td>
-                                <td>
-                                    <i><img src="//files.eliteprospects.com/layout/flags_s/9.png"></i>
-                                    <span class="txt-normal">
-                                        KHL
-                                    </span>
-                                </td>
-                                <td class="gp"> 12 </td>
-                                <td class="g"> 3 </td>
-                                <td class="a"> 12 </td>
-                                <td class="tp sorted"> 15 </td>
-                                <td class="pim"> 4 </td>
-                            </tr>
-                                                    <tr>
-                                <td class="position"> 5. </td>
-                                <td>
-                                    <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
-                                    <span class="txt-blue">
-                                        <a href="https://www.eliteprospects.com/player/11865/dmitri-kugryshev">Dmitri Kugryshev (F)</a>
-                                    </span>
-                                </td>
-                                <td class="season"> 2020-2021 </td>
-                                <td> Salavat Yulaev Ufa </td>
-                                <td>
-                                    <i><img src="//files.eliteprospects.com/layout/flags_s/9.png"></i>
-                                    <span class="txt-normal">
-                                        KHL
-                                    </span>
-                                </td>
-                                <td class="gp"> 15 </td>
-                                <td class="g"> 4 </td>
-                                <td class="a"> 10 </td>
-                                <td class="tp sorted"> 14 </td>
-                                <td class="pim"> 6 </td>
-                            </tr>
-                                                    <tr>
-                                <td class="position"> 6. </td>
-                                <td>
-                                    <i> <img src="//files.eliteprospects.com/layout/flags_s/11.png"> </i>
-                                    <span class="txt-blue">
-                                        <a href="https://www.eliteprospects.com/player/50412/rustams-begovs">Rustams Begovs (F)</a>
-                                    </span>
-                                </td>
-                                <td class="season"> 2020-2021 </td>
-                                <td> Zemgale </td>
-                                <td>
-                                    <i><img src="//files.eliteprospects.com/layout/flags_s/11.png"></i>
-                                    <span class="txt-normal">
-                                        Latvia
-                                    </span>
-                                </td>
-                                <td class="gp"> 6 </td>
-                                <td class="g"> 7 </td>
-                                <td class="a"> 6 </td>
-                                <td class="tp sorted"> 13 </td>
-                                <td class="pim"> 4 </td>
-                            </tr>
-                                                    <tr>
-                                <td class="position"> 7. </td>
                                 <td>
                                     <i> <img src="//files.eliteprospects.com/layout/flags_s/36.png"> </i>
                                     <span class="txt-blue">
@@ -3216,33 +3102,143 @@
                                         Belarus
                                     </span>
                                 </td>
-                                <td class="gp"> 11 </td>
-                                <td class="g"> 6 </td>
-                                <td class="a"> 7 </td>
-                                <td class="tp sorted"> 13 </td>
+                                <td class="gp"> 16 </td>
+                                <td class="g"> 9 </td>
+                                <td class="a"> 12 </td>
+                                <td class="tp sorted"> 21 </td>
                                 <td class="pim"> 4 </td>
                             </tr>
                                                     <tr>
-                                <td class="position"> 8. </td>
+                                <td class="position"> 3. </td>
                                 <td>
-                                    <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
+                                    <i> <img src="//files.eliteprospects.com/layout/flags_s/11.png"> </i>
                                     <span class="txt-blue">
-                                        <a href="https://www.eliteprospects.com/player/211956/vladimir-tkachyov">Vladimir Tkachyov (F)</a>
+                                        <a href="https://www.eliteprospects.com/player/54802/nikolajs-jelisejevs">Nikolajs Jelisejevs (F)</a>
                                     </span>
                                 </td>
                                 <td class="season"> 2020-2021 </td>
-                                <td> SKA St. Petersburg </td>
+                                <td> Olimp Riga </td>
+                                <td>
+                                    <i><img src="//files.eliteprospects.com/layout/flags_s/11.png"></i>
+                                    <span class="txt-normal">
+                                        Latvia
+                                    </span>
+                                </td>
+                                <td class="gp"> 11 </td>
+                                <td class="g"> 9 </td>
+                                <td class="a"> 10 </td>
+                                <td class="tp sorted"> 19 </td>
+                                <td class="pim"> 4 </td>
+                            </tr>
+                                                    <tr>
+                                <td class="position"> 4. </td>
+                                <td>
+                                    <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
+                                    <span class="txt-blue">
+                                        <a href="https://www.eliteprospects.com/player/213807/kirill-pilipenko">Kirill Pilipenko (F)</a>
+                                    </span>
+                                </td>
+                                <td class="season"> 2020-2021 </td>
+                                <td> Yugra Khanty-Mansiysk </td>
+                                <td>
+                                    <i><img src="//files.eliteprospects.com/layout/flags_s/9.png"></i>
+                                    <span class="txt-normal">
+                                        VHL
+                                    </span>
+                                </td>
+                                <td class="gp"> 14 </td>
+                                <td class="g"> 6 </td>
+                                <td class="a"> 13 </td>
+                                <td class="tp sorted"> 19 </td>
+                                <td class="pim"> 2 </td>
+                            </tr>
+                                                    <tr>
+                                <td class="position"> 5. </td>
+                                <td>
+                                    <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
+                                    <span class="txt-blue">
+                                        <a href="https://www.eliteprospects.com/player/108653/sergei-tolchinsky">Sergei Tolchinsky (F)</a>
+                                    </span>
+                                </td>
+                                <td class="season"> 2020-2021 </td>
+                                <td> Avangard Omsk </td>
                                 <td>
                                     <i><img src="//files.eliteprospects.com/layout/flags_s/9.png"></i>
                                     <span class="txt-normal">
                                         KHL
                                     </span>
                                 </td>
-                                <td class="gp"> 13 </td>
-                                <td class="g"> 6 </td>
-                                <td class="a"> 7 </td>
-                                <td class="tp sorted"> 13 </td>
-                                <td class="pim"> 6 </td>
+                                <td class="gp"> 16 </td>
+                                <td class="g"> 5 </td>
+                                <td class="a"> 14 </td>
+                                <td class="tp sorted"> 19 </td>
+                                <td class="pim"> 4 </td>
+                            </tr>
+                                                    <tr>
+                                <td class="position"> 6. </td>
+                                <td>
+                                    <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
+                                    <span class="txt-blue">
+                                        <a href="https://www.eliteprospects.com/player/124615/dmitri-sidlyarov">Dmitri Sidlyarov (F)</a>
+                                    </span>
+                                </td>
+                                <td class="season"> 2020-2021 </td>
+                                <td> Dynamo St. Petersburg </td>
+                                <td>
+                                    <i><img src="//files.eliteprospects.com/layout/flags_s/9.png"></i>
+                                    <span class="txt-normal">
+                                        VHL
+                                    </span>
+                                </td>
+                                <td class="gp"> 15 </td>
+                                <td class="g"> 5 </td>
+                                <td class="a"> 13 </td>
+                                <td class="tp sorted"> 18 </td>
+                                <td class="pim"> 8 </td>
+                            </tr>
+                                                    <tr>
+                                <td class="position"> 7. </td>
+                                <td>
+                                    <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
+                                    <span class="txt-blue">
+                                        <a href="https://www.eliteprospects.com/player/105664/mikhail-mokin">Mikhail Mokin (F)</a>
+                                    </span>
+                                </td>
+                                <td class="season"> 2020-2021 </td>
+                                <td> Neftyanik Almetievsk </td>
+                                <td>
+                                    <i><img src="//files.eliteprospects.com/layout/flags_s/9.png"></i>
+                                    <span class="txt-normal">
+                                        VHL
+                                    </span>
+                                </td>
+                                <td class="gp"> 14 </td>
+                                <td class="g"> 8 </td>
+                                <td class="a"> 9 </td>
+                                <td class="tp sorted"> 17 </td>
+                                <td class="pim"> 0 </td>
+                            </tr>
+                                                    <tr>
+                                <td class="position"> 8. </td>
+                                <td>
+                                    <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
+                                    <span class="txt-blue">
+                                        <a href="https://www.eliteprospects.com/player/11865/dmitri-kugryshev">Dmitri Kugryshev (F)</a>
+                                    </span>
+                                </td>
+                                <td class="season"> 2020-2021 </td>
+                                <td> Salavat Yulaev Ufa </td>
+                                <td>
+                                    <i><img src="//files.eliteprospects.com/layout/flags_s/9.png"></i>
+                                    <span class="txt-normal">
+                                        KHL
+                                    </span>
+                                </td>
+                                <td class="gp"> 20 </td>
+                                <td class="g"> 5 </td>
+                                <td class="a"> 12 </td>
+                                <td class="tp sorted"> 17 </td>
+                                <td class="pim"> 31 </td>
                             </tr>
                                                     <tr>
                                 <td class="position"> 9. </td>
@@ -3260,10 +3256,10 @@
                                         NMHL
                                     </span>
                                 </td>
-                                <td class="gp"> 5 </td>
-                                <td class="g"> 3 </td>
-                                <td class="a"> 10 </td>
-                                <td class="tp sorted"> 13 </td>
+                                <td class="gp"> 8 </td>
+                                <td class="g"> 4 </td>
+                                <td class="a"> 13 </td>
+                                <td class="tp sorted"> 17 </td>
                                 <td class="pim"> 2 </td>
                             </tr>
                                                     <tr>
@@ -3271,7 +3267,7 @@
                                 <td>
                                     <i> <img src="//files.eliteprospects.com/layout/flags_s/9.png"> </i>
                                     <span class="txt-blue">
-                                        <a href="https://www.eliteprospects.com/player/105664/mikhail-mokin">Mikhail Mokin (F)</a>
+                                        <a href="https://www.eliteprospects.com/player/67796/yaroslav-alshevsky">Yaroslav Alshevsky (F)</a>
                                     </span>
                                 </td>
                                 <td class="season"> 2020-2021 </td>
@@ -3282,11 +3278,11 @@
                                         VHL
                                     </span>
                                 </td>
-                                <td class="gp"> 9 </td>
-                                <td class="g"> 5 </td>
-                                <td class="a"> 7 </td>
-                                <td class="tp sorted"> 12 </td>
-                                <td class="pim"> 0 </td>
+                                <td class="gp"> 15 </td>
+                                <td class="g"> 8 </td>
+                                <td class="a"> 8 </td>
+                                <td class="tp sorted"> 16 </td>
+                                <td class="pim"> 14 </td>
                             </tr>
                                             </tbody>
                 </table>
@@ -4565,7 +4561,7 @@
                             <a href="/league/liiga">Liiga</a>
                         </li>
                         <li>
-                            <a href="/league/nla">NLA</a>
+                            <a href="/league/nl">NL</a>
                         </li>
                     </ul>
                 </div>
@@ -4658,18 +4654,18 @@
             </div>
         </div>
     </footer>
-<script src="https://static.eliteprospects.com/js/jquery.min.js?v=2468"></script>
-            <script type="text/javascript" src="https://static.eliteprospects.com/js/na-ads.js?v=2468"></script>
-    <script src="https://static.eliteprospects.com/js/bootstrap.min.js?v=2468"></script>
-<script src="https://static.eliteprospects.com/js/bootstrap-select.js?v=2468"></script>
+<script src="https://static.eliteprospects.com/js/jquery.min.js?v=2488"></script>
+            <script type="text/javascript" src="https://static.eliteprospects.com/js/na-ads.js?v=2488"></script>
+    <script src="https://static.eliteprospects.com/js/bootstrap.min.js?v=2488"></script>
+<script src="https://static.eliteprospects.com/js/bootstrap-select.js?v=2488"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.3.2/rangeslider.min.js" integrity="sha256-vFhEtGnaQ2xB+yjBTSXxssthNcfdbzu+lmLYhCdp2Cc=" crossorigin="anonymous"></script>
-<script src="https://static.eliteprospects.com/js/jquery.toast.min.js?v=2468"></script>
+<script src="https://static.eliteprospects.com/js/jquery.toast.min.js?v=2488"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox.min.js" integrity="sha256-DiHJ7hbvMejsMyP76bpVWacb5HSHQ2sQlrJV8n7KEvA=" crossorigin="anonymous"></script>
                     <script src="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.1/cropper.min.js" integrity="sha256-+PQmsBomnsT/06XEdk7ibt/9We4DX+VKzJsw/+DCzc0=" crossorigin="anonymous"></script>
-<script src="https://static.eliteprospects.com/js/premium.js?v=2468"></script>
-<script src="https://static.eliteprospects.com/js/script.js?v=2468"></script>
-<script src="https://static.eliteprospects.com/js/app.js?v=2468"></script>
+<script src="https://static.eliteprospects.com/js/premium.js?v=2488"></script>
+<script src="https://static.eliteprospects.com/js/script.js?v=2488"></script>
+<script src="https://static.eliteprospects.com/js/app.js?v=2488"></script>
 <!-- Adform Tracking Code BEGIN -->
     <script type="text/javascript">
         window._adftrack = Array.isArray(window._adftrack) ? window._adftrack : (window._adftrack ? [window._adftrack] : []);
@@ -4701,7 +4697,7 @@
 <script>
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', function() {
-            navigator.serviceWorker.register('https://static.eliteprospects.com/sw.js?v=2468').then(function(registration) {
+            navigator.serviceWorker.register('https://static.eliteprospects.com/sw.js?v=2488').then(function(registration) {
                 // Registration was successful
                 console.log('ServiceWorker registration successful with scope: ', registration.scope);
             }, function(err) {

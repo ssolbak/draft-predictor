@@ -73,15 +73,15 @@ exports.get_team_goals_per_game = (player, done) => {
 
     async.eachSeries(stats, function(stat, cb) {
 
-        if(stat.team_key === 'TOT' || stat.team_key === '2 Teams' || stat.team_key === '3 Teams') return cb();
+        // if(stat.team_key === 'TOT' || stat.team_key === '2 Teams' || stat.team_key === '3 Teams') return cb();
         if(!stat.team_id) {
             if(!stat.team_name) return done(`get_team_goals_per_game - Missing field: team_name ${JSON.stringify(stat)}`);
             let result = get_team_data_for(stat.year_end, stat.team_league, stat.team_name);
             if(!result) return cb();
             stat.team_id = result.team_id;
             stat.team_name = result.team_name;
-            stat.team_url = `https://www.hockeydb.com/ihdb/stats/leagues/seasons/teams/${stat.team_id}${stat.year_end}.html`;
-            // console.log(`${stat.team_name} ${stat.year} mapped to ${stat.team_url}`);
+            stat.team_url = `https://www.eliteprospects.com/team/${stat.team_id}/${stat.team_key}/${stat.year_start}-${stat.year_end}?tab=stats`;
+            console.log(`${stat.team_name} ${stat.year} mapped to ${stat.team_url}`);
         }
 
         downloader.getTeamDataForStat(stat, stat.team_url, (err, result) => {
@@ -97,45 +97,32 @@ exports.get_team_goals_per_game = (player, done) => {
 
             let content = result.content;
 
-            let p = /<td[^>]*>Totals<\/td>\s<td><\/td>\s<td>([0-9]+)<\/td>\s<td>([0-9]+)<\/td>\s<td>([0-9]+)<\/td>\s<td>([0-9]+)<\/td>/;
-            let match = p.exec(content);
-            if(match && match.length === 5) {
-                stat.team_goals = parseInt(match[1]);
-                stat.team_assists = parseInt(match[2]);
-                stat.team_points = parseInt(match[3]);
-                stat.team_pims = parseInt(match[4]);
-            } else {
-                let p2 = /<td[^>]*>Totals<\/td>\s<td>([0-9]+)<\/td>\s<td>([0-9]+)<\/td>\s<td>([0-9]+)<\/td>\s<td>([0-9]+)<\/td>/;
-                match = p2.exec(content);
-                if(match && match.length === 5) {
-                    stat.team_goals = parseInt(match[1]);
-                    stat.team_assists = parseInt(match[2]);
-                    stat.team_points = parseInt(match[3]);
-                    stat.team_pims = parseInt(match[4]);
-                } else {
-                    // sometimes site doesnt have totals....
-                    let playerTeam = /<td[^>]*>([0-9]+)<\/td>\s?<td[^>]*>([0-9]+)<\/td>\s?<td[^>]*>([0-9]+)<\/td>\s?<td[^>]*>([0-9]+)<\/td>\s?<td[^>]*>([0-9]+)<\/td>\s?/g;
+            // need to include the plus/minus column to prevent matches below
+            let playerTeam = /<td class="gp">\s*([0-9]+)\s*<\/td>\s*<td class="g">\s*([0-9]+)\s*<\/td>\s*<td class="a">\s*([0-9]+)\s*<\/td>\s*<td class="tp sorted">\s*([0-9]+)\s*<\/td>\s*<td class="pim">\s*([0-9]+)\s*<\/td>\s*<td class="pm">\s*([0-9]+)\s*<\/td>/g;
 
-                    stat.team_goals = 0;
-                    stat.team_assists = 0;
-                    stat.team_points = 0;
-                    stat.team_pims = 0;
+            stat.team_goals = 0;
+            stat.team_assists = 0;
+            stat.team_points = 0;
+            stat.team_pims = 0;
 
-                    let matches;
-                    while((matches = playerTeam.exec(content)) !== null) {
-                        if(matches && matches.length > 4) {
-                            stat.team_goals += parseInt(matches[2]);
-                            stat.team_assists += parseInt(matches[3]);
-                            stat.team_points += parseInt(matches[4]);
-                            stat.team_pims += parseInt(matches[5]);
-                        }
+            let matches;
+            while((matches = playerTeam.exec(content)) !== null) {
+                if(matches && matches.length > 4) {
+                    if(stat.year_start === 2003) {
+                        console.log("match", parseInt(matches[1]), parseInt(matches[2]));
                     }
-
-                    if(stat.team_goals === 0) {
-                        return done(player.name + ' - could not get team stats from ' + stat.team_url);
-                    }
+                    stat.team_goals += parseInt(matches[2]);
+                    stat.team_assists += parseInt(matches[3]);
+                    stat.team_points += parseInt(matches[4]);
+                    stat.team_pims += parseInt(matches[5]);
                 }
             }
+
+            if(stat.team_goals === 0) {
+                return done(player.name + ' - could not get team stats from ' + stat.team_url);
+            }
+
+            console.log('stat.team_goals', stat.team_goals, 'in', `${stat.year_start}-${stat.year_end}`);
 
             let league_info = constants.leagues[stat.team_league.toUpperCase()];
             // in 2020 the season was cut short
@@ -170,27 +157,4 @@ exports.get_team_goals_per_game = (player, done) => {
     });
 };
 
-exports.aggregate_by_draft_year = (player, done) => {
 
-    let currentYear = player.draft_year - 2;
-
-    let keys = ['draft-1', 'draft', 'draft1', 'draft2', 'draft3', 'draft4', 'draft5'];
-
-    for(let i = 0; i < keys.length; i++) {
-
-        let key = keys[i];
-        let year = currentYear + '-' + (currentYear + 1).toString().substring(2);
-
-        let stats = _.filter(player.stats, (x) => x.year_key === year);
-
-        if(stats && stats.length) {
-            player[key] = stats;
-        } else {
-            player[key] = [];
-        }
-
-        currentYear++;
-    }
-
-    return done();
-};

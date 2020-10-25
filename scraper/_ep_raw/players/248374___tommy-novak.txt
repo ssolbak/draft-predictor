@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="refresh" content="0;url=https://www.eliteprospects.com/player/248374/thomas-novak" />
+
+        <title>Redirecting to https://www.eliteprospects.com/player/248374/thomas-novak</title>
+    </head>
+    <body>
+        Redirecting to <a href="https://www.eliteprospects.com/player/248374/thomas-novak">https://www.eliteprospects.com/player/248374/thomas-novak</a>.
+    </body>
+</html>
