@@ -1,12 +1,5 @@
 "use strict";
 
-const shl = {
-    name: 'SHL',
-    games_played: 52,
-    hockey_db_id: 239,
-    get_nhle_for : (year) => 0.58
-};
-
 // source of nhle is https://twitter.com/HockeyAbstract/status/866477120360402944
 module.exports = {
     last_season : 2020,
@@ -125,8 +118,13 @@ module.exports = {
             hockey_db_id: null,
             get_nhle_for : (year) => 0.54 // estimated, this league was lower quality than KHL
         },
-        'SweHL': shl,
-        'SHL': shl,
+        // 'SweHL': shl,
+        'SHL': {
+            name: 'SHL',
+            games_played: 52,
+            hockey_db_id: 239,
+            get_nhle_for: (year) => 0.58
+        },
         'USHL': {
             name: 'USHL',
             games_played: 26,
