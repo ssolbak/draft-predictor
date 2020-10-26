@@ -42,10 +42,9 @@ async.series([
         // add_player(6146, 'sidney-crosby');
         // add_player(77237, 'nikita-kucherov');
         // add_player(8792, 'jonathan-toews');
-        // add_player(4407, 'mario-kempe');
-        // add_player(9200, 'sasha-pokulok');
+        // add_player(1284, 'daniel-larsson');
 
-        //todo J20 SuperElite, USHS-Prep
+        //todo J20 SuperElite, USHS-Prep, USDP
 
         return cb();
     },

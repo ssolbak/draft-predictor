@@ -203,10 +203,16 @@ exports.get_player_info = (player, done) => {
                         }
                         if(!stat.games_played) {
                             // If a player is on a roster but doesnt play (ie on LTIR) this happens (its ok)
-                            console.log(`Info: Invalid stats (no games played) for ${player.name} ${stat.year_key}`);
+                            // console.log(`Info: Invalid stats (no games played) for ${player.name} ${stat.year_key}`);
                             return;
                         }
-                        player.stats.push(stat);
+
+                        let league_info = constants.leagues[stat.team_league.toUpperCase()];
+                        if(league_info) {
+                            stat.points_adjusted = stat.points * league_info.get_nhle_for(stat.year_end, stat.team_name);
+                            player.stats.push(stat);
+                        }
+
                     });
 
                     let leagues = _.map(_.keys(constants.leagues), x => x.toLowerCase());
@@ -241,7 +247,7 @@ exports.get_player_info = (player, done) => {
                 },
                 (cb) => {
                     csv_formatter.format(player, (err) => {
-                        console.log('draft-team_league', player.csv_info['draft-team_league']);
+                        // console.log('draft-team_league', player.csv_info['draft-team_league']);
                         return cb(err);
                     });
                 }

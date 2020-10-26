@@ -172,7 +172,7 @@ exports.get_player_info = (player, done) => {
                         });
 
                         let league_info = constants.leagues[stat.team_league.toUpperCase()];
-                        if(league_info) stat.points_adjusted = stat.points * league_info.get_nhle_for(stat.year_end);
+                        if(league_info) stat.points_adjusted = stat.points * league_info.get_nhle_for(stat.year_end, stat.team_name);
 
                         player.stats.push(stat);
                     });
