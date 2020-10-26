@@ -27,22 +27,25 @@ async.series([
             };
         };
 
-        // _.each(fs.readdirSync(path.join(__dirname, base_dir)), (file) => {
-        //
-        //     let item = file.replace('.txt', '');
-        //     let items = _.compact(item.split('___'));
-        //
-        //     if(items.length !== 2) {
-        //         console.log("COULD NOT MATCH", file);
-        //     }
-        //
-        //     add_player(items[0], items[1]);
-        // });
+        _.each(fs.readdirSync(path.join(__dirname, base_dir)), (file) => {
+
+            let item = file.replace('.txt', '');
+            let items = _.compact(item.split('___'));
+
+            if(items.length !== 2) {
+                console.log("COULD NOT MATCH", file);
+            }
+
+            add_player(items[0], items[1]);
+        });
 
         // add_player(6146, 'sidney-crosby');
         // add_player(77237, 'nikita-kucherov');
         // add_player(8792, 'jonathan-toews');
-        add_player(4407, 'mario-kempe');
+        // add_player(4407, 'mario-kempe');
+        // add_player(9200, 'sasha-pokulok');
+
+        //todo J20 SuperElite, USHS-Prep
 
         return cb();
     },

@@ -103,7 +103,7 @@ exports.get_team_goals_per_game = (player, done) => {
             let content = result.content;
 
             // need to include the plus/minus column to prevent matches below
-            let playerTeam = /<td class="gp">\s*([0-9]+)\s*<\/td>\s*<td class="g">\s*([0-9]+)\s*<\/td>\s*<td class="a">\s*([0-9]+)\s*<\/td>\s*<td class="tp sorted">\s*([0-9]+)\s*<\/td>\s*<td class="pim">\s*([0-9]+)\s*<\/td>\s*<td class="pm">\s*([-0-9]+)\s*<\/td>/g;
+            let playerTeam = /<td class="gp">\s*([0-9]+)\s*<\/td>\s*<td class="g">\s*([0-9]+)\s*<\/td>\s*<td class="a">\s*([0-9]+)\s*<\/td>\s*<td class="tp sorted">\s*([0-9]+)\s*<\/td>\s*<td class="pim">\s*([0-9]+)\s*<\/td>\s*<td class="pm">\s*([-0-9]*)\s*<\/td>/g;
 
             let matches;
             while((matches = playerTeam.exec(content)) !== null) {
@@ -121,12 +121,10 @@ exports.get_team_goals_per_game = (player, done) => {
 
             let league_info = constants.leagues[stat.team_league.toUpperCase()];
             // in 2020 the season was cut short
-            if(stat.year_end !== 2020 && league_info && league_info.games_played) {
+            if(stat.year_end < constants.last_season && league_info && league_info.games_played) {
                 stat.team_goals_per_game = stat.team_goals / league_info.games_played;
                 stat.ipp = stat.points / (stat.team_goals_per_game * stat.games_played);
             } else {
-
-                let playerTeam = /<td[^>]*>([0-9]+)<\/td>\s?<td[^>]*>([0-9]+)<\/td>\s?<td[^>]*>([0-9]+)<\/td>\s?<td[^>]*>([0-9]+)<\/td>\s?<td[^>]*>([0-9]+)<\/td>\s?/g;
 
                 let maxGP = 0;
                 let matches;

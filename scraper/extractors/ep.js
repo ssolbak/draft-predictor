@@ -196,7 +196,7 @@ exports.get_player_info = (player, done) => {
                             }
                         });
                         stat.points_adjusted = stat.points;
-                        if(stat.year_key === '2020-2021') return;
+                        if(stat.year_key === utils.year_key(constants.last_season, constants.last_season+1)) return;
                         if(!stat.year_key) {
                             console.log(`Invalid stats (missing year key) for ${player.name}`);
                             return;
@@ -211,7 +211,7 @@ exports.get_player_info = (player, done) => {
 
                     let leagues = _.map(_.keys(constants.leagues), x => x.toLowerCase());
                     player.stats = _.filter(player.stats, x => {
-                        return !!~leagues.indexOf(x.team_league.toLowerCase()) && x.year_start >= 2003 && x.year_start < 2020;
+                        return !!~leagues.indexOf(x.team_league.toLowerCase()) && x.year_start >= 2003 && x.year_start < constants.last_season;
                     });
                     // console.log('other stats', JSON.stringify(player.stats.filter(x => x.team_league !== 'NHL'), null, 2));
                     return cb();
@@ -241,7 +241,7 @@ exports.get_player_info = (player, done) => {
                 },
                 (cb) => {
                     csv_formatter.format(player, (err) => {
-                        console.log('draft-team_league', player['draft-team_league']);
+                        console.log('draft-team_league', player.csv_info['draft-team_league']);
                         return cb(err);
                     });
                 }

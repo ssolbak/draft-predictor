@@ -2,6 +2,7 @@
 
 // source of nhle is https://twitter.com/HockeyAbstract/status/866477120360402944
 module.exports = {
+    last_season : 2020,
     leagues: {
         'OHL': {
             name: 'OHL',
