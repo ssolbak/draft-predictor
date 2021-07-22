@@ -10,6 +10,22 @@ module.exports = {
             hockey_db_id: 112,
             get_nhle_for : (year) => 0.47
         },
+        'CJHL': {
+            // claude giroux, central canada hockey league
+            name: 'CJHL',
+            games_played: 0,
+            hockey_db_id: null,
+            end_year: 2011,
+            get_nhle_for : (year) => 0.17  //estimated from dobber NHLe Calc
+        },
+        'CCHL': {
+            // claude giroux, central canada hockey league
+            name: 'CCHL',
+            games_played: 0,
+            hockey_db_id: null,
+            start_year: 2011,
+            get_nhle_for : (year) => 0.17  //estimated from dobber NHLe Calc
+        },
         'CZECH': {
             name: 'Czech',
             games_played: 0,
@@ -20,7 +36,13 @@ module.exports = {
             name: 'KHL',
             games_played: 68,
             hockey_db_id: null,
+            start_year: 2008,
             get_nhle_for : (year) => 0.74
+        },
+        'J20-SUPERELIT' : {
+            name: 'J20-SUPERELIT',
+            games_played: 0,
+            get_nhle_for : (year) => 0.14 //TODO
         },
         'NCAA': {
             name: 'NCAA',
@@ -111,13 +133,15 @@ module.exports = {
             hockey_db_id: 197,
             get_nhle_for : (year) => 0.25
         },
-        'RUSSIA': {
-            //became KHL in 2008
-            name: 'Russia',
-            games_played: 0,
-            hockey_db_id: null,
-            get_nhle_for : (year) => 0.54 // estimated, this league was lower quality than KHL
-        },
+        // TODO https://www.eliteprospects.com/league/russia/2006-2007 doesnt exist
+        // 'RUSSIA': {
+        //     //became KHL in 2008
+        //     name: 'Russia',
+        //     games_played: 0,
+        //     hockey_db_id: null,
+        //     end_year: 2008,
+        //     get_nhle_for : (year) => 0.54 // estimated, this league was lower quality than KHL
+        // },
         // 'SweHL': shl,
         'SHL': {
             name: 'SHL',
@@ -155,12 +179,25 @@ module.exports = {
         ep: {
             base_folder: '_ep_raw',
             get_team_filename : (team_id, team_name) => {
+
+                if(team_name === 'HC ČSOB Pojišťovna Pardubice') {
+                    return '159___hc-%C4%8Csob-poji%C5%A1%C5%A5ovna-pardubice.txt'; // lord
+                } else if(team_name === 'HC Slovan Ústečtí Lvi') {
+                    return '1451___hc-slovan-uste%c4%8dti-lvi.txt';
+                }
+
                 let team_key = team_name.toLowerCase()
                                          .replace(/ /g, "-")
                                         .replace(/\//g, "-")
                                         .replace(/'/g, "-")
+                                        .replace(/á/g, 'a')
                                         .replace(/å/g, 'a')
+                                        .replace(/ä/g, 'a')
+                                        .replace(/è/g, 'e')
                                         .replace(/é/g, 'e')
+                                        .replace(/í/g, 'i')
+                                        .replace(/ì/g, 'i')
+                                        .replace(/ö/g, 'o')
                                         .replace(/[,.\(\))]+/g, "");
                 return `${team_id}___${team_key}.txt`;
             }

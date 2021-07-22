@@ -26,7 +26,7 @@ module.exports = (years, options, done) => {
             ep.downloadLeagues({
                 years,
                 leagues : _.keys(constants.leagues)
-                // leagues: ['shl']
+                //leagues: ['cchl','cjhl','J20-SUPERELIT']
             }, options, cb)
         },
         (cb) => {

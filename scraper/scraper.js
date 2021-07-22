@@ -14,7 +14,7 @@ npm install
 node app.js > ~/scraper-log.txt &
 
 players only for a year
-node app.js -y 2007 > ~/scraper-log.txt &
+node scraper.js -y 2007 > ~/scraper-log.txt &
 
  */
 
@@ -30,7 +30,7 @@ const argv = require('yargs')
     .argv;
 
 const start_year = 2003;
-const end_year = 2019;
+const end_year = 2020;
 const import_options = { skip_leagues: false };
 
 let years = [];

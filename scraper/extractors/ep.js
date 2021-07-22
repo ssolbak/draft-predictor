@@ -112,6 +112,7 @@ exports.get_player_info = (player, done) => {
                     if(!matches || matches.length < 5) return cb('could not determine draft info for ' + player.key);
 
                     player.is_defence = _.intersection(['D', 'LD', 'RD'], player.positions).length > 0;
+                    player.is_goaltender = _.intersection(['G'], player.positions).length > 0;
                     player.draft_year = parseInt(matches[1]);
                     if(player.draft_year < 2005) {
                         return shortout();
@@ -134,6 +135,8 @@ exports.get_player_info = (player, done) => {
 
                 },
                 (cb) => {
+
+                    if(player.is_goaltender) return done();
 
                     // console.log(JSON.stringify(player, null, 2));
                     // console.log('\ngetting nhl stats');

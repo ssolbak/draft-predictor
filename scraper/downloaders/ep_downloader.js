@@ -121,17 +121,34 @@ class EpDownloader {
                 fs.mkdirSync(path.join(__dirname, league_folder));
             }
 
+            console.log("downloading league -", league_key);
+            let league_info = constants.leagues[league_key.toUpperCase()];
+
             async.eachSeries(years, (year, cb) => {
 
                 const season_key = `${year}-${year+1}`;
                 console.log("Season", season_key);
+
+                if(league_info.end_year) {
+                    if(year <= league_info.end_year) {
+                        console.log(`No ${league} season in ${season_key} (end year)`);
+                        return cb();
+                    }
+                } else if(league_info.start_year) {
+                    if(year < league_info.start_year) {
+                        console.log(`No ${league} season in ${season_key} (start year)`);
+                        return cb();
+                    }
+                }
 
                 let league_year_folder = `../${BASE_FOLDER}/teams/${league_key}/${season_key}`;
                 if(!fs.existsSync(path.join(__dirname, league_year_folder))) {
                     fs.mkdirSync(path.join(__dirname, league_year_folder));
                 }
 
-                downloader.download(`https://www.eliteprospects.com/league/${league_key}/${season_key}`, {
+                let league_url = `https://www.eliteprospects.com/league/${league_key}/${season_key}`;
+                console.log(league_url)
+                downloader.download(league_url, {
                     force: options.force,
                     folder: league_year_folder,
                     name: `_standings.txt`
