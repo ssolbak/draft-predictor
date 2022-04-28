@@ -6,7 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "async": "2.6.0",
+    "async": "2.6.4",
     "lodash": "4.17.13",
     "csv-parse": "2.0.2",
     "csv-stringify": "2.0.2",
